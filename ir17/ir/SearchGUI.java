@@ -277,7 +277,7 @@ public class SearchGUI extends JFrame
       public void actionPerformed(ActionEvent e)
       {
         resultWindow.setText("\n  Saving index...");
-        indexer.index.cleanup();
+        indexer.index.saveAndQuit();
         System.exit(0);
       }
     };
@@ -288,6 +288,8 @@ public class SearchGUI extends JFrame
     {
       public void actionPerformed(ActionEvent e)
       {
+        resultWindow.setText("\n  Cleaning up index...");
+        indexer.index.cleanup();
         System.exit(0);
       }
     };
@@ -388,19 +390,28 @@ public class SearchGUI extends JFrame
    */
   private void index()
   {
-    indexer = new Indexer(patterns_file, dirNames);
-    dirNames = indexer.index.getUnindexedDirectories();
-    synchronized (indexLock)
+    indexer = new Indexer(patterns_file);
+    // dirNames = indexer.index.getUnindexedDirectories();
+
+
+    /// Mappings file exists->directory already indexed
+    File f = new File("index/mappings");
+    if(f.exists() && !f.isDirectory()) {
+      resultWindow.setText("\n  Directory already indexed!!! ");
+    }
+    else
     {
-      resultWindow.setText("\n  Indexing unindexed directories, please wait...");
-      for (int i = 0; i < dirNames.size(); i++)
+      synchronized (indexLock)
       {
-        File dokDir = new File(dirNames.get(i));
-        indexer.processFiles(dokDir);
+        resultWindow.setText("\n  Indexing, please wait...");
+        for (int i = 0; i < dirNames.size(); i++)
+        {
+          File dokDir = new File(dirNames.get(i));
+          indexer.processFiles(dokDir);
+        }
+        // indexer.index.cleanup();
+        resultWindow.setText("\n  Done!");
       }
-      indexer.index.cleanup();
-      System.out.print(indexer.index.getSize());
-      resultWindow.setText("\n  Done!");
     }
   };
 

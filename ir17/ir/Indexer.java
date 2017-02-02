@@ -40,10 +40,10 @@ public class Indexer
 
 
   /** Constructor */
-  public Indexer(String patterns_file, LinkedList<String> directories)
+  public Indexer(String patterns_file)
   {
     this.patterns_file = patterns_file;
-    this.index = new HashedIndex(directories);
+    this.index = new HashedIndex();
   }
 
 

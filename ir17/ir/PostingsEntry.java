@@ -14,12 +14,11 @@ import java.io.Serializable;
 public class PostingsEntry implements Comparable<PostingsEntry>, Serializable
 {
 
-    public int docID;
-    // public int offset;
     /// Make offset a list, so that one document gets the same
     /// postingsEntry for several occurrences
     public LinkedList<Integer> offsets = new LinkedList<Integer>();
     public double score;
+    public int docID;
 
     /**
      * Contructor:
