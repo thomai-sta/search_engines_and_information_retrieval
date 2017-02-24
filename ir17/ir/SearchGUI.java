@@ -10,6 +10,16 @@
 
 package ir;
 
+import java.util.Set;
+import java.util.HashMap;
+import java.io.FileOutputStream;
+import java.io.FileInputStream;
+import java.io.OutputStream;
+import java.io.ObjectOutputStream;
+import java.io.ObjectInputStream;
+import java.io.IOException;
+import java.io.FileNotFoundException;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.BufferedReader;
@@ -28,6 +38,8 @@ import java.util.Iterator;
 */
 public class SearchGUI extends JFrame
 {
+
+  String FOLDER = "index";
 
   /**  The indexer creating the search index. */
   Indexer indexer;
@@ -277,7 +289,27 @@ public class SearchGUI extends JFrame
       public void actionPerformed(ActionEvent e)
       {
         resultWindow.setText("\n  Saving index...");
+        /// Saving mappings file
         indexer.index.saveAndQuit();
+        /// Save docIDs
+        String filename = FOLDER + "/docIDs";
+        try
+        {
+          FileOutputStream fout = new FileOutputStream(filename);
+          ObjectOutputStream oos = new ObjectOutputStream(fout);
+          oos.writeObject(indexer.index.docIDs);
+          oos.close();
+          fout.close();
+        }
+        catch (FileNotFoundException er)
+        {
+          System.err.println("File " + filename + " not found");
+        }
+        catch (IOException er)
+        {
+          System.err.println("Error initializing stream");
+        }
+
         System.exit(0);
       }
     };
@@ -391,13 +423,38 @@ public class SearchGUI extends JFrame
   private void index()
   {
     indexer = new Indexer(patterns_file);
-    // dirNames = indexer.index.getUnindexedDirectories();
-
-
     /// Mappings file exists->directory already indexed
-    File f = new File("index/mappings");
+    File f = new File(FOLDER + "/mappings");
     if(f.exists() && !f.isDirectory()) {
       resultWindow.setText("\n  Directory already indexed!!! ");
+      /// Read docIDs
+      File f1 = new File(FOLDER + "/mappings");
+      // File f1 = new File("index/docIDs");
+      if(f1.exists() && !f1.isDirectory())
+      {
+        String filename = FOLDER + "/docIDs";
+        /// READ IN docIDs OF FILES
+        try
+        {
+          FileInputStream fin = new FileInputStream(filename);
+          ObjectInputStream ois = new ObjectInputStream(fin);
+
+          HashMap<String, String> temp = (HashMap<String, String>) ois.readObject();
+
+          Set<String> docIds = temp.keySet();
+          for (String docID : docIds)
+          {
+            indexer.index.docIDs.put(docID, temp.get(docID));
+          }
+          ois.close();
+          fin.close();
+        }
+        catch (Exception ex)
+        {
+          ex.printStackTrace();
+        }
+      }
+
     }
     else
     {

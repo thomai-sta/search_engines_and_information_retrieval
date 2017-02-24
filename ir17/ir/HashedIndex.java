@@ -14,6 +14,7 @@ import java.util.LinkedList;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
+import java.util.Scanner;
 import java.io.FileOutputStream;
 import java.io.FileInputStream;
 import java.io.OutputStream;
@@ -22,6 +23,9 @@ import java.io.ObjectInputStream;
 import java.io.IOException;
 import java.io.FileNotFoundException;
 import java.io.File;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 
 
 
@@ -35,8 +39,8 @@ public class HashedIndex implements Index
   /** The index as a hashtable. */
   private HashMap<String, PostingsList> index = new HashMap<String, PostingsList>();
 
-  private int index_limit = 2000; /** max number of tokens to keep in memory */
-  private int file_limit = 500;
+  private int index_limit = 30000; /** max number of tokens to keep in memory */
+  private int file_limit = 150;
   private HashMap<String, String> mappings = new HashMap<String, String>();
   private String FOLDER = "index/";
   private int file_counter = -1; /// No. of the last not-full file
@@ -45,12 +49,13 @@ public class HashedIndex implements Index
 
   public HashedIndex()
   {
-    File f = new File("index/mappings");
+    File f = new File(FOLDER + "/mappings");
+    // File f = new File("index/mappings");
     if(f.exists() && !f.isDirectory())
     {
-      String filename = "index/mappings";
+      String filename = FOLDER + "/mappings";
+      // String filename = "index/mappings";
       /// READ IN MAPPINGS OF FILES
-      HashMap<String, String> list = new HashMap<String, String>();
       try
       {
         FileInputStream fin = new FileInputStream(filename);
@@ -58,6 +63,7 @@ public class HashedIndex implements Index
         mappings = (HashMap<String, String>) ois.readObject();
         ois.close();
         fin.close();
+        System.out.println(mappings.size() + " tokens indexed");
       }
       catch (Exception ex)
       {
@@ -101,7 +107,7 @@ public class HashedIndex implements Index
 
     if (index.size() == index_limit)
     {
-      updateBinaryFiles();
+      updateFiles();
     }
   }
 
@@ -135,12 +141,23 @@ public class HashedIndex implements Index
     /// First check that the tokens are contained in the dataset
     Iterator<String> queryIteratorCheck = query.terms.listIterator(0);
 
+    if (index.size() >= index_limit)
+    {
+      System.out.println("CLEARING INDEX!");
+      index = new HashMap<String, PostingsList>();
+    }
+
     while (queryIteratorCheck.hasNext())
     {
-      if (!index.containsKey(queryIteratorCheck.next()))
+      String tok = queryIteratorCheck.next();
+      if (!mappings.containsKey(tok))
       {
         System.err.println("ONE OR MORE TERMS DON'T EXIST IN THE DICTIONARY!!!\nRETYPE AND SEARCH AGAIN!");
         return resDocIDPostings;
+      }
+      else
+      {
+        readFromFile(mappings.get(tok));
       }
     }
 
@@ -161,16 +178,23 @@ public class HashedIndex implements Index
     }
     else if (queryType == Index.PHRASE_QUERY)
     {
+      System.out.println("PHRASE_QUERY");
       /// ======================= PHRASE QUERY =================================
       /// Return all documents in which ALL of the tokens exist
       Iterator<String> queryIterator = query.terms.listIterator(0);
-      resDocIDPostings = getPostings(queryIterator.next());
-
+      String token = queryIterator.next();
+      resDocIDPostings = getPostings(token);
+      System.out.println("token: " + token + ", List size: " + resDocIDPostings.size());
+      int k = 1;
       while(queryIterator.hasNext())
       {
-        PostingsList new_list = getPostings(queryIterator.next());
+        token = queryIterator.next();
+        PostingsList new_list = getPostings(token);
 
-        resDocIDPostings = instersect_phrase_lists(resDocIDPostings, new_list);
+        // resDocIDPostings = instersect_phrase_lists(resDocIDPostings, new_list);
+        resDocIDPostings = positionalIntersect(resDocIDPostings, new_list, k);
+        k += 1;
+        System.out.println("token: " + token + ", List size: " + resDocIDPostings.size());
       }
       /// ======================================================================
     }
@@ -214,6 +238,65 @@ public class HashedIndex implements Index
     return list;
   }
 
+  public PostingsList positionalIntersect(PostingsList p1, PostingsList p2,
+                                          int k)
+  {
+    PostingsList result = new PostingsList();
+
+    /// Convert PostingsLists to linkedLists for fast iteration
+    Set<Integer> p1_set = p1.keySet();
+    LinkedList<Integer> p1_linked = new LinkedList<Integer>();
+    p1_linked.addAll(p1_set);
+    java.util.Collections.sort(p1_linked);
+
+    Set<Integer> p2_set = p2.keySet();
+    LinkedList<Integer> p2_linked = new LinkedList<Integer>();
+    p2_linked.addAll(p2_set);
+    java.util.Collections.sort(p2_linked);
+
+    while(!p1_linked.isEmpty() && !p2_linked.isEmpty())
+    {
+      if (p1_linked.getFirst().equals(p2_linked.getFirst()))
+      {
+        /// Common doc. Check offsets
+        LinkedList<Integer> offsets1 = p1.get(p1_linked.getFirst()).offsets;
+        java.util.Collections.sort(offsets1);
+        LinkedList<Integer> offsets2 = p2.get(p2_linked.getFirst()).offsets;
+        java.util.Collections.sort(offsets2);
+
+        while(!offsets1.isEmpty() && !offsets2.isEmpty())
+        {
+          if (offsets2.getFirst().equals(offsets1.getFirst() + k))
+          {
+            result.put(p1_linked.getFirst(), p1.get(p1_linked.getFirst()));
+            break;
+          }
+          else if (offsets2.getFirst() > offsets1.getFirst() + k)
+          {
+            offsets1.removeFirst();
+          }
+          else
+          {
+            offsets2.removeFirst();
+          }
+        }
+
+        p1_linked.removeFirst();
+        p2_linked.removeFirst();
+      }
+      else if (p1_linked.getFirst() > p2_linked.getFirst())
+      {
+        p2_linked.removeFirst();
+      }
+      else
+      {
+        p1_linked.removeFirst();
+      }
+    }
+
+    return result;
+  }
+
 
   public PostingsList instersect_phrase_lists(PostingsList list_a,
                                               PostingsList list_b)
@@ -246,6 +329,7 @@ public class HashedIndex implements Index
 
         while(!offsets_a.isEmpty() && !offsets_b.isEmpty())
         {
+          // System.out.println("Comparing offset " + offsets_a.getFirst() + " and offset " + offsets_b.getFirst());
           if (offsets_b.getFirst().equals(offsets_a.getFirst() + 1))
           {
             list.put(list_b_linked.getFirst(),
@@ -300,7 +384,8 @@ public class HashedIndex implements Index
   /** Save mappings file (in case of "SAVE & QUIT") */
   public void saveAndQuit()
   {
-    String filename = "mappings";
+    // String filename = "index/mappings";
+    String filename = FOLDER + "/mappings";
     try
     {
       FileOutputStream fout = new FileOutputStream(filename);
@@ -323,62 +408,25 @@ public class HashedIndex implements Index
    *  When the index's token surpass the limit, the index is distributed into
    *  binary files and cleared
    */
-  public void updateBinaryFiles()
+  public void updateFiles()
   {
     Set<String> tokens = index.keySet();
     for (String token : tokens)
     {
       if (mappings.containsKey(token))
       {
-        /// Token is saved in one of the files. Read and update it's index
-        HashMap<String, PostingsList> saved_index =
-                new HashMap<String, PostingsList>();
         /// Make filename
         String filename;
-        filename = String.format(FOLDER + mappings.get(token));
-        /// Read saved index
-        saved_index = readFromFile(filename);
-
-
-        /// We need to go over all the docIDs of the current postings list
-        /// and the saved one.
-        PostingsList new_list = getPostings(token);
-        PostingsList saved_list = saved_index.get(token);
-
-        for (int docID : new_list.keySet())
-        {
-          if (saved_list.containsKey(docID))
-          {
-            /// Document already there, update offsets
-            PostingsEntry new_entry = saved_list.get(docID);
-            for (int offset : new_list.get(docID).offsets)
-            {
-              new_entry.offsets.add(offset);
-            }
-            saved_list.put(docID, new_entry);
-          }
-          else
-          {
-            saved_list.put(docID, new_list.get(docID));
-          }
-        }
-
-        /// Add token to index
-        saved_index.put(token, saved_list);
-
-        writeToFile(saved_index, filename);
-
+        filename = String.format(mappings.get(token));
+        writeToFile(token, getPostings(token), filename);
       }
       else
       {
-        System.out.println("File token counter: " + file_token_counter + " file counter: " + file_counter);
         /// New token. Write it in file
-        /// Make hashmap to write to file
-        HashMap<String, PostingsList> index_to_write =
-        new HashMap<String, PostingsList>();
         String filename;
-        if (file_token_counter == file_limit)
+        if (file_token_counter >= file_limit)
         {
+          // System.out.println("file counter: " + file_counter);
           /// File is full. Make new one
           file_counter++;
           file_token_counter = 0;
@@ -389,59 +437,148 @@ public class HashedIndex implements Index
         {
           /// Make filename
           filename = String.format(FOLDER + "index_" + file_counter);
-          /// Read saved index
-          index_to_write = readFromFile(filename);
         }
-        /// Add token to index
-        index_to_write.put(token, getPostings(token));
+        writeToFile(token, getPostings(token), filename);
 
-        writeToFile(index_to_write, filename);
         /// Update mappings
         mappings.put(token, filename);
+
+        file_token_counter++;
       }
-      file_token_counter++;
     }
-    index.clear();
+    System.out.println("CLEARING INDEX!");
+    index = new HashMap<String, PostingsList>();
   }
 
 
   /** Reads object from given file */
-  public HashMap<String, PostingsList> readFromFile(String filename)
+  public void readFromFile(String filename)
   {
-    HashMap<String, PostingsList> list = new HashMap<String, PostingsList>();
+    Scanner sc = null;
     try
     {
-      FileInputStream fin = new FileInputStream(filename);
-      ObjectInputStream ois = new ObjectInputStream(fin);
-      list = (HashMap<String, PostingsList>) ois.readObject();
-      ois.close();
-      fin.close();
-    }
-    catch (Exception ex)
-    {
-      ex.printStackTrace();
-    }
-    return list;
-  }
-
-  /** Writes given list to the given file */
-  public void writeToFile(HashMap<String, PostingsList> list, String filename)
-  {
-    try
-    {
-      FileOutputStream fout = new FileOutputStream(filename);
-      ObjectOutputStream oos = new ObjectOutputStream(fout);
-      oos.writeObject(list);
-      oos.close();
-      fout.close();
+      sc = new Scanner(new File(filename));
     }
     catch (FileNotFoundException e)
     {
-      System.err.println("File " + filename + " not found");
+      e.printStackTrace();
+    }
+
+    String token = new String();
+    int docID = -1;
+
+    while (sc.hasNextLine())
+    {
+
+      String line = sc.nextLine();
+      String[] words = line.split("\\s");
+
+      if (words[0].equals("token"))
+      {
+        token = words[1];
+      }
+      else if (words[0].equals("docID"))
+      {
+        docID = Integer.parseInt(words[1]);
+      }
+      else
+      {
+        for (int i = 0; i < words.length; i++)
+        {
+          int offset = Integer.parseInt(words[i]);
+          /// Like inserting token, docID and offset
+          if (index.containsKey(token))
+          {
+            /// Token exists in index
+            /// We need to check if the docID exists and update it
+            PostingsList list = getPostings(token);
+            if (list.containsKey(docID))
+            {
+              /// Document already there, update offsets
+              PostingsEntry new_entry = list.get(docID);
+              new_entry.offsets.add(offset);
+
+              list.put(docID, new_entry);
+            }
+            else
+            {
+              PostingsEntry new_entry = new PostingsEntry(docID, offset);
+              list.put(docID, new_entry);
+            }
+
+            /// Add token to index
+            index.put(token, list);
+          }
+          else
+          {
+            /// Token doesn't exist in index
+            PostingsEntry new_entry = new PostingsEntry(docID, offset);
+            PostingsList new_list = new PostingsList();
+            new_list.put(docID, new_entry);
+            index.put(token, new_list);;
+          }
+        }
+      }
+
+    }
+  }
+
+  /** Writes given list to the given file */
+  public void writeToFile(String token, PostingsList list, String filename)
+  {
+    BufferedWriter bw = null;
+    FileWriter fw = null;
+
+    try
+    {
+      String data = " This is new content";
+      File file = new File(filename);
+
+      // if file doesnt exists, then create it
+      if (!file.exists()) {
+        file.createNewFile();
+      }
+
+      // true = append file
+      fw = new FileWriter(file.getAbsoluteFile(), true);
+      bw = new BufferedWriter(fw);
+
+      bw.write("token " + token + "\n");
+      // For all DocIDs
+      for (int docID : list.keySet())
+      {
+        bw.write("docID " + docID + "\n");
+        LinkedList<Integer> offsets = list.get(docID).offsets;
+        for (int i = 0; i < offsets.size(); i++)
+        {
+          bw.write(offsets.get(i) + " ");
+        }
+        bw.write("\n");
+      }
     }
     catch (IOException e)
     {
-      System.err.println("Error initializing stream");
+      e.printStackTrace();
+    }
+    finally
+    {
+      try
+      {
+        if (bw != null)
+        {
+          bw.close();
+        }
+
+        if (fw != null)
+        {
+          fw.close();
+        }
+
+      }
+      catch (IOException ex)
+      {
+        ex.printStackTrace();
+      }
     }
   }
 

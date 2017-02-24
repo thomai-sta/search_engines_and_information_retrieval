@@ -29,8 +29,8 @@ public class PostingsEntry implements Comparable<PostingsEntry>, Serializable
      */
     public PostingsEntry(int docID, int offset)
     {
-        this.docID = docID;
-        offsets.add(offset);
+      this.docID = docID;
+      offsets.add(offset);
     }
 
     /**
@@ -42,7 +42,7 @@ public class PostingsEntry implements Comparable<PostingsEntry>, Serializable
     */
     public int compareTo(PostingsEntry other)
     {
-        return Double.compare(other.score, score);
+      return Double.compare(other.score, score);
     }
 
     //

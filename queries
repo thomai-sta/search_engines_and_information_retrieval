@@ -1,0 +1,9 @@
+  local vegan bakery
+
+I get 16 matching documents using intersection search, and 1 document ("Vegan.f") using phrase search.
+
+  that is your right
+
+I get 1693 matching documents using intersection search, and 2 matching documents using phrase search (Jonathan_Soo_Hoo.f and TravisMartin.f).
+
+
