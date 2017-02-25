@@ -26,6 +26,7 @@ import java.io.File;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
+import java.lang.*;
 
 
 
@@ -34,8 +35,6 @@ import java.io.FileWriter;
 */
 public class HashedIndex implements Index
 {
-  /** We save the index into files while indexing. */
-
   /** The index as a hashtable. */
   private HashMap<String, PostingsList> index = new HashMap<String, PostingsList>();
 
@@ -50,11 +49,9 @@ public class HashedIndex implements Index
   public HashedIndex()
   {
     File f = new File(FOLDER + "/mappings");
-    // File f = new File("index/mappings");
     if(f.exists() && !f.isDirectory())
     {
       String filename = FOLDER + "/mappings";
-      // String filename = "index/mappings";
       /// READ IN MAPPINGS OF FILES
       try
       {
@@ -72,64 +69,9 @@ public class HashedIndex implements Index
     }
   }
 
-
-  /**
-  *  Inserts this token in the index.
-  */
-  public void insert(String token, int docID, int offset)
-  {
-    if (!index.containsKey(token))
-    {
-      /// New token, create postings list
-      PostingsEntry new_entry = new PostingsEntry(docID, offset);
-      PostingsList new_list = new PostingsList();
-      new_list.put(docID, new_entry);
-      index.put(token, new_list);
-    }
-    else
-    {
-      /// Token exists, update
-      PostingsList list = getPostings(token);
-      if (list.containsKey(docID))
-      {
-        /// Document already there, update offsets
-        PostingsEntry new_entry = list.get(docID);
-        new_entry.offsets.add(offset);
-        list.put(docID, new_entry);
-      }
-      else
-      {
-        PostingsEntry new_entry = new PostingsEntry(docID, offset);
-        list.put(docID, new_entry);
-      }
-      index.put(token, list);
-    }
-
-    if (index.size() == index_limit)
-    {
-      updateFiles();
-    }
-  }
-
-
-  /**
-  *  Returns all the words in the index.
-  */
-  public Iterator<String> getDictionary()
-  {
-    return index.keySet().iterator();
-  }
-
-
-  /**
-  *  Returns the postings for a specific term, or null
-  *  if the term is not in the index.
-  */
-  public PostingsList getPostings(String token)
-  {
-    return index.get(token);
-  }
-
+  /// **************************************************************************
+  /// **                              SEARCHING                               **
+  /// **************************************************************************
 
   /**
   *  Searches the index for postings matching the query.
@@ -143,7 +85,6 @@ public class HashedIndex implements Index
 
     if (index.size() >= index_limit)
     {
-      System.out.println("CLEARING INDEX!");
       index = new HashMap<String, PostingsList>();
     }
 
@@ -178,28 +119,97 @@ public class HashedIndex implements Index
     }
     else if (queryType == Index.PHRASE_QUERY)
     {
-      System.out.println("PHRASE_QUERY");
       /// ======================= PHRASE QUERY =================================
       /// Return all documents in which ALL of the tokens exist
       Iterator<String> queryIterator = query.terms.listIterator(0);
       String token = queryIterator.next();
       resDocIDPostings = getPostings(token);
-      System.out.println("token: " + token + ", List size: " + resDocIDPostings.size());
+
       int k = 1;
       while(queryIterator.hasNext())
       {
         token = queryIterator.next();
         PostingsList new_list = getPostings(token);
 
-        // resDocIDPostings = instersect_phrase_lists(resDocIDPostings, new_list);
         resDocIDPostings = positionalIntersect(resDocIDPostings, new_list, k);
         k += 1;
-        System.out.println("token: " + token + ", List size: " + resDocIDPostings.size());
       }
+      /// ======================================================================
+    }
+    else if (queryType == Index.RANKED_QUERY)
+    {
+      /// ======================= RANKED QUERY =================================
+      /// Return all documents in which at least one token exists
+      Iterator<String> queryIterator = query.terms.listIterator(0);
+      String token = queryIterator.next();
+      resDocIDPostings = getPostings(token);
+
+      while(queryIterator.hasNext())
+      {
+        token = queryIterator.next();
+        PostingsList new_list = getPostings(token);
+
+        resDocIDPostings = mergeLists(resDocIDPostings, new_list);
+      }
+
+      resDocIDPostings.sort();
+
       /// ======================================================================
     }
     return resDocIDPostings;
   }
+
+
+  public PostingsList mergeLists(PostingsList list_a, PostingsList list_b)
+  {
+    PostingsList new_list = new PostingsList();
+    Set<Integer> docs_a = list_a.keySet();
+
+    for (int doc : docs_a)
+    {
+      if (list_b.containsKey(doc))
+      {
+        /// Merge, add to new list and remove.
+        PostingsEntry new_entry = list_b.get(doc);
+        new_entry.score = new_entry.score + list_a.get(doc).score;
+        new_list.put(doc, new_entry);
+        list_b.remove(doc);
+      }
+      else
+      {
+        /// Add list_a to new list
+        PostingsEntry new_entry = list_a.get(doc);
+        new_list.put(doc, new_entry);
+      }
+    }
+    /// The remaining entries of list_b (if any), are added to the new list
+    Set<Integer> docs_b = list_b.keySet();
+    for (int doc : docs_b)
+    {
+      /// Add list_b to new list
+      PostingsEntry new_entry = list_b.get(doc);
+      new_list.put(doc, new_entry);
+    }
+
+    return new_list;
+  }
+
+
+  public PostingsList calculateTF_IDF(PostingsList list)
+  {
+    Double n = (double) docIDs.size(); // Number of docs in corpus
+    Set<Integer> docs = list.keySet();
+    Double df = (double) list.size();
+    double idf = Math.log(n / df);
+    for (Integer doc : docs)
+    {
+      PostingsEntry entry = list.get(doc);
+      entry.score = entry.score * idf;
+    }
+
+    return list;
+  }
+
 
   public PostingsList instersect_lists(PostingsList list_a, PostingsList list_b)
   {
@@ -298,68 +308,62 @@ public class HashedIndex implements Index
   }
 
 
-  public PostingsList instersect_phrase_lists(PostingsList list_a,
-                                              PostingsList list_b)
+  /// **************************************************************************
+  /// **                        INDEXING AND LOGISTICS                        **
+  /// **************************************************************************
+
+  /**
+  *  Inserts this token in the index.
+  */
+  public void insert(String token, int docID, int offset)
   {
-    /// Convert PostingsLists to linkedLists for fast iteration
-    Set<Integer> list_a_set = list_a.keySet();
-    LinkedList<Integer> list_a_linked = new LinkedList<Integer>();
-    list_a_linked.addAll(list_a_set);
-    java.util.Collections.sort(list_a_linked);
-
-    Set<Integer> list_b_set = list_b.keySet();
-    LinkedList<Integer> list_b_linked = new LinkedList<Integer>();
-    list_b_linked.addAll(list_b_set);
-    java.util.Collections.sort(list_b_linked);
-
-
-    PostingsList list = new PostingsList();
-
-    while(!list_a_linked.isEmpty() && !list_b_linked.isEmpty())
+    if (!index.containsKey(token))
     {
-      if (list_a_linked.getFirst().equals(list_b_linked.getFirst()))
+      /// New token, create postings list
+      PostingsEntry new_entry = new PostingsEntry(docID, offset);
+      PostingsList new_list = new PostingsList();
+      new_list.put(docID, new_entry);
+      index.put(token, new_list);
+    }
+    else
+    {
+      /// Token exists, update
+      PostingsList list = getPostings(token);
+      if (list.containsKey(docID))
       {
-        /// Common doc. Check offsets
-        LinkedList<Integer> offsets_a =
-          list_a.get(list_a_linked.getFirst()).offsets;
-        java.util.Collections.sort(offsets_a);
-        LinkedList<Integer> offsets_b =
-          list_b.get(list_b_linked.getFirst()).offsets;
-        java.util.Collections.sort(offsets_b);
-
-        while(!offsets_a.isEmpty() && !offsets_b.isEmpty())
-        {
-          // System.out.println("Comparing offset " + offsets_a.getFirst() + " and offset " + offsets_b.getFirst());
-          if (offsets_b.getFirst().equals(offsets_a.getFirst() + 1))
-          {
-            list.put(list_b_linked.getFirst(),
-             list_b.get(list_b_linked.getFirst()));
-            break;
-          }
-          else if (offsets_b.getFirst() > offsets_a.getFirst() + 1)
-          {
-            offsets_a.removeFirst();
-          }
-          else
-          {
-            offsets_b.removeFirst();
-          }
-        }
-
-        list_a_linked.removeFirst();
-        list_b_linked.removeFirst();
-      }
-      else if (list_a_linked.getFirst() > list_b_linked.getFirst())
-      {
-        list_b_linked.removeFirst();
+        /// Document already there, update offsets
+        PostingsEntry new_entry = list.get(docID);
+        new_entry.offsets.add(offset);
+        list.put(docID, new_entry);
       }
       else
       {
-        list_a_linked.removeFirst();
+        PostingsEntry new_entry = new PostingsEntry(docID, offset);
+        list.put(docID, new_entry);
       }
+      index.put(token, list);
     }
-    return list;
   }
+
+
+  /**
+  *  Returns all the words in the index.
+  */
+  public Iterator<String> getDictionary()
+  {
+    return index.keySet().iterator();
+  }
+
+
+  /**
+  *  Returns the postings for a specific term, or null
+  *  if the term is not in the index.
+  */
+  public PostingsList getPostings(String token)
+  {
+    return index.get(token);
+  }
+
 
   /**
   *  No need for cleanup in a HashedIndex.
@@ -381,7 +385,10 @@ public class HashedIndex implements Index
     }
   }
 
-  /** Save mappings file (in case of "SAVE & QUIT") */
+
+  /**
+   * Save mappings file (in case of "SAVE AND QUIT")
+   */
   public void saveAndQuit()
   {
     // String filename = "index/mappings";
@@ -405,7 +412,29 @@ public class HashedIndex implements Index
   }
 
   /**
-   *  When the index's token surpass the limit, the index is distributed into
+   * Calculates scores of the indexed terms = tf / len_doc
+   * NO IDF!!!!!
+   */
+  public void calculateScores()
+  {
+    Set<String> tokens = index.keySet();
+    for (String token : tokens)
+    {
+      PostingsList list = getPostings(token);
+      Set<Integer> docIds = list.keySet();
+      for (Integer doc : docIds)
+      {
+        PostingsEntry entry = list.get(doc);
+        entry.score = (double) entry.offsets.size() / (double) docLengths.get("" + doc);
+        list.put(doc, entry);
+        index.put(token, list);
+      }
+    }
+  }
+
+
+  /**
+   *  When a whole document has been indexed, the index is distributed into
    *  binary files and cleared
    */
   public void updateFiles()
@@ -446,7 +475,7 @@ public class HashedIndex implements Index
         file_token_counter++;
       }
     }
-    System.out.println("CLEARING INDEX!");
+    // System.out.println("CLEARING INDEX!");
     index = new HashMap<String, PostingsList>();
   }
 
@@ -466,6 +495,7 @@ public class HashedIndex implements Index
 
     String token = new String();
     int docID = -1;
+    double score = -1.0;
 
     while (sc.hasNextLine())
     {
@@ -480,6 +510,10 @@ public class HashedIndex implements Index
       else if (words[0].equals("docID"))
       {
         docID = Integer.parseInt(words[1]);
+      }
+      else if (words[0].equals("score"))
+      {
+        score = Double.parseDouble(words[1]);
       }
       else
       {
@@ -503,6 +537,7 @@ public class HashedIndex implements Index
             else
             {
               PostingsEntry new_entry = new PostingsEntry(docID, offset);
+              new_entry.score = score;
               list.put(docID, new_entry);
             }
 
@@ -548,6 +583,7 @@ public class HashedIndex implements Index
       for (int docID : list.keySet())
       {
         bw.write("docID " + docID + "\n");
+        bw.write("score " + list.get(docID).score + "\n");
         LinkedList<Integer> offsets = list.get(docID).offsets;
         for (int i = 0; i < offsets.size(); i++)
         {

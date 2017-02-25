@@ -1,560 +1,732 @@
-token 00:19:28
-docID 10064
+token 35.04.080
+docID 9906
+score 0.003676470588235294
+198 
+token samenotice
+docID 9906
+score 0.003676470588235294
+199 
+token 35.03.020
+docID 9906
+score 0.003676470588235294
+129 
+token 35.02.050
+docID 9906
+score 0.003676470588235294
+102 
+token 35.01.040
+docID 9906
+score 0.003676470588235294
+70 
+token 35.04.070
+docID 9906
+score 0.003676470588235294
+196 
+token 35.03.050
+docID 9906
+score 0.003676470588235294
+142 
+token 35.02.020
+docID 9906
+score 0.003676470588235294
+90 
+token 35.01.050
+docID 9906
+score 0.003676470588235294
+73 
+token 35.04.060
+docID 9906
+score 0.003676470588235294
+194 
+token samedistance
+docID 9906
+score 0.003676470588235294
+105 
+token 35.03.040
+docID 9906
+score 0.003676470588235294
+138 
+token 35.02.030
+docID 9906
+score 0.003676470588235294
+93 
+token samelocation
+docID 9906
+score 0.003676470588235294
+103 
+token excavations
+docID 9906
+score 0.003676470588235294
+124 
+token 35.03.070
+docID 9906
+score 0.003676470588235294
+149 
+token prohibitedfines
+docID 9906
+score 0.003676470588235294
+271 
+token 35.02.010
+docID 9906
+score 0.003676470588235294
+85 
+token 35.03.060
+docID 9906
+score 0.003676470588235294
+147 
+token 35.05.010
+docID 9906
+score 0.003676470588235294
+233 
+token 35.03.090
+docID 9906
+score 0.003676470588235294
+162 
+token permitrequired
+docID 9906
+score 0.003676470588235294
+183 
+token 35.02.0
+docID 9906
+score 0.003676470588235294
 79 
-token facily
-docID 10555
-2977 
-token 02:26:49
-docID 10457
-59 
-token 00:19:38
-docID 10314
-280 
-token http://stickwiththebeat.bandcamp.com/
-docID 10091
-535 
-token 13:01:50
-docID 9994
-1816 
-token 00:19:06
-docID 10431
-2666 
+token http://www.city.davis.ca.us/cmo/citycode/chapter.cfm?chapter35
+docID 9906
+score 0.003676470588235294
+8 
+token samesending
+docID 9906
+score 0.003676470588235294
+205 
+token 35.03.080
+docID 9906
+score 0.003676470588235294
+156 
+token 35.03.0
+docID 9906
+score 0.003676470588235294
+123 
+token 35.04.010
+docID 9906
+score 0.003676470588235294
+180 
+token 35.06.020
+docID 9906
+score 0.003676470588235294
+266 
+token 35.06.0
+docID 9906
+score 0.003676470588235294
+257 
+token 35.04.150
+docID 9906
+score 0.003676470588235294
+222 
+token 35.05.040
+docID 9906
+score 0.003676470588235294
+250 
+token sameapron
+docID 9906
+score 0.003676470588235294
+108 
+token 35.04.140
+docID 9906
+score 0.003676470588235294
+218 
+token samesametime
+docID 9906
+score 0.003676470588235294
+188 
+token 35.05.020
+docID 9906
+score 0.003676470588235294
+237 
+token revenueestablishment
+docID 9906
+score 0.003676470588235294
+253 
+token drivewayslimitation
+docID 9906
+score 0.003676470588235294
+97 
+token 35.04.160
+docID 9906
+score 0.003676470588235294
+225 
+token 35.05.030
+docID 9906
+score 0.003676470588235294
+247 
+token 35.02.090
+docID 9906
+score 0.003676470588235294
+116 
+token 35.04.050
+docID 9906
+score 0.003676470588235294
+191 
+token 35.04.110
+docID 9906
+score 0.003676470588235294
+211 
+token 35.02.080
+docID 9906
+score 0.003676470588235294
+109 
+token 35.04.040
+docID 9906
+score 0.003676470588235294
+187 
+token 35.04.100
+docID 9906
+score 0.003676470588235294
+204 
+token 35.02.070
+docID 9906
+score 0.003676470588235294
+107 
+token 35.03.110
+docID 9906
+score 0.003676470588235294
+174 
+token 35.04.030
+docID 9906
+score 0.003676470588235294
+185 
+token 35.03.010
+docID 9906
+score 0.003676470588235294
+125 
+token 35.01.010
+docID 9906
+score 0.003676470588235294
+52 
+token 35.04.130
+docID 9906
+score 0.003676470588235294
+216 
+token 35.01.0
+docID 9906
+score 0.003676470588235294
+49 
 token samesamelate
 docID 9906
+score 0.003676470588235294
 192 
-token tfus
-docID 9746
-5484 5522 
-token 00:19:14
-docID 9983
-424 
-token crosscommunity
-docID 10446
-197 
-token coniglionot
-docID 10506
-781 
-token doublehonk
-docID 10066
-674 
-token sawyers
-docID 10212
-624 665 
-token cedeptula@ucdavis.edu
-docID 9918
-237 
-token permitissuancefiling
-docID 10413
-85 
-token 13:08:40
-docID 9934
-46 
-token nondiscript
-docID 9844
-171 
-token https://vimeo.com/50945061
-docID 10091
-577 
-token changeofmajor
-docID 10493
-268 
-token analogyextend
-docID 10385
-2591 
-token smashes
-docID 10206
-575 
-token 00:41:44
-docID 9799
-2860 
-token 200723
-docID 10453
-485 676 
-token http://watchyourdrink.com/order.htm
-docID 9864
-156 
-token angs
-docID 10437
-137 
-token keane
-docID 9862
-1333 
-token accoustic
-docID 10156
-2760 
-token 20121215
-docID 9837
-1810 
-token leckuchners
-docID 10399
-1241 
-token 23:03:44
-docID 9722
-1170 
-token http://www.usecu.org/home/mem/ref
-docID 10492
+token 35.06.010
+docID 9906
+score 0.003676470588235294
+262 
+token 35.02.060
+docID 9906
+score 0.003676470588235294
+104 
+token samesamecontents
+docID 9906
+score 0.003676470588235294
+195 
+token 35.04.020
+docID 9906
+score 0.003676470588235294
+182 
+token 35.03.100
+docID 9906
+score 0.003676470588235294
+168 
+token 35.05.0
+docID 9906
+score 0.003676470588235294
+230 
+token 35.04.0
+docID 9906
+score 0.003676470588235294
+178 
+token 35.04.120
+docID 9906
+score 0.003676470588235294
+213 
+token treads
+docID 9907
+score 0.006211180124223602
+88 
+token 11:52:46
+docID 9908
+score 3.2829940906106366E-4
+2468 
+token withgreat
+docID 9908
+score 3.2829940906106366E-4
+1866 
+token 5307566666
+docID 9908
+score 3.2829940906106366E-4
+1236 
+token 21:20:22
+docID 9908
+score 3.2829940906106366E-4
+1969 
+token mais
+docID 9908
+score 3.2829940906106366E-4
+1952 
+token dayit
+docID 9908
+score 3.2829940906106366E-4
+1835 
+token 7566666
+docID 9908
+score 3.2829940906106366E-4
+1183 
+token redish
+docID 9908
+score 3.2829940906106366E-4
+2314 
+token torresv
+docID 9908
+score 3.2829940906106366E-4
+2242 
+token loubob
+docID 9908
+score 3.2829940906106366E-4
+1822 
+token 21:29:59
+docID 9908
+score 3.2829940906106366E-4
+401 
+token 12:00:10
+docID 9908
+score 3.2829940906106366E-4
+1824 
+token personalizes
+docID 9908
+score 3.2829940906106366E-4
 869 
-token 14:45:13
-docID 10132
-9102 
-token rutted
-docID 10481
-170 
-token lander
-docID 10019
-475 
-token 16:08:51
-docID 9996
-2595 
-token panipuri
-docID 10183
-2136 
-token mogul
-docID 10137
-1341 
+token 15:25:22
+docID 9908
+score 3.2829940906106366E-4
+1704 
+token mashelly
+docID 9908
+score 3.2829940906106366E-4
+1626 
+token vanessai
+docID 9908
+score 3.2829940906106366E-4
+1920 
+token julee
+docID 9908
+score 0.0016414970453053185
+1587 1624 1636 1690 1803 
+token 13:55:47
+docID 9908
+score 3.2829940906106366E-4
+1530 
+token amelianeedham
+docID 9908
+score 3.2829940906106366E-4
+2031 
+token 7536409
+docID 9908
+score 3.2829940906106366E-4
+1162 
+token 18:09:43
+docID 9908
+score 3.2829940906106366E-4
+2033 
+token overbleaching
+docID 9908
+score 3.2829940906106366E-4
+2054 
 token cowlicks
 docID 9908
+score 3.2829940906106366E-4
 2426 
-token cortisol
-docID 9727
-72 
-token doozers
-docID 9698
-132 133 
-token 1798
-docID 9848
-65 
-token http://www.youtube.com/watch?vc6thcznzzg4
-docID 10137
-1369 
 token 16:51:37
 docID 9908
+score 3.2829940906106366E-4
 2646 
-docID 10556
-19 
-token dcdc
-docID 9937
-133 
-token spellcheck
-docID 10412
-163 
-docID 9888
-1091 
-token prewedding
-docID 10231
-21 
-token venita
-docID 10518
-65 107 235 
-token greenwald2000
-docID 10318
-238 
-token waikiki
-docID 9896
-328 
-token 23:37:43
-docID 10442
-1954 
-token collabitorium
-docID 9698
-94 
-token http://www.weedmaps.com
-docID 10262
-143 
-token frenchpress
-docID 9960
-284 
-token naturallyit
-docID 10417
-27 
-token narcs
-docID 10406
-109 
-token dispstringformer
-docID 10379
+token hapinen
+docID 9908
+score 3.2829940906106366E-4
+3045 
+token hairkeep
+docID 9908
+score 3.2829940906106366E-4
+1927 
+token musicmade
+docID 9908
+score 3.2829940906106366E-4
+1875 
+token laydown
+docID 9908
+score 3.2829940906106366E-4
+262 
+token customizes
+docID 9908
+score 3.2829940906106366E-4
+2277 
+token 15:17:32
+docID 9908
+score 3.2829940906106366E-4
+1570 
+token 14:17:47
+docID 9908
+score 3.2829940906106366E-4
+764 
+token brunet
+docID 9908
+score 3.2829940906106366E-4
+2236 
+token 15:31:18
+docID 9908
+score 3.2829940906106366E-4
+1023 
+token dermatologica
+docID 9908
+score 3.2829940906106366E-4
+1857 
+token bluedevilchu
+docID 9908
+score 3.2829940906106366E-4
+1702 
+token 14:09:38
+docID 9908
+score 3.2829940906106366E-4
+1773 
+token galshe
+docID 9908
+score 3.2829940906106366E-4
+1897 
+token http://tccucd.wordpress.com/practicetimes/.
+docID 9909
+score 0.0020491803278688526
+360 
+token tuishou
+docID 9909
+score 0.0020491803278688526
+95 
+token abreviation
+docID 9909
+score 0.0020491803278688526
+22 
+token broadsword
+docID 9909
+score 0.0020491803278688526
+116 
+token khim
+docID 9909
+score 0.0020491803278688526
+123 
+token bunchgrasses
+docID 9912
+score 0.0035971223021582736
 65 
-token outhud
-docID 10442
-437 
-docID 9982
-175 
-token thik
-docID 10379
-256 
-token ibew
-docID 10273
-1155 
-token t.o.p.
-docID 10453
-720 
-token 172s
-docID 10303
-86 
-token ibin
-docID 10224
-46 
-token toothfish
-docID 9882
-120 122 
-token microradio
-docID 9801
-844 897 
-token dcgp
-docID 10456
-301 
-token http://campwisdom.bandcamp.com/
-docID 10091
-956 
-token bikerepairs
-docID 9866
-267 
-token 90mpbs
-docID 9746
-16389 
-token http://2007.recentchangescamp.org/caleb_phillips
-docID 9716
-66 
-token brianss
-docID 10425
-278 
-token 07:29:34
-docID 9719
-359 
-token edyap
-docID 10156
-662 
+token 7581387
+docID 9912
+score 0.0035971223021582736
+190 
+token qrwcs
+docID 9912
+score 0.0035971223021582736
+179 
+token nassella
+docID 9912
+score 0.0035971223021582736
+79 
+token pulchra
+docID 9912
+score 0.0035971223021582736
+80 
+token todayincluding
+docID 9912
+score 0.0035971223021582736
+70 
+token 2194477
+docID 9912
+score 0.0035971223021582736
+186 
+token needlegrass
+docID 9912
+score 0.0035971223021582736
+83 
+token laborers
+docID 9913
+score 0.008849557522123894
+24 
+token 19271993
+docID 9913
+score 0.008849557522123894
+2 
+token http://www.rotaryclubofdavis.com/pastpresidents.cfm
+docID 9916
+score 0.007874015748031496
+108 
+token http://www.rotaryclubofdavis.com/pastsecretaries.cfm
+docID 9916
+score 0.007874015748031496
+102 
+token beukelman
+docID 9918
+score 0.001610305958132045
+61 
+token datethe
+docID 9918
+score 0.001610305958132045
+88 
+token e.m.
+docID 9918
+score 0.001610305958132045
+69 
+token cedeptula@ucdavis.edu
+docID 9918
+score 0.001610305958132045
+237 
+token rottman
+docID 9918
+score 0.001610305958132045
+416 
+token amputeecan
+docID 9918
+score 0.001610305958132045
+90 
+token behjatnia
+docID 9918
+score 0.001610305958132045
+59 
+token personified
+docID 9918
+score 0.001610305958132045
+274 
+token phippsmassey
+docID 9918
+score 0.001610305958132045
+563 
+token constructionpaper
+docID 9918
+score 0.001610305958132045
+157 
+token obtainium
+docID 9918
+score 0.001610305958132045
+501 
+token crowl
+docID 9918
+score 0.00322061191626409
+70 72 
+token http://theaggie.org/writer/joshrottman.
+docID 9918
+score 0.001610305958132045
+468 
+token http://www.cognitiveliberty.org
+docID 9919
+score 0.019230769230769232
+27 
+token neuropolicy
+docID 9919
+score 0.019230769230769232
+41 
+token http://www.convictionfree.com
+docID 9919
+score 0.019230769230769232
+17 
+token http://www.specmind.com
+docID 9919
+score 0.019230769230769232
+42 
+token expungements
+docID 9919
+score 0.019230769230769232
+23 
+token http://registrar.ucdavis.edu/html/office_of_the_registrar_forms.html
+docID 9920
+score 0.009259259259259259
+70 
+token 09:37:15
+docID 9921
+score 0.006622516556291391
+70 
+token 21:01:24
+docID 9921
+score 0.006622516556291391
+29 
 token http://www.cityofdavis.org/pw/traffic/speedlimit.cfm
 docID 9922
+score 0.0016863406408094434
 205 
-token 17.24
-docID 10212
-1137 
-token messiahs
-docID 10500
-1737 
-token 02rda
-docID 10021
-555 
-token http://www.projectchildsafe.org/
-docID 10373
-91 
-token 1870s1880s
-docID 9874
-139 
-token denizon
-docID 9863
-374 
-token 1week
-docID 10073
-8502 
-token artemas
-docID 10091
-567 
-token slate1461316707
-docID 10506
-2345 
-token sepnov
-docID 10342
-806 
-token bulova
-docID 9775
-62 
-token wohhooooo
-docID 9746
-15054 
-token deepakelected
-docID 10506
-885 
-token dispite
-docID 9869
-1103 
-token duritz
-docID 10230
-5 83 133 215 
-token omnishop
-docID 9698
-288 
-token lichen
-docID 10091
-670 
-token http://www.dfg.ca.gov/
-docID 9830
-149 
-token http://www.zefrank.com/sandwich/tool.html
-docID 9882
-19 
-token 121.747917
-docID 10129
-24 
-token bodyworkers
-docID 10298
-13 
-token handtools
-docID 10212
-446 
-token 16:16:49
-docID 9746
-13872 
-token draught
-docID 10186
-494 
-token uggamugga
-docID 10091
-1454 
-token 21:31:49
-docID 10083
-753 
-token makerville
-docID 9698
-264 
-token bmoney
-docID 10198
-0 30 76 
-token livingroom
-docID 10158
-225 
-token davisgardenshow
-docID 10503
-91 
+token 48mph
+docID 9922
+score 0.0016863406408094434
+147 
+token zigzag
+docID 9922
+score 0.0016863406408094434
+556 
+token http://www.speedtrap.org/speedtraps/ste.asp?stateca&citydavis
+docID 9922
+score 0.0016863406408094434
+200 
+token 14mph
+docID 9922
+score 0.0016863406408094434
+486 
+token speedtraps
+docID 9922
+score 0.0016863406408094434
+193 
+token http://www.cityofdavis.org/pw/traffic/pdfs/posted_speed_over_25.pdf
+docID 9922
+score 0.0016863406408094434
+226 
+token 9mph
+docID 9922
+score 0.0016863406408094434
+483 
+token http://www.cityofdavis.org/pw/traffic/pdfs/speedweb.pdf
+docID 9922
+score 0.0016863406408094434
+213 
+token 20:49:28
+docID 9923
+score 0.006622516556291391
+126 
+token 09:39:49
+docID 9923
+score 0.006622516556291391
+1 
 token pricearc
 docID 9926
+score 0.035398230088495575
 0 13 35 70 
-token subjectspecific
-docID 10211
-90 
-token http://someleaves.bandcamp.com/
-docID 10091
-782 
-token glamourrestaurant
-docID 9799
-194 
-token lynnwillis
-docID 10132
-9217 
-token biketheft
-docID 9866
-882 
-token ania
-docID 10401
-237 290 
-token meiwu
-docID 10074
-459 
-token http://www.barbercosmo.ca.gov/.
-docID 9717
-196 
-token wallender
-docID 10493
-480 
-token iara
-docID 9871
-334 
-token 14:45:50
-docID 10009
-2133 
-token quadricyclist
-docID 10421
-249 
-token qbico
-docID 10442
-1041 1046 
-token carpenoctums
-docID 10491
-205 
-token 17:38:25
-docID 9938
-1995 
-token 14:45:45
-docID 10065
-638 
-token 4,440
-docID 10248
-260 
-token involvement1316589
-docID 10506
-2273 
-token transcription
-docID 10437
-209 
-docID 10372
-13 
-token muddier
-docID 10481
-542 
-token 20:03:21
-docID 9719
-2568 
-token skeeve
-docID 10433
-579 
-token jennymiller
-docID 10111
-1371 
-token n65415
-docID 10303
-81 
-token 20:03:12
-docID 10431
-4139 
-token 20:03:13
-docID 9875
-3718 
-token 20:03:14
-docID 10555
-1977 
-token regulators
-docID 10073
-4423 
-docID 10058
-1430 
-token 12:29:00
-docID 10490
-948 
-token 22,285
-docID 10472
-437 
-token specimine
-docID 9719
-201 
-token urllib
-docID 9938
-2471 
-token subodh
-docID 10555
-1584 
-token billh
-docID 9853
-1264 
-token framer
-docID 9943
-30 
-token nonriders
-docID 9866
-743 
-token foreclosures
-docID 10516
-606 
-token 09:56:03
-docID 9996
-1557 
-token http://www.hardwatermusic.com/
-docID 10213
-4 
-token martín
-docID 9875
-166 523 1490 
-token http://www.taylorsmarket.com/
-docID 10258
-250 
-token http://www.youtube.com/watch?v2ln9mnabshe
-docID 10442
-1083 
-token http://www.calipc.org
-docID 10417
-1409 
-token http://davis.areaconnect.com/crime1.htm
-docID 10132
-815 
-token amenitites
-docID 10465
-14 
+token personified
+docID 9958
+score 0.005434782608695652
+170 
+token phippsmassey
+docID 9967
+score 0.005263157894736842
+106 
+token permitrequired
+docID 10413
+score 0.004830917874396135
+76 
+token 16:51:37
+docID 10556
+score 0.005952380952380952
+19 
+token bunchgrasses
+docID 10576
+score 0.012048192771084338
+35 
+token laborers
+docID 10609
+score 0.0011560693641618498
+80 
 token cowlicks
 docID 11163
+score 3.770739064856712E-4
 2033 
-token ibin
-docID 11143
-25 29 134 158 
-token livingroom
-docID 10732
-1476 
-token lander
-docID 11483
-278 
-token regulators
-docID 11387
-447 
-token martín
-docID 11327
-1 23 453 
-token keane
-docID 12244
-118 
-token livingroom
-docID 12200
-4961 
-token martín
-docID 12119
-1639 
-token 23:37:43
-docID 13205
-479 
-token 1week
-docID 13528
-1013 
-token duritz
-docID 13290
-137 139 
-token 21:31:49
-docID 12874
-14 
-token bmoney
-docID 12964
-299 
-token livingroom
-docID 13302
-6780 
+token http://www.convictionfree.com
+docID 11298
+score 0.003676470588235294
+203 
+token 15:17:32
+docID 11458
+score 1.7053206002728513E-4
+5821 
+token customizes
+docID 11765
+score 0.001364256480218281
+462 
+token behjatnia
+docID 11815
+score 0.0010799136069114472
+247 
+token 21:20:22
+docID 11898
+score 0.014705882352941176
+19 
+token 13:55:47
+docID 12052
+score 1.7108639863130882E-4
+269 
+token 20:49:28
+docID 12643
+score 6.925207756232687E-4
+1142 
 token pricearc
 docID 13309
+score 4.488330341113106E-4
 2066 
-token transcription
-docID 13250
-2602 
-token 02:26:49
-docID 14019
-130 
-token ibin
-docID 13848
-1152 1155 1163 1194 1203 1210 1281 
-token dcgp
-docID 14009
-37 
-token http://www.dfg.ca.gov/
-docID 14184
-1658 
-token martín
-docID 14241
-70 381 
-docID 13748
-2 
-token 00:41:44
-docID 15015
-212 
-token toothfish
-docID 14434
-1627 1794 
-token messiahs
-docID 14679
-245 
-token 17:38:25
-docID 14869
-1 
-token mogul
-docID 15403
-710 
-token martín
-docID 15467
-111 
-token prewedding
-docID 15868
-299 
-token draught
-docID 16532
-466 1027 
-token muddier
-docID 16554
-2851 
-token regulators
-docID 16122
-30 
-docID 16383
-2475 
+token laborers
+docID 13702
+score 1.5610365282547612E-4
+1555 
+token 21:01:24
+docID 13725
+score 3.4614053305642093E-4
+2585 
+token tuishou
+docID 14149
+score 0.002531645569620253
+224 
+token zigzag
+docID 14160
+score 2.1602937999567941E-4
+226 
+token zigzag
+docID 14235
+score 0.0011210762331838565
+579 
+token laborers
+docID 14315
+score 0.0016339869281045752
+123 
+token laborers
+docID 14357
+score 0.0029069767441860465
+129 
+token 15:17:32
+docID 14467
+score 0.001272264631043257
+588 
+token laborers
+docID 14497
+score 6.711409395973154E-5
+9085 
+token crowl
+docID 15735
+score 0.023529411764705882
+1 8 
+token customizes
+docID 16310
+score 0.017543859649122806
+19 
+token beukelman
+docID 16331
+score 0.004424778761061947
+215 
+token 21:29:59
+docID 16333
+score 0.0012106537530266344
+504 
+token personalizes
+docID 16447
+score 1.6929067208396818E-4
+4087 
+token cowlicks
+docID 16702
+score 8.47457627118644E-4
+334 
+token 18:09:43
+docID 16863
+score 0.009259259259259259
+23 
+token broadsword
+docID 17116
+score 0.001564945226917058
+185 
+token torresv
+docID 17321
+score 0.004694835680751174
+140 

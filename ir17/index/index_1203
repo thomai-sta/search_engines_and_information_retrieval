@@ -1,482 +1,632 @@
-token hamptons
-docID 14413
-341 
-token http://www.davisglasses.com
-docID 14563
-429 
-token bezener
-docID 14413
-593 
-token corvids
-docID 14413
-202 
-token rmsanchez
-docID 14406
-3327 
-token 01:04:11
-docID 15018
-3518 
-token dredg
-docID 14681
-25 
-token feedbacks
-docID 14842
-1442 
-token denniswade
-docID 14488
-67 
-token wfa
-docID 14393
-3418 3707 
-token http://campusmap.ucdavis.edu/?b147
-docID 14694
-86 
-token weaverville
-docID 14372
-1108 1109 1127 1149 1159 
-token lessfortunate
-docID 14412
-653 
+token 8884538404
+docID 14968
+score 0.005128205128205128
+317 387 
+token http://www.mutualhousing.com
+docID 14968
+score 0.005128205128205128
+5 307 
+token commity
+docID 14968
+score 0.002564102564102564
+263 
+token http://www.mutualhousing.com/futurecommunities/springlake/
+docID 14968
+score 0.002564102564102564
+146 
+token mha
+docID 14968
+score 0.010256410256410256
+55 180 229 285 
+token 16:39:25
+docID 14970
+score 1.1798017932987259E-4
+6311 
+token ar2010040600742
+docID 14970
+score 1.1798017932987259E-4
+3020 
+token http://www.speedtest.net/
+docID 14970
+score 1.1798017932987259E-4
+3909 
+token 18.6
+docID 14970
+score 2.3596035865974517E-4
+3936 4003 
+token screamingly
+docID 14970
+score 1.1798017932987259E-4
+8238 
+token directtv
+docID 14970
+score 3.5394053798961777E-4
+4885 5683 5776 
+token yallhttp
+docID 14970
+score 1.1798017932987259E-4
+4914 
+token underengineered
+docID 14970
+score 1.1798017932987259E-4
+1568 
+token reallive
+docID 14970
+score 1.1798017932987259E-4
+6397 
+token mgbps
+docID 14970
+score 1.1798017932987259E-4
+7620 
+token 14:08:24
+docID 14970
+score 1.1798017932987259E-4
+5838 
+token 18mbit
+docID 14970
+score 1.1798017932987259E-4
+4155 
+token 54.99
+docID 14970
+score 1.1798017932987259E-4
+7465 
+token http://www.comcast.com/about/pressrelease/pressreleasedetail.ashx?prid152
+docID 14970
+score 1.1798017932987259E-4
+3048 
+token 139.99
+docID 14970
+score 1.1798017932987259E-4
+532 
+token gizmodos
+docID 14970
+score 1.1798017932987259E-4
+2213 
+token 121.90
+docID 14970
+score 1.1798017932987259E-4
+6613 
+token 21:36:32
+docID 14970
+score 1.1798017932987259E-4
+3762 
+token http://bandwidthplace.com/speedtest/,
+docID 14970
+score 1.1798017932987259E-4
+1974 
+token 700s
+docID 14970
+score 1.1798017932987259E-4
+3659 
+token instabilities
+docID 14970
+score 1.1798017932987259E-4
+1166 
+token http://cityofdavis.org/cs/cablefranchise/index.cfm
+docID 14970
+score 1.1798017932987259E-4
+74 
+token mcveigh
+docID 14970
+score 1.1798017932987259E-4
+4967 
+token ianal
+docID 14970
+score 1.1798017932987259E-4
+1549 
+token georgeaalvarez
+docID 14970
+score 1.1798017932987259E-4
+8475 
+token 15k20k
+docID 14970
+score 1.1798017932987259E-4
+6051 
+token janefitzsimmons
+docID 14970
+score 1.1798017932987259E-4
+7057 
+token http://kernel.org/pub/linux/kernel/v2.6/linux2.6.14.4.tar.bz2
+docID 14970
+score 1.1798017932987259E-4
+2118 
 token cobbles
 docID 14970
+score 1.1798017932987259E-4
 6454 
-token 5303706643
-docID 14361
-5459 
-token aggiepride89
-docID 15003
-2461 
-token clucks511
-docID 14405
-3504 
-token 844
-docID 14465
-3290 
-token isroot
-docID 14484
-107 
-token twobottleperday
-docID 14602
-5603 
-token 19:33:38
-docID 14562
-143 
-token wfr
-docID 14393
-3709 
-token nonclub
-docID 14841
-54 
-token wid
-docID 14859
-281 
-token 22:21:56
-docID 14465
-3527 
-token 86a
-docID 14519
-202 
-token ultracompact
-docID 14858
-767 
-token intimidatingespecially
-docID 14673
-1340 
-token tingwiki
-docID 14484
-128 
-token triweekly
-docID 14532
-5163 
-token brilliancecurrently
-docID 14651
-119 
-token pinger
-docID 14782
-113 
-token snowpup
-docID 14389
-2105 
-token 19972009
-docID 14883
-32 
-token 19972008
-docID 14883
-119 
-token http://en.wikipedia.org/wiki/mcdojo
-docID 14517
-1777 
-token 897
-docID 14981
-1349 
-token http://www.itdp.org/
-docID 14707
-153 
-token sixday
-docID 14393
-1568 
-token nopickup
-docID 14386
-1289 1385 
-token 18.90
-docID 14482
-685 
-token panzer
-docID 15018
-3035 
-token 15:20:38
-docID 14412
-2313 
-token 12:07:52
-docID 15003
-2463 
-token http://thebearkeys.bandcamp.com/
-docID 14569
-48 
-token 3139331
-docID 14487
-6 
-token 2410
-docID 14981
-1022 
-token http://theaidstrap.com/
-docID 14593
-178 
-token 5302204579
-docID 14361
-5025 
-token studentundergraduate
-docID 14794
-92 
-token 016a
-docID 14856
-57 75 
-token woof
-docID 14425
-66 
-token 2o11
-docID 14391
-652 
-token honestjane
-docID 14407
-7215 
-token 12:07:23
-docID 14561
-255 
-token 12:07:20
-docID 14520
-5938 
-token 21:30:03
-docID 14469
-692 
-token wonk
-docID 14454
-1675 
-docID 15046
-49 
-token chantel
-docID 14876
-3325 3419 3423 3561 3607 
-token http://registrar.ucdavis.edu/update/#pelp
-docID 14794
-75 
-token jbms
-docID 14844
-4902 
-token 4session
-docID 14393
-2109 
-token processoriented
-docID 14362
-18 
-token surveilance
-docID 14751
-113 
-token 10:09:57
-docID 15023
-363 
-token 2384
-docID 14981
-1041 
-token 2367
-docID 14981
-1054 
-token 干煸肉丝szechuan
-docID 14447
-133 
-token 21:30:48
-docID 14776
-538 
-token silty
-docID 14981
-576 596 604 630 697 771 815 848 856 864 878 952 1010 1019 1059 1132 1180 1236 1388 1396 1469 1478 1510 1546 
-token 18:17:28
-docID 14982
-8571 
-token couldnttellthepigsapart
-docID 14849
-2128 
-token 18:17:35
-docID 14407
-2424 
-token ryanbaldini
-docID 14766
-1553 
-token newsos
-docID 14903
-371 
+token 08:18:31
+docID 14970
+score 1.1798017932987259E-4
+5550 
+token 03:59:03
+docID 14970
+score 1.1798017932987259E-4
+8453 
+token 10:55:33
+docID 14970
+score 1.1798017932987259E-4
+5518 
+token 59.95
+docID 14970
+score 1.1798017932987259E-4
+5202 
+token 16:08:17
+docID 14970
+score 1.1798017932987259E-4
+4264 
+token denialofservice
+docID 14970
+score 1.1798017932987259E-4
+1418 
+token 00:14:00
+docID 14970
+score 1.1798017932987259E-4
+3188 
+token modemworks
+docID 14970
+score 1.1798017932987259E-4
+7092 
+token 21:24:48
+docID 14970
+score 1.1798017932987259E-4
+6020 
+token 00:07:14
+docID 14970
+score 1.1798017932987259E-4
+4930 
+token 01:40:19
+docID 14970
+score 1.1798017932987259E-4
+5138 
+token 114.99
+docID 14970
+score 1.1798017932987259E-4
+482 
+token http://news.yahoo.com/s/nm/20101009/media_nm/us_comcast_doj
+docID 14970
+score 1.1798017932987259E-4
+2998 
+token howtogetfreecomcastinternet
+docID 14970
+score 1.1798017932987259E-4
+4920 
+token smokeping
+docID 14970
+score 1.1798017932987259E-4
+2063 
+token http://www.360reports.com/p/co/comcast_corporation_litigation.html
+docID 14970
+score 1.1798017932987259E-4
+3072 
 token retransmission
 docID 14970
+score 1.1798017932987259E-4
 2974 
-token shortedout
-docID 14520
-2544 
-token holmquist
-docID 14729
-157 
-token http://www.petfinder.com/petsearch?shelter_idca1759
-docID 14996
-142 
-token xomario
-docID 14928
-2 
-token jeffthanks
-docID 14743
-10734 
-token courtneyjones
-docID 14572
-2389 2777 
-docID 14711
-2 
-docID 14766
-5133 
-token barehanded
-docID 14510
-243 
-token 14:02:09
-docID 14407
-3073 
-token 2391
-docID 14981
-1034 
-token unwaveringly
-docID 14615
-400 
-token 23:16:51
-docID 14850
-667 
-token beerspintssinglesdoubles
-docID 14699
-604 
-token outfitter
-docID 14545
-4 
+token 169.00
+docID 14970
+score 1.1798017932987259E-4
+554 
+token 6mbit
+docID 14970
+score 1.1798017932987259E-4
+4178 
+token 00:00
+docID 14970
+score 1.1798017932987259E-4
+2149 
 token http://20somethingfinance.com/comcastclassactionlawsuit/
 docID 14970
+score 1.1798017932987259E-4
 2963 
-token 09:30:08
-docID 14520
-6025 
-token http://www.h2owirelessnow.com
-docID 14406
-1070 
-token 00:20:49
-docID 14609
-512 
-token 01:02:12
-docID 14842
-2744 
-token 07:17:42
-docID 14746
-747 
-token roughtly
-docID 14892
-646 
-token lopresti.eric@gmail.com
-docID 14361
-3786 
-token 9/3
-docID 14361
-3436 
-token 9/2
-docID 14361
-3512 
-token 9/6
-docID 14535
-75 
-token berserk
-docID 14588
-126 
-token vapors
-docID 14602
-2214 
-token 09:30:24
-docID 14585
-242 
-token 18:28:38
-docID 14849
-2675 
-token balcomdibble
-docID 14981
-673 
+token commondreams
+docID 14970
+score 1.1798017932987259E-4
+2982 
+token http://arstechnica.com/news.ars/post/20080828itsofficialcomcaststarts250gbbandwidthcapsoctober1.html
+docID 14970
+score 1.1798017932987259E-4
+2231 
+token urbanlegendish
+docID 14970
+score 1.1798017932987259E-4
+1247 
 token s0a00
 docID 14970
+score 1.1798017932987259E-4
 2613 
-token 744
-docID 14981
-1383 
-token 741
-docID 14981
-1391 
-token 18:28:48
-docID 14407
-3151 
-token http://local.yahoo.com/
-docID 14454
-1054 
-token nonsubjective
-docID 14982
-4440 
-token shtick
-docID 14766
-284 
-token 00:40:59
-docID 14982
-8207 
-token http://www.newsreview.com/sacramento/content?oid865074
-docID 14742
-360 
-token tkessler
-docID 15034
-998 
-token 10:50:04
-docID 14392
-310 
-token 8756
-docID 14695
-1239 
-token 5mm
-docID 15045
-1310 1315 1579 
-token indepentant
-docID 14725
-72 
-token sometimesiveg
-docID 14602
-4828 
-token allisonboyd
-docID 14699
-6944 
-token 13:32:58
-docID 14474
-709 
-token 20:47:12
-docID 14766
-1555 
-token 16622
-docID 14981
-669 
-token berggren
-docID 14387
-1 
-token opttown
-docID 14659
-274 
-token 13:32:43
-docID 14849
-5724 
-token ownerpet
-docID 14849
-2039 
-token 13:32:30
-docID 14407
-3328 
-token davidhussman
-docID 15045
-2948 
-token eeks
-docID 14926
-95 
-token 10:09:04
-docID 14405
-5820 
-token http://www.lcmuralanddesign.com/
-docID 14744
-144 
-token http://cityofdavis.org/pgs/trees/landmark.cfm
-docID 14689
-428 
-token retractionusers
-docID 14766
-621 
-token 5x7
-docID 14386
-2695 2742 
-token nonfamily
-docID 14458
-22 
-token nailbiting
-docID 14520
-4227 
-token 2772
-docID 14386
-6600 
-token 793
-docID 14981
-1369 
-token 787
-docID 14981
-1376 
-token 2709
-docID 14981
-1005 
-token 宫保虾kung
-docID 14447
-166 
-token http://www.philgross.net/
-docID 14403
-242 
-token circleadrian
-docID 14405
-6612 
-token friendlyness
-docID 14405
-173 
-token http://www.thunderhill.com/
-docID 14695
-889 912 
-token 16:07:28
-docID 14405
-1380 
-token 18:28:18
-docID 14602
-4976 
-token bettafan
-docID 14389
-5928 
-token 14:02:09
-docID 15380
-923 
-token 9/3
-docID 15107
-362 
-token 9/2
-docID 15107
-365 
-token 9/6
-docID 15107
+token 37.99
+docID 14970
+score 1.1798017932987259E-4
+7617 
+token 22mbit
+docID 14970
+score 1.1798017932987259E-4
+4168 
+token 029new2
+docID 14970
+score 1.1798017932987259E-4
+889 
+token 11:48:27
+docID 14970
+score 1.1798017932987259E-4
+4947 
+token 20:30:34
+docID 14970
+score 1.1798017932987259E-4
+5945 
+token itselfi
+docID 14970
+score 1.1798017932987259E-4
+7124 
+token http://networkmanagement.comcast.net/domainhelperlogic.htm
+docID 14970
+score 1.1798017932987259E-4
 352 
-token hamptons
-docID 16403
-5612 
-docID 16077
-106 
-token 12:07:20
-docID 16504
-527 
-token wonk
-docID 16341
-3455 
-token 18:28:48
-docID 16058
-31 
+token https://www.comcast.com/arbitrationoptout/default.ashx
+docID 14970
+score 1.1798017932987259E-4
+3160 
+token docsis
+docID 14970
+score 1.1798017932987259E-4
+7090 
+token http://gizmodo.com/387901/comcastconsideringmonthlydatacapsandoveragefees
+docID 14970
+score 1.1798017932987259E-4
+2212 
+token celtics
+docID 14970
+score 1.1798017932987259E-4
+3262 
+token http://www.broadbandreports.com/forum/remark,11455559
+docID 14970
+score 1.1798017932987259E-4
+1578 
+token 10gigs
+docID 14970
+score 1.1798017932987259E-4
+1159 
+token crossplatform
+docID 14970
+score 1.1798017932987259E-4
+168 
+token telcos
+docID 14970
+score 1.1798017932987259E-4
+1437 
+token 39,194,430
+docID 14970
+score 2.3596035865974517E-4
+2140 2144 
+token 925kbps
+docID 14970
+score 1.1798017932987259E-4
+1492 
+token buisiness
+docID 14970
+score 1.1798017932987259E-4
+6615 
+token scammy
+docID 14970
+score 1.1798017932987259E-4
+8250 
+token 17:30:52
+docID 14970
+score 1.1798017932987259E-4
+3204 
+token xbzip2
+docID 14970
+score 1.1798017932987259E-4
+2142 
+token 25mbs
+docID 14970
+score 1.1798017932987259E-4
+431 
+token foreveralone
+docID 14970
+score 1.1798017932987259E-4
+5452 
+token phillapines
+docID 14970
+score 1.1798017932987259E-4
+5396 
+token uconn
+docID 14970
+score 1.1798017932987259E-4
+4993 
+token 19:44:49
+docID 14970
+score 1.1798017932987259E-4
+4847 
+token noahdoss
+docID 14970
+score 1.1798017932987259E-4
+5136 
+token 04:23:59
+docID 14970
+score 1.1798017932987259E-4
+4962 
+token espn360
+docID 14970
+score 3.5394053798961777E-4
+295 296 342 
+token davidfu
+docID 14970
+score 1.1798017932987259E-4
+1234 
+token 23:13:41
+docID 14970
+score 1.1798017932987259E-4
+2150 
+token 00:50:19
+docID 14970
+score 1.1798017932987259E-4
+7059 
+token 6.9
+docID 14970
+score 1.1798017932987259E-4
+3917 
+token autoupdate
+docID 14970
+score 1.1798017932987259E-4
+3971 
+token 23:13:03
+docID 14970
+score 1.1798017932987259E-4
+2117 
+token 149.00
+docID 14970
+score 1.1798017932987259E-4
+524 
+token 1006.65
+docID 14970
+score 2.3596035865974517E-4
+2145 2151 
+token 1800comcast
+docID 14970
+score 1.1798017932987259E-4
+5365 
+token 8242000
+docID 14970
+score 1.1798017932987259E-4
+2891 
+token 129.00
+docID 14970
+score 1.1798017932987259E-4
+487 
+token earful
+docID 14970
+score 1.1798017932987259E-4
+7885 
+token 1280x720
+docID 14970
+score 1.1798017932987259E-4
+2297 
+token 13:53:21
+docID 14970
+score 1.1798017932987259E-4
+5496 
+token 7679
+docID 14970
+score 1.1798017932987259E-4
+2576 
+token serviceservice
+docID 14970
+score 1.1798017932987259E-4
+3636 
+token http://en.wikipedia.org/wiki/hart_v._comcast
+docID 14970
+score 1.1798017932987259E-4
+2950 
+token frankindavis
+docID 14970
+score 1.1798017932987259E-4
+6689 
+token 210channel
+docID 14970
+score 1.1798017932987259E-4
+5781 
+token 14:34:06
+docID 14970
+score 1.1798017932987259E-4
+6121 
+token 12:57:09
+docID 14970
+score 1.1798017932987259E-4
+7505 
+token touchs
+docID 14970
+score 1.1798017932987259E-4
+4716 
+token highspeeds
+docID 14970
+score 1.1798017932987259E-4
+2673 
+token 39194430/39194430
+docID 14970
+score 1.1798017932987259E-4
+2157 
+token pixilation
+docID 14970
+score 1.1798017932987259E-4
+6740 
+token http://www.bandwidthplace.com/
+docID 14970
+score 1.1798017932987259E-4
+3930 
+token 41.40
+docID 14970
+score 1.1798017932987259E-4
+7363 
+token http://www.freepress.net/files/comcast_program_access_litigation_letter.pdf
+docID 14970
+score 1.1798017932987259E-4
+2978 
+token 16:59:12
+docID 14970
+score 1.1798017932987259E-4
+6899 
+token runnign
+docID 14970
+score 1.1798017932987259E-4
+3977 
+token 54mbs
+docID 14970
+score 1.1798017932987259E-4
+443 
+token 18:54:38
+docID 14970
+score 1.1798017932987259E-4
+6364 
+token http://www.crainsdetroit.com/article/20100629/free/100629867/cityofdetroitsuescomcastoverallegedcontractviolations#
+docID 14970
+score 1.1798017932987259E-4
+2945 
+token 07:41:44
+docID 14970
+score 1.1798017932987259E-4
+5234 
+token 204.152.191.5
+docID 14970
+score 1.1798017932987259E-4
+2129 
+token facetime
+docID 14970
+score 1.1798017932987259E-4
+4740 
+token http://reviews.cnet.com/internetspeedtest/
+docID 14970
+score 1.1798017932987259E-4
+3919 
+token 00:09:20
+docID 14970
+score 1.1798017932987259E-4
+3172 
+token 14:09:07
+docID 14970
+score 1.1798017932987259E-4
+5591 
+token 12:15:06
+docID 14970
+score 1.1798017932987259E-4
+4908 
+token 18:50:47
+docID 14971
+score 0.017857142857142856
+5 
+token http://daviswiki.org/users/jeremyanderson?actionuserinfo
+docID 14971
+score 0.017857142857142856
+14 
+token jeremyanderson
+docID 14971
+score 0.017857142857142856
+2 
+token 121º4421
+docID 14973
+score 0.0012515644555694619
+767 
+token http://www.ngdc.noaa.gov/geomagmodels/declination.jsp
+docID 14973
+score 0.0012515644555694619
+788 
+token geocoding
+docID 14973
+score 0.0012515644555694619
+154 
+token unmemorable
+docID 14973
+score 0.0012515644555694619
+57 
+token declination
+docID 14973
+score 0.0012515644555694619
+778 
+token º
+docID 14973
+score 0.0012515644555694619
+781 
+token 38º3242
+docID 14973
+score 0.0012515644555694619
+765 
+token 14.21
+docID 14973
+score 0.0012515644555694619
+780 
+token freewayside
+docID 14973
+score 0.0012515644555694619
+375 
+token 14:54:43
+docID 14975
+score 0.003787878787878788
+233 
+token 20120704
+docID 14975
+score 0.003787878787878788
+202 
+token agitator
+docID 14976
+score 0.0014204545454545455
+246 
+token http://www.amtechuk.co.uk/shop/productlist.php?carpet_cleaning_machinespg1cid47.html
+docID 14976
+score 0.0014204545454545455
+674 
+token 30/24
+docID 14976
+score 0.0014204545454545455
+146 
+token amtech
+docID 14976
+score 0.0014204545454545455
+675 
+token 99/24
+docID 14976
+score 0.002840909090909091
+282 288 
+token 12:25:11
+docID 14976
+score 0.0014204545454545455
+680 
+token airsteam
+docID 14976
+score 0.0014204545454545455
+26 
+token shampooer
+docID 14976
+score 0.005681818181818182
+354 368 383 469 
+token earful
+docID 15097
+score 4.2951636457349025E-5
+5311 
+token 6.9
+docID 15158
+score 0.0014265335235378032
+93 
+token unmemorable
+docID 15507
+score 1.1079104808331487E-4
+2671 
+token crossplatform
+docID 15650
+score 0.002857142857142857
+325 
+token buisiness
+docID 15698
+score 6.626905235255136E-4
+666 
+token 08:18:31
+docID 16207
+score 5.347593582887701E-4
+259 
+token directtv
+docID 16526
+score 2.105706464518846E-4
+270 
+token 19:44:49
+docID 16769
+score 0.005025125628140704
+89 

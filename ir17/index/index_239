@@ -1,2584 +1,4316 @@
-token singledirection
-docID 795
-191 
-token shims
-docID 1471
-815 
-token domocile
-docID 1370
-119 
-token protip
-docID 1288
-117 
-token wilted
-docID 1185
-87 
-token ymmv
-docID 1206
-4690 
-token appleman
-docID 954
-542 
-token wasplike
-docID 1099
-165 
-token 10.0
-docID 978
-438 
-token dale
-docID 894
-1622 4419 5596 
-token 07:02:52
-docID 1282
-1386 
-token 23:01:20
-docID 819
-35 
-token inheritor
-docID 799
-277 438 
-token lilyt
-docID 1532
-6965 
-token scottb
-docID 1413
-5777 
-docID 776
-2207 
-docID 1471
-10016 
-token lilys
-docID 968
-187 
-docID 995
-681 
-docID 815
-941 
-token dwelling
-docID 1476
-1537 
-token sistah
-docID 1388
-172 
-token romney
-docID 799
-98 
-token jennifers
-docID 799
-200 
-token http://schadavis.org/archives/1010
-docID 905
-245 
-token itron
-docID 1226
-30 
-token parlee
-docID 1471
+token discovers
+docID 1064
+score 0.0012391573729863693
+389 
+token govdocuments
+docID 1064
+score 0.0024783147459727386
+558 576 
+token senatebills
+docID 1064
+score 0.0024783147459727386
+559 577 
+token schock
+docID 1064
+score 0.0012391573729863693
+673 
+token selfpreservation
+docID 1064
+score 0.0012391573729863693
+271 
+token meanspirited
+docID 1064
+score 0.0012391573729863693
+361 
+token disservice
+docID 1064
+score 0.0012391573729863693
+207 
+token nongovernmental
+docID 1064
+score 0.0012391573729863693
+404 
+token 84
+docID 1064
+score 0.012391573729863693
+548 617 652 669 686 700 719 759 792 804 
+token reciting
+docID 1064
+score 0.0012391573729863693
+248 
+token victory
+docID 1064
+score 0.0012391573729863693
+381 
+token mikalonis
+docID 1064
+score 0.0012391573729863693
+725 
+token matthewshannon
+docID 1064
+score 0.0012391573729863693
+690 
+token abstaining
+docID 1064
+score 0.0012391573729863693
+765 
+token alix
+docID 1064
+score 0.0012391573729863693
+736 
+token discerning
+docID 1064
+score 0.0012391573729863693
+305 
+token woelfel
+docID 1064
+score 0.0012391573729863693
+609 
+token freedoms
+docID 1064
+score 0.0024783147459727386
+512 532 
+token slim
+docID 1064
+score 0.0012391573729863693
+384 
+token legislating
+docID 1064
+score 0.0012391573729863693
+470 
+token embarassing
+docID 1064
+score 0.0012391573729863693
+442 
+token galling
+docID 1064
+score 0.0012391573729863693
+25 
+token giroux
+docID 1064
+score 0.0012391573729863693
+737 
+token aloud
+docID 1064
+score 0.0012391573729863693
+336 
+token retribution
+docID 1064
+score 0.0012391573729863693
+196 
+token infernal
+docID 1064
+score 0.0012391573729863693
+1 
+token ingratitude
+docID 1064
+score 0.0012391573729863693
+147 
+token 20070529
+docID 1065
+score 0.0029498525073746312
+258 
+token http://anitasdailyshowpage.tripod.com/thesouptimenerd/2004january.htm
+docID 1065
+score 0.0029498525073746312
+173 
+token 8858
+docID 1065
+score 0.0029498525073746312
+85 
+token consultant
+docID 1065
+score 0.0029498525073746312
+121 
+token 01:40:30
+docID 1065
+score 0.0029498525073746312
+259 
+token bittersweet
+docID 1065
+score 0.0029498525073746312
+334 
+token 01:08:53
+docID 1065
+score 0.0029498525073746312
+276 
+token http://www.flashreport.org/blog.php?postid2006121819382199
+docID 1065
+score 0.0029498525073746312
+54 
+token 2008/11
+docID 1065
+score 0.0029498525073746312
+82 
+token freedomblogging
+docID 1065
+score 0.0029498525073746312
+80 
+token staffer
+docID 1065
+score 0.0029498525073746312
+75 
+token ocgopexecutivedirectorquestionedasterrorismsuspect
+docID 1065
+score 0.0029498525073746312
 84 
-token cannon
-docID 1334
-1242 
-docID 894
-2464 2478 
+token http://www.acromedia.com/blog/media/daily_show_george_andrews_clip.rm
+docID 1065
+score 0.0029498525073746312
+166 
+token 15:18:55
+docID 1065
+score 0.0029498525073746312
+309 
+token vicechairman
+docID 1065
+score 0.008849557522123894
+9 96 116 
+token 02:03:54
+docID 1065
+score 0.0029498525073746312
+206 
+token totalbuzz
+docID 1065
+score 0.0029498525073746312
+79 
+token 20050311
+docID 1065
+score 0.0029498525073746312
+205 
+token videoclip
+docID 1065
+score 0.0029498525073746312
+161 
+token http://www.icontat2.com
+docID 1066
+score 0.023255813953488372
+17 
+token 11:56:31
+docID 1067
+score 0.02702702702702703
+1 
+token http://daviswiki.org/sorrento_apartments?actiondiff&version2104&version1103
+docID 1067
+score 0.02702702702702703
+11 
+token http://www.zope.org
+docID 1068
+score 0.011235955056179775
+3 
+token http://www.plone.org
+docID 1068
+score 0.011235955056179775
+18 
+token zugod
+docID 1068
+score 0.011235955056179775
+0 
+token plone
+docID 1068
+score 0.033707865168539325
+19 22 70 
+token zope
+docID 1068
+score 0.033707865168539325
+4 20 71 
+token ploneistas
+docID 1068
+score 0.011235955056179775
+56 
+token colgate
+docID 1069
+score 0.020833333333333332
+1 
+token homan
+docID 1073
+score 0.003105590062111801
+230 
+token http://www.sfsu.edu/
+docID 1073
+score 0.003105590062111801
+25 
+token emcee
+docID 1073
+score 0.003105590062111801
+306 
+token http://www.davisenterprise.com/localnews/howdopoetsseedavisbuythebookandcounttheways
+docID 1073
+score 0.003105590062111801
+116 
+token nada
+docID 1073
+score 0.003105590062111801
+202 
+token amram
+docID 1073
+score 0.003105590062111801
+233 
+token http://joecraven.com/
+docID 1073
+score 0.003105590062111801
+224 
+token roles
+docID 1073
+score 0.003105590062111801
+170 
+token mcmullen
+docID 1073
+score 0.003105590062111801
+228 
+token mejor
+docID 1073
+score 0.003105590062111801
+200 
+token http://www.cpits.org/background/newsletters/april11.html
+docID 1073
+score 0.003105590062111801
+145 
+token tchicai
+docID 1073
+score 0.003105590062111801
+223 
+token http://www.csus.edu/engl/scholar/sch_holh.htm
+docID 1073
+score 0.003105590062111801
+123 
+token hohlwein
+docID 1073
+score 0.003105590062111801
+125 
+token gecko
+docID 1073
+score 0.003105590062111801
+254 
+token quartet
+docID 1073
+score 0.003105590062111801
+248 
+token bessier
+docID 1073
+score 0.003105590062111801
+2 
+token lyricist
+docID 1073
+score 0.003105590062111801
+179 
+token que
+docID 1073
+score 0.003105590062111801
+201 
+token http://www.350.org/
+docID 1073
+score 0.003105590062111801
+315 
+token voiceovers
+docID 1073
+score 0.003105590062111801
+194 
+token http://www.dmtc.org/
+docID 1073
+score 0.003105590062111801
+174 
+token craven
+docID 1073
+score 0.003105590062111801
+226 
+token improv
+docID 1073
+score 0.003105590062111801
+189 
+token 7475419
+docID 1074
+score 0.045454545454545456
+20 
+token vitaich
+docID 1074
+score 0.045454545454545456
+1 
+token kellie
+docID 1074
+score 0.045454545454545456
+0 
+token kvitaich@davispd.org
+docID 1074
+score 0.045454545454545456
+21 
+token kiwi
+docID 1076
+score 0.007575757575757576
+60 
+token 20131225
+docID 1076
+score 0.007575757575757576
+83 
+token 15:32:09
+docID 1076
+score 0.007575757575757576
+13 
+token 20131012
+docID 1076
+score 0.007575757575757576
+12 
+token veronikamonell
+docID 1076
+score 0.007575757575757576
+131 
+token 18:03:22
+docID 1076
+score 0.007575757575757576
+84 
+token comissioned
+docID 1077
+score 0.0015151515151515152
+618 
+token clearchannel
+docID 1077
+score 0.0015151515151515152
+11 
+token placerville
+docID 1077
+score 0.0015151515151515152
+501 
+token suburb
+docID 1077
+score 0.0015151515151515152
+115 
+token adoption
+docID 1077
+score 0.0015151515151515152
+389 
+token consultant
+docID 1077
+score 0.0015151515151515152
+199 
+token 50k
+docID 1077
+score 0.0015151515151515152
+546 
+token walt
+docID 1077
+score 0.0015151515151515152
+643 
+token fictional
+docID 1077
+score 0.0015151515151515152
+138 
+token catchphrase
+docID 1077
+score 0.0015151515151515152
+96 
+token 2222
+docID 1077
+score 0.0015151515151515152
+559 
+token rednecks
+docID 1077
+score 0.0015151515151515152
+126 
+token transmitter
+docID 1077
+score 0.0030303030303030303
+511 532 
+token spotter
+docID 1077
+score 0.0015151515151515152
+484 
+token http://www.oldradio.com/archives/stations/ccs/kfbkpix.htm
+docID 1077
+score 0.0015151515151515152
+582 
+token kfbk
+docID 1077
+score 0.010606060606060607
+0 254 444 479 514 555 593 
+token neocon
+docID 1077
+score 0.0015151515151515152
+35 
+token reporters
+docID 1077
+score 0.0015151515151515152
+495 
+token feburary
+docID 1077
+score 0.0015151515151515152
+560 
+token mickey
+docID 1077
+score 0.0015151515151515152
+647 
+token kimballupson
+docID 1077
+score 0.0015151515151515152
+601 
+token expo
+docID 1077
+score 0.0015151515151515152
+471 
+token limbaughs
+docID 1077
+score 0.0015151515151515152
+273 
+token megaphone
+docID 1077
+score 0.0015151515151515152
+651 
+token fabricated
+docID 1077
+score 0.0015151515151515152
+574 
+token woodlanddavis
+docID 1079
+score 0.0625
+2 
+token http://www.wdarc.org
+docID 1079
+score 0.0625
+1 
+token aeromodelers
+docID 1079
+score 0.0625
+3 
+token henson
+docID 1079
+score 0.0625
+10 
+token mavis
+docID 1079
+score 0.0625
+9 
+token 07:45:17
+docID 1081
+score 0.0035335689045936395
+269 
+token garde
+docID 1081
+score 0.0035335689045936395
+147 
+token 21:56:50
+docID 1081
+score 0.0035335689045936395
+233 
+token blogimages
+docID 1081
+score 0.01060070671378092
+187 194 201 
+token passionately
+docID 1081
+score 0.0035335689045936395
+66 
+token avant
+docID 1081
+score 0.0035335689045936395
+146 
+token 051308/016
+docID 1081
+score 0.0035335689045936395
+195 
+token http://www.tinywater.com/craigslist/cl1.jpg
+docID 1081
+score 0.0035335689045936395
+204 
+token craiglist
+docID 1081
+score 0.0035335689045936395
+260 
+token 042408/012
+docID 1081
+score 0.0035335689045936395
+202 
+token candid
+docID 1081
+score 0.0035335689045936395
+109 
+token saly
+docID 1081
+score 0.0035335689045936395
+282 
+token 051308/020
+docID 1081
+score 0.0035335689045936395
+188 
+token tinywater
+docID 1081
+score 0.0176678445229682
+0 172 185 192 199 
+token 20090520
+docID 1081
+score 0.0035335689045936395
+268 
+token rhat
+docID 1082
+score 0.006711409395973154
+90 
+token 10:01:28
+docID 1082
+score 0.006711409395973154
+128 
 token subunit
 docID 1082
+score 0.006711409395973154
 4 
-token kumar
-docID 825
-884 1055 
-token stables
-docID 1476
-1269 1458 
-docID 1137
-1 129 131 153 
-token methlab
-docID 1053
-1 6 
-token oaths
-docID 1009
-2824 
-token airframe
-docID 1114
-2864 
-token unwrapped
-docID 943
-219 
-token ssfaac
-docID 888
-451 
-token 19941995
-docID 1405
-119 
-token joe21
-docID 1356
-1522 
-token grotesgue
-docID 1114
-6138 
-token 19941998
-docID 1396
-466 
-token sighting
-docID 824
-21 
-token 101a
-docID 1531
-192 
-token developmentalstage
-docID 1114
-3571 
-token 13/0513
-docID 785
-408 
-token 100s
-docID 1228
-740 
-docID 1496
-43 
-token agulera
-docID 912
-661 
-token immature
-docID 1064
-240 
-docID 1527
-544 
-docID 916
-1085 
-token 23:09:53
-docID 1471
-4900 
-token 1016
-docID 1114
-326 
-token monsters
-docID 1255
-209 
-token 23:09:55
-docID 1162
-114 
-token 1012
-docID 1474
-7036 
-docID 1140
-118 
-token 1020
-docID 935
-670 
-token midjuly
-docID 1249
+token worksheet
+docID 1082
+score 0.006711409395973154
+126 
+token foyer
+docID 1082
+score 0.006711409395973154
+19 
+token tfr
+docID 1082
+score 0.020134228187919462
+27 91 108 
+token 18:05:06
+docID 1082
+score 0.006711409395973154
+139 
+token http://advisingservices.ucdavis.edu/advising/peer/firstresort/pdf/13_unit.pdf
+docID 1082
+score 0.006711409395973154
+117 
+token 337
+docID 1083
+score 0.0024813895781637717
+108 
+token http://www.davisenterprise.com/localnews/doyouwantthepenahouse/
+docID 1083
+score 0.0024813895781637717
+277 
+token 13:20:18
+docID 1083
+score 0.0024813895781637717
 143 
-token 100k
-docID 1474
-370 
-token blurry
-docID 1050
-515 542 
-token 20100606
-docID 968
-602 841 
-token wiccan
-docID 1544
-171 
-token kickballpalooza
-docID 925
-0 46 
-token readded
-docID 1151
-472 
-token ribbon
-docID 1240
-92 
-token newage
-docID 828
-886 
-token encompassed
-docID 992
-61 
-docID 1287
-217 
-token tole
-docID 1453
-2065 
-token marquis
-docID 1500
-20 
-token 16:00:00
-docID 926
-2158 
-docID 1282
-4205 
-token newport
-docID 1413
-3428 
-docID 1245
-55 
-token forbid
-docID 926
-735 
-token elites
-docID 1473
-2497 
-token promoter
-docID 1421
-269 
-token b05
-docID 1095
-282 
-token 40.15.100
-docID 1476
-690 
-token http://www.sacramentofusion.com
-docID 1428
-156 
-token injunction
+token issueshaving
+docID 1083
+score 0.0024813895781637717
+192 
+token wayoutofproportion
+docID 1083
+score 0.0024813895781637717
+176 
+token ravaged
+docID 1083
+score 0.0024813895781637717
+396 
+token housecondo
+docID 1083
+score 0.0024813895781637717
+178 
+token zuniga
+docID 1083
+score 0.0024813895781637717
+34 
+token victory
+docID 1088
+score 0.031746031746031744
+43 53 
+token reporters
 docID 1114
-3606 
-token hillarythomas
-docID 1511
-2 
-token tneeley
-docID 1356
-1557 
-docID 967
-689 
-token maritovar
-docID 775
-22 
-token http://tinyurl.com/cornercoop
-docID 905
-159 
-token renumbered
-docID 1314
-133 
-token rafinesque
-docID 841
-146 
-token kcra
-docID 1004
-587 
-token witticism
-docID 993
-11 
-token hesitated
-docID 826
-1808 
-token streamlining
-docID 1026
-3601 
-token aztec
-docID 954
-175 
-token 40.22.200
-docID 1476
-1006 
-token 06:20:48
-docID 1362
-2136 
-token degrading
-docID 1396
-757 
-token scouring
-docID 1353
-272 276 302 
-token moreh
-docID 1536
-1229 
-token partyer
-docID 1453
-8302 
-token woodchuck
-docID 1015
-489 
-token aquabats
+score 1.332800213248034E-4
+2042 
+token colgate
+docID 1164
+score 0.0026954177897574125
+138 
+token fabricated
+docID 1192
+score 9.66183574879227E-4
+741 
+token adoption
+docID 1199
+score 0.005393743257820928
+206 214 243 903 910 
+token vicechairman
+docID 1215
+score 0.009174311926605505
+200 213 
+token roles
 docID 1228
-3490 
-token conformity
-docID 894
-2959 
-token glycol
-docID 1034
-236 
-token dismayed
-docID 1474
-6704 
-docID 1453
-4647 
-token skittles
-docID 1036
-1853 1864 1878 
-token aniversery
-docID 1533
-264 
-token colleague
-docID 1114
-7279 
-token sodium
-docID 813
-415 651 683 781 
-token torn
-docID 782
-199 
-token cysts
-docID 813
-533 
-token 14:52:05
-docID 826
-686 
-token marijean
-docID 1392
-3251 
-token mercycorps
-docID 785
-164 167 
-token laboratorys
-docID 1533
-72 245 
-token 19841985
-docID 1405
-81 
-token founds
-docID 1210
-177 
-token wholesale
-docID 1057
-123 
-token http://www.foopee.com/punk/thelist
-docID 1302
-16 
-token http://www.bdel.com
-docID 802
-48 
-token yesand
-docID 835
-295 
-token 15:23:30
-docID 1471
-262 
-token treadmill
-docID 1392
-959 
-docID 1300
-329 
-token 17:09:16
-docID 1115
-1512 
-docID 1573
-58 
-token 17:09:14
-docID 1485
-357 
-token 17:09:24
-docID 1573
-67 
-token unopposed
-docID 868
-612 
-token statechapter
+score 5.277044854881266E-4
+1725 3368 
+token quartet
+docID 1228
+score 2.638522427440633E-4
+3515 
+token transmitter
+docID 1228
+score 5.277044854881266E-4
+1150 3701 
+token improv
+docID 1263
+score 0.0014577259475218659
+629 
+token roles
 docID 1268
-313 
-token newasucdcommitteetoreinstatedistributionofscholarships
-docID 1364
-708 
-token feathered
-docID 1200
-30 
-token 40.37.060
-docID 1476
-2215 
-token binary
-docID 805
-2 46 407 702 802 927 
-token lousianna
-docID 912
-330 
-token tof4
-docID 1114
-1243 
-token http://www.mujeresdecsus.org
-docID 1268
-311 
-token incompetency
-docID 1579
-1209 
-token waxes
-docID 826
-357 437 1749 3986 
-token testwriting
-docID 1424
-2278 
-token agitation
-docID 1174
-209 
-token oliviabuo
-docID 1593
-5519 6709 6787 
-token waxer
-docID 826
-4865 
-token http://www.youtube.com/watch?vo5a39tbt9w
-docID 978
-151 
-token 02:43:43
-docID 811
-111 
-token 18:20:37
-docID 1115
-203 
-token whale
-docID 977
-1037 
-token 20:12:01
-docID 810
-148 
-token meldraper
-docID 1579
-3963 
-token hebrew
-docID 1291
-113 
-docID 1431
-547 
-docID 1540
-65 
-token mp3s
-docID 1424
-7254 
-token alleyways
-docID 1344
-47 
-token inerrent
-docID 894
-264 
-token elmendorf
-docID 1455
-1 105 
-token groan
-docID 863
-42 183 
-token milbrodt
-docID 1396
-482 
-token perpetrators
-docID 848
-198 
-token 16:22:11
-docID 1125
-1111 
-token dttownsend
-docID 912
-251 
-token 16:22:17
-docID 1051
-1750 
-token recital
-docID 1299
-120 
-token 20100524
-docID 1537
-18 
-token 15:50:06
-docID 1151
-329 
-token soniamelitta
-docID 805
-211 221 
-token haller
-docID 856
-1 
-token wilted
-docID 1889
-2022 
-docID 2241
-1479 
-token dwelling
-docID 1919
-1686 
-docID 2398
-256 277 
-docID 1649
-743 
-token cannon
-docID 1827
-61 
-token oaths
-docID 2237
-2877 
-token 19941995
-docID 1838
-259 
-token 101a
-docID 2222
-468 
-token 100s
-docID 1919
-480 
-token immature
-docID 1974
-187 
-docID 1750
-419 618 
-docID 2030
-944 
-token monsters
-docID 1671
-58 
-docID 2072
-190 
-token 1012
-docID 2157
-202 
-token 1020
-docID 2129
-1378 
-docID 1952
-272 
-token midjuly
-docID 1919
-511 
-docID 1650
-969 
-token blurry
-docID 2089
-788 
-token newport
-docID 1713
-1221 
-token forbid
-docID 2025
-7909 
-token promoter
-docID 2261
-13 
-token hillarythomas
-docID 2232
-1868 
-token tneeley
-docID 1624
-2626 3168 
-token kcra
-docID 1658
-2775 2804 
-docID 2181
-202 217 
-token witticism
-docID 1714
-4520 
-token degrading
-docID 1682
-328 
-token conformity
-docID 1750
-1005 
-docID 2030
-345 844 922 
-token dismayed
-docID 1889
-2953 
-token 14:52:05
-docID 1688
-6051 
-token wholesale
-docID 1682
-3299 
-docID 1649
-137 
-docID 2335
-1037 1038 
-docID 1894
-650 
-token treadmill
-docID 1977
-10115 
-token feathered
-docID 1679
-1368 
-token hebrew
-docID 2278
-111 463 543 
-token alleyways
-docID 2099
-1085 
-token wilted
-docID 2919
-602 
-token ymmv
-docID 2769
-3304 3317 3342 3378 3409 
-docID 2743
-48085 
-token dale
-docID 3056
-204 
-docID 3008
-3132 3206 3482 3652 
-token scottb
-docID 2998
-9464 
-token lilys
-docID 2794
-1216 
-docID 2465
-430 693 807 1408 
-docID 2998
-5953 
-token dwelling
-docID 2671
-366 
-token jennifers
-docID 2822
+score 0.0014858841010401188
+426 
+token embarassing
+docID 1275
+score 0.0013440860215053765
+210 
+token 2008/11
+docID 1280
+score 0.009900990099009901
+88 
+token aloud
+docID 1282
+score 2.0479213598197828E-4
+4269 
+token passionately
+docID 1282
+score 2.0479213598197828E-4
+3331 
+token consultant
+docID 1289
+score 0.0021321961620469083
+268 
+token placerville
+docID 1363
+score 0.0011312217194570137
+1270 1284 
+token mikalonis
+docID 1410
+score 0.00211864406779661
+471 
+token consultant
+docID 1443
+score 0.003952569169960474
 141 
+token disservice
+docID 1471
+score 9.98302885095338E-5
+524 
+token 84
+docID 1503
+score 0.0019083969465648854
+411 
+token kellie
+docID 1532
+score 9.067096514205118E-4
+6444 7215 7221 7231 7643 7711 8357 8419 9140 
+token 20090520
+docID 1579
+score 1.7205781142463867E-4
+3306 
+token craiglist
+docID 1593
+score 1.337971635001338E-4
+5248 
+token ravaged
+docID 1595
+score 8.019246190858059E-4
+463 
+token lyricist
+docID 1623
+score 0.00398406374501992
+230 
+token adoption
+docID 1687
+score 0.0022026431718061676
+264 
+token colgate
+docID 1713
+score 5.630630630630631E-4
+472 
+token selfpreservation
+docID 1714
+score 1.9774569903104609E-4
+1991 
+token victory
+docID 1734
+score 0.0010193679918450561
+842 
+token adoption
+docID 1764
+score 0.0018181818181818182
+517 
+token victory
+docID 1783
+score 5.793742757821553E-4
+1298 
+token freedoms
+docID 1783
+score 0.0011587485515643105
+56 1038 
+token colgate
+docID 1800
+score 0.014084507042253521
+9 56 
+token roles
+docID 1805
+score 5.324813631522897E-4
+676 
+token roles
+docID 1821
+score 0.002717391304347826
+186 
+token fictional
+docID 1837
+score 0.0015015015015015015
+664 
+token roles
+docID 1871
+score 9.174311926605505E-4
+32 
+token placerville
+docID 1871
+score 9.174311926605505E-4
+176 
+token mcmullen
+docID 1872
+score 4.62962962962963E-4
+1540 
+token reciting
+docID 1910
+score 3.3534540576794097E-4
+2898 
+token fictional
+docID 1914
+score 0.0035211267605633804
+180 
+token disservice
+docID 1952
+score 3.125E-4
+1167 
+token bittersweet
+docID 1959
+score 1.7196904557179707E-4
+4327 
+token disservice
+docID 1977
+score 9.393199323689649E-5
+8899 
+token nongovernmental
+docID 1986
+score 0.001607717041800643
+48 
+token slim
+docID 1992
+score 0.0011111111111111111
+849 
+token victory
+docID 1996
+score 0.0011695906432748538
+275 
+token consultant
+docID 2036
+score 4.8146364949446316E-4
+2130 2181 
+token kfbk
+docID 2078
+score 0.005376344086021506
+130 
+token disservice
+docID 2112
+score 0.0040650406504065045
+212 
+token candid
+docID 2130
+score 0.004464285714285714
+67 
+token roles
+docID 2132
+score 0.0014705882352941176
+476 
+token expo
+docID 2137
+score 0.013392857142857142
+137 143 349 361 382 391 
+token avant
+docID 2150
+score 0.023255813953488372
+0 
+token garde
+docID 2150
+score 0.023255813953488372
+1 
+token victory
+docID 2151
+score 2.764722145424385E-4
+885 
+token walt
+docID 2153
+score 8.237232289950577E-4
+906 
+token consultant
+docID 2211
+score 0.006097560975609756
+92 
+token victory
+docID 2220
+score 0.008658008658008658
+124 197 
+token feburary
+docID 2237
+score 3.359086328518643E-4
+859 
+token adoption
+docID 2237
+score 3.359086328518643E-4
+2851 
+token retribution
+docID 2244
+score 0.001053740779768177
+423 
+token adoption
+docID 2248
+score 0.049586776859504134
+0 9 14 50 84 89 
+token slim
+docID 2254
+score 0.0020876826722338203
+176 
+token fictional
+docID 2263
+score 3.272251308900524E-4
+1690 
+token tinywater
+docID 2263
+score 3.272251308900524E-4
+1928 
+token garde
+docID 2274
+score 0.01098901098901099
+5 92 
+token avant
+docID 2274
+score 0.01098901098901099
+4 91 
+token meanspirited
+docID 2288
+score 0.0012062726176115801
+30 
+token victory
+docID 2299
+score 9.643201542912247E-4
+36 
+token fictional
+docID 2299
+score 9.643201542912247E-4
+531 
+token adoption
+docID 2305
+score 9.98003992015968E-4
+767 
+token walt
+docID 2305
+score 9.98003992015968E-4
+148 
+token adoption
+docID 2314
+score 4.861448711716091E-4
+2777 2866 
+token placerville
+docID 2317
+score 5.44069640914037E-4
+183 
+token matthewshannon
+docID 2319
+score 0.002898550724637681
+141 
+token fabricated
+docID 2335
+score 9.041591320072332E-4
+942 
+token 20131012
+docID 2356
+score 0.0012360939431396785
+645 
+token roles
+docID 2363
+score 0.004424778761061947
+83 
+token mickey
+docID 2387
+score 0.0021231422505307855
+84 
+token adoption
+docID 2398
+score 0.0015384615384615385
+354 
+token 50k
+docID 2406
+score 1.8365472910927456E-4
+845 
+token mikalonis
+docID 2406
+score 9.182736455463728E-4
+126 3136 3203 3283 3971 
+token infernal
+docID 2406
+score 1.8365472910927456E-4
+5058 
+token consultant
+docID 2428
+score 0.0037735849056603774
+23 
+token nongovernmental
+docID 2443
+score 2.0916126333403055E-4
+2918 
+token slim
+docID 2443
+score 2.0916126333403055E-4
+683 
+token garde
+docID 2455
+score 0.004830917874396135
+71 
+token avant
+docID 2455
+score 0.004830917874396135
+70 
+token placerville
+docID 2468
+score 0.005649717514124294
+78 
+token victory
+docID 2490
+score 8.116883116883117E-4
+1224 
+token candid
+docID 2500
+score 0.0023584905660377358
+303 
+token colgate
+docID 2515
+score 0.00909090909090909
+44 
+token zuniga
+docID 2529
+score 4.935834155972359E-4
+216 
+token placerville
+docID 2547
+score 1.2658227848101267E-4
+6518 
+token suburb
+docID 2549
+score 7.392622163081245E-5
+8013 
+token roles
+docID 2563
+score 0.0016666666666666668
+39 
+token 20090520
+docID 2566
+score 5.099439061703213E-4
+1703 
+token staffer
+docID 2566
+score 5.099439061703213E-4
+708 
+token que
+docID 2579
+score 0.012658227848101266
+3 
+token victory
+docID 2580
+score 6.135722174499939E-5
+10828 
+token 20090520
+docID 2590
+score 0.0125
+18 
+token adoption
+docID 2601
+score 0.0018083182640144665
+476 
+token adoption
+docID 2630
+score 0.0018656716417910447
+304 
+token roles
+docID 2649
+score 3.8138825324180017E-4
+1078 
+token adoption
+docID 2666
+score 0.0010235414534288639
+408 
+token kiwi
+docID 2708
+score 0.0015046078615760768
+919 1244 1297 1811 1935 2119 2539 4576 
+token abstaining
+docID 2743
+score 2.0665426741062202E-5
+21714 
+token catchphrase
+docID 2743
+score 2.0665426741062202E-5
+39046 
+token meanspirited
+docID 2743
+score 2.0665426741062202E-5
+12055 
+token fictional
+docID 2743
+score 2.0665426741062202E-5
+8547 
+token retribution
+docID 2769
+score 2.764722145424385E-4
+1629 
+token consultant
+docID 2792
+score 6.067961165048543E-4
+1257 
+token consultant
+docID 2795
+score 0.002008032128514056
+217 
+token slim
+docID 2821
+score 3.912363067292645E-4
+1822 
+token slim
+docID 2839
+score 1.9466614755693986E-4
+850 
+token victory
+docID 2841
+score 0.0016611295681063123
+82 
+token placerville
+docID 2874
+score 6.743088334457181E-4
+567 
+token adoption
+docID 2878
+score 0.002951303492375799
+13 89 1086 1332 1434 1461 
+token 2008/11
+docID 2879
+score 0.0023752969121140144
+356 
+token adoption
+docID 2882
+score 0.005
+51 
+token discerning
+docID 2919
+score 3.2351989647363315E-4
+2654 
+token neocon
+docID 2919
+score 3.2351989647363315E-4
+1493 
+token mikalonis
+docID 2924
+score 5.711348449368896E-4
+3576 8174 10139 10203 12355 12433 16409 16563 17054 17391 
+token avant
+docID 2928
+score 0.0014684287812041115
+6 
+token garde
+docID 2928
+score 0.0014684287812041115
+7 
+token mickey
+docID 2946
+score 3.427004797806717E-4
+2669 
+token megaphone
+docID 2987
+score 4.623208506703652E-4
+1891 
+token consultant
+docID 3016
+score 0.005747126436781609
+54 
+token roles
+docID 3019
+score 3.5587188612099647E-4
+2802 
+token fabricated
+docID 3021
+score 1.3987970345502866E-4
+5848 
+token 20070529
+docID 3032
+score 0.0010741138560687433
+659 
+token slim
+docID 3052
+score 0.0022471910112359553
+116 
 token subunit
 docID 3066
+score 0.003289473684210526
 428 443 
-token stables
-docID 2688
-2 
-token ssfaac
-docID 2975
-111 
-token 1020
-docID 2874
-1251 
-token ribbon
-docID 3019
-2293 
-docID 2580
-4101 4169 4192 
+token zuniga
 docID 3104
-1432 
-token encompassed
-docID 3003
-282 
-token forbid
-docID 2580
-14333 
-docID 2972
-1266 
-token promoter
-docID 2651
-254 
-token injunction
-docID 2743
-14648 14789 
-token hesitated
-docID 2743
-48089 
-docID 2998
-8144 
-token aztec
-docID 2443
-399 
-docID 2431
-140 
-token degrading
-docID 2633
-1707 
-docID 2909
-109 
-token conformity
-docID 3008
-1190 
-token colleague
-docID 2580
-15072 15099 
-docID 3011
-683 
-token sodium
-docID 2814
-14 149 292 
-token torn
-docID 2716
-6011 
-docID 2919
-1584 2059 
-docID 2743
-179 27177 
-docID 2924
-3816 
-token 17:09:16
-docID 2580
-14182 
-token unopposed
-docID 2426
-340 
-token feathered
-docID 2766
-125 
-token hebrew
-docID 2690
-198 
-token mp3s
-docID 2568
-352 
-docID 2617
-85 
-token 20100524
-docID 2763
-250 
-docID 2743
-32240 32362 32543 32557 32612 32924 33369 
-docID 2426
-1086 
-token wilted
-docID 4003
-510 
-token protip
-docID 3152
-4358 
-token ymmv
-docID 3285
-1494 
-token 10.0
-docID 3549
-207 
-token dale
-docID 3525
-44 
-docID 3414
-102 
-token scottb
-docID 3699
-999 
-token lilys
-docID 4039
-122 370 
-docID 3872
-420 
-docID 3348
-669 
-token dwelling
-docID 3249
-1403 
-docID 3262
-35 
-token stables
-docID 4013
-2 
-token ssfaac
-docID 4104
-104 155 
-token 20100606
-docID 3855
-2344 
-token blurry
-docID 3664
-2095 
-token readded
-docID 3300
-154 
-token ribbon
-docID 3150
-1936 
-docID 3466
-71 
-token marquis
-docID 3569
-683 
-token hillarythomas
-docID 3849
-167 
-token tneeley
+score 3.007518796992481E-4
+1473 
+token consultant
+docID 3115
+score 4.037141703673799E-4
+2074 
+token adoption
+docID 3115
+score 0.0012111425111021397
+4 1082 1107 
+token suburb
+docID 3126
+score 6.402048655569782E-4
+1435 
+token que
+docID 3171
+score 0.003395585738539898
+31 133 
+token clearchannel
+docID 3195
+score 0.0035398230088495575
+12 56 
+token kfbk
+docID 3195
+score 0.0017699115044247787
+26 
+token consultant
+docID 3197
+score 0.0022123893805309734
+138 
+token roles
+docID 3217
+score 2.0329335230737954E-4
+4870 
+token 84
 docID 3317
-5427 
-token kcra
-docID 3915
-70 
+score 1.6025641025641026E-4
+737 
+token disservice
+docID 3356
+score 0.0034965034965034965
+186 
+token adoption
+docID 3380
+score 1.4407145944388418E-4
+908 
+token disservice
+docID 3410
+score 2.070822116380203E-4
+4102 
+token consultant
+docID 3522
+score 0.009433962264150943
+8 
+token adoption
 docID 3524
-141 
-docID 3377
-299 
-docID 3143
-121 182 
-token dismayed
-docID 4051
-318 
-token skittles
-docID 3285
-598 2471 
-docID 3714
-41 149 169 185 
-token colleague
-docID 3664
-2553 
-token sodium
-docID 3317
-607 649 698 735 771 2960 
-docID 3786
-641 671 
-token waxes
-docID 3704
-2548 2622 
-token 18:20:37
-docID 3643
-4485 
-token milbrodt
-docID 3426
-488 
-token protip
-docID 4464
-129 
-token wilted
-docID 4264
-311 
-token ymmv
-docID 4761
-2737 2743 
-docID 4275
-4821 
-token lilys
-docID 4582
-52 
-token dwelling
-docID 4117
-1175 1196 
-docID 4460
-350 
-token cannon
-docID 4636
-1 
-token sighting
-docID 4322
-64 
-token 1012
-docID 4144
-1478 
-docID 4794
-135 
-docID 4342
-1594 
-docID 4323
-365 
-token 1020
-docID 4663
-699 
-docID 4253
-3784 
-token 100k
-docID 4253
-8141 
-token blurry
-docID 4471
-1612 
-token 20100606
-docID 4115
-3978 
-docID 4344
-1301 1377 1566 
-token readded
-docID 4483
-269 
-token ribbon
-docID 4732
-348 
-token newage
-docID 4304
-193 
-token encompassed
-docID 4829
-483 
-docID 4211
-29 
-docID 4409
-734 
-token newport
-docID 4194
-152 171 
-token forbid
-docID 4689
-1562 
-docID 4761
-10617 
-token promoter
-docID 4117
-691 
-docID 4684
-286 
-token tneeley
-docID 4113
-2557 
-docID 4303
-1538 
-docID 4163
-3135 
-token aztec
-docID 4316
-572 
-docID 4801
-149 
-token dismayed
-docID 4647
-741 
-docID 4466
-1385 
-token colleague
-docID 4225
-1884 
-token sodium
-docID 4118
-1586 
-docID 4566
-130 
-token torn
-docID 4524
-28 
-token wholesale
-docID 4113
-3155 
-docID 4264
-149 647 
-docID 4761
-4325 
-docID 4117
-598 796 
-token feathered
-docID 4838
-329 
-token binary
-docID 4570
-849 
-token 16:22:17
-docID 4761
-7599 7760 
-token 20100524
-docID 4451
-555 
-token wilted
-docID 5149
-1094 
-token dale
-docID 4948
-377 
-token lilys
-docID 5705
-25 80 297 
-docID 5199
-1041 
-token dwelling
-docID 5090
-453 
-token oaths
-docID 4887
-151 
-token ssfaac
-docID 5088
-176 
-token immature
-docID 5441
-13428 
-docID 4956
-877 928 
-token monsters
-docID 5312
-1150 
-docID 5013
-281 
-token 1012
-docID 5124
-2535 
-token blurry
-docID 5035
-416 485 685 
-docID 5668
-378 
-token forbid
-docID 5152
-3615 
-docID 5567
-1645 
-token tneeley
-docID 5139
-1401 
-token kcra
-docID 5578
-19 46 59 97 113 126 164 190 289 331 424 439 462 
-token hesitated
-docID 5312
-3727 
-token aztec
-docID 5093
-13 
-token degrading
-docID 5114
-1298 
-docID 5567
-12164 
-token conformity
-docID 4866
-279 
-token dismayed
-docID 5007
-2091 
-token torn
-docID 5416
-1274 
-docID 5114
-1077 
-docID 5687
-2077 
-docID 5203
-334 
-token wholesale
-docID 5085
-206 
-docID 5255
-1353 1362 1380 1697 
-docID 5137
-91 
-token feathered
-docID 4885
-2187 
-docID 4909
-65 
-token binary
-docID 5361
-374 633 636 
-token whale
-docID 5632
-1608 1704 
-token hebrew
-docID 5395
-115 129 
-token mp3s
-docID 5504
-71 
-token 20100524
-docID 4882
-257 
-docID 5441
-13226 13734 
-token dale
-docID 5919
-2 
-token lilys
-docID 6170
-923 
-token 101a
-docID 6451
-42 
-token 100k
-docID 6367
-1030 1045 
-docID 6480
-654 
-token 20100606
-docID 6280
-301 
-docID 5811
-3579 
-docID 6498
-259 
-token ribbon
-docID 6013
-149 
-docID 6505
-471 
-token newport
-docID 6506
-1 
-token forbid
-docID 5915
-8223 
-docID 6025
-846 
-token injunction
-docID 6533
-112 114 147 162 223 240 243 257 329 336 530 566 592 
-token kcra
-docID 6260
-397 
-token dismayed
-docID 6380
-1691 
-token colleague
-docID 6130
-268 
-docID 6534
-549 
-token torn
-docID 6131
-2062 
-docID 5861
-972 
-docID 5808
-4037 
-docID 6170
-3632 
-docID 6324
-20 
-token founds
-docID 6318
-10 
-token wholesale
-docID 6333
-12 
-docID 5834
-17 
-token 17:09:14
-docID 5742
-2282 
-token unopposed
-docID 6077
-12 
-token binary
-docID 6062
-2823 
-token whale
-docID 5984
-39 
-token 20100524
-docID 5811
-3418 
-docID 6091
-1278 
-token 10.0
-docID 7410
-441 
-token dale
-docID 7141
-164 
-docID 7125
-414 
-docID 7091
-2901 2994 
-token scottb
-docID 7151
-974 
-token dwelling
-docID 7279
-50 
-docID 7295
-1034 1520 1541 
-docID 6645
-3285 
-docID 7407
-122 
-token stables
-docID 6755
-53 
-token 100s
-docID 7147
-112 
-token immature
-docID 7312
-450 
-docID 6804
-973 
-token 20100606
-docID 6721
-2616 
-token readded
-docID 7111
-142 
-docID 6683
-61 
-token encompassed
-docID 6571
-577 
-token forbid
-docID 6996
-3118 
-token renumbered
-docID 7387
-141 
-token kcra
-docID 6590
-639 
-token hesitated
-docID 7237
-1903 2041 
-token degrading
-docID 6941
-2236 
-token conformity
-docID 6656
-50 
-token dismayed
-docID 6850
-1367 
-token colleague
-docID 6847
-413 
-token torn
-docID 6589
-228 
-token founds
-docID 7045
-63 
-token wholesale
-docID 7244
-1659 
-docID 6677
-803 
-token treadmill
-docID 7312
-282 
-docID 7061
-3096 
-token binary
-docID 7126
-2529 
-docID 6580
-2943 
-docID 7125
-199 202 
-token whale
-docID 6936
-673 
-token mp3s
-docID 6997
-649 
-docID 7126
-1433 
-token alleyways
-docID 7036
-221 
-token 20100524
-docID 6809
-772 
-docID 6594
-1314 
-docID 7075
-849 
-token wilted
-docID 7700
-1937 
-token dale
-docID 7617
-816 864 885 
-docID 7547
-100 
-token lilyt
-docID 7603
-2409 
-token lilys
-docID 8000
-7094 
-token romney
-docID 7715
-20 
-token ssfaac
-docID 7736
-106 
-token 100s
-docID 7548
-310 
-token immature
-docID 8000
-1091 
-token monsters
-docID 8214
-70 89 
-token 1012
-docID 8226
-242 
-docID 7616
-964 
-token 1020
-docID 7590
-347 
-docID 7541
-2132 
-docID 7985
-1580 
-token blurry
-docID 7675
-49 
-token 20100606
-docID 7603
-4526 
-token wiccan
-docID 7930
-2239 
-token kickballpalooza
-docID 7426
-259 
-token ribbon
-docID 8180
-220 
-docID 7994
-2075 
-docID 7732
-225 
-token newage
-docID 7580
-13852 
-token forbid
-docID 7694
-1761 
-docID 7956
-4315 
-docID 7629
-10504 
-token promoter
-docID 8226
-1556 1655 
-token tneeley
-docID 8000
-4581 
-docID 7954
-0 
-token kcra
-docID 7514
-169 
-docID 8169
-536 
-token streamlining
-docID 7893
-884 
-token degrading
-docID 7973
-6828 
-token glycol
-docID 7994
-1438 
-token skittles
-docID 8070
-22 
-token colleague
-docID 7438
-362 
-docID 8172
-19398 19425 
-docID 8088
-643 
-token sodium
-docID 8172
-1189 
-token torn
-docID 8198
-2146 
-docID 8066
-1658 
-docID 7974
-2490 3310 
-docID 8172
-4377 23751 
-token wholesale
-docID 7828
-297 
-docID 7958
-47 
-docID 7778
-24 
-token treadmill
-docID 7909
-996 
-token feathered
-docID 7967
+score 0.004149377593360996
+202 
+token adoption
+docID 3544
+score 0.003257328990228013
+226 
+token victory
+docID 3569
+score 3.3433634236041456E-4
+773 
+token staffer
+docID 3596
+score 0.025
 26 
-token waxes
-docID 8247
-2634 
-token whale
-docID 7973
-5285 
-token hebrew
-docID 7930
-1899 
-token mp3s
-docID 7533
-39 
-token groan
-docID 7629
-8113 
-token 20100524
-docID 7998
-1651 
-docID 8198
-379 
-token dale
-docID 8686
-267 1427 
-token lilys
-docID 8548
-663 674 
-docID 8373
-3992 
-docID 8479
-757 
-token dwelling
-docID 8391
-108 377 
-docID 8434
-275 
-token cannon
-docID 8764
-187 
-token ssfaac
-docID 8754
-9 12 105 160 172 312 434 493 
-token 101a
-docID 8748
-217 
-token immature
-docID 8793
-870 
-token monsters
-docID 8571
-6 
-token 1012
-docID 8561
-317 
-token 1020
-docID 8527
-184 
-token blurry
-docID 8446
-2714 
-token readded
-docID 8489
+token suburb
+docID 3602
+score 0.010309278350515464
 66 
-token ribbon
-docID 8884
-19785 
-docID 8313
-62 
-token forbid
-docID 8726
-4169 
-token promoter
-docID 8273
-38 
-token renumbered
-docID 8618
-135 
-token kcra
-docID 8901
-1682 1693 1694 1716 
-token degrading
-docID 8908
-10302 
-docID 8574
-167 
-token colleague
-docID 8805
-997 
-token sodium
-docID 8546
-151 
-docID 8440
-3358 
-token torn
-docID 8784
-50 
-docID 8884
-10299 19637 
-token wholesale
-docID 8961
-80 
-docID 8676
-148 
-docID 8326
-5672 
-docID 8434
-513 
-token treadmill
-docID 8775
-2901 
-token binary
-docID 8696
-301 
-docID 8908
-7825 
-token whale
-docID 8298
-8 
-token elmendorf
-docID 8898
-247 
-token 20100524
-docID 8726
-5309 5402 
-token wilted
-docID 9616
-65 
-token ymmv
-docID 9426
-624 
-token 23:01:20
-docID 9312
-456 
-token lilyt
-docID 9370
-2500 
-token scottb
-docID 9008
-3456 
-token lilys
-docID 9664
-8265 
-token dwelling
-docID 9619
-1227 
-token kumar
-docID 9165
-336 
-token stables
-docID 9021
-117 119 295 333 336 383 628 
-token 101a
-docID 9361
-1118 2585 
-docID 9137
-26 
-token 100s
-docID 9007
-318 
-docID 9140
-1355 
-token immature
-docID 9206
-1783 
-token 1020
-docID 9071
-46 
-token forbid
-docID 9578
-10124 
-token promoter
-docID 9338
-2699 2828 
-docID 9354
-74 
-token tneeley
-docID 9344
-516 
-docID 9008
-2492 
-token kcra
-docID 9664
-95 
-token degrading
-docID 9328
-194 
-token conformity
-docID 9233
-863 927 
-token colleague
-docID 9534
-2518 2761 
-token sodium
-docID 9057
-2541 2610 
-docID 9253
-1041 
-token torn
-docID 9271
-205 
-token wholesale
-docID 9006
+token victory
+docID 3647
+score 0.001017293997965412
+22 
+token 20090520
+docID 3652
+score 2.797202797202797E-4
+494 
+token foyer
+docID 3719
+score 8.19672131147541E-4
+534 
+token 20070529
+docID 3723
+score 4.1050903119868636E-4
+414 
+token aeromodelers
+docID 3727
+score 0.00228310502283105
 209 
-token treadmill
-docID 9007
-1117 
-docID 9571
-881 
-token unopposed
-docID 9502
-383 
-docID 9586
-922 
-token binary
-docID 9367
-50 
-token waxes
-docID 9664
-7463 8050 
-token whale
-docID 9420
-3873 
-token 20100524
-docID 9619
-599 
-token dale
-docID 9866
-1207 
-token lilys
-docID 9712
-104 
-token dwelling
-docID 10318
-203 
-docID 9896
-412 
-docID 9746
-5228 5417 
-token cannon
-docID 9719
-1588 1652 1659 1663 
-token kumar
-docID 9875
-255 319 1337 
-token ssfaac
-docID 10456
-630 
-token 101a
-docID 10299
-203 
-docID 10019
-470 
-token immature
-docID 10058
-4856 
-docID 9944
-463 715 
-docID 10203
-349 
-docID 9828
-69 
-docID 9746
-17417 
-token monsters
-docID 10417
-1046 
-token 1012
-docID 10132
-7675 
-token 1020
-docID 9746
-22210 
-token midjuly
-docID 10342
-700 
-token readded
-docID 10201
-261 
-docID 10216
-46 
-token ribbon
-docID 10091
-402 
-docID 10067
-88 
-token forbid
-docID 10073
-8057 8264 
-token promoter
-docID 9951
-10 
-token injunction
-docID 10516
-337 
-token maritovar
-docID 9938
-1024 
-token scouring
-docID 10009
-4410 
-token sodium
-docID 10007
-1020 
-token torn
-docID 9994
-44 
-docID 10065
-132 
-token wholesale
-docID 9697
-772 
-token feathered
-docID 10299
-632 
-token incompetency
-docID 10132
-11402 
-docID 9746
-11089 
-token waxes
-docID 10431
-3620 
-token mp3s
-docID 9997
-412 
-token recital
-docID 10079
-148 
-token 20100524
-docID 10550
-108 
-token wilted
-docID 10827
-6517 
-token scottb
-docID 11123
-566 
-token lilys
-docID 10924
-7037 
-docID 10960
-1027 
-token cannon
-docID 10776
-1732 
-token stables
-docID 10918
-138 
-token immature
-docID 10770
-2452 2977 
-docID 10796
-2413 
-docID 11217
-2204 
-token 1016
-docID 10923
-1901 
-token 1012
-docID 10913
-17 
-token 1020
-docID 10990
-1546 
-token 20100606
-docID 10924
-5000 
-token ribbon
-docID 11158
-8634 
-token encompassed
-docID 10889
-57 
-token newport
-docID 10808
-183 
-token forbid
-docID 11113
-267 
-token promoter
-docID 11094
-933 1139 1246 2543 
-token kcra
-docID 10651
-136 166 
-docID 10853
-212 
-docID 11163
-50 
-token glycol
-docID 10619
-1069 
-token skittles
-docID 10897
-905 923 
-token colleague
-docID 10764
-2723 
-token sodium
-docID 10715
-3289 
-docID 11158
-5668 5675 6041 
-token torn
-docID 11127
-1834 
-docID 11158
-21306 
-token wholesale
-docID 10595
-1988 1994 
-token milbrodt
-docID 10588
-58 
-token recital
-docID 10958
-1522 
-token 20100524
-docID 10894
-4 
-docID 10671
+token henson
+docID 3727
+score 0.0045662100456621
+151 202 
+token woodlanddavis
+docID 3727
+score 0.00228310502283105
+208 
+token mavis
+docID 3727
+score 0.0045662100456621
+150 201 
+token 2222
+docID 3771
+score 0.004366812227074236
+179 
+token improv
+docID 3784
+score 0.005494505494505495
+130 
+token nada
+docID 3793
+score 8.841732979664014E-4
+225 
+token staffer
+docID 3802
+score 0.003816793893129771
+123 
+token veronikamonell
+docID 3832
+score 7.173601147776184E-4
+1255 
+token 20070529
+docID 3855
+score 2.9806259314456036E-4
+255 
+token avant
+docID 3861
+score 2.81083106905275E-4
+4134 4434 4472 
+token garde
+docID 3861
+score 1.8738873793685E-4
+4135 4473 
+token mikalonis
+docID 3880
+score 1.5875535799333228E-4
+4368 
+token suburb
+docID 3895
+score 0.0033783783783783786
 18 
-token lilys
-docID 11972
-2707 
-token dwelling
-docID 12021
-319 
-docID 11973
-11 
-docID 11516
-596 600 674 
-token itron
-docID 11452
-0 
-token parlee
-docID 11925
-16 
-token cannon
-docID 11628
-58 75 
-token oaths
-docID 11718
-27 
-token ssfaac
-docID 11359
-317 
-token sighting
-docID 11851
-798 
-token immature
-docID 11409
-1244 
-docID 11713
-1799 
-token 1012
-docID 11964
-781 
-token 1020
-docID 11476
-7896 8080 
-docID 11964
-2592 
-token blurry
-docID 11620
-616 
-docID 11519
-1585 
-docID 11794
-2810 
-token 20100606
-docID 11409
-424 
-docID 12049
-12220 
-token readded
-docID 11666
-117 
-token encompassed
-docID 11997
-745 
-token forbid
-docID 11476
-6117 
-docID 11341
-32 
-token hesitated
-docID 11873
-13494 
-token degrading
-docID 11390
-4896 
-token woodchuck
-docID 11389
-512 516 648 653 
-token dismayed
-docID 11942
-1764 
-docID 11755
-453 
-token skittles
-docID 11347
-1082 
-token sodium
-docID 12049
-2630 
-docID 11778
-7620 
-token torn
-docID 11548
-57 90 108 129 145 176 249 266 292 700 1656 
-docID 11249
-441 468 
-docID 12049
-10221 20025 
-token wholesale
-docID 11515
-1 5 85 
-token treadmill
-docID 11784
-1271 1302 1739 1993 
-docID 11332
-2330 2337 
-token 18:20:37
-docID 11465
-315 
-token hebrew
-docID 11444
-202 822 
-token alleyways
-docID 11814
-312 
-token groan
-docID 11579
-1664 
-token ymmv
-docID 12265
-2579 
-token scottb
-docID 12647
-5199 10175 
-token lilys
-docID 12647
-9893 
-token dwelling
-docID 12537
-95 
-token romney
-docID 12647
-491 689 5269 5775 6141 7259 7544 8287 
-token jennifers
-docID 12647
-6707 
-token cannon
-docID 12647
-3375 
-token 1012
-docID 12292
-182 
-token 20100606
-docID 12564
-5418 
-docID 12584
-79 
-docID 12103
-4580 
-token hillarythomas
-docID 12307
-894 
-docID 12603
-1881 
-token tneeley
-docID 12457
-2406 2593 
-token kcra
-docID 12290
-182 
-token degrading
-docID 12052
-1791 1818 
-docID 12119
-516 
-token scouring
-docID 12390
-433 
-token colleague
-docID 12073
-1257 
-token torn
-docID 12817
-2144 
-docID 12573
-3114 
-docID 12200
-1411 1892 1931 
-token wholesale
-docID 12686
-8 
-token treadmill
-docID 12564
-3474 
-token 20100524
-docID 12475
-1127 
-docID 12372
-2226 
-docID 12402
-1336 
-token haller
-docID 12613
-81 
-token wilted
-docID 13178
-109 276 
-token scottb
-docID 12933
-2502 
-token lilys
-docID 12959
-125 
-docID 13250
-43382 43410 
-token cannon
-docID 13088
-1295 
-token kumar
-docID 13366
-1 83 423 
-token ssfaac
-docID 12822
-69 
-docID 13263
-63 170 
-token 19941995
-docID 13052
-389 
-token sighting
-docID 13324
-413 
-token 101a
-docID 13500
-2645 
-token 1012
-docID 13397
-1192 
-token 100k
-docID 12869
-16 
-token wiccan
-docID 13154
-24 95 
-token ribbon
-docID 13250
-5010 
-token encompassed
-docID 13542
-4 
-token forbid
-docID 13250
-48115 
-token promoter
-docID 13555
-228 
-token injunction
-docID 13288
-5632 
-token aztec
-docID 13098
-323 
-token conformity
-docID 13288
-3787 
-token colleague
-docID 13310
-630 
-token torn
-docID 12954
-391 
-docID 13265
-148 
-docID 13009
-6218 
-token founds
-docID 13171
-934 
-token 19841985
-docID 13052
-296 
-token wholesale
-docID 13481
-792 796 
-token feathered
-docID 13421
-40 
-token binary
-docID 13193
-10 
-token hebrew
-docID 13528
-760 
-token recital
-docID 12959
-129 
-token ymmv
-docID 13799
-1835 
-docID 14245
-1198 
-docID 13702
-1439 
-docID 14076
+token roles
+docID 3905
+score 5.871990604815032E-4
 180 
-token scottb
-docID 13889
-7084 
-docID 14334
-3110 
-docID 13801
-243 
-token lilys
-docID 13852
-0 7 62 139 
-token dwelling
-docID 13874
-170 
-token 19941995
-docID 13707
-9 
-token sighting
-docID 14137
-437 
-token immature
-docID 13652
-1122 
-token monsters
-docID 14293
-354 
-token 23:09:55
-docID 14251
-5525 
-token blurry
-docID 14073
-3 
-token 20100606
-docID 13799
-6060 
-docID 13812
-1107 1235 
-token readded
-docID 13599
-203 
-token ribbon
-docID 13706
-1645 
-docID 13570
-24 
-docID 14060
-330 
-token newport
-docID 13912
-18 
-docID 13652
-999 
-token forbid
-docID 14220
-999 
-token injunction
-docID 14123
-50 
-token tneeley
-docID 13734
-1156 
-docID 13934
-4691 
-token maritovar
-docID 13889
-5895 
-token hesitated
-docID 13888
-1551 
-token streamlining
-docID 13729
-318 
-token degrading
-docID 14043
-2802 2838 
-token partyer
-docID 14146
-1692 
-token sodium
-docID 14076
-1580 1597 1613 
-token torn
-docID 14092
-1289 
-docID 13799
-6253 
-docID 13652
-2335 
-docID 13889
-1124 
-docID 13723
-83 
-docID 13632
-289 
-token wholesale
-docID 13829
-3401 
-docID 13820
-0 
-token treadmill
-docID 14251
-1533 
-token unopposed
-docID 14241
-125 
-token waxer
-docID 13652
-4165 
-token hebrew
-docID 13588
-67 75 
-token recital
-docID 13919
-7 
-token 20100524
-docID 13638
-340 
-token wilted
-docID 14766
-5150 
-token protip
-docID 14743
-99 
-token ymmv
-docID 14390
-540 
-token lilys
-docID 14405
-7087 
-docID 15011
-44 67 
-token dwelling
-docID 14599
-99 113 159 173 208 251 333 369 
-docID 14534
-719 761 
-token stables
-docID 14420
-1279 
-token 101a
-docID 14430
-137 
-token immature
-docID 14844
-132 207 
-docID 14743
-2925 
-token 1012
-docID 14465
-3590 
-token 1020
-docID 14497
-5297 
-token 100k
-docID 14454
-463 
-docID 14669
-1204 
-token 20100606
-docID 14842
-3498 
-docID 14982
-9331 
-token blurry
-docID 14407
-5739 
-token readded
-docID 14990
-81 
-token ribbon
-docID 15023
-167 
-token encompassed
-docID 14695
-70 
-token forbid
-docID 14497
-10098 
-docID 14858
-1773 
-token kcra
-docID 15018
-303 
-token streamlining
-docID 14418
-354 
-token conformity
-docID 14497
-13222 
-token dismayed
-docID 14389
-1942 
-token colleague
-docID 14946
-16 
-token sodium
-docID 14766
-5141 
-docID 15018
-139 
-docID 14981
-468 473 
-token torn
-docID 14870
-490 
-docID 15034
-2851 
-token wholesale
-docID 14854
-4030 
-docID 14389
-5153 
-token treadmill
-docID 14844
-1327 4035 
-docID 14919
-138 
-token 17:09:14
-docID 14673
-628 
-token newasucdcommitteetoreinstatedistributionofscholarships
-docID 14922
-743 
-token feathered
-docID 14413
-149 818 
-docID 14582
-42 
-token binary
-docID 14939
-522 550 
-token waxes
-docID 14953
-4484 
-token mp3s
-docID 14576
-33 
-token shims
-docID 15455
-1722 
-token dale
-docID 15724
-558 560 
-token 10.0
-docID 15455
-1645 
-token lilys
-docID 15419
-2676 3207 
-token romney
-docID 15573
-1761 
-token cannon
-docID 15690
+token avant
+docID 3966
+score 0.0014684287812041115
+234 
+token 11:56:31
+docID 3978
+score 3.7383177570093456E-4
+2430 
+token slim
+docID 3978
+score 3.7383177570093456E-4
+475 
+token victory
+docID 3991
+score 0.0020920502092050207
+234 
+token adoption
+docID 3996
+score 0.0010887316276537834
+1042 1055 
+token feburary
+docID 3999
+score 0.02
+25 
+token 20090520
+docID 4021
+score 3.929273084479371E-4
+400 
+token foyer
+docID 4023
+score 0.0014684287812041115
+422 
+token victory
+docID 4029
+score 0.009523809523809525
+23 
+token foyer
+docID 4059
+score 0.001736111111111111
+454 
+token 20090520
+docID 4062
+score 0.0027548209366391185
+153 
+token ravaged
+docID 4063
+score 0.001177856301531213
+202 
+token placerville
+docID 4063
+score 0.001177856301531213
+493 
+token foyer
+docID 4078
+score 9.467007478935909E-5
+9627 
+token consultant
+docID 4115
+score 2.4764735017335313E-4
+383 
+token infernal
+docID 4126
+score 0.0012610340479192938
+113 
+token mikalonis
+docID 4144
+score 4.805382027871216E-4
+1627 
+token adoption
+docID 4145
+score 0.012195121951219513
+97 124 
+token feburary
+docID 4155
+score 0.004329004329004329
+87 
+token 337
+docID 4191
+score 0.0032679738562091504
+222 
+token zuniga
+docID 4191
+score 0.0032679738562091504
+233 
+token fictional
+docID 4212
+score 0.0011261261261261261
+847 
+token victory
+docID 4214
+score 0.015151515151515152
+57 
+token fictional
+docID 4229
+score 9.398496240601503E-4
+734 
+token rednecks
+docID 4252
+score 0.0020964360587002098
+305 
+token 50k
+docID 4253
+score 1.0301844030081384E-4
+8118 
+token mikalonis
+docID 4253
+score 3.0905532090244153E-4
+97 8249 8382 
+token consultant
+docID 4275
+score 1.2091898428053205E-4
+5886 
+token foyer
+docID 4315
+score 0.0011494252873563218
+754 
+token suburb
+docID 4335
+score 0.01282051282051282
+72 
+token consultant
+docID 4341
+score 2.1048200378867606E-4
+2185 
+token bessier
+docID 4341
+score 0.0014733740265207324
+1503 1771 1782 1892 2440 2718 3496 
+token retribution
+docID 4341
+score 2.1048200378867606E-4
+843 
+token consultant
+docID 4342
+score 2.115506663845991E-4
+881 
+token staffer
+docID 4355
+score 4.803073967339097E-4
+1829 
+token adoption
+docID 4357
+score 0.004201680672268907
+241 653 1008 1010 1045 1073 1086 1112 1474 1501 1513 1847 2832 
+token 337
+docID 4367
+score 0.008
+43 
+token suburb
+docID 4377
+score 0.005376344086021506
+153 
+token 84
+docID 4412
+score 1.6310552927744252E-4
+3424 
+token roles
+docID 4437
+score 2.2177866489243733E-4
+413 
+token discovers
+docID 4437
+score 2.2177866489243733E-4
+2790 
+token reporters
+docID 4471
+score 7.71962328238382E-5
+12243 
+token consultant
+docID 4478
+score 0.001589825119236884
+537 
+token 337
+docID 4540
+score 0.0021321961620469083
+174 
+token 13:20:18
+docID 4563
+score 5.089058524173028E-4
+154 
+token reporters
+docID 4588
+score 0.002932551319648094
+194 
+token neocon
+docID 4608
+score 0.0012300123001230013
+227 
+token fabricated
+docID 4630
+score 5.43773790103317E-4
+1068 
+token aloud
+docID 4644
+score 6.63129973474801E-4
+868 
+token transmitter
+docID 4646
+score 0.0032102728731942215
+109 113 
+token adoption
+docID 4652
+score 0.0023923444976076554
+396 
+token abstaining
+docID 4660
+score 1.6837851490149856E-4
+3839 
+token victory
+docID 4660
+score 3.367570298029971E-4
+4492 5298 
+token adoption
+docID 4668
+score 4.152823920265781E-4
+4968 5711 5768 
+token worksheet
+docID 4689
+score 0.001026694045174538
+1096 1714 
+token kiwi
+docID 4701
+score 6.891798759476223E-4
+521 
+token fabricated
+docID 4702
+score 0.0030441400304414
+33 77 
+token roles
+docID 4721
+score 2.978850163836759E-4
+1268 
+token quartet
+docID 4729
+score 0.0012763241863433313
+744 1087 
+token bittersweet
+docID 4750
+score 4.418912947414936E-4
+1426 
+token mcmullen
+docID 4770
+score 0.006060606060606061
 1 
+token consultant
+docID 4791
+score 0.004597701149425287
+321 353 
+token staffer
+docID 4848
+score 9.885330170027679E-5
+1787 
+token 20050311
+docID 4856
+score 0.0044444444444444444
+111 
+token abstaining
+docID 4887
+score 0.0014684287812041115
+3509 3515 3578 4047 4113 4148 4172 
+token 20090520
+docID 4921
+score 1.6966406515100103E-4
+527 
+token reporters
+docID 4921
+score 1.6966406515100103E-4
+1520 
+token roles
+docID 4962
+score 0.001736111111111111
+733 1093 
+token victory
+docID 4978
+score 0.00215633423180593
+261 1679 1682 1685 
+token discovers
+docID 5060
+score 9.033423667570009E-4
+985 
+token freedoms
+docID 5063
+score 2.1312872975277067E-4
+1711 
+token adoption
+docID 5067
+score 0.022821576763485476
+9 27 60 236 262 274 283 305 321 374 399 
+token fictional
+docID 5172
+score 1.4714537963507945E-4
+3 
+token slim
+docID 5172
+score 1.4714537963507945E-4
+106 
+token expo
+docID 5177
+score 0.0012836970474967907
+665 
+token roles
+docID 5216
+score 0.002631578947368421
+221 
+token victory
+docID 5226
+score 0.0038314176245210726
+168 
+token colgate
+docID 5226
+score 0.0038314176245210726
+188 
+token victory
+docID 5236
+score 2.6041666666666666E-4
+1239 
+token aloud
+docID 5282
+score 3.8211692777990065E-4
+2105 
+token roles
+docID 5291
+score 0.002207505518763797
+30 
+token avant
+docID 5310
+score 4.84027105517909E-4
+38 
+token garde
+docID 5310
+score 4.84027105517909E-4
+39 
+token meanspirited
+docID 5312
+score 8.87154009936125E-5
+8984 
+token matthewshannon
+docID 5353
+score 0.004545454545454545
+294 341 
+token freedoms
+docID 5381
+score 1.2227928588897041E-4
+5594 
+token reporters
+docID 5381
+score 1.2227928588897041E-4
+2304 
+token woodlanddavis
+docID 5412
+score 0.006711409395973154
+120 
+token roles
+docID 5429
+score 1.678133915086424E-4
+984 
+token 18:05:06
+docID 5429
+score 1.678133915086424E-4
+1244 
+token quartet
+docID 5441
+score 5.554938340184424E-5
+199 
+token feburary
+docID 5464
+score 0.001483679525222552
+243 
+token 18:05:06
+docID 5482
+score 0.0014970059880239522
+342 
+token meanspirited
+docID 5491
+score 2.061855670103093E-4
+3510 
+token aloud
+docID 5494
+score 7.189072609633358E-4
+456 
+token reporters
+docID 5537
+score 0.001091703056768559
+211 
+token suburb
+docID 5540
+score 0.0018248175182481751
+44 
+token bessier
+docID 5550
+score 1.1832919181161993E-4
+910 
+token victory
+docID 5567
+score 7.044237813468582E-5
+1707 
+token 20070529
+docID 5576
+score 3.2092426187419767E-4
+840 
+token transmitter
+docID 5578
+score 0.0019646365422396855
+427 
+token 20070529
+docID 5608
+score 1.5163002274450342E-4
+425 
+token victory
+docID 5644
+score 0.00199203187250996
+436 
+token 84
+docID 5660
+score 2.6867275658248256E-4
+1887 
+token consultant
+docID 5663
+score 0.009900990099009901
+29 
+token adoption
+docID 5674
+score 0.012269938650306749
+20 52 
+token meanspirited
+docID 5734
+score 0.003952569169960474
+198 
+token 20090520
+docID 5735
+score 3.7243947858472997E-4
+2107 
+token consultant
+docID 5762
+score 2.554278416347382E-4
+1552 
+token victory
+docID 5785
+score 5.376344086021505E-4
+28 
+token improv
+docID 5830
+score 0.002976190476190476
+124 
+token consultant
+docID 5843
+score 0.015151515151515152
+30 
+token aloud
+docID 5844
+score 4.3725404459991256E-4
+1888 
+token mikalonis
+docID 5844
+score 4.3725404459991256E-4
+918 
+token placerville
+docID 5949
+score 0.001122334455667789
+277 
+token expo
+docID 5949
+score 0.002244668911335578
+394 406 
+token kiwi
+docID 5956
+score 2.0479213598197828E-4
+1558 
+token bessier
+docID 5980
+score 9.671179883945841E-4
+11 
+token improv
+docID 5984
+score 0.00684931506849315
+41 
+token 20090520
+docID 5985
+score 1.2554927809165097E-4
+3150 
+token megaphone
+docID 5987
+score 3.4518467380048324E-4
+3012 3051 
+token roles
+docID 5999
+score 0.004219409282700422
+46 
+token bessier
+docID 6008
+score 0.011235955056179775
+52 
+token consultant
+docID 6015
+score 0.027777777777777776
+20 
+token aloud
+docID 6086
+score 8.067769261799113E-5
+2351 
+token 84
+docID 6140
+score 7.142857142857143E-4
+816 
+token 15:18:55
+docID 6169
+score 0.001763668430335097
+412 
+token avant
+docID 6170
+score 1.1785503830288745E-4
+377 
+token kiwi
+docID 6170
+score 1.1785503830288745E-4
+156 
+token garde
+docID 6170
+score 1.1785503830288745E-4
+378 
+token que
+docID 6234
+score 0.006329113924050633
+101 
+token slim
+docID 6273
+score 3.15357931251971E-4
+2521 
+token 2222
+docID 6353
+score 3.0358227079538557E-4
+1592 
+token 84
+docID 6353
+score 3.0358227079538557E-4
+1891 
+token expo
+docID 6388
+score 0.2
+4 
+token victory
+docID 6410
+score 0.004807692307692308
+83 
+token worksheet
+docID 6414
+score 0.0041753653444676405
+57 101 
+token fictional
+docID 6414
+score 0.0020876826722338203
+84 
+token bessier
+docID 6419
+score 4.45632798573975E-4
+463 
+token feburary
+docID 6436
+score 6.91085003455425E-4
+219 
+token suburb
+docID 6438
+score 0.038461538461538464
+3 
+token staffer
+docID 6443
+score 4.4802867383512545E-4
+10 
+token freedoms
+docID 6480
+score 0.0012195121951219512
+614 
+token roles
+docID 6497
+score 0.0012033694344163659
+99 
+token adoption
+docID 6518
+score 0.026252983293556086
+171 175 188 192 201 235 249 334 371 378 392 
+token victory
+docID 6538
+score 0.00228310502283105
+405 
+token avant
+docID 6594
+score 0.0018450184501845018
+269 1227 1375 1465 2587 
+token garde
+docID 6594
+score 0.002214022140221402
+270 803 1228 1376 1466 2588 
+token adoption
+docID 6645
+score 0.004122648801855192
+65 124 160 228 262 876 1165 1933 2372 2379 2436 2811 3400 3483 3738 3773 
+token placerville
+docID 6686
+score 5.714285714285715E-4
+688 
+token quartet
+docID 6686
+score 5.714285714285715E-4
+829 
+token freedoms
+docID 6686
+score 5.714285714285715E-4
+117 
+token mikalonis
+docID 6703
+score 2.501876407305479E-4
+2786 
+token expo
+docID 6712
+score 0.008620689655172414
+107 
+token expo
+docID 6722
+score 0.0016835016835016834
+24 
+token consultant
+docID 6757
+score 1.934610176049526E-4
+3016 
+token placerville
+docID 6781
+score 2.449779519843214E-4
+1153 
+token reporters
+docID 6790
+score 0.013513513513513514
+15 
+token disservice
+docID 6832
+score 2.770083102493075E-4
+2370 
+token 20050311
+docID 6846
+score 6.548788474132286E-4
+713 
+token transmitter
+docID 6898
+score 0.015151515151515152
+65 
+token suburb
+docID 6920
+score 9.718172983479105E-4
+615 
+token 20090520
+docID 6941
+score 1.1946004061641381E-4
+3823 
+token discovers
+docID 6970
+score 0.0012422360248447205
+799 
+token fictional
+docID 6970
+score 0.002484472049689441
+527 534 
+token adoption
+docID 6972
+score 0.0022222222222222222
+107 
+token adoption
+docID 6976
+score 0.0033333333333333335
+54 
+token improv
+docID 7022
+score 0.037037037037037035
+23 
+token candid
+docID 7030
+score 3.6656891495601173E-4
+520 
+token consultant
+docID 7075
+score 3.201024327784891E-4
+69 
+token 20090520
+docID 7123
+score 2.11954217888936E-4
+1468 
+token victory
+docID 7124
+score 0.007220216606498195
+181 241 
+token avant
+docID 7133
+score 0.001953125
+36 71 87 2292 2317 2437 4996 5035 5672 6084 6853 7165 7254 7911 7923 7934 8049 8883 8903 
+token garde
+docID 7133
+score 0.002055921052631579
+37 72 88 2293 2318 2438 3066 4997 5036 5673 6085 6854 7166 7255 7912 7924 7935 8050 8884 8904 
+token 84
+docID 7147
+score 0.001122334455667789
+798 
+token worksheet
+docID 7173
+score 0.0010787486515641855
+344 
+token fictional
+docID 7199
+score 0.003424657534246575
+40 
+token avant
+docID 7218
+score 0.0010504201680672268
+70 
+token garde
+docID 7218
+score 0.0010504201680672268
+71 
+token transmitter
+docID 7230
+score 0.002717391304347826
+183 
+token suburb
+docID 7257
+score 7.616146230007616E-4
+577 
+token adoption
+docID 7295
+score 4.3159257660768235E-4
+1618 
+token fictional
+docID 7313
+score 0.012195121951219513
+8 107 
+token slim
+docID 7319
+score 0.0017271157167530224
+543 
+token emcee
+docID 7324
+score 0.004424778761061947
+108 
+token staffer
+docID 7373
+score 1.4343086632243257E-4
+6710 
+token roles
+docID 7378
+score 0.007462686567164179
+123 
+token fictional
+docID 7391
+score 0.023809523809523808
+18 
+token lyricist
+docID 7405
+score 0.0017699115044247787
+341 
+token adoption
+docID 7412
+score 4.967709885742673E-4
+1115 
+token 84
+docID 7416
+score 0.0025575447570332483
+105 
+token staffer
+docID 7444
+score 5.515719801434088E-4
+1684 
+token victory
+docID 7524
+score 0.007936507936507936
+26 
+token disservice
+docID 7527
+score 0.0016181229773462784
+600 
+token staffer
+docID 7541
+score 2.6143790849673205E-4
+3725 
+token consultant
+docID 7545
+score 0.0019305019305019305
+19 
+token consultant
+docID 7554
+score 0.038461538461538464
+6 
+token staffer
+docID 7580
+score 5.839075090505664E-5
+211 
+token clearchannel
+docID 7603
+score 1.6954899966090201E-4
+1311 
+token slim
+docID 7603
+score 3.3909799932180403E-4
+152 2500 
+token adoption
+docID 7671
+score 8.888888888888889E-4
+301 
+token 2008/11
+docID 7699
+score 9.250693802035153E-4
+421 
+token slim
+docID 7699
+score 9.250693802035153E-4
+562 
+token craven
+docID 7746
+score 0.003015075376884422
+39 44 595 
+token embarassing
+docID 7757
+score 0.0034129692832764505
+172 
+token 20090520
+docID 7776
+score 2.699055330634278E-4
+2264 
+token consultant
+docID 7871
+score 0.007751937984496124
+54 
+token roles
+docID 7873
+score 0.005780346820809248
+85 180 
+token mickey
+docID 7909
+score 1.0481081647626035E-4
+4278 
+token feburary
+docID 7916
+score 0.0011123470522803114
+374 
+token neocon
+docID 7973
+score 1.381406271584473E-4
+3719 
+token colgate
+docID 7994
+score 7.00770847932726E-4
+249 1447 
+token mickey
+docID 8046
+score 0.0014124293785310734
+178 
+token rednecks
+docID 8066
+score 4.780114722753346E-4
+709 
+token roles
+docID 8165
+score 6.729475100942127E-4
+330 
+token bessier
+docID 8172
+score 8.15594160345812E-5
+11289 11324 
+token quartet
+docID 8172
+score 4.07797080172906E-5
+6860 
+token fictional
+docID 8172
+score 4.07797080172906E-5
+19558 
+token consultant
+docID 8226
+score 1.4766686355581807E-4
+107 
+token adoption
+docID 8264
+score 0.0027548209366391185
+166 
+token 20070529
+docID 8279
+score 0.004347826086956522
+191 
+token placerville
+docID 8317
+score 0.0013020833333333333
+657 
+token adoption
+docID 8317
+score 0.0078125
+85 294 406 474 558 603 
+token 20070529
+docID 8326
+score 1.67897918065816E-4
+4677 
+token adoption
+docID 8391
+score 0.0016611295681063123
+1148 1163 
+token roles
+docID 8404
+score 0.002890173410404624
+230 
+token roles
+docID 8463
+score 0.0018050541516245488
+361 
+token adoption
+docID 8485
+score 4.591368227731864E-4
+1178 
+token 20090520
+docID 8491
+score 3.632401017072285E-4
+2676 
+token colgate
+docID 8496
+score 4.562043795620438E-4
+564 
+token quartet
+docID 8496
+score 4.562043795620438E-4
+172 
+token slim
+docID 8535
+score 0.0029411764705882353
+141 
+token disservice
+docID 8544
+score 0.001004016064257028
+303 
+token 337
+docID 8550
+score 7.8125E-4
+811 
+token adoption
+docID 8573
+score 6.587615283267457E-4
+359 
+token freedoms
+docID 8587
+score 1.57035175879397E-4
+1166 
+token disservice
+docID 8587
+score 1.57035175879397E-4
+4697 
+token mavis
+docID 8610
+score 0.007518796992481203
+67 
+token discerning
+docID 8625
+score 0.004132231404958678
+237 
+token roles
+docID 8647
+score 1.3480722566729578E-4
+5450 
+token craiglist
+docID 8647
+score 1.3480722566729578E-4
+5905 
+token roles
+docID 8650
+score 7.299270072992701E-5
+3745 
+token fabricated
+docID 8690
+score 0.0024813895781637717
+253 
+token discovers
+docID 8720
+score 0.01639344262295082
+19 
+token colgate
+docID 8742
+score 0.009259259259259259
+33 
+token roles
+docID 8751
+score 4.3402777777777775E-4
+565 
+token mikalonis
+docID 8754
+score 0.0018315018315018315
+515 
+token 20131012
+docID 8760
+score 0.004830917874396135
+165 
+token 337
+docID 8801
+score 0.009523809523809525
+4 
+token http://www.plone.org
+docID 8808
+score 7.774840615767377E-5
+7582 
+token plone
+docID 8808
+score 7.774840615767377E-5
+7583 
+token reporters
+docID 8830
+score 0.004149377593360996
+81 419 
+token expo
+docID 8830
+score 0.004149377593360996
+189 192 
+token 21:56:50
+docID 8849
+score 0.005780346820809248
+157 
+token 84
+docID 8865
+score 7.757951900698216E-4
+825 
+token roles
+docID 8874
+score 0.021447721179624665
+1 62 163 201 209 274 297 306 
+token placerville
+docID 8879
+score 0.02564102564102564
+26 
+token embarassing
+docID 8884
+score 4.999750012499375E-5
+16187 
+token meanspirited
+docID 8884
+score 4.999750012499375E-5
+3333 
+token aloud
+docID 8884
+score 4.999750012499375E-5
+9180 
+token abstaining
+docID 8885
+score 0.0012987012987012987
+267 
+token 18:03:22
+docID 8885
+score 0.0012987012987012987
+227 
+token colgate
+docID 8888
+score 6.747638326585695E-5
+8573 
+token roles
+docID 8888
+score 6.747638326585695E-5
+8684 
+token adoption
+docID 8889
+score 0.0014084507042253522
+220 
+token adoption
+docID 8906
+score 2.288329519450801E-4
+2509 
+token 50k
+docID 8908
+score 7.40905386382159E-5
+10519 
+token reporters
+docID 8908
+score 7.40905386382159E-5
+10700 
+token freedoms
+docID 8917
+score 5.268703898840885E-4
+722 
+token adoption
+docID 8939
+score 8.097821685966476E-5
+53 
+token henson
+docID 8990
+score 8.888888888888889E-4
+193 
+token 50k
+docID 8993
+score 7.16306722538591E-5
+23023 23035 
+token slim
+docID 8993
+score 3.581533612692955E-5
+27911 
+token nada
+docID 9008
+score 2.892681515765114E-4
+606 
+token victory
+docID 9020
+score 2.751031636863824E-4
+409 
+token expo
+docID 9021
+score 0.002785515320334262
+461 471 
+token aeromodelers
+docID 9028
+score 0.002183406113537118
+452 
+token woodlanddavis
+docID 9028
+score 0.002183406113537118
+451 
+token consultant
+docID 9039
+score 3.3211557622052476E-4
+2177 
+token roles
+docID 9039
+score 3.3211557622052476E-4
+1316 
+token improv
+docID 9048
+score 0.015873015873015872
+32 
+token discerning
+docID 9051
+score 4.8262548262548264E-4
+1217 
+token adoption
+docID 9070
+score 8.873114463176575E-4
+267 
+token expo
+docID 9071
+score 0.003003003003003003
+31 36 40 
+token consultant
+docID 9132
+score 8.503401360544217E-4
+115 
+token plone
+docID 9140
+score 5.221932114882506E-4
+1155 
+token 13:20:18
+docID 9157
+score 0.011235955056179775
+19 
+token reporters
+docID 9165
+score 0.0024875621890547263
+888 1158 1459 1541 
+token placerville
+docID 9182
+score 5.834305717619603E-4
+728 
+token nada
+docID 9206
+score 3.1887755102040814E-4
+941 
+token passionately
+docID 9211
+score 0.0020325203252032522
+232 
+token roles
+docID 9214
+score 0.0017152658662092624
+34 
+token saly
+docID 9224
+score 0.0017152658662092624
+707 708 
+token colgate
+docID 9233
+score 7.818608287724785E-4
+585 
+token zope
+docID 9261
+score 5.767012687427913E-4
+1270 
+token zugod
+docID 9261
+score 5.767012687427913E-4
+1269 
+token abstaining
+docID 9324
+score 0.0016129032258064516
+370 
+token adoption
+docID 9328
+score 0.0012919896640826874
+409 
+token consultant
+docID 9329
+score 0.003816793893129771
+14 
+token mikalonis
+docID 9349
+score 6.863417982155113E-4
+122 
+token adoption
+docID 9361
+score 4.576659038901602E-4
+154 574 
+token 84
+docID 9382
+score 0.02586652871184687
+177 189 197 235 249 298 327 341 378 380 386 434 463 475 537 580 627 677 707 713 723 772 823 852 870 899 919 971 1017 1023 1082 1124 1132 1174 1184 1190 1238 1283 1295 1335 1363 1367 1381 1433 1478 1529 1578 1625 1674 1718 1734 1773 1779 1783 1797 1839 1851 1897 1911 1957 1986 2000 2037 2039 2045 2090 2121 2133 2190 2233 2277 2324 2354 2360 2370 2419 2470 2499 2517 2546 2566 2618 2661 2667 2726 2768 2776 2813 2823 2829 2877 2922 2934 2958 2982 3015 3019 3033 3082 3127 3178 3227 3274 3325 3346 3366 3406 3444 3460 3499 3505 3509 3523 3553 3561 3577 3611 3633 3647 3702 3710 3716 3766 3780 3798 3826 3855 3861 3865 3881 3911 3925 3961 3975 4030 4067 4083 4128 4171 4207 4225 4254 4276 4317 4333 4364 4368 4380 4413 4425 4460 4478 4521 4558 5075 5089 5792 5798 6024 6026 6032 6075 6077 6083 6548 6597 6621 6657 6775 6798 6826 6832 6886 6969 6994 7020 7028 7153 7167 7181 7213 7241 7247 7295 7309 7323 7364 7378 7392 7454 7512 7558 7572 7586 7739 7781 7783 7789 8036 8050 8064 8092 8106 8120 8152 8166 8180 8437 8451 8465 8473 8521 8576 8669 8681 8683 8786 8792 8911 9029 9043 9063 9105 9119 9137 9165 9183 9227 9229 9235 9253 9297 9309 9327 9362 9374 9392 9448 9466 9514 9522 9540 9592 9610 9664 9682 9732 9738 9756 9820 9838 9890 9908 9966 9984 10020 10038 10056 10092 10096 10110 10128 10159 10173 10193 10211 10267 10285 10318 10342 10633 10713 10832 10846 10887 10944 10959 11109 11158 11321 11437 11503 11599 11891 11893 11899 11919 11970 12002 12030 12048 12068 12076 12099 12119 12141 12213 12215 12221 12253 12276 12290 12357 12375 12425 12437 12445 12471 12485 12489 12503 12523 12570 12590 12641 12661 12704 12712 12732 12763 12783 12805 12865 12879 12893 12950 12978 13031 13064 13078 13096 13294 13306 13314 13512 13526 13540 13591 13607 13619 13661 13667 13671 13685 13728 13740 13779 13793 13833 13849 13895 13935 13953 13992 13994 14000 14014 14036 14087 14101 14123 14175 14189 14211 14303 14311 14353 14417 14425 14445 14453 14469 14483 14512 14532 14540 14587 14599 14607 14801 14813 14821 14921 14933 14941 15041 15053 15061 15276 15288 15296 15405 15459 15516 15530 15553 15557 15597 15601 15615 15629 15661 15693 15695 15717 15719 15725 15757 15795 15817 15821 15851 15913 15935 15939 15961 15975 16005 16049 16079 16115 16123 16153 16189 16253 16283 16285 16309 16339 16385 16413 16479 16491 16499 16540 16564 16584 16658 16687 16709 16723 16830 16842 16850 17185 17197 17205 17229 17251 17265 
+token victory
+docID 9386
+score 8.305647840531562E-4
+920 
+token consultant
+docID 9396
+score 5.858230814294083E-4
+564 
+token avant
+docID 9416
+score 0.1111111111111111
+6 
+token garde
+docID 9416
+score 0.1111111111111111
+7 
+token nongovernmental
+docID 9420
+score 2.536461636017755E-4
+190 246 
+token disservice
+docID 9445
+score 4.636068613815484E-4
+1031 
+token que
+docID 9498
+score 2.477700693756194E-4
+1329 
+token avant
+docID 9529
+score 0.002313475997686524
+156 634 792 862 
+token consultant
+docID 9529
+score 5.78368999421631E-4
+1135 
+token garde
+docID 9529
+score 0.002313475997686524
+157 635 793 863 
+token 20070529
+docID 9534
+score 2.360160490913382E-4
+217 
+token adoption
+docID 9551
+score 0.006134969325153374
+137 
+token quartet
+docID 9555
+score 0.03636363636363636
+45 54 
+token suburb
+docID 9571
+score 1.7067759003242875E-4
+3624 
+token galling
+docID 9578
+score 7.447680047665153E-5
+6253 
+token staffer
+docID 9648
+score 0.0010857763300760044
+66 
+token craven
+docID 9654
+score 0.0010964912280701754
+670 
+token 20090520
+docID 9719
+score 2.666666666666667E-4
+1206 
+token consultant
+docID 9728
+score 0.05263157894736842
+15 
+token clearchannel
+docID 9801
+score 0.0010438413361169101
+702 
+token victory
+docID 9801
+score 0.0010438413361169101
+532 
+token transmitter
+docID 9801
+score 0.0041753653444676405
+30 109 122 879 
+token colgate
+docID 9868
+score 0.023255813953488372
+31 
+token 337
+docID 9874
+score 0.003389830508474576
+210 
+token victory
+docID 9875
+score 2.663115845539281E-4
+175 
+token garde
+docID 9908
+score 3.2829940906106366E-4
+26 
+token avant
+docID 9908
+score 3.2829940906106366E-4
+25 
+token 20131012
+docID 9937
+score 0.001226993865030675
+797 
+token expo
+docID 9965
+score 0.006535947712418301
+195 197 
+token http://www.acromedia.com/blog/media/daily_show_george_andrews_clip.rm
+docID 9983
+score 0.0020242914979757085
+296 
+token 20070529
+docID 9994
+score 4.562043795620438E-4
+347 
+token roles
+docID 10017
+score 0.001949317738791423
+79 
+token staffer
+docID 10086
+score 5.47645125958379E-4
+1137 
+token avant
+docID 10087
+score 0.037037037037037035
+0 
+token placerville
+docID 10091
+score 0.002324230098779779
+649 844 1358 1372 
+token adoption
+docID 10091
+score 5.810575246949448E-4
+1070 
+token candid
+docID 10132
+score 7.632422530911312E-5
+12481 
+token victory
+docID 10170
+score 0.001443001443001443
+186 
+token kiwi
+docID 10186
+score 0.0035842293906810036
+120 193 
+token 337
+docID 10208
+score 0.011111111111111112
+76 
+token consultant
+docID 10211
+score 0.00202020202020202
+340 
+token bessier
+docID 10213
+score 0.005917159763313609
+113 
+token bittersweet
+docID 10232
+score 0.0012594458438287153
+158 
+token 20070529
+docID 10233
+score 0.001375515818431912
+77 
+token foyer
+docID 10273
+score 5.515719801434088E-4
+1016 
+token 11:56:31
+docID 10281
+score 0.00425531914893617
+189 
+token abstaining
+docID 10392
+score 7.677543186180422E-5
+12486 
+token placerville
+docID 10442
+score 4.314063848144953E-4
+1237 
+token victory
+docID 10506
+score 3.8550501156515033E-4
+1026 
+token emcee
+docID 10511
+score 0.0016090104585679806
+973 1007 
+token victory
+docID 10565
+score 3.0873726458783575E-4
+1493 
+token embarassing
+docID 10565
+score 3.0873726458783575E-4
+1546 
+token fictional
+docID 10566
+score 0.007692307692307693
+66 
+token discovers
+docID 10590
+score 8.231807704972011E-5
+9346 
+token meanspirited
+docID 10590
+score 8.231807704972011E-5
+2166 
+token consultant
+docID 10598
+score 0.02040816326530612
+10 
+token adoption
+docID 10614
+score 0.003980891719745223
+146 796 937 1008 1403 1447 1480 1489 1659 1880 
+token 84
+docID 10618
+score 1.3704262025489926E-4
+4548 
+token consultant
+docID 10620
+score 1.437607820586544E-4
+4902 
+token quartet
+docID 10646
+score 0.003355704697986577
+54 
+token reporters
+docID 10651
+score 0.0036496350364963502
+162 
+token 84
+docID 10669
+score 0.011111111111111112
+28 
+token 84
+docID 10676
+score 8.090614886731392E-4
+871 
+token avant
+docID 10721
+score 0.1111111111111111
+6 
+token garde
+docID 10721
+score 0.1111111111111111
+7 
+token gecko
+docID 10770
+score 2.3479690068091102E-4
+2190 
+token suburb
+docID 10773
+score 0.001375515818431912
+61 
+token reciting
+docID 10776
+score 3.0376670716889426E-4
+653 
+token staffer
+docID 10801
+score 1.1823126034523528E-4
+2995 
+token lyricist
+docID 10808
+score 2.1486892995272884E-4
+601 
+token voiceovers
+docID 10808
+score 2.1486892995272884E-4
+4242 
+token garde
+docID 10837
+score 0.012987012987012988
+69 
+token avant
+docID 10837
+score 0.012987012987012988
+68 
+token consultant
+docID 10865
+score 0.006622516556291391
+103 112 
+token woodlanddavis
+docID 10890
+score 2.2040996253030638E-4
+4105 
+token gecko
+docID 10892
+score 6.020469596628537E-4
+1028 
+token meanspirited
+docID 10893
+score 9.569377990430622E-4
+975 
+token victory
+docID 10921
+score 0.0018083182640144665
+547 
+token mickey
+docID 10924
+score 1.2377769525931428E-4
+972 
+token victory
+docID 10946
+score 3.898635477582846E-4
+7 
+token reciting
+docID 10958
+score 0.0010443864229765013
+1499 1512 
+token matthewshannon
+docID 10958
+score 5.221932114882506E-4
+216 
+token infernal
+docID 10958
+score 0.001566579634464752
+131 134 1071 
+token 84
+docID 10958
+score 5.221932114882506E-4
+1126 
+token 20090520
+docID 11004
+score 0.004310344827586207
+222 
+token reciting
+docID 11010
+score 0.0011737089201877935
+384 
+token roles
+docID 11010
+score 0.0011737089201877935
+394 
+token freedoms
+docID 11010
+score 0.0011737089201877935
+563 
+token disservice
+docID 11019
+score 3.46860908775581E-4
+1880 1897 
+token adoption
+docID 11027
+score 1.2763241863433312E-4
+2664 
+token fictional
+docID 11107
+score 0.0022471910112359553
+333 
+token consultant
+docID 11118
+score 3.007518796992481E-4
+2871 
+token placerville
+docID 11124
+score 0.009433962264150943
+38 
+token 20070529
+docID 11134
+score 2.9086678301337986E-4
+2018 
+token 84
+docID 11138
+score 0.004273504273504274
+64 
+token consultant
+docID 11155
+score 0.045454545454545456
+6 
+token candid
+docID 11158
+score 3.1054936182106146E-5
+20832 
+token kiwi
+docID 11180
+score 0.01855287569573284
+0 14 41 132 175 216 298 362 422 499 
+token kvitaich@davispd.org
+docID 11191
+score 7.547169811320754E-4
+203 322 387 
+token roles
+docID 11191
+score 2.5157232704402514E-4
+2395 
+token vitaich
+docID 11191
+score 7.547169811320754E-4
+202 321 386 
+token kellie
+docID 11191
+score 7.547169811320754E-4
+201 320 385 
+token 7475419
+docID 11191
+score 7.547169811320754E-4
+206 325 390 
+token adoption
+docID 11205
+score 0.0014641288433382138
+611 
+token kellie
+docID 11217
+score 0.0011009174311926607
+173 1691 2681 
+token adoption
+docID 11230
+score 0.007692307692307693
+58 
+token adoption
+docID 11382
+score 0.0025974025974025974
+34 
+token kfbk
+docID 11395
+score 6.784260515603799E-4
+1154 
+token fabricated
+docID 11409
+score 5.504334663547544E-4
+1554 2793 4827 5209 
+token retribution
+docID 11419
+score 0.002702702702702703
+220 
+token disservice
+docID 11421
+score 2.638522427440633E-4
+2182 6580 
+token staffer
+docID 11421
+score 1.3192612137203166E-4
+3899 
+token aeromodelers
+docID 11466
+score 0.008771929824561403
+14 
+token henson
+docID 11466
+score 0.008771929824561403
+1 
+token mavis
+docID 11466
+score 0.008771929824561403
+0 
+token woodlanddavis
+docID 11466
+score 0.008771929824561403
+13 
+token roles
+docID 11473
+score 0.0026109660574412533
+102 
+token suburb
+docID 11476
+score 6.739452756436177E-5
+11411 
+token consultant
+docID 11485
+score 0.0014947683109118087
+214 
+token expo
+docID 11515
+score 9.925558312655087E-4
+173 602 
+token adoption
+docID 11516
+score 0.0035046728971962616
+51 450 704 
+token roles
+docID 11519
+score 1.2518778167250875E-4
+3944 
+token worksheet
+docID 11519
+score 1.2518778167250875E-4
+5613 
+token consultant
+docID 11524
+score 0.002840909090909091
+226 
+token quartet
+docID 11524
+score 0.002840909090909091
+91 
+token transmitter
+docID 11532
+score 0.015151515151515152
+52 
+token nongovernmental
+docID 11556
+score 0.0019569471624266144
+228 
+token mikalonis
+docID 11584
+score 8.818342151675485E-4
+526 
+token fabricated
+docID 11585
+score 0.001402524544179523
+66 
+token mikalonis
+docID 11600
+score 0.002079002079002079
+130 
+token meanspirited
+docID 11648
+score 3.898635477582846E-4
+945 
+token quartet
+docID 11659
+score 0.00234192037470726
+371 
+token plone
+docID 11676
+score 0.0017006802721088435
+27 
+token aeromodelers
+docID 11680
+score 8.920606601248885E-4
+1061 
+token woodlanddavis
+docID 11680
+score 8.920606601248885E-4
+1060 
+token 20090520
+docID 11711
+score 0.00273224043715847
+138 
+token roles
+docID 11755
+score 1.2539184952978057E-4
+3291 
+token 20090520
+docID 11755
+score 2.5078369905956113E-4
+1908 2934 
+token que
+docID 11807
+score 0.013333333333333334
+62 
+token aloud
+docID 11814
+score 0.002105263157894737
+248 
+token bessier
+docID 11815
+score 0.0010799136069114472
+317 
+token 84
+docID 11822
+score 4.344048653344917E-4
+962 
+token adoption
+docID 11831
+score 1.9113149847094801E-4
+123 
+token woodlanddavis
+docID 11831
+score 3.8226299694189603E-4
+150 3220 
+token suburb
+docID 11916
+score 0.0037313432835820895
+48 
+token zuniga
+docID 11957
+score 0.017857142857142856
+23 
+token discovers
+docID 11996
+score 2.4390243902439024E-4
+21 
+token retribution
+docID 12011
+score 0.0015910898965791568
+367 963 
+token 20131225
+docID 12049
+score 2.1512778590482746E-5
+38492 
+token adoption
+docID 12050
+score 0.038461538461538464
+0 
+token victory
+docID 12079
+score 2.9877502240812666E-4
+457 
+token aloud
+docID 12105
+score 0.002932551319648094
+246 
+token bessier
+docID 12192
+score 0.0051813471502590676
+142 
+token nada
+docID 12224
+score 0.019230769230769232
+40 
+token staffer
+docID 12263
+score 7.692307692307692E-4
+975 
+token victory
+docID 12306
+score 5.998800239952009E-4
+784 
+token roles
+docID 12306
+score 5.998800239952009E-4
+832 
+token victory
+docID 12326
+score 0.0016313213703099511
+253 
+token embarassing
+docID 12372
+score 3.835826620636747E-4
+2336 
+token catchphrase
+docID 12396
+score 6.993006993006993E-4
+1410 
+token roles
+docID 12441
+score 5.045408678102926E-4
+601 
+token victory
+docID 12470
+score 3.3898305084745765E-4
+2063 
+token placerville
+docID 12522
+score 0.003232758620689655
+480 489 492 
+token quartet
+docID 12522
+score 0.0010775862068965517
+545 
+token victory
+docID 12550
+score 0.0024630541871921183
+52 
+token 18:05:06
+docID 12564
+score 1.3085579691180318E-4
+5634 
+token staffer
+docID 12573
+score 1.3890818169190166E-4
+113 
+token victory
+docID 12601
+score 6.385696040868455E-4
+116 
+token tinywater
+docID 12613
+score 0.002688172043010753
+201 
+token roles
+docID 12643
+score 6.925207756232687E-4
+614 
+token adoption
+docID 12647
+score 9.583133684714902E-5
+4206 
+token reciting
+docID 12647
+score 9.583133684714902E-5
+8785 
+token woodlanddavis
+docID 12687
+score 0.16666666666666666
+1 
+token roles
+docID 12718
+score 4.088307440719542E-4
+1166 
+token adoption
+docID 12730
+score 2.842524161455372E-4
+1252 
+token roles
+docID 12738
+score 5.073566717402334E-4
+1028 
+token slim
+docID 12759
+score 1.6498927569707968E-4
+2376 
+token roles
+docID 12799
+score 0.0010131712259371835
+717 
+token woodlanddavis
+docID 12799
+score 0.0010131712259371835
+110 
+token roles
+docID 12803
+score 0.002617801047120419
+73 
+token adoption
+docID 12840
+score 4.99001996007984E-4
+1243 
+token roles
+docID 12844
+score 0.0022026431718061676
+53 
+token 50k
+docID 12869
+score 0.009433962264150943
+15 
+token placerville
+docID 12882
+score 0.004524886877828055
+86 192 
+token mikalonis
+docID 12883
+score 0.0012613521695257316
+393 657 1319 2623 3401 
+token 84
+docID 12883
+score 2.522704339051463E-4
+2022 
+token feburary
+docID 12907
+score 5.64652738565782E-4
+2945 2989 
+token mickey
+docID 12907
+score 2.82326369282891E-4
+1934 
+token suburb
+docID 12946
+score 4.440497335701599E-4
+573 
+token aloud
+docID 12952
+score 0.0022123893805309734
+228 
+token walt
+docID 12982
+score 0.002967359050445104
+157 
+token fictional
+docID 13059
+score 0.002506265664160401
+97 
+token infernal
+docID 13088
+score 1.342642320085929E-4
+2517 
+token govdocuments
+docID 13091
+score 0.0012135922330097086
+393 
+token roles
+docID 13193
+score 2.835270768358378E-4
+2547 
+token que
+docID 13193
+score 5.670541536716756E-4
+1005 1013 
+token 20050311
+docID 13206
+score 1.5444015444015445E-4
+468 
+token kellie
+docID 13240
+score 3.800114003420103E-4
+4959 4992 
+token 2008/11
+docID 13249
+score 6.550218340611354E-4
+118 150 169 
+token reporters
+docID 13250
+score 1.9877159156413366E-5
+44106 
+token craiglist
+docID 13250
+score 1.9877159156413366E-5
+25814 
+token meanspirited
+docID 13250
+score 1.9877159156413366E-5
+4821 
+token 20090520
+docID 13250
+score 1.9877159156413366E-5
+30902 
+token infernal
+docID 13263
+score 0.0013315579227696406
+444 
+token freedoms
+docID 13294
+score 5.521811154058532E-4
+867 
+token consultant
+docID 13309
+score 4.488330341113106E-4
+1102 
+token bessier
+docID 13309
+score 4.488330341113106E-4
+884 
+token slim
+docID 13334
+score 0.0017921146953405018
+40 
+token 2008/11
+docID 13335
+score 0.0045662100456621
+73 409 
+token zope
+docID 13337
+score 6.207324643078833E-4
+393 
+token suburb
+docID 13356
+score 0.0013513513513513514
+150 
+token victory
+docID 13362
+score 0.0010395010395010396
+495 
+token roles
+docID 13368
+score 0.0035335689045936395
+66 
+token consultant
+docID 13372
+score 0.001445086705202312
+191 
+token mikalonis
+docID 13372
+score 0.001445086705202312
+517 
+token victory
+docID 13419
+score 7.922047056959519E-5
+4841 
+token garde
+docID 13490
+score 0.017391304347826087
+8 46 
+token avant
+docID 13490
+score 0.017391304347826087
+7 45 
+token alix
+docID 13501
+score 0.004807692307692308
+203 
+token consultant
+docID 13608
+score 0.0025188916876574307
+64 
+token victory
+docID 13616
+score 7.326007326007326E-4
+221 
+token avant
+docID 13638
+score 0.0010235414534288639
+816 
+token garde
+docID 13638
+score 0.0010235414534288639
+817 
+token disservice
+docID 13652
+score 1.9105846388995032E-4
+921 
+token 20070529
+docID 13702
+score 1.5610365282547612E-4
+2626 
+token avant
+docID 13703
+score 0.0045662100456621
+87 184 
+token garde
+docID 13703
+score 0.0045662100456621
+88 185 
+token adoption
+docID 13729
+score 0.0010869565217391304
+319 474 
+token 10:01:28
+docID 13734
+score 8.110300081103001E-4
+713 
+token roles
+docID 13744
+score 1.0312467773538208E-4
+5798 
+token transmitter
+docID 13744
+score 1.0312467773538208E-4
+889 
+token mikalonis
+docID 13744
+score 3.0937403320614623E-4
+4237 8419 8870 
+token kiwi
+docID 13781
+score 0.0027598896044158236
+57 254 767 
+token adoption
+docID 13824
+score 0.0011037527593818985
+16 
+token victory
+docID 13881
+score 0.002824858757062147
+58 
+token bittersweet
+docID 13888
+score 2.0263424518743666E-4
+142 
+token expo
+docID 13904
+score 0.0016144656118824668
+1690 1711 1770 1778 1799 
+token improv
+docID 13938
+score 0.002770083102493075
+218 
+token reporters
+docID 13970
+score 0.008547008547008548
+29 
+token roles
+docID 13981
+score 7.288629737609329E-4
+448 863 
+token placerville
+docID 13981
+score 7.288629737609329E-4
+306 702 
+token infernal
+docID 14060
+score 0.0023094688221709007
+408 
+token neocon
+docID 14075
+score 7.524454477050414E-4
+1288 
+token 20070529
+docID 14092
+score 3.7678975131876413E-4
+443 
+token zuniga
+docID 14167
+score 7.849293563579278E-4
+1260 
+token placerville
+docID 14184
+score 2.824060999717594E-4
+2993 
+token roles
+docID 14185
+score 0.0022522522522522522
+236 
+token 50k
+docID 14204
+score 1.1005943209333039E-4
+1679 
+token victory
+docID 14213
+score 0.004291845493562232
+133 
+token discerning
+docID 14220
+score 9.813542688910696E-4
+621 
+token kiwi
+docID 14224
+score 1.29886998311469E-4
+418 
+token fictional
+docID 14257
+score 0.002631578947368421
+192 
+token discerning
+docID 14270
+score 6.680026720106881E-4
+58 
+token quartet
+docID 14270
+score 6.680026720106881E-4
+913 
+token consultant
+docID 14305
+score 0.002607561929595828
+482 650 
+token suburb
+docID 14372
+score 3.5816618911174784E-4
+2191 
+token placerville
+docID 14372
+score 0.0010744985673352436
+284 285 326 
+token adoption
+docID 14389
+score 6.746500252993759E-4
+79 98 526 2839 
+token 20090520
+docID 14391
+score 0.001524390243902439
+497 
+token placerville
+docID 14405
+score 1.1749500646222535E-4
+3655 
+token candid
+docID 14405
+score 1.1749500646222535E-4
+5905 
+token 20070529
+docID 14420
+score 6.666666666666666E-4
+491 
+token consultant
+docID 14443
+score 4.5045045045045046E-4
+1932 
+token 84
+docID 14443
+score 9.009009009009009E-4
+559 2207 
+token slim
+docID 14467
+score 0.001272264631043257
+595 
+token consultant
+docID 14473
+score 0.004016064257028112
+6 
+token 50k
+docID 14497
+score 6.711409395973154E-5
+13305 
+token mikalonis
+docID 14497
+score 1.3422818791946307E-4
+6978 8042 
+token 84
+docID 14519
+score 0.00199203187250996
+258 
+token consultant
+docID 14525
+score 0.001869158878504673
+259 
+token reporters
+docID 14528
+score 9.478672985781991E-4
+313 
+token fictional
+docID 14558
+score 6.544502617801048E-4
+1120 
+token que
+docID 14558
+score 6.544502617801048E-4
+1185 
+token 20131012
+docID 14602
+score 1.1252391133115787E-4
+8422 
+token que
+docID 14615
+score 9.250693802035153E-4
+1074 
+token discerning
+docID 14637
+score 0.0016129032258064516
+239 
+token roles
+docID 14670
+score 2.2517451024544022E-4
+831 
+token victory
+docID 14693
+score 7.886435331230284E-4
+840 
+token freedoms
+docID 14693
+score 0.0015772870662460567
+56 580 
+token roles
+docID 14700
+score 0.002380952380952381
+246 
+token quartet
+docID 14776
+score 0.0011441647597254005
+26 
+token adoption
+docID 14786
+score 0.0030581039755351682
+188 
+token gecko
+docID 14786
+score 0.0030581039755351682
+195 
+token consultant
+docID 14813
+score 0.002824858757062147
+23 
+token expo
+docID 14819
+score 0.003115264797507788
+106 
+token roles
+docID 14836
+score 0.002551020408163265
+139 
+token nongovernmental
+docID 14836
+score 0.002551020408163265
+131 
+token retribution
+docID 14844
+score 1.8835938971557733E-4
+3135 
+token 20070529
+docID 14849
+score 1.4108352144469525E-4
+3014 
+token disservice
+docID 14849
+score 1.4108352144469525E-4
+2920 
+token woodlanddavis
+docID 14853
+score 6.788866259334691E-4
+1311 
+token roles
+docID 14854
+score 3.487358326068004E-4
+5002 5007 
+token meanspirited
+docID 14916
+score 7.434944237918215E-4
+1319 
+token kellie
+docID 14917
+score 0.008695652173913044
+0 2 
+token expo
+docID 14930
+score 0.003215434083601286
+74 
+token suburb
+docID 14933
+score 0.006666666666666667
+26 
+token garde
+docID 14936
+score 0.011363636363636364
+40 
+token avant
+docID 14936
+score 0.011363636363636364
+39 
+token expo
+docID 14945
+score 0.001098901098901099
+210 
+token 2222
+docID 14981
+score 5.665722379603399E-4
+1078 
+token kiwi
+docID 14982
+score 8.373105584861426E-5
+210 
+token 20090520
+docID 15018
+score 2.2138587558113792E-4
+3405 
+token roles
+docID 15043
+score 0.0013679890560875513
+1274 1954 1977 
+token roles
+docID 15054
+score 0.0021321961620469083
+8 
+token colgate
+docID 15076
+score 5.871990604815032E-4
+1341 
+token quartet
+docID 15076
+score 0.0011743981209630064
+597 1469 
+token bessier
+docID 15076
+score 0.0011743981209630064
+263 1462 
+token roles
+docID 15097
+score 4.2951636457349025E-5
+20103 
+token aloud
+docID 15097
+score 4.2951636457349025E-5
+20754 
+token victory
+docID 15107
+score 2.380952380952381E-4
+341 
+token transmitter
+docID 15114
+score 3.0395136778115504E-4
+3235 
+token mikalonis
+docID 15117
+score 3.964059196617336E-4
+237 4634 7264 
+token roles
+docID 15186
+score 0.0015360983102918587
+98 
+token discerning
+docID 15186
+score 0.0015360983102918587
+133 
+token discovers
+docID 15215
+score 0.00546448087431694
+26 
+token victory
+docID 15240
+score 0.008403361344537815
+115 
+token fabricated
+docID 15249
+score 2.3479690068091102E-4
+1001 
+token 20070529
+docID 15252
+score 0.0017969451931716084
+1071 1094 
+token freedoms
+docID 15262
+score 0.001076426264800861
+928 
+token fictional
+docID 15270
+score 3.6589828027808267E-4
+1777 
+token ravaged
+docID 15273
+score 5.089058524173028E-4
+545 
+token fabricated
+docID 15318
+score 3.0193236714975844E-4
+1720 
+token quartet
+docID 15378
+score 0.00234192037470726
+94 
+token bittersweet
+docID 15393
+score 0.00398406374501992
+158 
+token improv
+docID 15393
+score 0.01593625498007968
+7 40 76 135 
+token feburary
+docID 15396
+score 1.332800213248034E-4
+465 
+token 84
+docID 15396
+score 1.332800213248034E-4
+1008 
+token slim
+docID 15396
+score 1.332800213248034E-4
+3323 
+token kellie
+docID 15407
+score 6.129328838492185E-4
+2313 2465 
+token slim
+docID 15450
+score 2.733734281027884E-4
+2089 
+token roles
+docID 15455
+score 8.368200836820084E-5
+4055 
+token suburb
+docID 15464
+score 0.003048780487804878
+155 
+token fictional
+docID 15478
+score 0.0036496350364963502
+112 116 
+token mikalonis
+docID 15500
+score 5.269814502529511E-4
+976 1873 5394 5450 6058 
+token 20070529
+docID 15503
+score 0.0045045045045045045
+118 
+token reporters
+docID 15507
+score 1.1079104808331487E-4
+8944 
+token 20070529
+docID 15510
+score 2.8901734104046245E-4
+857 
+token consultant
+docID 15522
+score 0.0040650406504065045
+149 
+token discovers
+docID 15544
+score 0.0020876826722338203
+309 
+token kfbk
+docID 15573
+score 4.253509145044662E-4
+224 
+token vicechairman
+docID 15573
+score 0.0017014036580178648
+690 715 738 762 
+token roles
+docID 15602
+score 1.511258878645912E-4
+5865 
+token quartet
+docID 15616
+score 8.038585209003215E-4
+1008 
+token disservice
+docID 15637
+score 2.642706131078224E-4
+3135 
 token subunit
 docID 15639
+score 0.0017452006980802793
 137 
-token oaths
-docID 15371
-494 
-token 19941995
-docID 15167
-628 
-token immature
-docID 15452
-3230 
-docID 15352
-310 
-token 1012
-docID 15455
-8574 
-docID 15107
-605 
-docID 15712
-3528 
-token 1020
-docID 15117
-6059 
-docID 15771
-241 
-token 20100606
-docID 15646
-720 
-token ribbon
-docID 15776
-380 
+token embarassing
+docID 15685
+score 0.001697792869269949
+268 
+token garde
 docID 15694
-35 
-token tole
-docID 15241
-2067 
-token forbid
-docID 15262
-479 
-docID 15698
-304 
-token hillarythomas
-docID 15663
-2226 
-token renumbered
-docID 15316
-157 
-token kcra
-docID 15173
-3391 3435 
-docID 15771
-139 
-docID 15479
-1098 
-token aztec
-docID 15114
-325 1692 
-token woodchuck
-docID 15647
-49 53 
-token conformity
-docID 15459
-232 
-token dismayed
-docID 15241
-4649 
-token colleague
-docID 15267
-175 
-docID 15380
-476 
-token sodium
-docID 15069
-278 
-token founds
-docID 15417
-289 
-token 19841985
-docID 15167
-637 
-token wholesale
-docID 15813
-3490 
-docID 15455
-2956 7346 9979 10398 
-docID 15107
-242 
-docID 15299
-212 
-token unopposed
-docID 15382
-50 
-token binary
+score 1.9193857965451057E-4
+3360 
+token avant
+docID 15694
+score 1.9193857965451057E-4
+3359 
+token 337
+docID 15702
+score 0.001256281407035176
+624 
+token 20070529
+docID 15722
+score 2.73224043715847E-4
+1263 
+token avant
+docID 15731
+score 0.002072538860103627
+5 14 
+token garde
+docID 15731
+score 0.002072538860103627
+6 15 
+token consultant
+docID 15746
+score 0.002898550724637681
+39 
+token candid
+docID 15757
+score 0.006756756756756757
+96 
+token mikalonis
+docID 15777
+score 0.001007302946361118
+264 2074 2927 3918 
+token ravaged
 docID 15795
-630 
-docID 15602
-4838 4854 
-token hebrew
-docID 15442
-34 46 236 
-token mp3s
-docID 15347
-48 
-token groan
-docID 15097
-5821 
-token dale
-docID 16224
-0 17 60 
-docID 15973
-278 
-token scottb
+score 4.6707146193367583E-4
+1201 
+token nada
+docID 15795
+score 4.6707146193367583E-4
+243 
+token candid
+docID 15795
+score 4.6707146193367583E-4
+728 
+token discovers
+docID 15795
+score 4.6707146193367583E-4
+269 
+token que
+docID 15795
+score 4.6707146193367583E-4
+240 
+token improv
+docID 15812
+score 0.0016181229773462784
+390 
+token discerning
+docID 15813
+score 2.4962556165751375E-4
+833 
+token improv
+docID 15817
+score 0.0182648401826484
+13 41 147 215 
+token avant
+docID 15868
+score 0.006825938566552901
+8 14 40 96 
+token garde
+docID 15868
+score 0.006825938566552901
+9 15 41 97 
+token fabricated
+docID 15882
+score 2.672367717797969E-4
+569 
+token adoption
+docID 15895
+score 6.569007422978388E-5
+644 
+token infernal
+docID 15895
+score 6.569007422978388E-5
+8632 
+token 20090520
 docID 15901
-1537 
+score 6.265664160401002E-4
+863 
+token fictional
+docID 15921
+score 0.0035460992907801418
+254 
+token aloud
 docID 15936
-5999 
-token lilys
-docID 16428
-183 
-docID 16511
-0 9 27 57 69 121 179 219 288 324 337 585 785 
-token romney
-docID 15846
-272 
+score 1.579778830963665E-4
+6057 
+token roles
+docID 15962
+score 6.613756613756613E-4
+88 
+token mickey
+docID 15975
+score 5.157297576070139E-4
+231 
+token vicechairman
+docID 16061
+score 0.01079913606911447
+190 192 421 432 444 
+token mikalonis
+docID 16074
+score 4.3146843089313965E-4
+365 368 477 
+token 84
+docID 16083
+score 0.0015723270440251573
+533 
+token adoption
+docID 16085
+score 9.175995595522114E-5
+336 
+token 20090520
+docID 16109
+score 0.02564102564102564
+4 
+token improv
+docID 16124
+score 0.0013054830287206266
+289 
+token aloud
+docID 16148
+score 0.001890359168241966
+97 
+token foyer
+docID 16164
+score 0.0011135857461024498
+715 
+token avant
+docID 16184
+score 8.103727714748784E-4
+55 
+token garde
+docID 16184
+score 8.103727714748784E-4
+56 
+token plone
+docID 16226
+score 0.009523809523809525
+103 
+token roles
+docID 16258
+score 5.549389567147614E-4
+500 
+token reporters
+docID 16284
+score 6.480881399870382E-4
+1284 
 token subunit
 docID 16284
+score 6.480881399870382E-4
 160 
-token unwrapped
-docID 16554
-7546 
-token ssfaac
-docID 15856
-3 
-token sighting
+token bittersweet
+docID 16300
+score 1.863238308179616E-4
+3858 
+token lyricist
+docID 16326
+score 0.002369668246445498
+100 
+token foyer
+docID 16334
+score 0.0023584905660377358
+125 
+token slim
 docID 16336
-8282 
-token 100s
-docID 16085
-4774 
-token 1016
-docID 16183
-476 
-token 1020
-docID 15978
-145 
-docID 16341
-883 
-token midjuly
-docID 16515
-197 
-token blurry
-docID 16524
-93 
-token readded
-docID 16185
-13 
-docID 16110
-211 
-token ribbon
-docID 16589
-48 
-token forbid
-docID 15895
-11139 
-token hillarythomas
-docID 16111
-1946 
-token tneeley
-docID 15983
-1314 
-docID 15895
-14911 
-docID 16089
-5426 
-token kcra
-docID 16023
-135 234 
-docID 16103
-216 
-docID 16408
-279 
-token aztec
-docID 16369
-102 
-token degrading
-docID 16293
-2487 
-docID 16329
-2422 
-token conformity
+score 8.903133903133904E-5
+1695 
+token suburb
+docID 16343
+score 0.015625
+28 
+token placerville
+docID 16361
+score 2.946375957572186E-4
+1002 
+token transmitter
+docID 16383
+score 2.701242571582928E-4
+3553 
+token improv
+docID 16394
+score 0.00546448087431694
+328 361 
+token placerville
+docID 16395
+score 0.0013089005235602095
+261 
+token selfpreservation
 docID 16401
-1609 
-token glycol
-docID 16183
-1500 
-token colleague
-docID 16085
-196 
-token torn
+score 2.3293733985557886E-4
+1407 
+token vicechairman
+docID 16420
+score 9.337068160597573E-4
+630 
+token roles
+docID 16429
+score 0.006896551724137931
+47 
+token consultant
+docID 16453
+score 3.374957813027337E-4
+2104 
+token mickey
+docID 16530
+score 3.1466331025802394E-4
+3076 
+token staffer
+docID 16532
+score 6.313131313131314E-4
+127 
+token roles
+docID 16543
+score 0.002694509936005389
+1924 1981 2060 2378 2832 2894 2916 2934 
+token victory
 docID 16554
-3950 
-docID 15882
-1641 
-docID 15895
-11419 
-docID 16565
-239 
-docID 16332
-649 
-docID 16265
-162 
-docID 16111
-2378 
-token treadmill
-docID 16191
-148 
-docID 16447
-4128 
-token feathered
-docID 15919
-173 
-token waxes
-docID 16364
-97 
-token agitation
-docID 15895
-4820 
-token hebrew
-docID 15847
-133 144 
-docID 16064
-74 
-token groan
-docID 16113
-44 
-docID 16526
-3404 
-token perpetrators
-docID 15883
-175 
-token 20100524
-docID 16336
-3362 3620 
-docID 16293
-5350 
-docID 15914
-18 
-docID 16213
-18 
+score 1.0046212577858148E-4
+6644 
+token fictional
+docID 16583
+score 1.1795234725171031E-4
+600 
+token victory
+docID 16583
+score 1.1795234725171031E-4
+2096 
+token 2222
+docID 16604
+score 0.0019880715705765406
+401 
+token reciting
+docID 16651
+score 1.6619577862722287E-4
+3695 
+token colgate
+docID 16662
+score 2.0195900232252852E-4
+8829 9052 
+token feburary
+docID 16692
+score 0.001006036217303823
+167 
+token kiwi
+docID 16721
+score 2.452783909737552E-4
+3011 
+token adoption
+docID 16725
+score 0.006589785831960461
+84 113 207 231 
+token 13:20:18
+docID 16730
+score 0.001440922190201729
+654 
+token garde
+docID 16733
+score 0.009345794392523364
+6 
+token avant
+docID 16733
+score 0.009345794392523364
+5 
+token fictional
+docID 16764
+score 0.002770083102493075
+111 
+token roles
+docID 16787
+score 0.0012091898428053204
+525 
+token fabricated
+docID 16787
+score 0.0012091898428053204
+270 
+token roles
+docID 16829
+score 7.199424046076314E-4
+1144 
+token mikalonis
+docID 16859
+score 7.162041181736795E-4
+220 523 8378 8446 11893 12222 12564 14060 14572 15146 15661 16434 
+token adoption
+docID 16867
+score 4.088307440719542E-4
+1596 
+token victory
+docID 16873
+score 0.0015174506828528073
+462 
+token roles
+docID 16883
+score 0.0024752475247524753
+241 
+token nongovernmental
+docID 16921
+score 0.0012422360248447205
+677 
+token avant
+docID 16953
+score 0.002207505518763797
+122 
+token garde
+docID 16953
+score 0.002207505518763797
+123 
+token adoption
+docID 16956
+score 0.0319634703196347
+25 66 73 87 119 133 215 
+token 01:08:53
+docID 16958
+score 9.541984732824427E-5
+829 
+token bittersweet
+docID 16958
+score 9.541984732824427E-5
+9628 
+token roles
+docID 16995
+score 2.946375957572186E-4
+3090 
+token 84
+docID 16995
+score 2.946375957572186E-4
+427 
+token aloud
+docID 17009
+score 1.1859582542694497E-4
+4714 
+token slim
+docID 17009
+score 1.1859582542694497E-4
+1079 
+token 20070529
+docID 17010
+score 4.088307440719542E-4
+1074 
+token slim
+docID 17012
+score 0.003003003003003003
+131 
+token que
+docID 17022
+score 0.002717391304347826
+228 
+token fictional
+docID 17032
+score 0.01639344262295082
+30 
+token 50k
+docID 17079
+score 2.927400468384075E-4
+79 
+token disservice
+docID 17079
+score 2.927400468384075E-4
+2111 
+token zugod
+docID 17091
+score 8.077544426494346E-4
+661 
+token plone
+docID 17091
+score 8.077544426494346E-4
+663 
+token expo
+docID 17091
+score 8.077544426494346E-4
+511 
+token 20070529
+docID 17134
+score 1.8793459875963165E-4
+5293 
+token placerville
+docID 17181
+score 0.0015873015873015873
+211 
+token consultant
+docID 17183
+score 0.003703703703703704
+148 158 
+token woodlanddavis
+docID 17272
+score 0.0038461538461538464
+0 
+token expo
+docID 17285
+score 2.803476310625175E-4
+2446 
+token matthewshannon
+docID 17295
+score 0.0014771048744460858
+139 
+token roles
+docID 17329
+score 0.007194244604316547
+54 
+token consultant
+docID 17377
+score 0.002551020408163265
+271 
+token foyer
+docID 17424
+score 0.008403361344537815
+96 
+token consultant
+docID 17428
+score 0.001834862385321101
+335 1029 
+token 20131225
+docID 17445
+score 0.0013157894736842105
+714 

@@ -426,10 +426,10 @@ public class SearchGUI extends JFrame
     /// Mappings file exists->directory already indexed
     File f = new File(FOLDER + "/mappings");
     if(f.exists() && !f.isDirectory()) {
+      /// We have the index in files, no need to re-index
       resultWindow.setText("\n  Directory already indexed!!! ");
       /// Read docIDs
       File f1 = new File(FOLDER + "/mappings");
-      // File f1 = new File("index/docIDs");
       if(f1.exists() && !f1.isDirectory())
       {
         String filename = FOLDER + "/docIDs";

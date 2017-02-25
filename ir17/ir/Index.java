@@ -46,5 +46,7 @@ public interface Index
   public int getSize();
   public void cleanup();
   public void saveAndQuit();
+  public void calculateScores();
+  public void updateFiles();
 }
 

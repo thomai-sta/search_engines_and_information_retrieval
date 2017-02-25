@@ -1,632 +1,864 @@
-token http://www.educatingaidsorphansinafrica.org/
-docID 8867
+token ghazal
+docID 8480
+score 0.004651162790697674
+170 
+token suh
+docID 8480
+score 0.004651162790697674
+174 
+token awad
+docID 8480
+score 0.004651162790697674
+177 
+token choudhry
+docID 8480
+score 0.004651162790697674
+193 
+token karessa
+docID 8480
+score 0.004651162790697674
+189 
+token uop
+docID 8480
+score 0.004651162790697674
+144 
+token nmtecson
+docID 8480
+score 0.004651162790697674
+16 
+token http://www.davispds.com
+docID 8480
+score 0.004651162790697674
+24 
+token pallavi
+docID 8480
+score 0.004651162790697674
+192 
+token 22:52:12
+docID 8482
+score 0.006134969325153374
+97 
+token http://www.imdb.com/title/tt0375063/
+docID 8482
+score 0.006134969325153374
+60 
+token williamette
+docID 8482
+score 0.006134969325153374
+37 
+token l2d
+docID 8483
+score 0.0047169811320754715
+148 
+token inova
+docID 8483
+score 0.0047169811320754715
+183 
+token maglites
+docID 8483
+score 0.0047169811320754715
+211 
+token cheapies
+docID 8483
+score 0.0047169811320754715
+197 
+token ledbased
+docID 8483
+score 0.0047169811320754715
+180 
+token twofish
+docID 8483
+score 0.0047169811320754715
+152 
+token lockblocks
+docID 8483
+score 0.0047169811320754715
 153 
-token mothballs
-docID 8393
-113 
-token vegeterian
-docID 8901
-3231 
-token hahahha
-docID 8438
-1037 
-token hihgly
-docID 8809
-2354 
-token 20:36:35
-docID 8565
-1747 
-token streamofconsciousness
-docID 8827
-272 
-token 21:31:22
-docID 8373
-1136 
-token schommer
-docID 8530
-900 
-token 046/3
-docID 8965
-212 
-token 20:36:45
-docID 8798
-30 
-token neverrenewing
-docID 8724
-2170 
-token cobwebby
-docID 8639
-238 
-token 00:04:08
-docID 8770
-57 
-token sixperson
-docID 8320
-7538 
-token 1851
-docID 8550
-787 
-token 21:55:46
-docID 8819
-61 
-token ceratinly
-docID 8587
-3801 
-token 3687387
-docID 8317
-652 
-token repairthings
-docID 8884
-2389 
-token horriblefoodwise
-docID 8888
-6164 
-token remaking
-docID 8856
-1064 
-token limoore
-docID 8320
-1008 
-token compaired
-docID 8326
-640 
+token fenix
+docID 8483
+score 0.0047169811320754715
+147 
+token bloch
+docID 8484
+score 0.021739130434782608
+43 
+token semilocal
+docID 8484
+score 0.021739130434782608
+21 
+token horsies
+docID 8484
+score 0.021739130434782608
+2 
+token midtolate
+docID 8484
+score 0.021739130434782608
+32 
+token boisvert
+docID 8484
+score 0.021739130434782608
+19 
+token 2/9
+docID 8485
+score 4.591368227731864E-4
+1557 
+token rescinded
+docID 8485
+score 4.591368227731864E-4
+414 
+token worthington
+docID 8485
+score 0.002295684113865932
+1625 1647 1658 1714 1741 
+token 9817170
+docID 8485
+score 4.591368227731864E-4
+1651 
+token arreguin
+docID 8485
+score 4.591368227731864E-4
+1738 
+token http://youtu.be/hihuidd_otk
+docID 8485
+score 4.591368227731864E-4
+1069 
+token abstention
+docID 8485
+score 4.591368227731864E-4
+537 
+token maio
+docID 8485
+score 4.591368227731864E-4
+1735 
+token http://www.city.davis.ca.us/meetings/agenda.cfm?c27
+docID 8485
+score 4.591368227731864E-4
+1116 
+token implementations
+docID 8485
+score 4.591368227731864E-4
+765 
+token wengraf
+docID 8485
+score 4.591368227731864E-4
+1740 
+token capitelli
+docID 8485
+score 4.591368227731864E-4
+1739 
+token rov
+docID 8485
+score 9.182736455463728E-4
+1611 1710 
+token ayes
+docID 8485
+score 4.591368227731864E-4
+1734 
+token borda
+docID 8485
+score 9.182736455463728E-4
+904 906 
+token tactically
+docID 8485
+score 9.182736455463728E-4
+982 1039 
+token pei
+docID 8485
+score 4.591368227731864E-4
+1535 
+token monotonicity
+docID 8485
+score 4.591368227731864E-4
+2138 
+token québec
+docID 8485
+score 4.591368227731864E-4
+1545 
+token despain
+docID 8485
+score 4.591368227731864E-4
+1618 
+token decertified
+docID 8485
+score 4.591368227731864E-4
+1394 
+token mps
+docID 8485
+score 4.591368227731864E-4
+1501 
+token wozniak
+docID 8485
+score 4.591368227731864E-4
+1744 
+token http://electoralreform.wikia.com/wiki/organisations_using_single_transferable_vote
+docID 8485
+score 4.591368227731864E-4
+384 
+token n.s.
+docID 8485
+score 4.591368227731864E-4
+1667 
+token roundbyround
+docID 8485
+score 9.182736455463728E-4
+357 1030 
+token equalsized
+docID 8485
+score 4.591368227731864E-4
+139 
+token 64,770
+docID 8485
+score 4.591368227731864E-4
+1666 
+token votingfootnote
+docID 8485
+score 4.591368227731864E-4
+634 
+token 9816900
+docID 8485
+score 4.591368227731864E-4
+1621 
+token tallied
+docID 8485
+score 9.182736455463728E-4
+186 586 
+token http://citizensassembly.bc.ca/resources/flash/bcstvfull.swf
+docID 8485
+score 4.591368227731864E-4
+1062 
+token higherranked
+docID 8485
+score 4.591368227731864E-4
+175 
+token http://en.wikipedia.org/wiki/burlington,_vermont_mayoral_election,_2009
+docID 8485
+score 4.591368227731864E-4
+410 
+token multimember
+docID 8485
+score 9.182736455463728E-4
+32 1757 
+token 16:47:23
+docID 8485
+score 4.591368227731864E-4
+1549 
+token roadblock
+docID 8485
+score 4.591368227731864E-4
+1223 
+token 9member
+docID 8485
+score 4.591368227731864E-4
+509 
+token 15:09:39
+docID 8487
+score 0.012048192771084338
+19 
+token quenchers
+docID 8488
+score 3.0147723846849563E-4
+283 
+token 13:00:33
+docID 8488
+score 3.0147723846849563E-4
+3051 
+token lrosales
+docID 8488
+score 3.0147723846849563E-4
+1545 
+token candacesmith
+docID 8488
+score 3.0147723846849563E-4
+3316 
+token thoughwhen
+docID 8488
+score 3.0147723846849563E-4
+3147 
 token 11:46:48
 docID 8488
+score 3.0147723846849563E-4
 2022 
-token 13:45:24
-docID 8915
-188 
-token businesspeople
-docID 8714
-329 
-token 13:45:31
-docID 8530
-1033 
-token 22:32:08
-docID 8344
-19 
-token bigyogurtbrother
-docID 8726
-4959 
-token varients
-docID 8858
-533 
-token 13:01:06
-docID 8381
-323 
-token 10:44:32
-docID 8726
-2319 
-token poser
-docID 8427
-109 
-token atrophy
-docID 8520
-3283 
-token bivins
-docID 8667
-185 
-token strasser
-docID 8616
-258 329 
-token aloysius
-docID 8507
-324 
-token scrapped
-docID 8626
-196 
-token 13:24:08
-docID 8808
-5894 
-token nocturnals
-docID 8366
-418 
-token bromantic
-docID 8724
-636 
-token ablaza
-docID 8258
-1201 
-token 00:19:59
-docID 8705
-825 
+token bombardment
+docID 8488
+score 3.0147723846849563E-4
+1777 
+token prams
+docID 8488
+score 3.0147723846849563E-4
+1916 
+token 11:54:38
+docID 8488
+score 3.0147723846849563E-4
+1462 
+token 11:54:11
+docID 8488
+score 3.0147723846849563E-4
+1337 
 token 10:44:57
 docID 8488
+score 3.0147723846849563E-4
 1005 
-token http://broadcast.ucdavis.edu/search/broadcast_detail.lasso?id421
-docID 8422
-100 
-token youwas
-docID 8321
-22 
-token 09:58:02
-docID 8479
-1138 
-token delislave
-docID 8615
-70 
-token http://www.thedailyshow.com/watch/wedoctober52011/parksanddemonstration
-docID 8650
-5939 
-token 21926
-docID 8647
-2003 
-token likenew
-docID 8400
-174 
-token 09:58:10
-docID 8805
-2232 
-token 11:08:23
-docID 8408
-462 
-token http://people.tribe.net/christopheraries
-docID 8769
-67 
-token portafilter
-docID 8503
-575 
-token adoration
-docID 8524
-102 
-token arilevy
-docID 8737
-15 156 224 
-token 09:58:35
-docID 8900
-723 
-token 11:15:31
-docID 8775
-347 
-token 3a28806
-docID 8835
-217 
-token timethe
-docID 8336
-38 
-token shannahwhithaus
-docID 8678
-2 
-token bbbqs
-docID 8975
-1323 
-token http://www.davisbicycles.org/buehlerthesisfinaldraft.pdf
-docID 8465
-161 1886 
-token jaeger
-docID 8724
-1120 
-token unitarians
-docID 8587
-2959 3102 
-token 09:24:01
-docID 8975
-2321 
-token http://www.saulsdeli.com/
-docID 8282
-202 
-token ridin
-docID 8655
-967 
-token 201109/30
-docID 8650
-1533 
-token takedown
-docID 8650
-763 
-token parses
-docID 8808
-3268 
-token 08:32:04
-docID 8654
-1381 
-token burlington
-docID 8485
-411 
-docID 8385
-429 
-token selfaggrandizing
-docID 8884
-1022 
-token robertsinclair
-docID 8724
-1151 
-token overflooding
-docID 8320
-1055 
-token tenors
-docID 8258
-1155 
-token highpaying
-docID 8941
-992 
-token 11:00:55
-docID 8549
-19 
-token parsed
-docID 8289
-567 
-docID 8808
-3246 
-token 59th
-docID 8830
-202 
-token straigtht
-docID 8476
-1991 
-token http://img.photobucket.com/albums/v124/coin_op/rubiboob.jpg
-docID 8507
-0 
-token pittbull
-docID 8939
-2129 
-token recumbents
-docID 8438
-538 
-token virtu
-docID 8721
-42 
-docID 8809
-92 
-token cantisano
-docID 8680
-2319 2778 
-token http://www.davisgrad.com
-docID 8888
-2237 
-token elconin
-docID 8655
-546 
-token searcher
-docID 8616
-688 
-token windowsills
-docID 8775
-2441 
-token 11:15:18
-docID 8440
-5072 
-token http://agasadavis.wordpress.com/
-docID 8587
-552 
-token biophysicist
-docID 8584
-374 
-token http://itunes.apple.com/us/artist/thespokes/id339477746
-docID 8655
-1049 
-token hundredstaketomarketstreetinoccupysfprotest
-docID 8650
-3154 
-token rostinis
-docID 8437
-2576 
-token fume
-docID 8399
-267 
-token killfile
-docID 8808
-6645 
-token 13:08:19
-docID 8719
-373 
-token 1718
-docID 8594
-475 
-token 1710
-docID 8260
-2249 
-token rennovations
-docID 8884
-2796 
-token seance
-docID 8664
-451 
-token franca
-docID 8540
-2 
-token vrex
-docID 8438
-550 
-token 20121223
-docID 8908
-13226 
-token 00:41:26
-docID 8581
-1332 
-token ucdtri
-docID 8409
-793 825 
-token shlep
-docID 8326
-1032 
-token 00:41:21
-docID 8726
-2397 
-token mykiss
-docID 8931
-3 
-token kabocha
-docID 8673
-389 
-token 19,600
-docID 8950
-524 
-token hardcopy
-docID 8655
-741 
-token 00:56:44
-docID 8581
-1664 
-token landas
-docID 8891
+token chewable
+docID 8488
+score 3.0147723846849563E-4
+1297 
+token 15:30:17
+docID 8488
+score 3.0147723846849563E-4
+3256 
+token 10:54:44
+docID 8488
+score 3.0147723846849563E-4
+3300 
+token fastgrub
+docID 8488
+score 3.0147723846849563E-4
+1847 
+token 15:24:28
+docID 8488
+score 3.0147723846849563E-4
+1943 
+token ely
+docID 8488
+score 3.0147723846849563E-4
+3258 
+token spuds
+docID 8488
+score 3.0147723846849563E-4
+215 
+token 16:46:01
+docID 8488
+score 3.0147723846849563E-4
+2846 
+token astro
+docID 8488
+score 3.0147723846849563E-4
+1837 
+token cilantrolime
+docID 8488
+score 3.0147723846849563E-4
+1963 
+token 00:22:33
+docID 8488
+score 3.0147723846849563E-4
+3283 
+token forgettable
+docID 8488
+score 3.0147723846849563E-4
+2166 
+token 21:46:03
+docID 8488
+score 3.0147723846849563E-4
 792 
-token caffee
-docID 8476
-915 1002 1141 1153 1171 
-token 13:08:51
-docID 8438
-1160 
-token erudite
-docID 8507
-69 
-token googlygooglygoo
-docID 8808
-8866 
-token 14:45:25
-docID 8825
-91 
-token semiconscious
-docID 8967
-312 
-token messier530
-docID 8939
-9092 
-token http://www.ucstudentwalkout.com/
-docID 8856
-206 
-token againts
-docID 8650
-6266 
-token wearer
-docID 8945
-73 
-token plantlike
-docID 8595
-1249 
-token 00:41:39
-docID 8726
-2226 
-token instigator
-docID 8587
-1010 
-token sherlyn
-docID 8604
-414 
-token passingthrough
-docID 8888
-2281 12899 
-token warmfuzzy
-docID 8939
-9165 
-token http://www.aesopsroom.com
-docID 8563
-231 
-token 16:08:56
+token redskinned
+docID 8488
+score 3.0147723846849563E-4
+1723 
+token 20:00:11
+docID 8488
+score 3.0147723846849563E-4
+1254 
+token 10:04:14
+docID 8488
+score 3.0147723846849563E-4
+1430 
+token glasscovered
+docID 8488
+score 3.0147723846849563E-4
+265 
+token 22:11:56
+docID 8488
+score 3.0147723846849563E-4
+2519 
+token tosser
+docID 8488
+score 3.0147723846849563E-4
+2588 
+token heatherstan
+docID 8488
+score 3.0147723846849563E-4
+3281 
+token 11:47:38
+docID 8488
+score 3.0147723846849563E-4
+1125 
+token 20:08:23
+docID 8488
+score 3.0147723846849563E-4
+3266 
+token 17:21:29
+docID 8488
+score 3.0147723846849563E-4
+1643 
+token 14:21:29
+docID 8488
+score 3.0147723846849563E-4
+2341 
+token unrequested
+docID 8488
+score 3.0147723846849563E-4
+2452 
+token skimpier
+docID 8488
+score 3.0147723846849563E-4
+1024 
+token 13:56:11
+docID 8488
+score 3.0147723846849563E-4
+501 
+token deelliiiicciiouss
+docID 8488
+score 3.0147723846849563E-4
+2806 
+token 11:35:10
+docID 8488
+score 3.0147723846849563E-4
+2887 
+token 20:13:09
+docID 8488
+score 3.0147723846849563E-4
+549 
+token mixedin
+docID 8488
+score 3.0147723846849563E-4
+2455 
+token 22:30:50
+docID 8488
+score 3.0147723846849563E-4
+1280 
+token 20:42:34
+docID 8488
+score 3.0147723846849563E-4
+3199 
+token stouffers
+docID 8488
+score 6.029544769369913E-4
+1695 1710 
+token tiamiceli
+docID 8488
+score 3.0147723846849563E-4
+3264 
+token 14:55:12
+docID 8488
+score 3.0147723846849563E-4
+2978 
+token 01:28:26
+docID 8488
+score 3.0147723846849563E-4
+684 
+token 16:36:05
+docID 8488
+score 3.0147723846849563E-4
+2810 
+token 14:09:31
+docID 8488
+score 3.0147723846849563E-4
+469 
+token turkeybased
+docID 8488
+score 3.0147723846849563E-4
+2261 
+token 07:47:39
+docID 8488
+score 3.0147723846849563E-4
+705 
+token breakfsat
 docID 8491
-839 
-token http://www.narba.org/
-docID 8419
-61 
-token amyg
-docID 8775
-3041 
-token leadites
-docID 8899
-1492 
-token fein
-docID 8599
-7 
-token 20settings
-docID 8808
-1978 
-token madelaine
-docID 8891
-774 
-token 8balls
-docID 8424
-39 
-token peanutsesame
+score 3.632401017072285E-4
+893 
+token flattest
+docID 8491
+score 3.632401017072285E-4
+808 
+token 13:00:32
+docID 8491
+score 3.632401017072285E-4
+1026 
+token 22:51:59
+docID 8491
+score 3.632401017072285E-4
+545 
+token hbic88
+docID 8491
+score 3.632401017072285E-4
+1950 
+token 18:41:10
+docID 8491
+score 3.632401017072285E-4
+1871 
+token sometimesa
+docID 8491
+score 3.632401017072285E-4
+182 
+token 02:01:44
+docID 8491
+score 3.632401017072285E-4
+1637 
+token hoot
+docID 8491
+score 3.632401017072285E-4
+1052 
+token 12:12:20
+docID 8491
+score 3.632401017072285E-4
+446 
+token bbd
+docID 8491
+score 3.632401017072285E-4
+2635 
+token 15:00:53
+docID 8491
+score 3.632401017072285E-4
+1448 
+token herzchen
+docID 8491
+score 3.632401017072285E-4
+1719 
+token alamode
+docID 8491
+score 3.632401017072285E-4
+2547 
+token 21:04:32
+docID 8491
+score 3.632401017072285E-4
+2639 
+token davisguy81
+docID 8491
+score 7.26480203414457E-4
+1322 2001 
+token 19:26:53
+docID 8491
+score 3.632401017072285E-4
+1085 
+token hangoverbreakfastthatsclosertolunch
+docID 8491
+score 3.632401017072285E-4
+2718 
+token supersucks
+docID 8491
+score 3.632401017072285E-4
+2371 
+token 19:42:05
+docID 8491
+score 3.632401017072285E-4
+1758 
+token 12:31:24
+docID 8491
+score 3.632401017072285E-4
+2269 
+token 03:43:33
+docID 8491
+score 3.632401017072285E-4
+1242 
+token 10:01:44
+docID 8491
+score 3.632401017072285E-4
+2703 
+token pilaf
+docID 8491
+score 3.632401017072285E-4
+179 
+token 16:17:33
+docID 8491
+score 3.632401017072285E-4
+737 
+token 14:11:49
+docID 8491
+score 3.632401017072285E-4
+1169 
+token 14:39:03
+docID 8491
+score 3.632401017072285E-4
+805 
+token studierfriendly
+docID 8491
+score 3.632401017072285E-4
+145 
+token noncommittally
+docID 8491
+score 3.632401017072285E-4
+644 
+token 14:18:34
+docID 8491
+score 3.632401017072285E-4
+2499 
+token 12:26:51
+docID 8491
+score 3.632401017072285E-4
+565 
+token 12:37:01
+docID 8491
+score 3.632401017072285E-4
+990 
+token 16:34:50
+docID 8491
+score 3.632401017072285E-4
+2026 
+token skilletmmmmm
+docID 8491
+score 3.632401017072285E-4
+897 
+token herzchen
 docID 8568
-1047 
-token squatters
-docID 8576
-432 
-token 16:08:08
-docID 8701
-525 
-token 16:08:30
-docID 8939
-1166 
-token looms
-docID 8945
-381 
-token missyhob
-docID 8432
-32 
-token 1851
-docID 9654
-91 
-token arilevy
-docID 9489
-193 
-token 20121223
-docID 9461
-675 
-token ucdtri
-docID 9622
-350 
-token amyg
-docID 9571
-1021 2663 
-token fein
+score 6.821282401091405E-4
+726 
+token tactically
+docID 8680
+score 1.3555645926528398E-4
+1179 
+token lrosales
+docID 8692
+score 8.163265306122449E-4
+314 
+token tallied
+docID 8751
+score 4.3402777777777775E-4
+1307 
+token implementations
+docID 8906
+score 4.576659038901602E-4
+3336 3350 
+token 19:42:05
+docID 8975
+score 4.0966816878328555E-4
+1975 
+token tactically
 docID 8993
-19834 20938 
-token portafilter
-docID 10405
-1659 1756 
-token burlington
-docID 10442
-1077 
-token fume
-docID 9746
-1765 
-token 1718
-docID 10400
-393 575 
-token 16:08:56
-docID 9719
-3222 
-token vegeterian
-docID 10924
-4822 
-token atrophy
-docID 11127
-476 
-token scrapped
-docID 10977
-789 
-token unitarians
-docID 10923
-12273 
-token 1710
-docID 10613
-21 
-token wearer
-docID 11127
-2017 
-token fein
-docID 10909
-15 
-token businesspeople
-docID 11755
-3182 
-token scrapped
-docID 12049
-17948 
-token 09:24:01
-docID 11458
-1144 
-token recumbents
-docID 11771
-522 589 620 857 
-token ucdtri
-docID 11716
-232 
-token fein
-docID 12002
-7 
-token 16:08:08
-docID 11989
-2733 
-token looms
-docID 11917
-4 
-token missyhob
-docID 11438
-807 815 
-token remaking
-docID 12308
-155 
-token businesspeople
-docID 12349
-679 
-token 13:01:06
-docID 12307
-271 
-token 11:15:31
-docID 12377
-58 
-token tenors
-docID 12496
-292 
-token franca
-docID 12557
+score 3.581533612692955E-5
+17177 
+token 12:31:24
+docID 9062
+score 0.002347417840375587
+159 
+token roundbyround
+docID 9234
+score 0.0026666666666666666
+325 
+token tactically
+docID 9234
+score 0.0026666666666666666
+107 
+token implementations
+docID 9247
+score 8.488964346349745E-4
+395 
+token 16:47:23
+docID 9253
+score 3.746721618583739E-4
+2298 
+token ayes
+docID 9361
+score 2.288329519450801E-4
+4337 
+token herzchen
+docID 9452
+score 1.96811651249754E-4
+3436 
+token horsies
+docID 9818
+score 0.027777777777777776
+13 
+token 20:00:11
+docID 9875
+score 2.663115845539281E-4
+1993 
+token tallied
+docID 9875
+score 5.326231691078562E-4
+2011 2076 
+token pilaf
+docID 10007
+score 4.4943820224719103E-4
+144 
+token 15:30:17
+docID 10224
+score 0.0015267175572519084
+554 
+token 14:55:12
+docID 10303
+score 0.0025188916876574307
+108 
+token suh
+docID 10859
+score 0.0025974025974025974
+172 
+token 16:47:23
+docID 10894
+score 0.00625
 151 
-token hardcopy
+token hoot
+docID 10914
+score 7.293946024799417E-4
+1143 
+token 2/9
+docID 10923
+score 5.930142916444286E-5
+14462 
+token uop
+docID 11149
+score 0.0025575447570332483
+661 668 
+token fenix
+docID 11422
+score 0.0040650406504065045
+81 
+token bbd
+docID 11458
+score 1.7053206002728513E-4
+5534 
+token ayes
+docID 11579
+score 0.0011771630370806356
+222 1062 
+token multimember
+docID 11625
+score 9.478672985781991E-4
+38 
+token bbd
+docID 11778
+score 3.7885963250615644E-4
+3906 4723 8289 8714 
+token tallied
+docID 11831
+score 1.9113149847094801E-4
+4253 
+token forgettable
+docID 11903
+score 4.3159257660768235E-4
+948 
+token 12:12:20
+docID 12073
+score 7.390983000739098E-4
+965 
+token 14:18:34
+docID 12200
+score 1.35666802333469E-4
+4547 
+token 16:36:05
+docID 12242
+score 1.5956598053295037E-4
+1633 
+token pilaf
+docID 12261
+score 2.1579628830384117E-4
+4031 
+token 20:08:23
+docID 12652
+score 0.0012033694344163659
+746 
+token 20:42:34
+docID 12736
+score 0.001589825119236884
+92 
+token 15:30:17
 docID 12759
-818 
-token 1851
-docID 12882
-67 
-token 11:15:31
-docID 13263
-282 
-token passingthrough
-docID 13086
-401 436 548 
-token squatters
-docID 13004
-264 
-token looms
-docID 13419
-1380 
-token 00:04:08
-docID 14107
-607 
-token 1851
-docID 14046
-25 
-token 14:45:25
-docID 14224
-6696 
-docID 13632
-5724 
-token wearer
-docID 13632
-3641 
-token 1851
-docID 14772
-168 
-token poser
-docID 14758
-2474 
-token http://www.davisgrad.com
-docID 14699
-68 
-token erudite
-docID 14758
-6579 
-token passingthrough
-docID 14982
-9715 
-token rostinis
-docID 15359
-2798 
-token 00:41:21
-docID 15682
-543 
-token instigator
-docID 15452
-5947 6091 
-token fein
-docID 15197
-841 
-token mothballs
-docID 16341
-255 
-token 13:24:08
-docID 15983
-1241 
-token http://www.davisbicycles.org/buehlerthesisfinaldraft.pdf
-docID 16149
-639 
-token 1718
-docID 16074
-1667 
-token franca
-docID 16380
-96 
-token madelaine
-docID 16105
-591 
+score 1.6498927569707968E-4
+2949 
+token candacesmith
+docID 13098
+score 2.452182442373713E-4
+3927 
+token 20:00:11
+docID 13427
+score 0.05263157894736842
+2 
+token pilaf
+docID 13493
+score 0.0034129692832764505
+115 
+token hoot
+docID 13725
+score 3.4614053305642093E-4
+475 
+token supersucks
+docID 13969
+score 0.004210526315789474
+721 725 761 780 
+token suh
+docID 14060
+score 0.0023094688221709007
+195 
+token spuds
+docID 14101
+score 3.0129557095510696E-4
+318 
+token 22:51:59
+docID 14347
+score 8.460236886632825E-4
+876 
+token rescinded
+docID 14558
+score 6.544502617801048E-4
+327 
+token chewable
+docID 14558
+score 6.544502617801048E-4
+546 
+token 14:39:03
+docID 14659
+score 6.079027355623101E-4
+1084 
+token uop
+docID 14787
+score 0.0016556291390728477
+214 
+token tactically
+docID 14939
+score 6.49772579597141E-4
+1254 
+token forgettable
+docID 15173
+score 2.1872265966754156E-4
+3825 
+token 20:08:23
+docID 15396
+score 1.332800213248034E-4
+5409 
+token inova
+docID 15417
+score 1.6276041666666666E-4
+4231 
+token 14:11:49
+docID 15531
+score 0.0017730496453900709
+430 
+token tallied
+docID 15685
+score 0.001697792869269949
+536 
+token worthington
+docID 16061
+score 0.0021598272138228943
+196 
+token mps
+docID 16166
+score 0.02127659574468085
+46 
+token rescinded
+docID 16543
+score 3.368137420006736E-4
+2967 
+token 2/9
+docID 16623
+score 9.615384615384616E-4
+651 
+token 03:43:33
+docID 16655
+score 1.1963153487259242E-4
+1551 
+token forgettable
+docID 16655
+score 1.1963153487259242E-4
+7014 
+token 2/9
+docID 16662
+score 1.0097950116126426E-4
+2011 
+token semilocal
+docID 16716
+score 4.3252595155709344E-4
+778 
+token rescinded
+docID 16829
+score 7.199424046076314E-4
+1364 

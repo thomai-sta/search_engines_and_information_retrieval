@@ -1,696 +1,1040 @@
-token isaacliao
-docID 7151
-950 
-token 400.00
-docID 7109
-991 
-token dom0
-docID 6677
-381 509 
-token ime
-docID 6721
-960 
-token angeleyecare2020
-docID 7373
-3957 
-token overengineering
-docID 7126
-4251 
-token fallquarter
-docID 6628
+token emory
+docID 7006
+score 0.0022371364653243847
+100 
+token cebu
+docID 7006
+score 0.0022371364653243847
+297 
+token smdfrat
+docID 7006
+score 0.0022371364653243847
+445 
+token commonwealth
+docID 7006
+score 0.0022371364653243847
+200 
+token 5307633728
+docID 7006
+score 0.0022371364653243847
+446 
+token weill
+docID 7006
+score 0.0022371364653243847
+192 
+token smd
+docID 7006
+score 0.0044742729306487695
+5 427 
+token jeffer
+docID 7007
+score 0.0040650406504065045
+6 
+token 02:40:23
+docID 7007
+score 0.0040650406504065045
+227 
+token armisen
+docID 7007
+score 0.0040650406504065045
+221 
+token 17:06:11
+docID 7007
+score 0.0040650406504065045
+172 
+token portlandia
+docID 7007
+score 0.0040650406504065045
+212 
+token 19:08:40
+docID 7007
+score 0.0040650406504065045
+187 
+token inexorably
+docID 7007
+score 0.0040650406504065045
+239 
+token sleaterkinney
+docID 7007
+score 0.0040650406504065045
+192 
+token 22:45:29
+docID 7007
+score 0.0040650406504065045
+114 
+token withinorganizational
+docID 7007
+score 0.0040650406504065045
+132 
+token sprankling
+docID 7009
+score 0.0273972602739726
+1 6 
+token http://www.ycoe.org/
+docID 7010
+score 0.05
+1 
+token ibjjf
+docID 7011
+score 0.0022123893805309734
+270 
+token platt
+docID 7011
+score 0.0022123893805309734
+190 
+token http://daviskungfu.com/
+docID 7011
+score 0.0022123893805309734
+137 
+token sportsclubs
+docID 7011
+score 0.0022123893805309734
+380 
+token doce
+docID 7011
+score 0.0022123893805309734
+195 
+token sul
+docID 7011
+score 0.004424778761061947
+350 434 
+token http://www.radsystems.com/index.html
+docID 7011
+score 0.0022123893805309734
+180 
+token weaponfighting
+docID 7011
+score 0.0022123893805309734
+203 
+token kuk
+docID 7011
+score 0.004424778761061947
+348 432 
+token xingyiquan
+docID 7011
+score 0.0022123893805309734
+150 
+token kajukenbo
+docID 7011
+score 0.0022123893805309734
+212 
+token arnis
+docID 7011
+score 0.004424778761061947
+216 415 
+token lichtig
+docID 7011
+score 0.0022123893805309734
+191 
+token jujutsu
+docID 7011
+score 0.0022123893805309734
+214 
+token http://asucd.ucdavis.edu/experimentalcollege/index.cfm?pagesearch&coursesid2532
+docID 7011
+score 0.0022123893805309734
+297 
+token pares
+docID 7011
+score 0.0022123893805309734
+196 
+token formmindspirit
+docID 7011
+score 0.0022123893805309734
+250 
+token inseason
+docID 7012
+score 3.155569580309246E-4
+1220 
+token craftzine
+docID 7012
+score 3.155569580309246E-4
+2526 
+token vermicomposting
+docID 7012
+score 3.155569580309246E-4
+1701 
+token droppped
+docID 7012
+score 3.155569580309246E-4
+550 
+token extinguishing
+docID 7012
+score 3.155569580309246E-4
+1575 
+token http://www.yolocounty.org/index.aspx?page437
+docID 7012
+score 3.155569580309246E-4
+239 
+token aggregates
+docID 7012
+score 3.155569580309246E-4
+406 
+token 7872012
+docID 7012
+score 3.155569580309246E-4
 404 
-token 2f26
-docID 7334
-243 
-token april2006
-docID 7412
-1903 
-token 11:45:38
-docID 7373
-5133 
-token http://en.wikipedia.org/wiki/asian_american
-docID 7334
-397 
+token 6616333
+docID 7012
+score 9.466708740927738E-4
+575 610 648 
+token http://www.apple.com/pr/library/2005/jun/03recycle.html
+docID 7012
+score 3.155569580309246E-4
+1934 
+token 4882277
+docID 7012
+score 3.155569580309246E-4
+428 
+token cfls
+docID 7012
+score 3.155569580309246E-4
+1245 
+token teichert
+docID 7012
+score 3.155569580309246E-4
+405 
+token 2449
+docID 7012
+score 3.155569580309246E-4
+2548 
+token noncontainerized
+docID 7012
+score 3.155569580309246E-4
+2968 
+token consigns
+docID 7012
+score 3.155569580309246E-4
+1216 
+token almostnew
+docID 7012
+score 3.155569580309246E-4
+3158 
+token 5306668646
+docID 7012
+score 6.311139160618492E-4
+1916 2328 
+token http://www.apple.com/retail/ardenfair/
+docID 7012
+score 3.155569580309246E-4
+1928 
+token morphine
+docID 7012
+score 3.155569580309246E-4
+2116 
+token 5306615900
+docID 7012
+score 6.311139160618492E-4
+1546 2829 
+token containerized
+docID 7012
+score 3.155569580309246E-4
+2951 
+token wetted
+docID 7012
+score 3.155569580309246E-4
+382 
+token selfclean
+docID 7012
+score 3.155569580309246E-4
+2355 
+token punctured
+docID 7012
+score 3.155569580309246E-4
+827 
+token pressuretreated
+docID 7012
+score 6.311139160618492E-4
+2699 2701 
+token 6614290
+docID 7012
+score 3.155569580309246E-4
+407 
+token http://www.cpsc.gov/cpscpub/prerel/category/toy.html
+docID 7012
+score 3.155569580309246E-4
+2624 
+token mercurycontaining
+docID 7012
+score 3.155569580309246E-4
+2131 
+token stuckon
+docID 7012
+score 3.155569580309246E-4
+2499 
+token 7582160
+docID 7012
+score 3.155569580309246E-4
+439 
+token http://recologyhayroad.com/index.htm
+docID 7012
+score 3.155569580309246E-4
+2720 
+token lithium
+docID 7012
+score 3.155569580309246E-4
+748 
+token 430402/430402
+docID 7012
+score 3.155569580309246E-4
+1809 
+token hypodermic
+docID 7012
+score 3.155569580309246E-4
+2267 
+token 6611218
+docID 7012
+score 9.466708740927738E-4
+599 637 675 
+token ecycling
+docID 7012
+score 6.311139160618492E-4
+1344 1536 
+token teartest
+docID 7012
+score 3.155569580309246E-4
+1070 
+token disinfectants
+docID 7012
+score 3.155569580309246E-4
+1422 
+token 07:40:19
+docID 7012
+score 3.155569580309246E-4
+3151 
+token homegenerated
+docID 7012
+score 3.155569580309246E-4
+2283 
+token 18008600357
+docID 7012
+score 9.466708740927738E-4
+590 628 666 
+token friable
+docID 7012
+score 3.155569580309246E-4
+370 
+token unpunctured
+docID 7012
+score 3.155569580309246E-4
+822 
+token ammoniabased
+docID 7012
+score 3.155569580309246E-4
+313 
+token 5306685280
+docID 7012
+score 3.155569580309246E-4
+331 
+token syringes
+docID 7012
+score 9.466708740927738E-4
+2950 2952 2969 
+token itif
+docID 7012
+score 3.155569580309246E-4
+1055 
+token governmentauthenticated
+docID 7012
+score 3.155569580309246E-4
+200 
+token compacters
+docID 7012
+score 3.155569580309246E-4
+3069 
+token unwearable
+docID 7012
+score 3.155569580309246E-4
+2878 
+token codine
+docID 7012
+score 3.155569580309246E-4
+2113 
+token firstaid
+docID 7012
+score 3.155569580309246E-4
+1608 
+token kerosene
+docID 7012
+score 3.155569580309246E-4
+1961 
+token 4423691
+docID 7012
+score 3.155569580309246E-4
+433 
+token solventbased
+docID 7012
+score 3.155569580309246E-4
+1761 
+token palsy
+docID 7012
+score 9.466708740927738E-4
+586 624 662 
+token stripper
+docID 7012
+score 3.155569580309246E-4
+2414 
+token 4401215x1120
+docID 7012
+score 3.155569580309246E-4
+422 
+token 6616800
+docID 7012
+score 3.155569580309246E-4
+514 
+token http://www.royalbastardsscooterclub.com/
+docID 7013
+score 0.017857142857142856
+52 
+token scooterists
+docID 7013
+score 0.017857142857142856
+3 
+token topz
+docID 7013
+score 0.017857142857142856
+47 
+token http://www.burgundytopz.com/
+docID 7013
+score 0.017857142857142856
+44 
+token blatently
+docID 7015
+score 7.132667617689016E-4
+872 
+token etcamericans
+docID 7015
+score 7.132667617689016E-4
+905 
+token 17:44:16
+docID 7015
+score 7.132667617689016E-4
+841 
+token 23:01:59
+docID 7015
+score 7.132667617689016E-4
+879 
+token statesian
+docID 7015
+score 7.132667617689016E-4
+1255 
+token unnessecary
+docID 7015
+score 7.132667617689016E-4
+676 
+token lumping
+docID 7015
+score 7.132667617689016E-4
+458 
+token peruvians
+docID 7015
+score 0.0014265335235378032
+1284 1306 
+token quetion
+docID 7015
+score 7.132667617689016E-4
+209 
+token deleation
+docID 7015
+score 7.132667617689016E-4
+846 
+token arogant
+docID 7015
+score 7.132667617689016E-4
+1335 
+token unpatriotic
+docID 7015
+score 7.132667617689016E-4
+631 
+token suchandsuchamericans
+docID 7015
+score 7.132667617689016E-4
+677 
+token 00:52:47
+docID 7015
+score 7.132667617689016E-4
+70 
+token meusers
+docID 7015
+score 7.132667617689016E-4
+343 
+token 09:51:11
+docID 7015
+score 7.132667617689016E-4
+812 
+token unnesecary
+docID 7015
+score 7.132667617689016E-4
+355 
+token fob
+docID 7015
+score 7.132667617689016E-4
+721 
+token 13:58:18
+docID 7015
+score 7.132667617689016E-4
+963 
+token supersmart
+docID 7015
+score 7.132667617689016E-4
+1069 
+token widly
+docID 7015
+score 7.132667617689016E-4
+112 
+token epithet
+docID 7015
+score 7.132667617689016E-4
+729 
+token citypromotes
+docID 7016
+score 0.009523809523809525
+73 
+token http://cityofdavis.org/pcs/about/fleetsvcs.cfm
+docID 7016
+score 0.009523809523809525
+87 
+token program1315681
+docID 7016
+score 0.009523809523809525
+80 
+token http://www.cityofdavis.org/pdfs/gem_auction_release1.pdf
+docID 7016
+score 0.009523809523809525
+98 
+token https://www.facebook.com/pages/thespokes/136852192894?frefts
+docID 7021
+score 0.0018832391713747645
+515 
+token the.spokes@gmail.com
+docID 7021
+score 0.0018832391713747645
+519 
+token 2013s
+docID 7021
+score 0.0018832391713747645
+240 
+token https://www.facebook.com/events/791341117562075/
+docID 7021
+score 0.0018832391713747645
+141 
+token https://www.thedavisspokes.com
+docID 7021
+score 0.0018832391713747645
+512 
+token emceed
+docID 7021
+score 0.003766478342749529
+172 229 
+token harmonics
+docID 7021
+score 0.0018832391713747645
+204 
+token spotify
+docID 7021
+score 0.0018832391713747645
+394 
+token octet
+docID 7021
+score 0.003766478342749529
+193 252 
+token http://www.mondaviarts.org/events/event.cfm?event_id1427&season2013
+docID 7021
+score 0.0018832391713747645
+148 
+token tfa
+docID 7021
+score 0.0018832391713747645
+483 
 token 1,801
 docID 7021
+score 0.0018832391713747645
 119 
-token hydro
-docID 7147
-180 
-token wikidrama
-docID 6807
-72 
-token psychosis
-docID 7239
-43 
-token domu
-docID 6677
-367 
-token lenscrafters
-docID 7083
-1245 
-token 07:22:07
-docID 7244
-1171 
-token spinningoriented
-docID 6943
-133 
-token 03:35:44
-docID 6804
-1356 
-token http://itunes.apple.com/us/album/voodoofeatnoahtheman/id358391080?i358391093
-docID 7405
-350 
-token http://www.pottymouth.org/humor/davis.html
-docID 6871
-1341 
-token http://www.brewitup.com/dining_menus.htm
-docID 6883
-68 
-token weegs
-docID 6686
-946 
-token niger
-docID 7244
-59 330 
-token alternater
-docID 6992
-666 
-token tollerate
-docID 7125
-606 
-token http://www.news.ucdavis.edu/search/news_detail.lasso?id8684
-docID 6812
-19 
-token lagomorphs
-docID 7244
-1143 
-token delle
-docID 7331
-974 
-token actionless
-docID 6832
-2966 
-token 8hrs
-docID 7312
-2567 
-token 20:53:56
-docID 6767
-108 
-token unequalled
-docID 6970
-317 
-token puls
-docID 7126
-3299 
-token alshapiro28gmail
-docID 7141
-182 
-token 0,859
-docID 7334
-335 
-token nooooooooooooooooooo
-docID 6931
-1352 
-token index2
-docID 7412
-257 
-token stcastle@ucdavis.edu
-docID 6751
-1980 2015 
-token wreaking
-docID 7381
-608 
-token 95.00
-docID 7109
-999 
-token mellanie
-docID 6929
-468 
-token gqxx04shwm4j
-docID 6593
-180 
-token 24june2012
-docID 7226
-308 
-token yahr
-docID 6751
-2063 
-token lynnepstein
-docID 7109
-1396 
-token 08:03:53
-docID 6726
-2803 
-token 00:00:50
-docID 6886
-875 
-token weepy
-docID 7133
-6313 
-token http://annaham.livejournal.com
-docID 7422
-24 
-token posner
-docID 6751
-1435 1445 
-token lofi
-docID 6858
-20 
-token http://plus.google.com/104908763446751726349
-docID 7412
-1984 
-token unveiling
-docID 6636
-143 
-token schoolmournslossoflongtimeartteacher
-docID 7161
-1283 
-token loge
-docID 6751
-1624 
-token http://www.gateworld.net
-docID 6886
-38 
-token midstate
-docID 7310
-1011 
-token 25991
-docID 7331
-1552 1569 
-token 21:16:50
-docID 6713
-326 
-token http://www.ycha.org/.
-docID 7360
-425 
-token flossing
-docID 7168
-869 
-token https://www.facebook.com/events/354341997949107/
-docID 6686
-448 
-token 08:03:18
-docID 6959
-5 
-token meggers
-docID 7133
-218 
-token demographically
-docID 6957
-201 
-token clipd
-docID 6686
-850 
-token bulldozed
-docID 6708
-21 
-token 20140613
-docID 7109
-4165 
-token ffo
-docID 6984
-245 
-token 20140629
-docID 7133
-9584 
-token manhandling
-docID 7133
-9306 
-token limitedtime
-docID 7286
-917 
-token fec
-docID 7204
-24 
-token http://www.davisenterprise.com/robots.txt
-docID 6781
-649 
-token 00:06:05
-docID 7055
-524 
-token 3748818
-docID 6581
-154 
-token accomadated
-docID 7168
-714 
-token http://www.churchindavis.org/
-docID 6695
-46 
-token saucing
-docID 6612
-366 
-token 18:43:08
-docID 6594
-1167 
-token vantiquities
-docID 7124
-210 248 
-token ahatheway
-docID 6992
-1253 
-token djnurco
-docID 6706
-2 
-docID 7316
-933 1527 
-token strazdes
-docID 7126
-5057 
-token 04:22:38
-docID 6804
-456 
-token counterworker
-docID 6580
-4249 
-token consultancy
-docID 6880
-1 
-token cancer1545329
-docID 6774
-212 
-token fcp
-docID 6830
-81 83 
-token fcg
-docID 6657
-6 
-token 17:41:57
-docID 6726
-5123 
-token 22:23:30
-docID 6645
-2686 
-docID 7369
-68 
-token everenlarging
-docID 7155
-111 
-token 上海镇
-docID 7331
-910 
-token alanajean
-docID 6594
-1590 
-token を愛しなさい
-docID 7331
-1078 
-token 22:23:18
-docID 6612
-4839 
-token bgonzales
-docID 7368
-214 235 
-token 22:23:10
-docID 6596
-267 
-token http://whotookthebomp.blogspot.com
-docID 7422
-23 
-token 1,300
-docID 7258
-230 
-token http://www.ted.com/talks/garth_lenz_images_of_beauty_and_devastation.html
-docID 6751
-1340 
-token http://www.centerforsocialmedia.org/artists/john_de_graaf_and_affluenza/
-docID 6751
-1658 
-token 02:51:15
-docID 6781
-1736 
-token shallscribe
-docID 7061
-7470 
-token gremban
-docID 7412
-1579 1592 
-token 12.01.090
-docID 6635
-105 
-token reducedrate
-docID 7091
-416 
-token mattsmidebush
-docID 7362
-263 
-docID 6776
-443 
-token trichomoniasis
-docID 7381
-124 979 
-token 08:52:09
-docID 6984
-1106 
-token diananguyen
-docID 6672
-507 
-token http://www.livejournal.com/community/ucdavis/1897251.html
-docID 6988
-702 
-token bradorahood
-docID 6996
-2576 
-token maraannechambers
-docID 7151
-827 
-token 12.01.070
-docID 6635
-98 
-token 7clarge
-docID 6580
-5060 
-token naivete
-docID 7257
-1041 
-token accomplices
-docID 6813
-439 
-token ucenrolled
-docID 6628
-186 
-token 12.01.080
-docID 6635
-100 
-token cheree
-docID 7230
-8 
-token thanksgivingesque
-docID 7248
-768 
-token 12.01.060
-docID 6635
-91 
-token 12.01.055
-docID 6635
-86 
-token ev1
-docID 7412
-179 
-token 13:26:34
-docID 7331
-2845 
-token 12.01.050
-docID 6635
-83 
-token baños
-docID 7183
-250 256 259 
-token 15:09:11
-docID 6721
-1132 
-token 20070916
-docID 6870
-91 101 
-token 12.01.040
-docID 6635
-78 
-token 15:09:25
-docID 7102
-141 
-token ewb
-docID 6737
-140 
-token ficubbage
-docID 6607
-2562 3131 
-token duluth
-docID 6750
-230 
-token 12.01.030
-docID 6635
-56 
-token siss@ucdavis.edu
-docID 6571
-427 
-token avante
-docID 7133
-3065 
-docID 6594
-802 
-token 15:09:18
-docID 6996
-2379 
-token http://www.rivercityrowing.org/
-docID 6787
+token http://www.youtube.com/watch?vlujourbtzb8
+docID 7021
+score 0.0018832391713747645
 398 
-token 18:30:40
-docID 7235
-375 
-token http://www.cnet.com
-docID 6886
-46 
-token 12.01.020
-docID 6635
-54 
-token stimmt
-docID 6874
-114 
-token mortem
-docID 6686
-618 
-token 09:12:13
-docID 6572
-45 
-token 13:12:55
-docID 6992
-1852 
-token wreaking
-docID 7973
-2865 
-token 00:00:50
-docID 7603
-1838 
-token fcp
-docID 7826
-81 83 
-token alanajean
-docID 8014
-669 
-token bgonzales
-docID 7621
-2 
-token diananguyen
-docID 8000
-6856 
-token http://www.livejournal.com/community/ucdavis/1897251.html
-docID 7916
-836 
-token duluth
-docID 7580
-9430 10292 
-token niger
-docID 8867
-79 
-token wreaking
-docID 8650
-6874 
-token loge
-docID 8680
-1569 1603 5082 
-token demographically
-docID 8906
-2065 
-token ffo
-docID 8317
-4 515 765 
-token manhandling
-docID 8724
-2124 
-token fec
-docID 8650
-2477 
-token 1,300
-docID 8890
-70 
-token http://www.livejournal.com/community/ucdavis/1897251.html
-docID 8899
-1995 
-token hydro
-docID 9639
-103 
-token 0,859
-docID 8993
-17722 
-token flossing
-docID 9427
-219 
-token consultancy
-docID 9132
-17 
-token 20070916
-docID 9224
-489 
-token ime
-docID 10317
-6218 
-token niger
-docID 10417
-1137 
-token puls
-docID 9808
-1 25 66 
-token demographically
-docID 9954
-548 
-token 18:43:08
-docID 9746
-21822 
-token 22:23:10
-docID 10009
-7222 
-token 20070916
-docID 10156
-1366 
-docID 10557
-973 
-token 400.00
-docID 10801
-5505 
-token hydro
-docID 10585
-29 
-token psychosis
-docID 10565
-2334 
-token unveiling
-docID 11027
-4201 
-token djnurco
-docID 10855
-680 
-token 20070916
-docID 10590
-1565 
-token wikidrama
-docID 11614
-549 
-token yahr
-docID 11398
-96 
-token flossing
-docID 11321
-202 
-docID 12049
-2052 3103 3133 3216 4537 7534 8791 9101 10401 16122 18847 
-token demographically
-docID 11407
-18 
-token bulldozed
-docID 11717
-368 418 
-token flossing
-docID 12049
-21899 24145 25768 25936 25979 27682 32174 32631 33757 
-token meggers
-docID 12759
-3287 
-token 22:23:18
-docID 12457
-1007 
-token diananguyen
-docID 12759
-5011 
-token 15:09:18
-docID 12573
-5172 
-token lofi
-docID 12924
-57 
-token loge
-docID 12818
-94 
-token diananguyen
-docID 13206
-6008 
-token naivete
-docID 13310
-127 
-token hydro
-docID 13848
-2385 
-token 07:22:07
-docID 13756
-2681 
-token flossing
-docID 14284
-895 
-token 1,300
-docID 14092
-2362 
-token alternater
-docID 14405
-1600 
-token lagomorphs
-docID 14996
+token afterglow
+docID 7021
+score 0.007532956685499058
+179 181 218 220 
+token dil
+docID 7021
+score 0.003766478342749529
+207 269 
+token pandora
+docID 7021
+score 0.0018832391713747645
+395 
+token mondaviarts
+docID 7021
+score 0.0018832391713747645
+528 
+token loudr
+docID 7021
+score 0.0018832391713747645
+397 
+token http://www.womensempowerment.org/
+docID 7021
+score 0.0018832391713747645
+491 
+token 200501
+docID 7022
+score 0.037037037037037035
+26 
+token 22:44:38
+docID 7028
+score 0.007751937984496124
+53 
+token 22:57:55
+docID 7028
+score 0.007751937984496124
+110 
+token dianacoss
+docID 7028
+score 0.015503875968992248
+2 108 
+token 13:36:35
+docID 7029
+score 5.192107995846313E-4
+150 
+token selfclean
+docID 7061
+score 1.0481081647626035E-4
+5634 
+token armisen
+docID 7623
+score 0.009708737864077669
+23 
+token portlandia
+docID 7623
+score 0.009708737864077669
 0 
-token 8hrs
-docID 14858
-2040 
-token puls
-docID 14403
-368 
-token wreaking
-docID 15055
-10 
-token lynnepstein
-docID 14469
-330 
-token unveiling
-docID 14602
-7986 
-token flossing
-docID 15018
-2595 
-token 20140629
-docID 14743
-11370 
-token accomplices
-docID 14783
-40 
-token hydro
-docID 15318
-1692 
-token http://itunes.apple.com/us/album/voodoofeatnoahtheman/id358391080?i358391093
-docID 15660
-114 159 
-token lofi
-docID 15107
-3711 
-token unveiling
-docID 15325
-758 
-token flossing
-docID 15070
-766 
-token fec
-docID 15097
-21601 21640 
-token 1,300
-docID 15299
-246 
-token reducedrate
-docID 15472
-198 
-token psychosis
-docID 16106
-52 73 
-token lofi
-docID 15987
-10 
-token flossing
-docID 16530
-1066 
-token 20140613
-docID 16007
-1117 
-token 1,300
-docID 16118
-79 
-token accomplices
-docID 16336
-304 359 4886 6120 6712 8614 8881 9023 
-token 20070916
-docID 15936
-2453 
+token emory
+docID 7707
+score 4.948045522018803E-4
+109 
+token inseason
+docID 7729
+score 7.272727272727272E-4
+1161 
+token 22:57:55
+docID 7793
+score 4.608294930875576E-4
+567 
+token formmindspirit
+docID 7883
+score 0.5
+1 
+token unwearable
+docID 8163
+score 0.002369668246445498
+17 
+token unpatriotic
+docID 8172
+score 4.07797080172906E-5
+12549 
+token aggregates
+docID 8172
+score 4.07797080172906E-5
+16072 
+token portlandia
+docID 8172
+score 4.07797080172906E-5
+6897 
+token sul
+docID 8217
+score 0.2
+4 
+token kuk
+docID 8217
+score 0.2
+2 
+token xingyiquan
+docID 8237
+score 0.007125890736342043
+96 213 243 
+token octet
+docID 8258
+score 7.407407407407407E-4
+204 
+token sul
+docID 8584
+score 0.004705882352941176
+346 351 
+token kuk
+docID 8584
+score 0.004705882352941176
+344 349 
+token the.spokes@gmail.com
+docID 8655
+score 0.0022471910112359553
+282 394 1327 
+token loudr
+docID 8655
+score 0.00149812734082397
+105 712 
+token spotify
+docID 8655
+score 0.00299625468164794
+107 709 844 960 
+token pandora
+docID 8655
+score 7.49063670411985E-4
+710 
+token 17:44:16
+docID 8663
+score 0.0028089887640449437
+314 
+token emory
+docID 8696
+score 8.9126559714795E-4
+750 
+token firstaid
+docID 8718
+score 0.0025188916876574307
+395 
+token 22:45:29
+docID 8726
+score 1.5807777426493836E-4
+2762 
+token commonwealth
+docID 8981
+score 0.0196078431372549
+18 
+token jujutsu
+docID 8992
+score 0.005555555555555556
+44 
+token platt
+docID 8993
+score 3.581533612692955E-5
+8151 
+token epithet
+docID 9308
+score 7.558578987150416E-4
+705 
+token platt
+docID 9411
+score 0.0011299435028248588
+615 
+token xingyiquan
+docID 9411
+score 0.0011299435028248588
+610 
+token lichtig
+docID 9411
+score 0.0011299435028248588
+616 
+token formmindspirit
+docID 9411
+score 0.0011299435028248588
+755 
+token kuk
+docID 9441
+score 0.031578947368421054
+17 34 83 
+token sul
+docID 9441
+score 0.031578947368421054
+19 36 85 
+token afterglow
+docID 9593
+score 7.320644216691069E-4
+293 
+token lumping
+docID 9715
+score 0.0026455026455026454
+239 
+token platt
+docID 9807
+score 0.0022727272727272726
+1 
+token lichtig
+docID 9807
+score 0.004545454545454545
+2 19 
+token xingyiquan
+docID 9909
+score 0.0020491803278688526
+344 
+token 2013s
+docID 10158
+score 0.0018975332068311196
+57 
+token lumping
+docID 10201
+score 0.002785515320334262
+230 
+token extinguishing
+docID 10212
+score 8.375209380234506E-4
+781 
+token almostnew
+docID 10278
+score 0.006993006993006993
+138 
+token vermicomposting
+docID 10290
+score 0.004073319755600814
+160 333 
+token lichtig
+docID 10376
+score 0.14285714285714285
+3 
+token platt
+docID 10376
+score 0.14285714285714285
+2 
+token pandora
+docID 10618
+score 2.740852405097985E-4
+353 355 
+token 2013s
+docID 10830
+score 8.230452674897119E-4
+112 
+token xingyiquan
+docID 10889
+score 0.011320754716981131
+48 226 262 
+token inseason
+docID 10914
+score 7.293946024799417E-4
+187 
+token disinfectants
+docID 11178
+score 0.001876172607879925
+424 
+token http://www.ycoe.org/
+docID 11183
+score 0.006578947368421052
+71 
+token ammoniabased
+docID 11594
+score 0.0016207455429497568
+404 
+token doce
+docID 11627
+score 0.016304347826086956
+88 140 170 
+token pares
+docID 11627
+score 0.016304347826086956
+89 141 171 
+token weaponfighting
+docID 11627
+score 0.005434782608695652
+39 
+token lumping
+docID 12049
+score 2.1512778590482746E-5
+17992 
+token punctured
+docID 12049
+score 2.1512778590482746E-5
+28637 
+token epithet
+docID 12279
+score 7.905138339920949E-4
+703 
+token palsy
+docID 12309
+score 0.009433962264150943
+48 
+token sleaterkinney
+docID 12401
+score 9.514747859181732E-4
+732 
+token stripper
+docID 12428
+score 3.244646333549643E-4
+1526 
+token afterglow
+docID 12496
+score 0.002
+31 
+token stripper
+docID 12507
+score 0.00234192037470726
+301 
+token punctured
+docID 12573
+score 2.778163633838033E-4
+2068 2088 
+token 2013s
+docID 12703
+score 0.0010319917440660474
+356 
+token lumping
+docID 12724
+score 3.716090672612412E-4
+2254 
+token 200501
+docID 12732
+score 0.5
+1 
+token arogant
+docID 12933
+score 3.9952057530962844E-4
+165 
+token ibjjf
+docID 12946
+score 4.440497335701599E-4
+2222 
+token lichtig
+docID 13144
+score 0.14285714285714285
+3 
+token platt
+docID 13144
+score 0.14285714285714285
+2 
+token morphine
+docID 13250
+score 1.9877159156413366E-5
+36644 
+token almostnew
+docID 13283
+score 0.001953125
+507 
+token containerized
+docID 13419
+score 7.922047056959519E-5
+11931 
+token commonwealth
+docID 13423
+score 0.002257336343115124
+441 
+token selfclean
+docID 13500
+score 2.9994001199760045E-4
+1456 
+token afterglow
+docID 13689
+score 0.011976047904191617
+10 59 
+token kuk
+docID 13833
+score 0.0013486176668914363
+1025 1170 
+token sul
+docID 13833
+score 0.0013486176668914363
+1027 1171 
+token cfls
+docID 13848
+score 7.251631617113851E-4
+3954 3992 4028 
+token 2449
+docID 13848
+score 2.4172105390379503E-4
+1893 
+token lithium
+docID 13848
+score 2.4172105390379503E-4
+2664 
+token kuk
+docID 13863
+score 0.006329113924050633
+155 
+token sul
+docID 13863
+score 0.006329113924050633
+157 
+token syringes
+docID 13911
+score 0.0014245014245014246
+178 
+token emory
+docID 14167
+score 7.849293563579278E-4
+187 
+token emory
+docID 14333
+score 8.230452674897119E-4
+374 
+token teichert
+docID 14361
+score 1.7587055926837847E-4
+2274 
+token afterglow
+docID 14554
+score 0.004228329809725159
+135 170 
+token platt
+docID 14563
+score 0.0043859649122807015
+160 230 
+token lichtig
+docID 14563
+score 0.0043859649122807015
+161 231 
+token epithet
+docID 14758
+score 1.3997760358342665E-4
+2498 
+token platt
+docID 14839
+score 0.004878048780487805
+100 
+token lichtig
+docID 14839
+score 0.004878048780487805
+101 
+token jujutsu
+docID 14841
+score 0.0045871559633027525
+4 15 
+token smd
+docID 14981
+score 5.665722379603399E-4
+684 
+token afterglow
+docID 15076
+score 5.871990604815032E-4
+911 
+token doce
+docID 15304
+score 0.01818181818181818
+12 22 115 197 
+token pares
+docID 15304
+score 0.01818181818181818
+13 23 116 198 
+token fob
+docID 15417
+score 1.6276041666666666E-4
+948 
+token kuk
+docID 15628
+score 0.02197802197802198
+1 88 
+token sul
+docID 15628
+score 0.02197802197802198
+3 90 
+token http://www.yolocounty.org/index.aspx?page437
+docID 16200
+score 7.012622720897616E-4
+267 
+token mondaviarts
+docID 16204
+score 0.0019157088122605363
+461 
+token vermicomposting
+docID 16258
+score 5.549389567147614E-4
+1025 
+token 22:57:55
+docID 16426
+score 3.979307600477517E-4
+111 
+token punctured
+docID 16991
+score 3.0395136778115504E-4
+835 
+token cfls
+docID 17246
+score 0.001519756838905775
+25 70 

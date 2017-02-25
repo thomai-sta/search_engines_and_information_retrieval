@@ -1,454 +1,604 @@
-token integrals
-docID 16383
-1274 
-token eec173a
-docID 16383
-2769 
-token eec173b
-docID 16383
-2772 
-token bowilliamson@ucdavis.edu
-docID 16554
-8908 
-token ribbiting
-docID 15930
-247 
-token mollypop
-docID 16379
-75 76 79 80 83 84 87 115 116 119 120 123 124 127 152 158 159 162 163 166 167 170 192 199 200 203 204 207 208 211 
-token kristanreed
-docID 15991
-648 
-token 04:14:45
-docID 16207
-243 
-token katilinadams
-docID 16560
-1103 
-token mascara
-docID 16336
-1532 
-token 15150mm
-docID 16422
-398 
-token 14:54:49
-docID 16052
-1 
-token james.buban@gmail.com
-docID 16453
-1213 
-token crisscrosses
-docID 16054
-200 
-token 04:14:23
-docID 16336
-6945 
-token 15:52:54
-docID 15926
-19 
-token 15:52:52
-docID 16526
-928 
-token 13:22:37
-docID 16526
-1437 
-token mcgoohan
-docID 16497
-971 
-token moocs
-docID 16529
-138 180 508 566 
-token 36901
-docID 16276
-191 
-token cryinggirlgrifteratlargeindavis
-docID 16336
-641 4218 7024 
-token shareucd
-docID 16473
-383 
-token medford
-docID 16324
-10 
-token eric.brattain@gmail.com
-docID 16453
-1212 
-token 13:53:45
-docID 16526
-2429 
-token 10:20:55
-docID 16410
-43 
-token omnes
-docID 16245
-234 
-token http://www.applegatenurseryschool.org.
-docID 16456
-78 
-token moki
-docID 16085
-9595 9685 10057 10126 
-token ahs
-docID 16401
-3210 
-token truest
-docID 16072
-68 
-token moll
-docID 16379
-49 
-token nonwordofmouth
-docID 15975
-1719 
-token mev91
-docID 16504
-1229 
-token 10:49:36
-docID 16293
-5087 
-docID 15882
-3039 
-token tearouts
-docID 16336
-9352 
-token autumn@dcn.org
-docID 16554
-2790 
-token taikyula
-docID 15874
-561 
-token poetryindavis@gmail.com
-docID 16125
-127 
-token tienbui
-docID 16089
-6787 
-token 06:34:43
-docID 16336
-1657 
-token rezoning
-docID 16466
-760 
-docID 15909
-131 
-token falloutstilloccurringinwakeof
-docID 16207
-214 
-token saechao
-docID 15973
-400 507 
-token derivativeeven
-docID 16583
-6216 
-token fpga
-docID 16383
-3032 
-token salliehejl
-docID 16085
-10458 
-token 23:11:48
-docID 16293
-6146 
-token http://www.premiumoutlets.com/outlets/outlet.asp?id50
-docID 16352
-117 
-token 22:22:17
-docID 16426
-89 
-token waymy
-docID 16085
-7376 
-token bontrager
-docID 16554
-3016 3094 8854 9648 
-token 23:11:55
-docID 16373
-1083 
-token http://www.ets.org
-docID 16108
-334 
+token http://occr.ucdavis.edu/bookproject.html
+docID 16204
+score 0.0019157088122605363
+491 
+token http://anson.ucdavis.edu/seminars/currentseminarschedule
+docID 16204
+score 0.0019157088122605363
+409 
+token http://www.yolocvb.org/calendar
+docID 16204
+score 0.0019157088122605363
+199 
+token http://students.law.ucdavis.edu/lsa/calendar.html
+docID 16204
+score 0.0019157088122605363
+444 
+token typeby
+docID 16204
+score 0.0019157088122605363
+467 
+token http://lawr.ucdavis.edu/seminars_hyd.htm
+docID 16204
+score 0.0019157088122605363
+371 
+token http://events.dcn.org/ccal
+docID 16204
+score 0.0019157088122605363
+59 
+token http://lawr.ucdavis.edu/seminars_atm.htm
+docID 16204
+score 0.0019157088122605363
+367 
+token http://sacramento.craigslist.org/cal
+docID 16204
+score 0.0019157088122605363
+33 
+token http://www.putahcreekcouncil.org/index.php?showcalendar/
+docID 16204
+score 0.0019157088122605363
+155 
+token http://www.cs.ucdavis.edu/department/colloquia/index.html
+docID 16204
+score 0.0019157088122605363
+328 
+token http://www.physics.ucdavis.edu/calendar.html
+docID 16204
+score 0.0019157088122605363
+392 
+token http://cce.ucdavis.edu/calendar/
+docID 16204
+score 0.0019157088122605363
+248 
+token sacticket
+docID 16204
+score 0.0019157088122605363
+166 
+token http://www.kdvs.org/calendar/
+docID 16204
+score 0.0019157088122605363
+121 
+token http://www.sacleft.org/index.html
+docID 16204
+score 0.0019157088122605363
+161 
+token http://www.thedavisdirt.com/
+docID 16204
+score 0.0019157088122605363
+70 
+token http://lda.ucdavis.edu/newsevents/
+docID 16204
+score 0.0019157088122605363
+441 
+token http://www.lugod.org/calendar/lugodlocal.ics
+docID 16204
+score 0.0019157088122605363
+140 
+token http://www.thewardrobe.com/events.html
+docID 16204
+score 0.0019157088122605363
+194 
+token http://www.ucdirsa.org/calendar
+docID 16204
+score 0.0019157088122605363
+436 
+token http://events.myspace.com/index.cfm?fuseactionmycalendar&euserid57262404&eusernamegst+pub
+docID 16204
+score 0.0019157088122605363
+104 
+token http://srrc.ucdavis.edu/calendar.html
+docID 16204
+score 0.0019157088122605363
+512 
+token http://www.plantsciences.ucdavis.edu/plantsciences/databases/directory/news/seminars.asp
+docID 16204
+score 0.0019157088122605363
+399 
+token http://www.lugod.org/calendar
+docID 16204
+score 0.0019157088122605363
+125 
+token http://www.mondaviarts.org/forum
+docID 16204
+score 0.0019157088122605363
+474 
+token http://www.mondaviarts.org/events/
+docID 16204
+score 0.0019157088122605363
+143 
+token http://asucd.ucdavis.edu/calendarx.20060210.6556937792
+docID 16204
+score 0.0019157088122605363
+242 
+token topix
+docID 16204
+score 0.0019157088122605363
+178 
+token srcdavisbicycles
+docID 16204
+score 0.0019157088122605363
+52 
+token http://www.math.ucdavis.edu/research/seminars
+docID 16204
+score 0.0019157088122605363
+379 
+token http://events.dcn.org/asrss
+docID 16204
+score 0.0019157088122605363
+63 
+token http://cwr.ucdavis.edu/cwr/2008_year/ada_fall_term/calendarmain.html
+docID 16204
+score 0.0019157088122605363
+303 
+token http://caes.ucdavis.edu/newsevents/newsevents/
+docID 16204
+score 0.0019157088122605363
+275 
+token 20date
+docID 16204
+score 0.0019157088122605363
+468 
+token http://www.undietacos.org/
+docID 16204
+score 0.0019157088122605363
+182 
+token http://www.djusd.k12.ca.us/district/calendar/
+docID 16204
+score 0.0019157088122605363
+91 
+token http://www.villageharvest.org/davis/
+docID 16204
+score 0.0019157088122605363
+185 
 token http://www.biotech.ucdavis.edu/calendar.cfm
 docID 16204
+score 0.0019157088122605363
 245 
-token http://www.bicyclingworld.com/templates/product.aspx?rqproductid22814
-docID 16554
-1487 
+token http://www.ece.ucdavis.edu/events/
+docID 16204
+score 0.0019157088122605363
+347 
+token http://ica.ucdavis.edu/specialevents/
+docID 16204
+score 0.0019157088122605363
+230 
+token http://housing.ucdavis.edu/diversitycalendar/calendar.asp
+docID 16204
+score 0.0019157088122605363
+483 
+token http://sdps.ucdavis.edu/calendar.htm
+docID 16204
+score 0.0019157088122605363
+507 
+token http://www.cevs.ucdavis.edu/dept_cont/calendar/
+docID 16204
+score 0.0019157088122605363
+263 
+token http://www.deltaofvenus.org/calendar?modecalendarmonth
+docID 16204
+score 0.0019157088122605363
+98 
+token http://www.econ.ucdavis.edu/seminars/seminarcalendar
+docID 16204
+score 0.0019157088122605363
+340 
+token http://lgbtrc.ucdavis.edu/events/copy_of_calendar
+docID 16204
+score 0.0019157088122605363
+448 
+token http://www.davisfarmersmarket.org/calendar/
+docID 16204
+score 0.0019157088122605363
+86 
+token http://www.davisdowntown.com/events/eventcalendar
+docID 16204
+score 0.0019157088122605363
+80 
+token http://www.ls.ucdavis.edu/
+docID 16204
+score 0.0019157088122605363
+293 
+token http://calendar.ucdavis.edu/single.lasso
+docID 16204
+score 0.0019157088122605363
+216 
+token http://wrrc.ucdavis.edu
+docID 16204
+score 0.0019157088122605363
+517 
+token http://ccc.ucdavis.edu/calendarnew.html
+docID 16204
+score 0.0019157088122605363
+309 
+token http://lawr.ucdavis.edu/seminars_sbg.htm
+docID 16204
+score 0.0019157088122605363
+375 
+token icalendar
+docID 16204
+score 0.0019157088122605363
+141 
+token http://www.sacticket.com/cgibin/calendar/eventscal
+docID 16204
+score 0.0019157088122605363
+165 
+token http://chsc.ucdavis.edu/calendar.html
+docID 16204
+score 0.0019157088122605363
+268 
+token http://www.ucdmc.ucdavis.edu/mindinstitute/events
+docID 16204
+score 0.0019157088122605363
+455 
+token http://cows.ucdavis.edu/cbs
+docID 16204
+score 0.0019157088122605363
+281 
+token http://education.ucdavis.edu/newsevents
+docID 16204
+score 0.0019157088122605363
+496 
+token http://www.sophiasthaikitchen.com/event_calendar.cfm
+docID 16204
+score 0.0019157088122605363
+171 
+token http://www.cse.ucdavis.edu/events
+docID 16204
+score 0.0019157088122605363
+298 
+token 18:07:30
+docID 16206
+score 0.017857142857142856
+19 
+token http://www.californiaaggie.com/home/index.cfm?eventdisplayarticleprinterfriendly&ustory_id2fa41b365999441495093dfb86ac98f2
+docID 16207
+score 5.347593582887701E-4
+193 
+token planed
+docID 16207
+score 5.347593582887701E-4
+1535 
+token 00:49:19
+docID 16207
+score 5.347593582887701E-4
+226 
+token glendo
+docID 16207
+score 5.347593582887701E-4
+135 
+token falloutstilloccurringinwakeof
+docID 16207
+score 5.347593582887701E-4
+214 
+token davispolicecomparefavorablyintheir
+docID 16207
+score 5.347593582887701E-4
+1185 
+token campusrepublicanshostinsultingly
+docID 16207
+score 5.347593582887701E-4
+103 
+token participation2897080
+docID 16207
+score 5.347593582887701E-4
+157 
+token mccreary2897088
+docID 16207
+score 5.347593582887701E-4
+137 
+token http://sostrowski.livejournal.com/12527.html
+docID 16207
+score 5.347593582887701E-4
+1377 
+token disobediance
+docID 16207
+score 0.0010695187165775401
+1490 1532 
+token antiisraeli
+docID 16207
+score 5.347593582887701E-4
+513 
+token 22:17:47
+docID 16207
+score 5.347593582887701E-4
+1741 
+token markevichs
+docID 16207
+score 0.0010695187165775401
+155 159 
+token unorthodoxed
+docID 16207
+score 5.347593582887701E-4
+406 
+token militancy
+docID 16207
+score 0.0010695187165775401
+646 1571 
+token editor2899049
+docID 16207
+score 5.347593582887701E-4
+180 
+token languag2505762
+docID 16207
+score 5.347593582887701E-4
+1403 
+token 04:14:45
+docID 16207
+score 5.347593582887701E-4
+243 
+token disobediant
+docID 16207
+score 5.347593582887701E-4
+1668 
+token wedding1
+docID 16208
+score 0.0012515644555694619
+561 
+token 29sec
+docID 16208
+score 0.0012515644555694619
+142 
+token shavasana
+docID 16208
+score 0.0012515644555694619
+258 
+token gramma
+docID 16208
+score 0.0012515644555694619
+481 
 token cohabit
 docID 16208
+score 0.0012515644555694619
 736 
-token pspice
-docID 16383
-1094 
-token mort
-docID 15973
-533 
-token katrinahes
-docID 16560
-784 
-token http://www.ugmsac.com/
-docID 16057
-257 
-token affiliatedsuch
-docID 16323
-121 
-token afc
-docID 15975
-0 184 357 712 754 
-token 23:11:09
-docID 16085
-8691 
-token 23:11:08
-docID 16333
-565 
-token 23:11:02
-docID 16476
-272 
-token alpahbetical
-docID 15936
-760 
-token vikingresident
-docID 16078
-4005 4461 
-token 20:46:05
-docID 16089
-992 
-token 20:46:13
-docID 16532
-1496 
-token beelove
-docID 16538
-198 
-token http://www.sacbee.com/101/story/1355712.html
-docID 16248
-271 
-token acc
-docID 15852
-274 276 301 
-token bumgardner
-docID 16453
-1660 
-token digmans
-docID 16364
-1091 
-token jacobsaw
-docID 15846
-7 
-token allyoubase
-docID 15860
-9 
-token handycap
-docID 16426
-85 
-token user@alumni.school.edu
-docID 16094
-493 
-token axo
-docID 16395
-321 455 
-token thomsen
-docID 15882
-193 
-token allseed
-docID 15899
-361 
-token deadbeats
-docID 16447
-2588 
-token 09:48:55
-docID 16420
-980 
-token 09:48:56
-docID 15975
-1533 
-token gdkass@ucdavis.edu
-docID 16453
-1229 
-token tradeeverything
-docID 16258
-294 
-token 12:21:26
-docID 16588
-208 
-token leomodz@gmail.com
-docID 16554
-1303 
-token eec180b
-docID 16383
-2926 
-token http://www.amazon.com/dp/0761516751?tagwwwsettinglim20&camp14573&creative327641&linkcodeas1&creativeasin0761516751&adid0esr2jshmxq5g86nhkf1&
-docID 16236
-81 
-token bushcapades
-docID 15962
-598 605 
-token parodic
-docID 16583
-254 
-token attackrange
-docID 16397
-658 
-token http://techalive.mtu.edu/meec/module15/landfills.htm
-docID 16218
-102 
-token unwashedlooking
-docID 16275
-46 
-token generationally
-docID 16373
-728 
-token timebound
-docID 16401
-3725 
-token 121.749783
-docID 16231
-7 
-token 19:14:22
-docID 16111
-861 
-token singlestage
-docID 16383
-3484 
-token cayabyab
-docID 15973
-509 
-token aux
-docID 15975
-296 
-token downtownvague
-docID 16491
-56 
-token sacha
-docID 16447
-637 
-token teecustodio@gmail.com
-docID 16340
-70 
-token progay
-docID 16293
-4745 
-token leaveit2leah
-docID 16134
-514 
-token grrrrr
-docID 16336
-8489 
-token pre2009
-docID 15983
-217 
-token william.everett.wright@gmail.com
-docID 16453
-1251 
-token http://academicimprovementcenter.com.
-docID 16453
-2282 
-token jeffday
-docID 16532
-823 1099 1583 
-token supermites
-docID 16296
-395 
-token 11:27:09
-docID 16560
-1105 
-token 13:36:53
-docID 16426
-2241 
-token 13:36:54
-docID 16466
-1585 
-token clamping
-docID 15887
-102 
-token adriennes
-docID 15883
-321 393 
-token edis022806
-docID 15912
-561 
-token tetracycline
-docID 15936
-5514 5520 
-token lobbycorp
-docID 16171
-188 207 528 577 657 
-token toyelectric
-docID 15936
-2797 
-token 09:36:13
-docID 15895
-14832 
-token yesterdat
-docID 16111
-1183 
-token o.b.t.
-docID 15921
-249 
-token 09:36:19
-docID 15983
-2150 
-token calciumfortified
-docID 15936
-5400 5410 
-token http://www.odamarealty.com,
-docID 16134
-530 
-token 14:11:14
-docID 16389
-77 
-token http://www.imdb.com/title/tt0137523/
-docID 16017
-224 
-token spongecake
-docID 16132
-195 
-token simmhan
-docID 15973
-454 
-token 9166178014
-docID 16554
-9095 
-token http://www.blogger.com/
-docID 15962
-1503 
-token a8c25013
-docID 15910
-111 
-token 08:50:31
-docID 16361
-596 
-token 3quarter
-docID 16383
-3267 
-token 647.50
-docID 16078
-4892 
-token bureacrats
-docID 15936
-2280 
-token fcr266269
-docID 16336
-24 9831 
-token tropospheric
-docID 15895
-939 
-token raps
-docID 16563
-8 
-token 2010september
-docID 16127
-28 
-token upperty
-docID 16191
-1111 
-token rard
-docID 15975
-506 
-token http://daviswiki.org/tragic_events/suicides?actionshow&redirectsuicides
-docID 15882
-1214 
-token αφ
-docID 16395
-328 465 487 
-token 10:03:49
-docID 16215
+token lasi
+docID 16208
+score 0.0037546933667083854
+428 439 445 
+token herm
+docID 16208
+score 0.0037546933667083854
+747 763 785 
+token thit
+docID 16208
+score 0.0012515644555694619
+469 
+token jackieo
+docID 16208
+score 0.0012515644555694619
+564 
+token tony8
+docID 16208
+score 0.0012515644555694619
+648 
+token tony9
+docID 16208
+score 0.0012515644555694619
+652 
+token tony6
+docID 16208
+score 0.0012515644555694619
+640 
+token tony7
+docID 16208
+score 0.0012515644555694619
+644 
+token tony5
+docID 16208
+score 0.0012515644555694619
+635 
+token tony4
+docID 16208
+score 0.0012515644555694619
+630 
+token tony3
+docID 16208
+score 0.0012515644555694619
+626 
+token tony2
+docID 16208
+score 0.0012515644555694619
+622 
+token tony1
+docID 16208
+score 0.0012515644555694619
+617 
+token http://www.pletter.com
+docID 16208
+score 0.0025031289111389237
+25 28 
+token tony11
+docID 16208
+score 0.0012515644555694619
+660 
+token tony10
+docID 16208
+score 0.0012515644555694619
+656 
+token http://www.naturaldatabase.com
+docID 16208
+score 0.0012515644555694619
+33 
+token prescribers
+docID 16208
+score 0.0012515644555694619
+29 
+token 50yd
+docID 16208
+score 0.0012515644555694619
+143 
+token nuong
+docID 16208
+score 0.0012515644555694619
+470 
+token asspirations
+docID 16208
+score 0.0012515644555694619
+559 
+token rattler
+docID 16208
+score 0.0012515644555694619
+325 
+token hermans
+docID 16209
+score 0.011494252873563218
+4 
+token k.a.
+docID 16210
+score 0.0030120481927710845
+162 
+token a.h.
+docID 16210
+score 0.0030120481927710845
+153 
+token h.e.
+docID 16210
+score 0.0030120481927710845
+156 
+token bronchobusting
+docID 16210
+score 0.0030120481927710845
+273 
+token hunsacker
+docID 16210
+score 0.0030120481927710845
 160 
+token 10:51:01
+docID 16211
+score 6.527415143603133E-4
+1394 
+token milknhonees
+docID 16211
+score 6.527415143603133E-4
+644 
+token 8.28
+docID 16211
+score 6.527415143603133E-4
+1437 
+token ambrosoli
+docID 16211
+score 6.527415143603133E-4
+643 
+token 20:31:08
+docID 16211
+score 6.527415143603133E-4
+285 
+token oooooook
+docID 16211
+score 6.527415143603133E-4
+1147 
+token qblue
+docID 16211
+score 6.527415143603133E-4
+1517 
+token newstand
+docID 16211
+score 6.527415143603133E-4
+3 
+token dunhill
+docID 16211
+score 6.527415143603133E-4
+1439 
+token 19:13:51
+docID 16211
+score 6.527415143603133E-4
+1450 
+token newsbeats
+docID 16211
+score 6.527415143603133E-4
+244 
+token 15:14:12
+docID 16211
+score 6.527415143603133E-4
+706 
+token 23:53:10
+docID 16211
+score 6.527415143603133E-4
+1304 
+token softdrinks
+docID 16211
+score 6.527415143603133E-4
+306 
+token http://www.itsiticecream.com/
+docID 16211
+score 6.527415143603133E-4
+72 
+token konquerer
+docID 16211
+score 6.527415143603133E-4
+343 
+token smellgood
+docID 16211
+score 6.527415143603133E-4
+1012 
+token inhighdemand
+docID 16211
+score 6.527415143603133E-4
+729 
+token spud
+docID 16211
+score 6.527415143603133E-4
+202 
+token newsstores
+docID 16211
+score 6.527415143603133E-4
+438 
+token excpt
+docID 16211
+score 6.527415143603133E-4
+1009 
+token 22:35:38
+docID 16211
+score 6.527415143603133E-4
+374 
+token w2k
+docID 16211
+score 6.527415143603133E-4
+361 
+token 6.39
+docID 16211
+score 6.527415143603133E-4
+1442 
+token cid1415
+docID 16211
+score 6.527415143603133E-4
+265 
+token 21:19:30
+docID 16211
+score 6.527415143603133E-4
+394 
+token 11:15:50
+docID 16211
+score 6.527415143603133E-4
+332 
+token offmoment
+docID 16211
+score 6.527415143603133E-4
+1190 
+token interuppted
+docID 16211
+score 0.0013054830287206266
+1128 1156 
+token 22:39:08
+docID 16211
+score 6.527415143603133E-4
+585 
+token 23:33:28
+docID 16211
+score 6.527415143603133E-4
+1243 
+token 11:28:44
+docID 16211
+score 6.527415143603133E-4
+451 
+token 00:22:36
+docID 16211
+score 6.527415143603133E-4
+959 
+token menthols
+docID 16211
+score 6.527415143603133E-4
+1440 
+token tony1
+docID 17138
+score 0.0011890606420927466
+156 

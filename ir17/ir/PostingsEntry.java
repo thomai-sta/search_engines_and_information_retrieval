@@ -14,40 +14,40 @@ import java.io.Serializable;
 public class PostingsEntry implements Comparable<PostingsEntry>, Serializable
 {
 
-    /// Make offset a list, so that one document gets the same
-    /// postingsEntry for several occurrences
-    public LinkedList<Integer> offsets = new LinkedList<Integer>();
-    public double score;
-    public int docID;
+  /// Make offset a list, so that one document gets the same
+  /// postingsEntry for several occurrences
+  public LinkedList<Integer> offsets = new LinkedList<Integer>();
+  public double score;
+  public int docID;
 
-    /**
-     * Contructor:
-     * Creates a postings entry for the current token.
-     * Contains the docID of the document that contains the token and
-     * the offset, which indicates the position of the token within the
-     * document. Score is zero for now.
-     */
-    public PostingsEntry(int docID, int offset)
-    {
-      this.docID = docID;
-      offsets.add(offset);
-    }
+  /**
+   * Contructor:
+   * Creates a postings entry for the current token.
+   * Contains the docID of the document that contains the token and
+   * the offset, which indicates the position of the token within the
+   * document.
+   */
+  public PostingsEntry(int docID, int offset)
+  {
+    this.docID = docID;
+    offsets.add(offset);
+  }
 
-    /**
-    *  PostingsEntries are compared by their score (only relevant
-    *  in ranked retrieval).
-    *
-    *  The comparison is defined so that entries will be put in
-    *  descending order.
-    */
-    public int compareTo(PostingsEntry other)
-    {
-      return Double.compare(other.score, score);
-    }
+  /**
+  *  PostingsEntries are compared by their score (only relevant
+  *  in ranked retrieval).
+  *
+  *  The comparison is defined so that entries will be put in
+  *  descending order.
+  */
+  public int compareTo(PostingsEntry other)
+  {
+    return Double.compare(other.score, score);
+  }
 
-    //
-    //  YOUR CODE HERE
-    //
+  //
+  //  YOUR CODE HERE
+  //
 
 }
 

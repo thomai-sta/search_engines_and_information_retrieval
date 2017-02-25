@@ -1,2057 +1,2092 @@
-token ntp
-docID 2318
-53 
-token dancohen
-docID 1889
-1573 
-token nto
-docID 1834
-1167 
-token resistors
-docID 2341
-241 
-token gallery2449821
-docID 1976
-198 
-token tomabeles
-docID 2153
-162 
-token boyle
-docID 2261
+token andreygoder
+docID 2154
+score 1.5743073047858942E-4
+844 
+token divisional
+docID 2154
+score 1.5743073047858942E-4
+768 
+token interfaces
+docID 2154
+score 3.1486146095717883E-4
+4668 4828 
+token davissociallinks
+docID 2154
+score 1.5743073047858942E-4
+6010 
+token shaders
+docID 2154
+score 1.5743073047858942E-4
+6109 
+token martel
+docID 2154
+score 3.1486146095717883E-4
+2768 2896 
+token http://www.cs.ucdavis.edu/
+docID 2154
+score 1.5743073047858942E-4
 1 
-token 12:45:19
-docID 1834
-1351 
-token mumia
-docID 1617
-0 4 51 62 107 139 154 189 
-token nst
-docID 2256
-14 
-token nsf
-docID 1650
-545 652 
-token nsg
-docID 2379
-149 
-token rained
-docID 2043
-97 
-docID 2288
-761 
-token romance
-docID 1872
-1664 
-token p4s
-docID 2341
-109 
-token nro
-docID 1671
-50 176 
-token 22:45:23
-docID 2065
-815 
-token cambered
-docID 1688
-3977 
-token nrc
-docID 2219
-970 1398 1434 1452 1460 1552 1577 1709 2287 2306 
-token 35lb
-docID 2314
-1880 1922 
-token karank
-docID 2290
-2873 3248 3271 
-token nancywallace
-docID 2290
-231 
-token workinggraduate
-docID 2298
-414 
-token karans
-docID 2290
-632 1925 
-token timesaving
-docID 2218
-699 
-token niels
-docID 1739
-14 
-token 0.0
-docID 1658
-285 
-token replenished
-docID 1897
+token ee
+docID 2154
+score 1.5743073047858942E-4
+402 
+token 37/50
+docID 2154
+score 1.5743073047858942E-4
+2551 
+token wilken
+docID 2154
+score 1.5743073047858942E-4
+5844 
+token eec
+docID 2154
+score 9.445843828715365E-4
+180 184 188 329 339 4346 
+token onevariable
+docID 2154
+score 1.5743073047858942E-4
+3193 
+token eigenpair
+docID 2154
+score 1.5743073047858942E-4
+3125 
+token approximation
+docID 2154
+score 3.1486146095717883E-4
+2866 2919 
+token np
+docID 2154
+score 3.1486146095717883E-4
+2697 2917 
+token randomized
+docID 2154
+score 1.5743073047858942E-4
+2868 
+token impressing
+docID 2154
+score 1.5743073047858942E-4
+5377 
+token 2063
+docID 2154
+score 1.5743073047858942E-4
+8 
+token writeups
+docID 2154
+score 3.1486146095717883E-4
+2451 5634 
+token 154b
+docID 2154
+score 6.297229219143577E-4
+356 4349 4353 5727 
+token 154a
+docID 2154
+score 6.297229219143577E-4
+353 4201 4364 4374 
+token interpolating
+docID 2154
+score 1.5743073047858942E-4
+6211 
+token 201a
+docID 2154
+score 1.5743073047858942E-4
+5715 
+token bernd
+docID 2154
+score 6.297229219143577E-4
+1565 5236 5516 6218 
+token 152a
+docID 2154
+score 1.5743073047858942E-4
+3993 
+token macroscopic
+docID 2154
+score 1.5743073047858942E-4
+4361 
+token 152c
+docID 2154
+score 1.5743073047858942E-4
+4122 
+token 152b
+docID 2154
+score 4.7229219143576825E-4
+4037 4072 4096 
+token pinnings
+docID 2154
+score 1.5743073047858942E-4
+5472 
+token btree
+docID 2154
+score 1.5743073047858942E-4
+2299 
+token sophie
+docID 2154
+score 3.1486146095717883E-4
+3871 3974 
+token alus
+docID 2154
+score 3.1486146095717883E-4
+4231 4376 
+token microcomputerbased
+docID 2154
+score 1.5743073047858942E-4
+190 
+token debugging
+docID 2154
+score 1.5743073047858942E-4
+2013 
+token renderer
+docID 2154
+score 1.5743073047858942E-4
+5317 
+token haroz
+docID 2154
+score 1.5743073047858942E-4
+4852 
+token engendered
+docID 2154
+score 1.5743073047858942E-4
+5381 
+token buscaglia
+docID 2154
+score 3.1486146095717883E-4
+1222 1242 
+token vmware
+docID 2154
+score 1.5743073047858942E-4
+3903 
+token compilers
+docID 2154
+score 6.297229219143577E-4
+3535 5856 5863 5876 
+token hackery
+docID 2154
+score 1.5743073047858942E-4
+5976 
+token bigoh
+docID 2154
+score 1.5743073047858942E-4
+754 
+token mystichle
+docID 2154
+score 7.871536523929471E-4
+2830 3318 3508 4351 4570 
+token treemap
+docID 2154
+score 1.5743073047858942E-4
+4731 
+token visualizations
+docID 2154
+score 3.1486146095717883E-4
+4694 5436 
+token 5fr
+docID 2154
+score 1.5743073047858942E-4
+4897 
+token 27x
+docID 2154
+score 1.5743073047858942E-4
+5101 
+token 243
+docID 2154
+score 1.5743073047858942E-4
+5837 
+token digressed
+docID 2154
+score 1.5743073047858942E-4
+4306 
+token warehouses
+docID 2154
+score 1.5743073047858942E-4
+4997 
+token ths
+docID 2154
+score 1.5743073047858942E-4
+6116 
+token 3dpd
+docID 2154
+score 1.5743073047858942E-4
+4895 
+token tetrapanax
+docID 2155
+score 0.044444444444444446
+5 9 
+token papyrifer
+docID 2155
+score 0.044444444444444446
+6 10 
+token invader
+docID 2156
+score 0.012195121951219513
+40 
+token aesthete
+docID 2156
+score 0.012195121951219513
+49 
+token http://daviswiki.org/rodness_martial_arts_center
+docID 2156
+score 0.012195121951219513
+62 
+token spiky
+docID 2156
+score 0.012195121951219513
 32 
-token 15:25:28
-docID 2241
-367 
-token 04:32:33
-docID 2278
-1016 
-token 0.6
-docID 2391
-21 
-token 15:25:26
-docID 2185
-1915 
-token nog
-docID 1962
-221 
-token crashcourse
-docID 2154
-3326 
-token dusty
-docID 2365
-100 
-token thrillers
-docID 1872
-1357 1608 
-token espiritu
-docID 1724
-143 
-token tranquil
-docID 2175
-24 
-token soothing
-docID 1609
-4 
-token horizons
-docID 2153
-890 
-token stimulating
-docID 1645
-228 
-docID 2278
-169 
-token michaelgrippi
-docID 2312
-0 
-token recumbant
-docID 1644
+token caulfield
+docID 2156
+score 0.012195121951219513
+29 
+token tisdale
+docID 2156
+score 0.012195121951219513
+38 
+token snippet
+docID 2156
+score 0.012195121951219513
+67 
+token zim
+docID 2156
+score 0.012195121951219513
 41 
-token itching
-docID 2314
-2323 
-docID 1982
-583 
-docID 1649
-1497 
-token 04:32:07
-docID 2115
-83 
-token sevices
-docID 1926
-3951 
-token kaolin
-docID 2342
-367 
-token שישי
-docID 2278
-534 
-token obscured
-docID 2343
-718 
-token copyrightrelated
-docID 2191
-346 
-token 16:44:55
-docID 2298
-416 
-token nls
-docID 1778
-2031 
-token preretirement
-docID 2210
-138 
-token hawkins
-docID 2406
-1277 1422 1470 1495 1510 1577 
-token mappoint
-docID 2076
-1559 
-token godgiven
-docID 2388
-1151 
-docID 1783
-999 
-token carriebishop
-docID 2099
-2532 
-token lasagna
-docID 1889
-713 
-docID 1894
-1098 
-token lasagne
-docID 1889
-575 
-token nicaragua
-docID 1760
-242 
-token overpay
-docID 1894
-1160 2392 
-token 5minuteprogramfixtime
-docID 2154
-2272 
-token nik
-docID 1952
-188 1404 2505 
-token nil
-docID 1808
-721 
-token jeryan
-docID 1876
-1809 2948 
-token 155
-docID 2328
+token etsy
+docID 2156
+score 0.012195121951219513
+30 
+token holden
+docID 2156
+score 0.012195121951219513
+28 
+token duren
+docID 2156
+score 0.012195121951219513
+1 
+token bumblebees
+docID 2156
+score 0.012195121951219513
+31 
+token velolution
+docID 2157
+score 0.0018050541516245488
+131 
+token xtracycles
+docID 2157
+score 0.0018050541516245488
+207 
+token parktopark
+docID 2157
+score 0.0018050541516245488
+10 
+token photodocumentation
+docID 2157
+score 0.0018050541516245488
+294 
+token daviscruisers@gmail.com
+docID 2157
+score 0.005415162454873646
+100 218 387 
+token luminous
+docID 2157
+score 0.0018050541516245488
+411 
+token cruised
+docID 2157
+score 0.0018050541516245488
 453 
-token 153
-docID 2154
-4128 
-token 14:28:58
-docID 2245
-924 
-token ucpd
-docID 2406
-3605 
-token schalm
-docID 2076
-1081 
-token http://wef.ucdavis.edu/component/option,com_facileforms/itemid,70/
-docID 1897
-862 
-token inserting
-docID 1897
-383 
-docID 2036
-2459 
-token antisf
-docID 2096
-1628 
-token fullbody
-docID 2176
-115 123 
-token stovepipe
-docID 2036
-591 
-token 16:44:23
-docID 1770
-349 
-token breeders
-docID 1649
-603 
-token 16:44:26
-docID 2245
-970 
-token 916.808
-docID 2314
-3100 3234 
-token taxiworld
-docID 1658
-16 
-token gusfield
-docID 2154
-1052 1168 2792 2996 3009 3067 
-token http://daviswiki.org/davis_wiki_on_the_davis_wiki?actiondiff&version22&version11
-docID 2054
-804 
-token handleless
-docID 2219
-1523 
-token iwlocaddr
-docID 1688
-223 
-token 19651967
-docID 1760
-132 
-token 14:28:39
-docID 1717
-1039 
-token coleslaw
-docID 2365
-770 
-token http://www.collegewingman.com/viewlisting.aspx?id810
-docID 2109
-490 769 
-token inkscape
-docID 1897
-1196 
-token armageddon
-docID 2219
-2535 
-token businesswhich
-docID 2370
-900 
-token 188
-docID 2154
-5524 6293 6303 
-token 14:28:48
-docID 1597
-1369 
-token ccjpa
-docID 1714
-4764 
-token 112
-docID 2222
-640 
-token dreids
-docID 2244
-152 
-token misters
-docID 1790
-60 
-token troublesome
-docID 1919
-574 
-token polyurethan
-docID 2308
+token aprils
+docID 2157
+score 0.0018050541516245488
+38 
+token projecting
+docID 2157
+score 0.0036101083032490976
+94 382 
+token celestial
+docID 2157
+score 0.0018050541516245488
+70 
+token yous
+docID 2157
+score 0.0018050541516245488
+442 
+token nonconfrontational
+docID 2157
+score 0.0018050541516245488
 66 
-token 10s
-docID 2151
-3138 
-token 127
-docID 2222
-530 
-token roland
-docID 1805
-1784 
-docID 2122
-16 22 
-token 10x
-docID 1599
-1750 
-docID 1603
-860 
-token 17:07:44
-docID 1959
-2248 
-token contemplation
-docID 2335
-925 
+token taqueriastyle
+docID 2158
+score 0.00425531914893617
+17 
+token chicos
+docID 2158
+score 0.00851063829787234
+13 93 
+token cochran
+docID 2158
+score 0.00851063829787234
+69 76 
+token salsatasting
+docID 2158
+score 0.00425531914893617
+219 
+token michaelolavarri
+docID 2159
+score 0.04
+2 
+token 18:52:52
+docID 2159
+score 0.04
+5 
+token lanemates
+docID 2160
+score 0.0024271844660194173
+271 
+token http://www.damfast.org/workouts.htm
+docID 2160
+score 0.0024271844660194173
+117 
+token kahn
+docID 2160
+score 0.0024271844660194173
+110 
+token http://www.usms.org
+docID 2160
+score 0.0024271844660194173
+15 
+token breaststroke
+docID 2160
+score 0.0024271844660194173
+234 
+token usms
+docID 2160
+score 0.0024271844660194173
+92 
+token damfast
+docID 2160
+score 0.0024271844660194173
+175 
+token stu
+docID 2160
+score 0.0024271844660194173
+109 
+token backstroke
+docID 2160
+score 0.0024271844660194173
+233 
+token http://www.davisenterprise.com/sports/aquatics/damisnationstopmastersswimgroup/
+docID 2160
+score 0.0024271844660194173
+328 
+token 17:28:45
+docID 2160
+score 0.0024271844660194173
+403 
+token dreamscape
+docID 2162
+score 0.07142857142857142
+0 
+token http://scg.ucdavis.edu/hypertext.cfm
+docID 2163
+score 0.03571428571428571
+11 
+token http://scg.ucdavis.edu/hypertext/2005fallwithmap.pdf
+docID 2163
+score 0.03571428571428571
+24 
+token hypertext
+docID 2163
+score 0.03571428571428571
+13 
+token margotparfitt
+docID 2164
+score 0.011494252873563218
+86 
+token 14:21:47
+docID 2164
+score 0.011494252873563218
+72 
+token 20060314
+docID 2164
+score 0.011494252873563218
+52 
+token nathandodd
+docID 2164
+score 0.011494252873563218
+35 
+token 13:08:41
+docID 2164
+score 0.011494252873563218
+1 
+token 12:57:41
+docID 2164
+score 0.011494252873563218
+33 
+token dodd
+docID 2164
+score 0.011494252873563218
+75 
+token 16:21:33
+docID 2164
+score 0.011494252873563218
+53 
+token lamars
+docID 2165
+score 0.005263157894736842
+175 
+token 2006/01
+docID 2165
+score 0.005263157894736842
+135 
+token mixed1505862
+docID 2165
+score 0.005263157894736842
+145 
+token congressman
+docID 2165
+score 0.005263157894736842
+101 
+token norewrite
+docID 2165
+score 0.005263157894736842
+147 
+token sacramentobased
+docID 2166
+score 0.0196078431372549
+8 
+token kmm
+docID 2166
+score 0.0196078431372549
+0 
+token 16:22:24
+docID 2167
+score 0.015625
+54 
+token office@uusofdavis.org
+docID 2167
+score 0.015625
+22 
+token 19:45:43
+docID 2167
+score 0.015625
+24 
+token uucdstaff
+docID 2167
+score 0.015625
+1 
+token florets
+docID 2168
+score 0.0024330900243309003
+26 
+token doubleheaded
+docID 2168
+score 0.0024330900243309003
+22 
+token purpleflowering
+docID 2168
+score 0.0024330900243309003
+8 
+token purples
+docID 2168
+score 0.0024330900243309003
+57 
+token sours
+docID 2168
+score 0.0024330900243309003
+142 
+token lusty
+docID 2168
+score 0.0024330900243309003
+196 
+token pipestems
+docID 2168
+score 0.0024330900243309003
+269 
+token nymph
+docID 2168
+score 0.004866180048661801
+182 232 
+token spores
+docID 2168
+score 0.0024330900243309003
+153 
+token reeds
+docID 2168
+score 0.004866180048661801
+204 219 
 token panpipes
 docID 2168
+score 0.0024330900243309003
 229 
-token oem
-docID 2076
-1387 
-token semaphores
-docID 2154
-3756 
-token 139
-docID 1876
-1601 
-token pomo
-docID 1713
-1351 
-token skete
-docID 2314
-3929 3934 3968 
-token repentant
-docID 2052
-2605 
-token 5306383243
-docID 2089
-990 
-token manifestation
-docID 2052
-1314 
-token 01:15:02
-docID 2184
-1934 
-token crosstown
-docID 1914
-208 
-docID 1688
-6027 
-token 7530797
-docID 1716
-179 
-token 17:07:22
-docID 2366
-324 
-token http://www.theworldinstituteofslowness.com/
-docID 1769
-60 
-token 3rdstreetjeweler
-docID 2345
-179 
-token heartfelt
-docID 1682
-1210 
-token turners
-docID 2194
-48 
-docID 1996
-594 
-token arrays
-docID 2154
-1238 2364 
-token radioactive
-docID 1897
-508 1331 
-token tungx
-docID 1837
-537 
-token lowmaintenance
-docID 1679
-1972 
+token 15feet
 docID 2168
-7 
-token davvvvisstudent
-docID 2298
-729 
-token whatare
-docID 2070
-497 
-token slipping
-docID 2254
-282 
-token hertel
-docID 1721
-2 
-token 20facts
-docID 2181
-4272 
-token 11:11:06
-docID 2311
-2253 
-token 21:39:28
-docID 2191
-1029 
-token 40.00
-docID 2392
-341 356 
-token reallyyy
-docID 2096
-813 
-token negotiation
-docID 2184
-851 
-docID 1821
-140 
-token 3/31
-docID 1756
-552 
-token 3/30
-docID 1756
-547 
-token inlaws
-docID 2153
-1157 
-token imagebased
-docID 2154
-6105 
-token priekestolen
-docID 2153
-213 
-token grossed
-docID 1659
-2149 
-docID 2025
-1067 
-token negotiating
-docID 2217
-421 
-docID 2036
-1674 1873 
-docID 2191
-458 
-token 3/24
-docID 1756
-541 
-token tylers
-docID 2072
-917 
-token 01:49:08
-docID 1756
-5788 
-token 5.4.3
-docID 2326
-2248 
-token 5.4.4
-docID 2326
-2321 
-token jiangjiajie
-docID 2153
-1159 
-token impoverished
-docID 1831
-70 
-token nsf
-docID 2883
-204 
-token rained
-docID 2869
-140 
-token romance
-docID 2919
-2039 
-docID 3106
-415 
-docID 2465
-31 
-token karank
-docID 2860
-207 
-token replenished
-docID 2924
-3161 3298 3699 3707 
-token soothing
-docID 3049
-201 
-token horizons
-docID 2924
-1045 
-token stimulating
-docID 3013
-115 
-token carriebishop
-docID 3081
-1680 1758 
-docID 2823
-843 
-docID 2580
-8824 9300 
-token nil
-docID 2840
-796 
-token 155
-docID 2700
-159 
-docID 2736
-418 457 
-token 153
-docID 2549
-10785 10798 
-token inserting
-docID 2743
-29570 30083 
-token breeders
-docID 2743
-36217 
-token 16:44:26
-docID 2998
-2469 
-token iwlocaddr
-docID 2666
-212 335 
-token troublesome
-docID 2743
-45833 
-token 127
-docID 2443
-2883 
-docID 3021
-143 
-token manifestation
-docID 3075
-402 
-token heartfelt
-docID 2743
-41239 
-token turners
-docID 2957
-43 
-token slipping
-docID 2743
-32315 46022 
-token negotiating
-docID 3132
-2391 
-docID 3104
-582 
-docID 2888
-144 
-token tomabeles
-docID 4032
-252 289 
-token nsf
-docID 3380
-5086 
-token romance
-docID 3371
-71 
-token 22:45:23
-docID 3285
-1741 
-token 0.0
-docID 3597
+score 0.0024330900243309003
 14 
-token dusty
-docID 3551
-1166 
-token soothing
-docID 3855
-1478 
-docID 3725
-528 
-docID 3666
-460 
-docID 3274
-387 
-token stimulating
-docID 3274
-344 
-docID 3261
-225 
-token itching
-docID 3633
-888 
-token carriebishop
-docID 3861
-766 
-token lasagne
-docID 3317
-1689 
-token overpay
-docID 3639
-733 
-token 155
-docID 3612
-233 
-token ucpd
-docID 3560
-751 
-token breeders
-docID 3590
-365 
-token inkscape
-docID 3776
-136 334 
-token armageddon
-docID 3431
-10 
-token 112
-docID 3317
-767 
-token troublesome
-docID 3776
-641 
-docID 3735
-2608 
-token oem
-docID 3359
-420 
-docID 3152
-2812 
-token manifestation
-docID 3996
-408 
-token heartfelt
-docID 3323
-889 
-token radioactive
-docID 4060
-253 
-token slipping
-docID 3334
-1429 
-docID 3528
-164 
-token 21:39:28
-docID 3404
-1088 
-token 40.00
-docID 3274
-652 
-token negotiation
-docID 3841
-225 
-token grossed
-docID 3704
-2908 
-token 3/24
-docID 3724
-584 
-docID 3530
-509 
-token negotiating
-docID 3793
-653 
-docID 3728
-190 
-docID 3254
-2081 
-token impoverished
-docID 3807
-22 
-token tomabeles
-docID 4749
-1560 
-token boyle
-docID 4684
-288 940 
-token nsf
-docID 4183
-239 
-token rained
-docID 4512
-140 
-token romance
-docID 4308
-212 
-token niels
-docID 4212
-81 
-token tranquil
-docID 4412
-83 
-token soothing
-docID 4797
-2049 
-docID 4654
-190 
-docID 4136
-346 
-token stimulating
-docID 4344
-2670 
-token itching
-docID 4580
-429 
-docID 4593
-443 
-token hawkins
-docID 4758
-427 
-token overpay
-docID 4497
-1466 
-token nik
-docID 4225
-231 
-token nil
-docID 4163
-1276 
-token ucpd
-docID 4744
-73 
-docID 4243
-605 781 
-token stovepipe
-docID 4443
-135 
-token breeders
-docID 4234
-213 
-token coleslaw
-docID 4250
-3382 
-docID 4603
-796 
-token 112
-docID 4212
-256 
-docID 4524
-286 
-docID 4540
-281 
-docID 4308
-6 
-token troublesome
-docID 4845
-110 130 
-token roland
-docID 4149
-76 
-token pomo
-docID 4671
-33 
-token manifestation
-docID 4255
-142 
-token radioactive
-docID 4646
-579 
-docID 4183
-67 161 179 
-docID 4275
-3397 3402 
-token negotiation
-docID 4253
-8105 
-docID 4668
-6652 
-token grossed
-docID 4250
-1733 
-token dancohen
-docID 5152
-488 
-token mumia
-docID 4933
-55 
-token romance
-docID 5169
-148 
-docID 5139
-89 
-token nancywallace
-docID 5490
-75 
-token dusty
-docID 5113
-2931 
-docID 5360
-39 
-docID 5063
-1209 
-token horizons
-docID 5621
-153 
-docID 5348
-8 691 
-token michaelgrippi
-docID 5149
-600 2311 
-token itching
-docID 5108
-290 
-docID 5076
-82 
-token obscured
-docID 5226
-73 
-docID 5155
-165 
-docID 5090
-600 
-token lasagna
-docID 5599
-4018 
-token jeryan
-docID 5382
-204 
-token 14:28:58
-docID 5576
-1600 
-token ucpd
-docID 5381
-5434 
-token coleslaw
-docID 5149
-3100 4536 
-token 112
-docID 5348
-14 
-docID 5438
-66 
-docID 5549
-158 
-token troublesome
-docID 5206
-7 
-token contemplation
-docID 5016
-4198 
-token 139
-docID 4962
-299 302 
-token pomo
-docID 5234
-374 
-token manifestation
-docID 5660
-2561 
-token whatare
-docID 5660
-631 
-token slipping
-docID 4921
-1733 
-token negotiation
-docID 5567
-2784 4417 4753 6296 7848 10315 
-docID 5381
-3925 
-token inlaws
-docID 5599
-2151 
-token negotiating
-docID 5567
-2752 2777 6563 9865 
-token 3/24
-docID 5114
-891 
-token impoverished
-docID 4869
-18 
-token tomabeles
-docID 6419
-322 
-token nsf
-docID 6204
-546 
-token 35lb
-docID 6353
-2876 
-token replenished
-docID 6489
-154 
-token 15:25:26
-docID 6131
-899 
-token dusty
-docID 6121
-721 
-docID 6159
-119 
-docID 6092
-60 
-token tranquil
-docID 6378
-1709 
-token soothing
-docID 6568
+token syrinx
+docID 2168
+score 0.004866180048661801
+178 233 
+token clutching
+docID 2168
+score 0.0024330900243309003
+202 
+token counterculture
+docID 2168
+score 0.0024330900243309003
 118 
-docID 5845
-334 
-token stimulating
-docID 5904
-366 
-token obscured
-docID 5985
-1379 
-token nls
-docID 5854
-110 
-token carriebishop
-docID 6022
-385 
-token lasagna
-docID 6564
-1088 1114 1145 1418 4873 
-token nicaragua
-docID 5985
-261 
-token 16:44:23
-docID 5956
-1939 
-token 16:44:26
-docID 6337
-242 
-token 188
-docID 6301
-129 
-token 112
-docID 6436
-456 
-token troublesome
-docID 5979
-107 
-docID 6392
-187 
-docID 6535
-2904 
-token 10s
-docID 5824
-50 
-token 10x
-docID 6120
-3686 
-token contemplation
-docID 6260
-1647 
-docID 6378
-46 
-token pomo
-docID 5949
-343 
-token heartfelt
-docID 5933
-4197 
-docID 5794
-759 
-docID 6031
-439 
-token radioactive
-docID 5911
-533 739 
-token inlaws
-docID 6564
-5560 
-token grossed
-docID 5934
-149 
-docID 5985
-7856 
-token ntp
-docID 6993
-31 
-token rained
-docID 6703
-708 
-docID 6921
-2020 
-docID 6713
-1806 
-token romance
-docID 7237
-1600 
-token timesaving
-docID 7109
-1504 
-token nog
-docID 6721
-336 
-token dusty
-docID 7061
-7939 
-docID 7200
-943 
-token espiritu
-docID 6929
-919 
-token soothing
-docID 7205
-0 71 
-token horizons
-docID 6580
-1217 
-token stimulating
-docID 6763
-1834 
-token obscured
-docID 7029
-41 
-token carriebishop
-docID 7244
-1099 
-token inserting
-docID 6948
-430 
-token breeders
-docID 7244
-483 
-docID 6645
-1176 
-token 112
-docID 7258
-174 
-docID 6913
-243 
-docID 7387
-231 
-docID 6593
-547 
-token troublesome
-docID 7312
-2327 
-token manifestation
-docID 6745
-579 
-token heartfelt
-docID 6794
-847 
-token radioactive
-docID 7012
-2820 
-token negotiation
-docID 7061
-6295 
-token 3/31
-docID 6751
-1519 
-token 3/30
-docID 7339
-145 
-docID 6751
-1363 
-token inlaws
-docID 7030
-2089 
-token negotiating
-docID 7334
-797 
-docID 6809
-639 
-docID 6726
-937 
-token dancohen
-docID 8000
-2544 
-token nsf
-docID 8210
-49 
-docID 7671
-255 
-docID 8088
-766 
-token soothing
-docID 7890
-407 
-token stimulating
-docID 7680
-121 
-token michaelgrippi
-docID 8172
-2222 
-token 155
-docID 7606
-397 
-docID 7507
-322 
-token 153
-docID 7606
-387 
-docID 8207
-188 
-token schalm
-docID 7702
-16 
-token breeders
-docID 7946
-230 
-token 188
-docID 8207
-227 
-token 112
-docID 8058
-84 
-docID 7604
-961 4012 
-docID 7606
-314 
-docID 8251
-457 
-token troublesome
-docID 7580
-10950 
-token 127
-docID 7580
-16862 
-token 10x
-docID 7629
-11680 
-docID 8172
-21717 
-token oem
-docID 7541
-1497 
-token 139
-docID 7463
+token canes
+docID 2168
+score 0.0024330900243309003
+386 
+token flee
+docID 2168
+score 0.0024330900243309003
+193 
+token lactobacillus
+docID 2168
+score 0.0024330900243309003
+140 
+token colonizes
+docID 2168
+score 0.0024330900243309003
 144 
-token 17:07:22
-docID 7754
-81 
-docID 8000
-3993 
-token radioactive
-docID 7832
-333 
-token negotiation
-docID 7580
-7636 
-token grossed
-docID 7629
-10168 
-token negotiating
-docID 8068
-188 
-token tylers
-docID 8191
-1733 4054 
-token ntp
-docID 8808
-3818 
-token rained
-docID 8293
-531 
-token replenished
-docID 8787
-6055 
-token dusty
-docID 8654
-806 
-token soothing
-docID 8548
-1066 
-docID 8462
-3128 
-token lasagna
-docID 8901
-1031 
-token 155
-docID 8775
-1329 1371 
-docID 8748
-152 
-token 153
-docID 8647
-3066 
-token inserting
-docID 8908
-11436 
-token breeders
-docID 8939
-5496 
-token armageddon
-docID 8856
-832 
-token 188
-docID 8734
-50 
-token 112
-docID 8409
-448 
-docID 8647
-3242 
-token 10s
-docID 8565
-1738 
-token 127
-docID 8630
-256 
-token roland
-docID 8581
-921 
-token pomo
-docID 8496
-341 
-token crosstown
-docID 8962
-162 
-token radioactive
-docID 8660
-413 
-token negotiation
-docID 8941
-3666 
-token impoverished
-docID 8626
-358 
-docID 8353
-377 
-token nsf
-docID 9261
-696 
-token rained
-docID 9692
-391 
-token dusty
-docID 9484
-343 
-token horizons
-docID 9247
-827 
-token obscured
-docID 9067
-2130 
-token hawkins
-docID 9165
-1264 
-docID 9153
-153 182 
-token lasagna
-docID 9008
-2932 
-token nicaragua
-docID 9593
-315 
-token 153
-docID 9578
-9558 9640 
-token 14:28:58
-docID 9646
-304 
-token schalm
-docID 9256
-621 
-token antisf
-docID 9214
-208 
-token breeders
-docID 9261
-1208 
-docID 9138
-539 
-token troublesome
-docID 9321
-385 
-docID 9020
-2265 
-docID 9689
-8444 
-token 17:07:44
-docID 9328
-226 
-token oem
-docID 9277
-97 
-docID 9182
-1528 
-token 139
-docID 8985
-406 
-token 40.00
-docID 9651
-3392 
-token grossed
-docID 9008
-2229 
-token 3/24
-docID 8985
-392 
-token tomabeles
-docID 9862
-1102 
-token mumia
-docID 10421
-298 307 
-token boyle
-docID 9862
-691 
-token romance
-docID 10453
-499 
-token 35lb
-docID 9722
-91 
-token tranquil
-docID 9908
-1872 
-token soothing
-docID 10183
-159 
-docID 10298
-183 
-token stimulating
-docID 10321
-196 
-token michaelgrippi
-docID 9719
-3527 
-token itching
-docID 10203
-784 
-token obscured
-docID 9860
-623 
-token carriebishop
-docID 10457
-314 
-docID 10185
-44 
-token nicaragua
-docID 10405
-119 
-token 155
-docID 9997
-352 
-token inkscape
-docID 10206
-1777 
-token armageddon
-docID 9869
-129 
-token ccjpa
-docID 10073
-1252 1554 1580 1663 3326 
-token 112
-docID 9869
-436 
-docID 10385
-80 266 441 511 
-token troublesome
-docID 9746
-8286 
-token 10s
-docID 10073
-1837 
-token 10x
-docID 10500
-36 
-docID 10422
-1213 
-token manifestation
-docID 9854
-232 
-token crosstown
-docID 9999
+token powdery
+docID 2168
+score 0.004866180048661801
+81 90 
+token naiad
+docID 2168
+score 0.0024330900243309003
+209 
+token lilacs
+docID 2168
+score 0.009732360097323601
+58 270 313 355 
+token waterreeds
+docID 2168
+score 0.0024330900243309003
 187 
-token heartfelt
-docID 10137
-922 
-token arrays
-docID 9746
-3438 3449 3543 3567 3580 3589 
-token slipping
-docID 10555
-427 
-token 3/31
-docID 10465
+token flutes
+docID 2168
+score 0.0024330900243309003
+267 
+token sighed
+docID 2168
+score 0.0024330900243309003
+211 
+token sustainble
+docID 2169
+score 0.004347826086956522
+82 
+token wattis
+docID 2169
+score 0.004347826086956522
+174 
+token häagendazs
+docID 2169
+score 0.004347826086956522
 84 
-token grossed
-docID 10074
-1396 
-token 3/24
-docID 10091
-1577 
-token dancohen
-docID 10846
-1494 1532 1629 
-token tomabeles
-docID 11219
-416 
-token boyle
-docID 10662
-5 
-token nsf
-docID 11154
-333 
-token rained
-docID 11017
-3371 
-token romance
-docID 11088
-189 202 
-docID 11001
-78 
-token nrc
-docID 10715
-2497 2527 
-token dusty
-docID 11061
-1085 
-token tranquil
-docID 10764
-1488 
-token soothing
-docID 11158
-30670 
-token horizons
-docID 10853
-31 
-token stimulating
-docID 10858
-930 
-docID 10605
+token contemplative
+docID 2169
+score 0.004347826086956522
+119 
+token ecumenical
+docID 2170
+score 0.015151515151515152
+44 
+token 772332
+docID 2171
+score 0.011627906976744186
+34 
+token 0.006093
+docID 2171
+score 0.011627906976744186
+36 
+token np
+docID 2195
+score 0.0014064697609001407
+567 
+token vmware
+docID 2318
+score 0.005050505050505051
+153 
+token 16:22:24
+docID 2370
+score 0.0010193679918450561
+932 
+token warehouses
+docID 2399
+score 0.010638297872340425
 73 
-token itching
-docID 11127
-675 
-docID 11084
-112 1123 2776 
-token carriebishop
-docID 10827
-2250 
-token lasagna
-docID 11197
-470 1603 
-docID 10764
-155 641 2053 2326 
-token breeders
-docID 10864
-270 286 
-docID 10614
-1368 
-token coleslaw
-docID 11158
-12385 
-docID 10997
-147 
-token inkscape
-docID 10892
-248 
-token 188
-docID 10754
-104 
-token 112
-docID 10646
-12 
-token troublesome
-docID 11158
-14412 
-token 10x
-docID 10924
-6343 
-docID 10923
-6950 16441 
-token manifestation
-docID 10612
-215 
-token slipping
-docID 10620
-5018 
-token 3/30
-docID 10568
-1074 
-token inlaws
-docID 11158
-20171 
-docID 10764
-3169 
-token grossed
-docID 11028
-4281 
-docID 10578
-6142 
-token negotiating
-docID 10611
-168 
-token 01:49:08
-docID 10917
-334 
-token tomabeles
-docID 11897
-375 
-token rained
-docID 11897
-411 451 523 530 
-docID 11996
-584 
-token romance
-docID 11757
-271 
-token 35lb
-docID 11721
-382 
-token tranquil
-docID 11888
-345 
-token stimulating
-docID 11444
-886 
-docID 11450
-60 
-token obscured
-docID 12021
-466 
-token carriebishop
-docID 11648
-872 
-token lasagna
-docID 11765
-606 
-token nicaragua
-docID 11422
-63 219 
-token inserting
-docID 11488
-346 
-docID 11992
-1112 
-token 188
-docID 11778
-7674 
-token 112
-docID 11644
-665 
-docID 11755
-166 
-token contemplation
-docID 11322
-224 
-token 139
-docID 11919
-29 
-token pomo
-docID 11405
-15 137 
-token manifestation
-docID 11567
-1620 
-docID 11964
-634 
-token radioactive
-docID 11579
-493 507 518 559 725 1125 1566 1598 
-docID 11314
-4702 
-token davvvvisstudent
-docID 11409
-7266 
-token slipping
-docID 11654
-479 
-token 40.00
-docID 11299
-135 
-token negotiation
-docID 11983
-931 
-token negotiating
-docID 11839
+token hackery
+docID 2423
+score 0.001607717041800643
+86 
+token etsy
+docID 2424
+score 0.005263157894736842
+113 
+token 2006/01
+docID 2428
+score 0.0037735849056603774
+61 
+token cruised
+docID 2445
+score 0.0024154589371980675
 120 
-token 12:45:19
-docID 12084
-264 
-token rained
-docID 12745
-58 
-docID 12140
-41 
-token romance
-docID 12383
-108 
-token 22:45:23
-docID 12595
-2511 
-token soothing
-docID 12376
-1232 
-token horizons
-docID 12132
-317 
-token stimulating
-docID 12119
-574 
-token michaelgrippi
-docID 12402
-1597 
-token itching
-docID 12384
-333 
-token hawkins
-docID 12458
-198 
-token carriebishop
-docID 12377
-68 
-token lasagna
-docID 12242
-590 2242 2343 2359 2499 4788 6138 
-token nicaragua
-docID 12432
-58 
-token nik
-docID 12073
-410 
-token inserting
-docID 12049
-41241 
-token fullbody
-docID 12384
-368 
-token breeders
-docID 12647
-2348 4340 
-token 16:44:26
-docID 12812
-8 
-token 112
-docID 12119
-161 
-token troublesome
-docID 12405
-5176 
-docID 12428
-2664 
-docID 12157
-2444 
-docID 12219
-3256 
-token crosstown
-docID 12443
-6249 
-token 3rdstreetjeweler
-docID 12748
-556 
-token turners
-docID 12443
-2460 
-docID 12326
-360 
-token radioactive
-docID 12342
-160 
-token lowmaintenance
-docID 12573
-3769 
-token slipping
-docID 12049
-21757 44045 
-token hertel
-docID 12616
-459 
-token negotiating
-docID 12810
-2699 
-token boyle
-docID 13067
-2986 
-token romance
-docID 13193
-2291 
-token dusty
-docID 13067
-470 
-token soothing
-docID 13023
-668 
-token stimulating
-docID 13407
-1611 
-docID 13322
-19 
-token obscured
-docID 13422
-994 
-token carriebishop
-docID 13250
-24844 31271 
-docID 13498
-243 521 
-token lasagna
-docID 13069
-410 
-token nicaragua
-docID 12969
-173 
-token antisf
-docID 13258
-387 
-token coleslaw
-docID 13548
-117 
-docID 13181
-1704 
-token 112
-docID 13293
-229 
-token 127
-docID 13337
-599 
-token turners
-docID 13009
-4860 
-token radioactive
-docID 13085
-348 
-token negotiation
-docID 13119
-2962 
-token 3/31
-docID 13261
-2 
-docID 12964
-238 
-token grossed
-docID 12993
-792 
-token negotiating
-docID 12925
-2159 
-token jiangjiajie
-docID 13337
-1290 
-token resistors
-docID 14080
-50 
-token 12:45:19
-docID 13702
-2494 
-token nsf
-docID 14142
-128 
-token replenished
-docID 14230
-37 
-token nog
-docID 13737
-171 
-token dusty
-docID 13682
-42 
-docID 13927
-37 
-token carriebishop
-docID 14184
-1763 1847 
-docID 13702
-4289 
-token lasagna
-docID 14245
-165 955 
-token 155
-docID 14220
-688 
-docID 14313
-75 
-token breeders
-docID 13936
-40 
-token inkscape
-docID 14111
-213 
-token 112
-docID 14245
-330 
-token troublesome
-docID 14086
-137 
-docID 13759
-2898 
-token oem
-docID 13591
-2249 
-token heartfelt
-docID 13706
-2605 
-docID 13926
-418 
-token 40.00
-docID 14062
-538 
-token negotiation
-docID 13829
-1941 2027 2100 
-token impoverished
-docID 13973
-431 
-token 12:45:19
-docID 14386
-3809 
-token nst
-docID 14563
-208 
-token romance
-docID 14870
+token congressman
+docID 2596
+score 0.003355704697986577
+15 
+token writeups
+docID 2649
+score 3.8138825324180017E-4
+977 
+token andreygoder
+docID 2708
+score 1.880759826970096E-4
+5038 
+token andreygoder
+docID 2716
+score 1.341741580571582E-4
+2381 
+token 154b
+docID 2736
+score 0.00129366106080207
+411 
+token 154a
+docID 2736
+score 0.00129366106080207
+403 
+token 152a
+docID 2736
+score 0.00129366106080207
 254 
-token dusty
-docID 14520
-7380 
-token tranquil
-docID 14532
-2234 
-token soothing
-docID 14412
-819 
-token 16:44:55
-docID 14677
-188 
-token hawkins
-docID 14849
-2683 
-token godgiven
-docID 14693
-541 
-token nil
-docID 14624
-424 
-token 16:44:23
-docID 15045
-425 
-token breeders
-docID 14996
-124 
-token iwlocaddr
-docID 14695
-1246 
-token coleslaw
-docID 14434
-1998 
-token 112
-docID 14970
-3277 
-token troublesome
-docID 14813
-349 
-docID 14405
-7364 
-token 127
-docID 14982
-497 
-docID 14415
-224 
-token roland
-docID 14403
-364 
-token 10x
-docID 14743
-584 
-token pomo
-docID 14633
-1 
-token radioactive
-docID 14391
-220 
-token 21:39:28
-docID 14465
-233 
-token negotiation
-docID 15000
-305 
-docID 14699
-5864 
-token 3/31
-docID 14406
-1682 
-docID 14690
-232 
-token 3/30
-docID 14361
-5380 
-token grossed
-docID 14776
-667 
-token negotiating
-docID 14406
-2426 
-docID 14758
-716 
-token 3/24
-docID 14361
-5449 
-token impoverished
-docID 14588
-239 
-docID 14513
-173 
-token nsf
-docID 15578
-19 40 
-token rained
-docID 15613
-3949 
-docID 15318
-1613 
-token romance
-docID 15475
-222 
-token 0.0
-docID 15507
-4984 4987 4990 4993 4997 
-token replenished
-docID 15455
-8152 
-token dusty
-docID 15202
-53 
-docID 15771
-900 
-token soothing
-docID 15089
-185 
-docID 15729
-1063 
-token horizons
-docID 15298
-49 
-token stimulating
-docID 15625
-1376 
-token nls
-docID 15070
-373 
-token carriebishop
-docID 15419
-1901 
-token lasagna
-docID 15097
-15866 15937 15962 
-docID 15359
-863 890 2253 2263 3022 3036 4140 4152 4185 4188 
-token schalm
-docID 15799
-2 
-token inserting
-docID 15088
-445 
-token troublesome
-docID 15178
-115 
-token 10s
-docID 15455
-558 
-token 127
-docID 15417
-4545 
-token 10x
-docID 15146
-416 
-token 139
-docID 15504
-0 
-docID 15541
-22 674 
-docID 15702
-388 
-token slipping
-docID 15249
-1376 
-token negotiation
-docID 15500
-8014 8078 
-docID 15114
-1238 
-token grossed
-docID 15659
-1705 1715 
-token negotiating
-docID 15500
-7369 
-token impoverished
-docID 15582
-285 
-token resistors
-docID 16383
-450 
-token boyle
-docID 16458
-13 80 
-token rained
-docID 16085
-9732 9746 
-token 0.6
-docID 16200
-1413 
-token soothing
-docID 16132
-843 
-docID 15865
-190 
-token horizons
-docID 15913
-369 
-token obscured
-docID 16336
-2132 
-token lasagna
-docID 15918
+token 152c
+docID 2736
+score 0.00129366106080207
+256 
+token 152b
+docID 2736
+score 0.00129366106080207
+255 
+token 2063
+docID 2888
+score 0.0022675736961451248
+23 
+token spores
+docID 2919
+score 3.2351989647363315E-4
+2252 
+token digressed
+docID 2972
+score 1.6652789342214822E-4
+2035 
+token norewrite
+docID 3021
+score 1.3987970345502866E-4
+1758 
+token 2006/01
+docID 3066
+score 0.001644736842105263
+277 
+token randomized
+docID 3261
+score 0.0011799410029498525
+1456 1461 
+token engendered
+docID 3323
+score 8.928571428571428E-4
+610 
+token bumblebees
+docID 3412
+score 0.0019801980198019802
+147 
+token nathandodd
+docID 3455
+score 0.002207505518763797
+209 
+token contemplative
+docID 3481
+score 0.005050505050505051
+168 
+token ecumenical
+docID 3496
+score 0.004739336492890996
+125 
+token flutes
+docID 3569
+score 3.3433634236041456E-4
+1788 
+token flee
+docID 3633
+score 2.958579881656805E-4
+2196 
+token warehouses
+docID 3643
+score 2.0815986677768527E-4
+4151 
+token interfaces
+docID 3649
+score 0.015873015873015872
+57 
+token congressman
+docID 3682
+score 1.4287755393627662E-4
+641 
+token luminous
+docID 3892
+score 0.009523809523809525
+58 
+token nathandodd
+docID 4027
+score 0.004098360655737705
+216 
+token breaststroke
+docID 4050
+score 0.02197802197802198
+49 58 
+token andreygoder
+docID 4061
+score 1.9876764062810574E-4
+4319 
+token congressman
+docID 4063
+score 0.001177856301531213
+501 
+token engendered
+docID 4196
+score 2.2888532845044633E-4
+1586 
+token eec
+docID 4212
+score 0.0011261261261261261
+764 
+token congressman
+docID 4253
+score 1.0301844030081384E-4
+1045 
+token kahn
+docID 4253
+score 1.0301844030081384E-4
+7599 
+token interfaces
+docID 4274
+score 0.0064516129032258064
+35 
+token approximation
+docID 4275
+score 1.2091898428053205E-4
+3249 
+token np
+docID 4357
+score 3.232062055591467E-4
+1550 
+token 2006/01
+docID 4362
+score 1.8698578908002991E-4
+323 
+token norewrite
+docID 4362
+score 1.8698578908002991E-4
+428 
+token caulfield
+docID 4367
+score 0.008
+119 
+token sacramentobased
+docID 4394
+score 0.014492753623188406
+38 
+token andreygoder
+docID 4412
+score 3.2621105855488503E-4
+255 2551 
+token holden
+docID 4471
+score 1.543924656476764E-4
+256 262 
+token 243
+docID 4540
+score 0.0021321961620469083
+275 
+token mystichle
+docID 4555
+score 0.001183431952662722
+763 
+token ee
+docID 4570
+score 9.267840593141798E-4
+1002 
+token eec
+docID 4570
+score 0.010194624652455977
+446 474 498 522 529 560 622 655 725 731 736 
+token 12:57:41
+docID 4584
+score 0.006944444444444444
+100 
+token reeds
+docID 4663
+score 5.076142131979696E-4
+591 
+token purples
+docID 4700
+score 0.0022727272727272726
+33 
+token congressman
+docID 4730
+score 0.008771929824561403
+61 
+token lusty
+docID 4828
+score 0.006329113924050633
+126 
+token congressman
+docID 4885
+score 4.4943820224719103E-4
+144 
+token ee
+docID 4898
+score 5.425935973955507E-4
+766 
+token eec
+docID 4898
+score 5.425935973955507E-4
+774 
+token randomized
+docID 4898
+score 5.425935973955507E-4
+674 
+token np
+docID 4972
+score 4.046944556859571E-4
+1539 
+token florets
+docID 5206
+score 0.0049261083743842365
+127 221 
+token eec
+docID 5225
+score 0.001702127659574468
+816 937 
+token zim
+docID 5624
+score 0.008403361344537815
+75 
+token writeups
+docID 5723
+score 0.006493506493506494
+28 
+token spiky
+docID 5735
+score 3.7243947858472997E-4
+2079 
+token zim
+docID 5736
+score 0.008791208791208791
+184 185 188 189 
+token spiky
+docID 5877
+score 0.0013966480446927375
+59 
+token florets
+docID 5877
+score 0.0013966480446927375
+133 
+token canes
+docID 5964
+score 0.004335260115606936
+114 248 378 
+token etsy
+docID 6026
+score 0.024390243902439025
+32 
+token writeups
+docID 6062
+score 2.73000273000273E-4
+2178 
+token 20060314
+docID 6110
+score 6.129328838492185E-4
+1389 1403 
+token taqueriastyle
+docID 6170
+score 3.5356511490866236E-4
+2171 2180 4799 
+token sacramentobased
+docID 6170
+score 1.1785503830288745E-4
+2057 
+token norewrite
+docID 6170
+score 1.1785503830288745E-4
+3770 
+token chicos
+docID 6170
+score 3.5356511490866236E-4
+2650 4795 6163 
+token kahn
+docID 6316
+score 0.004
+249 
+token approximation
+docID 6353
+score 3.0358227079538557E-4
+2818 
+token wattis
+docID 6378
+score 5.714285714285715E-4
+853 
+token contemplative
+docID 6378
+score 0.0017142857142857142
+323 864 1116 
+token nathandodd
+docID 6419
+score 4.45632798573975E-4
+745 
+token andreygoder
+docID 6419
+score 4.45632798573975E-4
+927 
+token chicos
+docID 6464
+score 7.077140835102619E-4
+265 
+token sours
+docID 6505
+score 0.0014903129657228018
+587 
+token congressman
+docID 6509
+score 0.0016286644951140066
+170 
+token warehouses
+docID 6519
+score 5.115089514066496E-4
+138 
+token bumblebees
+docID 6721
+score 2.932551319648094E-4
+1715 
+token andreygoder
+docID 6721
+score 2.932551319648094E-4
+962 
+token 2006/01
+docID 6774
+score 0.00904977375565611
+189 204 
+token norewrite
+docID 6774
+score 0.004524886877828055
+214 
+token flee
+docID 6781
+score 2.449779519843214E-4
+1527 
+token 2006/01
+docID 6812
+score 0.0010416666666666667
+326 
+token norewrite
+docID 6812
+score 0.0010416666666666667
+339 
+token norewrite
+docID 6920
+score 9.718172983479105E-4
+872 
+token congressman
+docID 6934
+score 0.002304147465437788
+119 
+token flee
+docID 6941
+score 1.1946004061641381E-4
+7840 
+token yous
+docID 6944
+score 0.013888888888888888
+43 
+token holden
+docID 6981
+score 0.008
+66 
+token norewrite
+docID 7131
+score 0.006369426751592357
+147 
+token canes
+docID 7156
+score 0.003676470588235294
+37 
+token lilacs
+docID 7214
+score 0.007547169811320755
+18 25 
+token snippet
+docID 7310
+score 4.833252779120348E-4
+1496 
+token norewrite
+docID 7336
+score 0.002122015915119363
+572 600 626 655 
+token häagendazs
+docID 7404
+score 0.0019455252918287938
+212 
+token spiky
+docID 7414
+score 0.0032679738562091504
+260 
+token congressman
+docID 7461
+score 0.008237232289950576
+149 216 289 332 385 418 460 525 580 601 
+token flee
+docID 7507
+score 0.0017006802721088435
+281 
+token velolution
+docID 7533
+score 0.003076923076923077
+211 
+token margotparfitt
+docID 7592
+score 3.075030750307503E-4
+813 
+token interfaces
+docID 7598
+score 0.003367003367003367
+75 
+token 243
+docID 7748
+score 0.009389671361502348
+67 75 
+token spores
+docID 7750
+score 0.00975609756097561
+12 73 
+token kmm
+docID 7819
+score 0.007575757575757576
+120 
+token chicos
+docID 7964
+score 6.944444444444445E-4
+899 
+token holden
+docID 7976
+score 0.0070921985815602835
+83 
+token interfaces
+docID 8002
+score 0.00202020202020202
+266 
+token congressman
+docID 8151
+score 6.988120195667365E-4
+1325 
+token approximation
+docID 8165
+score 6.729475100942127E-4
+414 
+token compilers
+docID 8165
+score 6.729475100942127E-4
+1418 
+token hypertext
+docID 8169
+score 0.0012004801920768306
+161 
+token 19:45:43
+docID 8172
+score 4.07797080172906E-5
+14014 
+token microcomputerbased
+docID 8207
+score 0.0015337423312883436
+400 
+token eec
+docID 8207
+score 0.006134969325153374
+381 383 390 398 
+token 154b
+docID 8207
+score 0.0015337423312883436
+204 
+token 154a
+docID 8207
+score 0.0015337423312883436
+197 
+token 152a
+docID 8207
+score 0.0015337423312883436
 164 
-docID 16132
-892 
-docID 16300
-2588 
-token 155
-docID 16531
-1803 
-token coleslaw
-docID 16055
-76 
-token roland
-docID 15999
+token 152c
+docID 8207
+score 0.0015337423312883436
+178 
+token 152b
+docID 8207
+score 0.0015337423312883436
+171 
+token randomized
+docID 8271
+score 0.0125
+32 
+token 20060314
+docID 8320
+score 3.57611157468113E-4
+461 608 618 
+token contemplative
+docID 8422
+score 0.017241379310344827
+60 114 
+token powdery
+docID 8440
+score 1.5441630636195183E-4
+3553 
+token häagendazs
+docID 8442
+score 0.006024096385542169
 115 
-token contemplation
-docID 15966
-44 309 537 
-token oem
-docID 16560
-1033 
-token pomo
-docID 16195
-4 
-token manifestation
-docID 15978
-327 
-docID 15895
-14156 
-token 3rdstreetjeweler
-docID 16450
+token ee
+docID 8578
+score 0.005115089514066497
+296 314 
+token approximation
+docID 8581
+score 3.969829297340214E-4
+2155 
+token breaststroke
+docID 8624
+score 0.004201680672268907
+16 
+token ee
+docID 8843
+score 0.0019455252918287938
+320 
+token 2006/01
+docID 8846
+score 0.004366812227074236
+157 
+token projecting
+docID 8925
+score 4.7778308647873863E-4
+1741 
+token 20060314
+docID 8998
+score 0.005681818181818182
 156 
-token hertel
-docID 16134
-513 
-token inlaws
-docID 16089
-6345 
-token negotiating
-docID 16500
+token lamars
+docID 9020
+score 0.0019257221458046766
+229 853 870 1042 1209 1620 2748 
+token 2006/01
+docID 9020
+score 2.751031636863824E-4
+331 
+token norewrite
+docID 9020
+score 5.502063273727648E-4
+743 776 
+token wilken
+docID 9025
+score 0.004366812227074236
+154 
+token caulfield
+docID 9031
+score 0.003875968992248062
+130 
+token etsy
+docID 9055
+score 0.03636363636363636
+3 41 
+token andreygoder
+docID 9067
+score 2.1088148460565162E-4
+3572 
+token debugging
+docID 9204
+score 0.0022675736961451248
+408 
+token sophie
+docID 9215
+score 0.01486988847583643
+0 96 181 248 
+token 2006/01
+docID 9247
+score 8.488964346349745E-4
+69 
+token 2006/01
+docID 9253
+score 3.746721618583739E-4
+534 
+token 2006/01
+docID 9309
+score 0.0026613439787092482
+504 516 530 544 
+token chicos
+docID 9325
+score 0.0017761989342806395
+461 
+token hypertext
+docID 9328
+score 0.002583979328165375
+2 43 
+token http://scg.ucdavis.edu/hypertext/2005fallwithmap.pdf
+docID 9328
+score 0.0012919896640826874
+27 
+token flee
+docID 9420
+score 1.2682308180088776E-4
+3693 
+token norewrite
+docID 9445
+score 4.636068613815484E-4
+43 
+token spiky
+docID 9498
+score 2.477700693756194E-4
+2245 
+token 14:21:47
+docID 9571
+score 1.7067759003242875E-4
+661 
+token hypertext
+docID 9635
+score 0.0026041666666666665
+343 
+token 20060314
+docID 9689
+score 1.0871928680147858E-4
+4614 
+token hackery
+docID 9698
+score 9.852216748768472E-4
+233 
+token congressman
+docID 9734
+score 0.002403846153846154
+67 
+token spores
+docID 9802
+score 0.0011494252873563218
+534 
+token congressman
+docID 9830
+score 0.0020161290322580645
+74 
+token kahn
+docID 9862
+score 7.183908045977011E-4
+1315 
+token andreygoder
+docID 9862
+score 7.183908045977011E-4
+619 
+token 2006/01
+docID 9866
+score 6.402048655569782E-4
+1028 
+token margotparfitt
+docID 9959
+score 0.011764705882352941
+51 
+token andreygoder
+docID 10007
+score 4.4943820224719103E-4
+648 
+token approximation
+docID 10009
+score 1.1778563015312132E-4
+3813 
+token yous
+docID 10019
+score 8.665511265164644E-4
+271 
+token congressman
+docID 10120
+score 0.0014771048744460858
+612 
+token snippet
+docID 10206
+score 4.110152075626798E-4
+2265 
+token hypertext
+docID 10206
+score 4.110152075626798E-4
+933 
+token norewrite
+docID 10232
+score 0.0012594458438287153
+626 
+token holden
+docID 10264
+score 0.0025252525252525255
+394 
+token caulfield
+docID 10264
+score 0.0025252525252525255
+395 
+token wattis
+docID 10271
+score 0.02702702702702703
+2 50 88 
+token counterculture
+docID 10399
+score 4.897159647404506E-4
+1615 
+token invader
+docID 10417
+score 0.0012121212121212121
+267 1003 
+token margotparfitt
+docID 10431
+score 2.3651844843897824E-4
+2523 
+token randomized
+docID 10437
+score 0.002976190476190476
+287 
+token eec
+docID 10456
+score 0.003968253968253968
+369 380 389 
+token norewrite
+docID 10506
+score 0.005397070161912105
+1100 1124 1159 1182 1226 2200 2227 2253 2275 2303 2324 2347 2373 2398 
+token norewrite
+docID 10596
+score 0.0011376564277588168
+46 
+token caulfield
+docID 10618
+score 0.0017815540633136905
+3568 3574 3607 3625 3640 3662 3690 3695 3719 3728 3743 3749 3755 
+token flee
+docID 10618
+score 4.111278607646978E-4
+1988 2808 3907 
+token sacramentobased
+docID 10635
+score 6.053268765133172E-4
+3 
+token congressman
+docID 10703
+score 0.0010471204188481676
+229 
+token andreygoder
+docID 10808
+score 4.297378599054577E-4
+1058 1130 
+token kahn
+docID 10814
+score 0.017857142857142856
+36 
+token norewrite
+docID 10858
+score 0.002326663564448581
+69 297 481 553 592 
+token chicos
+docID 10892
+score 6.020469596628537E-4
+10 
+token contemplative
+docID 10921
+score 0.0018083182640144665
+104 
+token 243
+docID 10923
+score 1.1860285832888572E-4
+12725 12729 
+token warehouses
+docID 10953
+score 4.791566842357451E-4
+573 
+token np
+docID 11019
+score 1.734304543877905E-4
+1503 
+token sacramentobased
+docID 11052
+score 0.002631578947368421
+87 
+token sours
+docID 11066
+score 0.0024096385542168677
+235 
+token 20060314
+docID 11090
+score 6.309148264984228E-4
+1328 
+token counterculture
+docID 11090
+score 6.309148264984228E-4
+694 
+token np
+docID 11251
+score 6.112469437652812E-4
+684 
+token congressman
+docID 11380
+score 7.501875468867217E-4
+827 857 
+token andreygoder
+docID 11390
+score 1.377220768489189E-4
+53 
+token hypertext
+docID 11548
+score 5.291005291005291E-4
+1123 
+token http://scg.ucdavis.edu/hypertext/2005fallwithmap.pdf
+docID 11548
+score 5.291005291005291E-4
+1128 
+token nathandodd
+docID 11620
+score 0.0015408320493066256
+144 
+token np
+docID 11644
+score 0.0011098779134295228
+586 
+token interfaces
+docID 11654
+score 0.002074688796680498
+163 
+token flee
+docID 11695
+score 4.692632566870014E-4
+1469 
+token contemplative
+docID 11715
+score 3.7257824143070045E-4
+155 
+token spores
+docID 11735
+score 0.005917159763313609
+62 
+token aprils
+docID 11755
+score 1.2539184952978057E-4
+6270 
+token eec
+docID 11760
+score 0.007352941176470588
+42 
+token 17:28:45
+docID 11775
+score 3.75234521575985E-4
+201 
+token canes
+docID 11785
+score 0.0010695187165775401
+715 
+token projecting
+docID 11822
+score 4.344048653344917E-4
+1527 
+token congressman
+docID 11831
+score 1.9113149847094801E-4
+330 
+token yous
+docID 11849
+score 5.420054200542005E-4
+183 
+token warehouses
+docID 11873
+score 7.075638576381519E-5
+3314 
+token spores
+docID 11973
+score 0.0013736263736263737
+83 
+token 20060314
+docID 11996
+score 4.878048780487805E-4
+736 773 
+token macroscopic
+docID 12049
+score 2.1512778590482746E-5
+19964 
+token bernd
+docID 12091
+score 0.008130081300813009
+43 
+token writeups
+docID 12103
+score 1.91809724753045E-4
+7585 7635 
+token 13:08:41
+docID 12111
+score 1.464343242055938E-4
+889 
+token velolution
+docID 12189
+score 0.005988023952095809
+19 257 
+token congressman
+docID 12295
+score 0.004405286343612335
+124 
+token engendered
+docID 12303
+score 0.002551020408163265
+72 
+token lilacs
+docID 12336
+score 0.008333333333333333
+56 
+token kahn
+docID 12372
+score 3.835826620636747E-4
+1368 
+token kmm
+docID 12400
+score 0.006211180124223602
+152 
+token canes
+docID 12624
+score 0.006944444444444444
+72 
+token sophie
+docID 12795
+score 0.005479452054794521
+120 198 
+token eec
+docID 12799
+score 0.002026342451874367
+703 771 
+token congressman
+docID 12883
+score 0.0010090817356205853
+687 690 697 3542 
+token hypertext
+docID 12907
+score 5.64652738565782E-4
+3154 3167 
+token compilers
+docID 12979
+score 7.022471910112359E-4
+169 
+token congressman
+docID 13112
+score 0.008064516129032258
+91 
+token congressman
+docID 13250
+score 1.9877159156413366E-5
+29274 
+token chicos
+docID 13250
+score 1.9877159156413366E-5
+16919 
+token luminous
+docID 13250
+score 1.9877159156413366E-5
+26590 
+token ecumenical
+docID 13250
+score 1.9877159156413366E-5
+49948 
+token ee
+docID 13253
+score 0.008620689655172414
+52 
+token sacramentobased
+docID 13319
+score 0.022222222222222223
+6 
+token congressman
+docID 13366
+score 0.004629629629629629
+323 333 
+token writeups
+docID 13411
+score 0.008368200836820083
+103 122 
+token sacramentobased
+docID 13440
+score 0.002631578947368421
+267 
+token randomized
+docID 13458
+score 0.013888888888888888
+111 129 
+token reeds
+docID 13464
+score 0.002881844380403458
+142 
+token sophie
+docID 13473
+score 0.0018796992481203006
+331 
+token canes
+docID 13493
+score 0.0034129692832764505
+177 
+token writeups
+docID 13502
+score 6.738544474393531E-4
+15 
+token interfaces
+docID 13563
+score 0.006756756756756757
+113 
+token häagendazs
+docID 13617
+score 0.022727272727272728
+1 36 128 
+token sighed
+docID 13632
+score 1.6157699143641945E-4
+3738 
+token andreygoder
+docID 13682
+score 0.0012360939431396785
+328 
+token sacramentobased
+docID 13687
+score 0.020833333333333332
+5 
+token ee
+docID 13706
+score 6.90846286701209E-4
+362 1516 
+token np
+docID 13729
+score 5.434782608695652E-4
+1133 
+token congressman
+docID 13744
+score 1.0312467773538208E-4
+3294 
+token 20060314
+docID 13867
+score 0.005917159763313609
+120 
+token michaelolavarri
+docID 13889
+score 1.3039509714434736E-4
+7155 
+token ecumenical
+docID 13904
+score 3.2289312237649337E-4
+840 
+token wilken
+docID 13913
+score 0.011627906976744186
+53 
+token häagendazs
+docID 14107
+score 5.52791597567717E-4
+372 
+token etsy
+docID 14134
+score 0.0010449320794148381
+661 
+token andreygoder
+docID 14134
+score 0.0010449320794148381
+145 
+token nonconfrontational
+docID 14204
+score 1.1005943209333039E-4
+659 
+token ee
+docID 14224
+score 1.29886998311469E-4
+2247 
+token luminous
+docID 14270
+score 6.680026720106881E-4
+1475 
+token contemplative
+docID 14270
+score 6.680026720106881E-4
+1373 
+token caulfield
+docID 14281
+score 0.010101010101010102
+31 
+token interfaces
+docID 14287
+score 0.008264462809917356
+34 
+token congressman
+docID 14290
+score 0.0017921146953405018
+20 
+token etsy
+docID 14292
+score 0.0037313432835820895
+121 
+token ecumenical
+docID 14303
+score 0.0011890606420927466
+368 
+token 2006/01
+docID 14352
+score 0.0028735632183908046
+125 
+token norewrite
+docID 14352
+score 0.0028735632183908046
+133 
+token ths
+docID 14412
+score 3.303600925008259E-4
+2393 
+token ee
+docID 14476
+score 0.0018975332068311196
+15 
+token eec
+docID 14476
+score 0.0018975332068311196
+81 
+token powdery
+docID 14532
+score 1.563232765358762E-4
+4484 
+token approximation
+docID 14532
+score 1.563232765358762E-4
+6044 
+token hypertext
+docID 14581
+score 0.0028169014084507044
+226 
+token holden
+docID 14758
+score 1.3997760358342665E-4
+2565 
+token impressing
+docID 14766
+score 1.6874789065136686E-4
+4963 
+token sacramentobased
+docID 14836
+score 0.002551020408163265
+207 
+token nonconfrontational
+docID 14854
+score 1.743679163034002E-4
+5551 
+token velolution
+docID 14854
+score 3.487358326068004E-4
+1020 5732 
+token andreygoder
+docID 14954
+score 3.770739064856712E-4
+1214 
+token powdery
+docID 14982
+score 8.373105584861426E-5
+8158 
+token yous
+docID 14982
+score 1.674621116972285E-4
+8235 10450 
+token interfaces
+docID 15036
+score 0.004878048780487805
+137 
+token dreamscape
+docID 15079
+score 0.012345679012345678
+48 
+token sophie
+docID 15086
+score 0.00390625
+253 
+token sours
+docID 15107
+score 9.523809523809524E-4
+2769 2781 2819 2934 
+token 20060314
+docID 15114
+score 3.0395136778115504E-4
+1557 
+token flee
+docID 15273
+score 5.089058524173028E-4
+781 
+token yous
+docID 15314
+score 0.0016181229773462784
+437 
+token digressed
+docID 15397
+score 0.001422475106685633
+524 
+token canes
+docID 15415
+score 0.008771929824561403
+81 
+token counterculture
+docID 15451
+score 0.002717391304347826
+100 
+token sours
+docID 15462
+score 0.00847457627118644
+38 
+token bernd
+docID 15489
+score 0.0017761989342806395
+69 
+token mixed1505862
+docID 15507
+score 2.2158209616662973E-4
+3645 4484 
+token 2006/01
+docID 15507
+score 2.2158209616662973E-4
+3635 4474 
+token norewrite
+docID 15507
+score 4.4316419233325947E-4
+1078 3647 4486 4900 
+token reeds
+docID 15535
+score 0.0064516129032258064
+58 
+token approximation
+docID 15535
+score 0.0064516129032258064
+98 
+token congressman
+docID 15573
+score 4.253509145044662E-4
+208 
+token ee
+docID 15579
+score 0.0012484394506866417
+593 
+token cochran
+docID 15603
+score 7.530120481927711E-4
+134 
+token randomized
+docID 15646
+score 0.0011135857461024498
+293 
+token kahn
+docID 15712
+score 2.5119316754584274E-4
+3516 
+token warehouses
+docID 15729
+score 6.321112515802782E-4
+1553 
+token flee
+docID 15795
+score 4.6707146193367583E-4
+1568 
+token np
+docID 15835
+score 0.009345794392523364
+39 
+token spores
+docID 15895
+score 6.569007422978388E-5
+12553 
+token canes
+docID 15895
+score 1.3138014845956775E-4
+4948 6806 
+token norewrite
+docID 15898
+score 0.0016722408026755853
+139 
+token warehouses
+docID 15901
+score 6.265664160401002E-4
+86 
+token ee
+docID 15936
+score 1.579778830963665E-4
+5242 
+token spores
+docID 15939
+score 0.005747126436781609
+107 
+token stu
+docID 15973
+score 0.001091703056768559
+657 
+token 20060314
+docID 15982
+score 0.0040650406504065045
+205 
+token flee
+docID 16010
+score 0.0051813471502590676
+67 
+token margotparfitt
+docID 16062
+score 0.001394700139470014
+401 
+token np
+docID 16108
+score 0.0011890606420927466
+573 
+token interfaces
+docID 16160
+score 0.003436426116838488
+134 
+token celestial
+docID 16208
+score 0.0012515644555694619
+354 
+token counterculture
+docID 16211
+score 6.527415143603133E-4
+29 
+token breaststroke
+docID 16318
+score 0.00819672131147541
+27 
+token clutching
+docID 16336
+score 8.903133903133904E-5
+81 
+token 19:45:43
+docID 16336
+score 8.903133903133904E-5
+6835 
+token sophie
+docID 16342
+score 0.005263157894736842
 18 
-token impoverished
-docID 16384
-68 
+token flee
+docID 16357
+score 0.005405405405405406
+38 
+token norewrite
+docID 16367
+score 0.002770083102493075
+232 
+token hypertext
+docID 16370
+score 0.021739130434782608
+41 
+token ee
+docID 16383
+score 0.0018908698001080498
+465 468 537 576 584 796 3403 
+token wilken
+docID 16383
+score 2.701242571582928E-4
+2542 
+token eec
+docID 16383
+score 0.0010804970286331713
+517 1714 2065 2907 
+token microcomputerbased
+docID 16383
+score 2.701242571582928E-4
+2676 
+token compilers
+docID 16383
+score 2.701242571582928E-4
+2564 
+token 2006/01
+docID 16401
+score 2.3293733985557886E-4
+3898 
+token norewrite
+docID 16401
+score 2.3293733985557886E-4
+3908 
+token celestial
+docID 16454
+score 9.225092250922509E-4
+689 
+token spores
+docID 16466
+score 2.168256721595837E-4
+3981 
+token impressing
+docID 16500
+score 0.0036231884057971015
+212 
+token 27x
+docID 16554
+score 1.0046212577858148E-4
+7349 
+token sophie
+docID 16655
+score 1.1963153487259242E-4
+7916 
+token powdery
+docID 16721
+score 2.452783909737552E-4
+935 
+token ecumenical
+docID 16723
+score 0.005405405405405406
+110 
+token interfaces
+docID 16735
+score 0.004830917874396135
+86 
+token sacramentobased
+docID 16760
+score 4.409171075837742E-4
+6 
+token 2006/01
+docID 16829
+score 7.199424046076314E-4
+1373 
+token norewrite
+docID 16829
+score 7.199424046076314E-4
+509 
+token congressman
+docID 16892
+score 4.29000429000429E-4
+1556 
+token spiky
+docID 16953
+score 0.002207505518763797
+342 
+token interfaces
+docID 16975
+score 0.006369426751592357
+53 
+token congressman
+docID 17016
+score 0.006622516556291391
+107 
+token contemplative
+docID 17076
+score 0.02127659574468085
+3 
+token congressman
+docID 17148
+score 0.01098901098901099
+9 
+token andreygoder
+docID 17245
+score 0.0032282567413596656
+386 671 916 1314 1521 1884 2109 2288 2603 2792 2998 3425 3940 4281 4430 4579 4772 
+token velolution
+docID 17293
+score 0.012345679012345678
+36 
+token approximation
+docID 17304
+score 6.297229219143577E-4
+943 
+token 20060314
+docID 17436
+score 0.0025929127052722557
+464 502 511 

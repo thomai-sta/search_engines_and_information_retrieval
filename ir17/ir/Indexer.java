@@ -69,7 +69,7 @@ public class Indexer
         // an IO error could occur
         if (fs != null)
         {
-          for (int i=0; i<fs.length; i++)
+          for (int i = 0; i < fs.length; i++)
           {
             processFiles(new File(f, fs[i]));
           }
@@ -81,7 +81,9 @@ public class Indexer
         // First register the document and get a docID
         int docID = generateDocID();
         if (docID % 1000 == 0)
+        {
           System.err.println("Indexed " + docID + " files");
+        }
         index.docIDs.put("" + docID, f.getName());
         try
         {
@@ -123,6 +125,8 @@ public class Indexer
           }
           index.docLengths.put("" + docID, offset);
           reader.close();
+          index.calculateScores();
+          index.updateFiles();
         }
         catch (IOException e) {
         System.err.println("Warning: IOException during indexing.");

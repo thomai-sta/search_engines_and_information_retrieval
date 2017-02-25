@@ -1,642 +1,968 @@
-token irca
-docID 7908
-140 
-token doreen
-docID 7580
-1531 4082 5666 5914 5922 10588 14136 14675 14858 14919 16952 
-token safetyfootnote
-docID 7693
-72 
-token 21:12:18
-docID 7784
-47 
-token smbusres
-docID 7693
-263 
-token salvaging
-docID 8251
-108 
-token 15:14:31
-docID 8172
-6048 
-token http://townsend.ucdavis.edu/reportadeadbird/
-docID 7579
-261 
-token breeches
-docID 8145
-14 
-docID 7580
-6943 
-token 1s
-docID 8170
-858 
-token wattle
-docID 8170
-781 
-token allucaneat
-docID 7629
-2000 
-token angwin
-docID 7590
-3689 
-token hjspiller@ucdavis.edu
-docID 7602
-140 
-token henceforward
-docID 7616
-2373 
-token 9168214471
-docID 7819
-128 
-token petersj
-docID 7793
-243 
-token nonbuffet
-docID 7629
-8281 
-token guidebooks
-docID 7654
-293 
-token ryandmiller
-docID 7991
-581 
-token 19:08:56
-docID 7694
-1833 
-token http://www.rusticgirls.com/bathouseplacement/
-docID 8056
-1410 
-token whizz
-docID 7612
+token 11505
+docID 7444
+score 5.515719801434088E-4
+1259 
+token http://theaggie.org/article/fortiethannualwholeearthfestivaltakesplacethisweekend
+docID 7444
+score 5.515719801434088E-4
+1512 
+token http://www.innovations.harvard.edu/news/152301.html
+docID 7444
+score 5.515719801434088E-4
+1787 
+token http://ufgreeksgoinggreen.wordpress.com/
+docID 7444
+score 5.515719801434088E-4
+1552 
+token http://www.bullfrogbees.com/
+docID 7445
+score 0.125
+0 
+token http://www.ncbi.nlm.nih.gov/pmc/articles/pmc2755102/
+docID 7446
+score 0.038461538461538464
 22 
-token dignitaries
-docID 8006
-84 
-token 22:19:34
-docID 8172
-1993 
-token 09:11:53
-docID 7570
-5 
-token 03:05:29
-docID 7998
-808 
-token whisk
-docID 8151
-215 
-docID 7680
-190 
-token 6k
-docID 7826
-107 
-token 4u
-docID 8170
-873 
-token 17:40:58
-docID 7489
-552 
-token 18:36:09
-docID 7778
-1619 
-token 5g
-docID 7848
-21 
-token 19:08:23
-docID 7675
-243 
-token 08:53:14
-docID 8226
-5984 
-token bloomberg
-docID 7580
-16629 
-token juvie
-docID 7776
-2215 
-token mattos
-docID 8059
-137 
-token factionforming
-docID 7580
-6139 
-token vanishes
-docID 8151
-892 
-token agoits
-docID 8172
-20116 
-token rivertowns
-docID 7766
-47 
-token udall
-docID 7652
-543 549 554 628 
-token 19:08:21
-docID 8172
-20301 
-token summary2006
-docID 7781
-278 
-token entomologists
-docID 7629
-9124 
-token geronimo
-docID 7590
-2915 
-token 13:39:07
-docID 7629
-622 
-token crits
-docID 7653
+token prospectors
+docID 7446
+score 0.038461538461538464
+25 
+token 10:20:19
+docID 7447
+score 0.00196078431372549
+457 
+token 16:14:26
+docID 7447
+score 0.00196078431372549
+19 
+token 18:55:58
+docID 7447
+score 0.00196078431372549
 66 
-token 18:44:21
-docID 8191
-3260 
-token 07:43:15
-docID 8172
-19814 
-token 9x
-docID 8155
-177 
-token 9i
-docID 7598
-229 
-token nagoya
-docID 7580
-15889 
-token 15:19:16
-docID 7629
-10732 
-token 9c
-docID 8207
-363 
-docID 8238
-214 
-token 13:39:22
-docID 8204
-495 
-token 9b
-docID 8207
-356 
-docID 8238
-213 
-token 15:19:25
-docID 8172
-22584 
-token inconsequential
-docID 7973
-5448 
-token hillborn
-docID 7590
-2594 
+token vlam
+docID 7447
+score 0.00392156862745098
+240 459 
+token 08:36:35
+docID 7447
+score 0.00196078431372549
+121 
+token http://daviswiki.org/users/srednivashtar?actionuserinfo
+docID 7447
+score 0.00196078431372549
+334 
+token 11:09:52
+docID 7447
+score 0.00196078431372549
+242 
+token http://daviswiki.org/users/vlam?actionuserinfo
+docID 7447
+score 0.00392156862745098
+35 331 
+token weblinks
+docID 7448
+score 0.009259259259259259
+92 
+token 802
+docID 7449
+score 0.001364256480218281
+485 
+token 513
+docID 7449
+score 0.001364256480218281
+307 
+token 724
+docID 7449
+score 0.001364256480218281
+469 
+token 524
+docID 7449
+score 0.001364256480218281
+349 
+token 718
+docID 7449
+score 0.001364256480218281
+454 
+token 611
+docID 7449
+score 0.001364256480218281
+376 
+token wellengineered
+docID 7449
+score 0.001364256480218281
+161 
+token c103
+docID 7449
+score 0.001364256480218281
+609 
+token 1611
+docID 7449
+score 0.001364256480218281
+553 
+token 2401
+docID 7449
+score 0.001364256480218281
+620 
+token 2ndstdowntowntogetsomelove
+docID 7449
+score 0.001364256480218281
+202 
+token 2795
+docID 7449
+score 0.001364256480218281
+636 
+token 12:36:56
+docID 7450
+score 5.963029218843172E-4
+1655 
+token sobering
+docID 7450
+score 5.963029218843172E-4
+1407 
+token partnerrssuserland
+docID 7450
+score 5.963029218843172E-4
+633 
+token 01standage
+docID 7450
+score 5.963029218843172E-4
+628 
+token en1f703b85f17267b3
+docID 7450
+score 5.963029218843172E-4
+631 
+token ei5090
+docID 7450
+score 5.963029218843172E-4
+630 
+token jessicarabbit
+docID 7450
+score 5.963029218843172E-4
+1520 
+token 14:24:31
+docID 7450
+score 5.963029218843172E-4
+827 
+token 12:57:56
+docID 7450
+score 5.963029218843172E-4
+746 
+token http://ucdavis.facebook.com/group.php?gid2323039543
+docID 7450
+score 5.963029218843172E-4
+1348 
+token ex1280548800
+docID 7450
+score 5.963029218843172E-4
+632 
+token nonpolice
+docID 7450
+score 5.963029218843172E-4
+131 
+token pragues
+docID 7450
+score 0.0017889087656529517
+840 886 1096 
+token 14:39:14
+docID 7450
+score 5.963029218843172E-4
+1068 
+token 14:08:53
+docID 7450
+score 5.963029218843172E-4
+796 
+token nonemployees
+docID 7450
+score 5.963029218843172E-4
+133 
+token committee1319711
+docID 7451
+score 2.86286859433152E-4
+1751 
+token dispatchers
+docID 7451
+score 2.86286859433152E-4
+2597 
+token indescribable
+docID 7451
+score 2.86286859433152E-4
+2250 
+token http://www.microsoft.com
+docID 7451
+score 2.86286859433152E-4
+1344 
+token minigovernment
+docID 7451
+score 2.86286859433152E-4
+397 
+token intice
+docID 7451
+score 2.86286859433152E-4
+2638 
+token proceding
+docID 7451
+score 2.86286859433152E-4
+869 
+token doublesecret
+docID 7451
+score 2.86286859433152E-4
+3335 
+token cohostyle
+docID 7451
+score 2.86286859433152E-4
+2164 
+token hwbc
+docID 7451
+score 0.0014314342971657602
+3059 3069 3372 3403 3410 
+token 20:02:01
+docID 7451
+score 2.86286859433152E-4
+2837 
+token birdsalls
+docID 7451
+score 2.86286859433152E-4
+670 
+token 21:15:08
+docID 7451
+score 2.86286859433152E-4
+3096 
+token fesible
+docID 7451
+score 2.86286859433152E-4
+2211 
+token implosion
+docID 7451
+score 2.86286859433152E-4
+320 
+token superdirectors
+docID 7451
+score 2.86286859433152E-4
+273 
+token goldplus
+docID 7451
+score 2.86286859433152E-4
+2525 
+token thourough
+docID 7451
+score 2.86286859433152E-4
+289 
+token 00:03:21
+docID 7451
+score 2.86286859433152E-4
+3367 
+token verve
+docID 7451
+score 2.86286859433152E-4
+2938 
+token contractnegotiation
+docID 7451
+score 2.86286859433152E-4
+2488 
+token timethrow
+docID 7451
+score 2.86286859433152E-4
+3144 
+token qq
+docID 7451
+score 2.86286859433152E-4
+1556 
+token 21:02:08
+docID 7451
+score 2.86286859433152E-4
+3034 
+token willed
+docID 7451
+score 2.86286859433152E-4
+2676 
+token dialoge
+docID 7451
+score 2.86286859433152E-4
+748 
+token privelege
+docID 7451
+score 2.86286859433152E-4
+2471 
+token zz
+docID 7451
+score 2.86286859433152E-4
+1526 
+token answerers
+docID 7451
+score 2.86286859433152E-4
+2596 
+token pymood
+docID 7453
+score 0.03125
+24 
+token allometra
+docID 7453
+score 0.03125
+19 
+token 1197
+docID 7454
+score 0.0025
+395 
+token 21210
+docID 7454
+score 0.0025
+26 
+token 22850
+docID 7454
+score 0.0025
+131 
+token 22853
+docID 7454
+score 0.0025
+151 
+token 22854
+docID 7454
+score 0.0025
+153 
+token impounded
+docID 7454
+score 0.015
+44 96 170 204 249 283 
+token 6.03.040
+docID 7454
+score 0.0025
+10 
+token ascertained
+docID 7454
+score 0.005
+180 259 
+token impoundment
+docID 7454
+score 0.0175
+13 161 211 240 290 376 392 
+token http://surveymonkey.com/s/artaboutplacementform
+docID 7456
+score 0.003472222222222222
+162 
+token hendren
+docID 7456
+score 0.003472222222222222
+104 
+token sandythai
+docID 7456
+score 0.006944444444444444
+95 114 
+token 08:45:26
+docID 7456
+score 0.003472222222222222
+236 
+token http://davisdowntown.com/artaboutsignup
+docID 7456
+score 0.003472222222222222
+171 
+token gatewood
+docID 7456
+score 0.003472222222222222
+88 
+token cathie
+docID 7456
+score 0.003472222222222222
+108 
+token duniway
+docID 7456
+score 0.003472222222222222
+109 
+token readjusted
+docID 7457
+score 0.009900990099009901
+21 
+token http://zipskinny.com/index.php?zip95618
+docID 7457
+score 0.009900990099009901
+99 
+token zipskinny
+docID 7457
+score 0.009900990099009901
+100 
+token 11:18:21
+docID 7458
+score 0.007751937984496124
+19 
+token electrolysis
+docID 7458
+score 0.007751937984496124
+46 
+token 22:47:49
+docID 7459
+score 0.006756756756756757
+96 
+token http://www.dcn.davis.ca.us/go/galloglas/
+docID 7459
+score 0.006756756756756757
+140 
+token bab
+docID 7459
+score 0.006756756756756757
+81 
+token 18:04:42
+docID 7459
+score 0.006756756756756757
+137 
+token 22:28:44
+docID 7459
+score 0.006756756756756757
+79 
+token 22:53:58
+docID 7459
+score 0.006756756756756757
+115 
 token 22:19:13
 docID 7459
+score 0.006756756756756757
 69 
-token 22:19:16
-docID 8172
-5857 
-token 18:44:04
-docID 8000
-2402 
-token gautama
-docID 7930
-199 
-token bnding
-docID 7604
-4001 
-token 15:58:56
-docID 8140
-1074 
-token 20:54:45
-docID 8172
-17450 
-token mathematicalphilosophers
-docID 8165
-317 
-token hidetomatsumoto
-docID 7776
-2992 
-token 02:34:45
-docID 7580
-6566 
-token 13:39:28
-docID 7553
-1099 
-token 13:39:26
-docID 7998
-1494 
-token tim10
-docID 8170
-891 
-token derringdo
-docID 7972
-39 
-token mattey
-docID 7681
-164 453 660 
-token tim01
-docID 8170
-889 
-token 02:34:28
-docID 8235
-36 
-token 7epzpvuybdlhnjt
-docID 7590
-1542 
-token tadarida
-docID 8056
-71 
-token 20off
-docID 7541
-3247 
-token http://www.stdcheck.com/stdtestcenter.php
-docID 7726
-447 
-token 01:36:46
-docID 7591
-541 
-token alex@kindcommunication.org
-docID 8174
-222 
-token upanddown
-docID 7603
-2992 
-token 4wall
-docID 7426
-309 
-token 19931221
-docID 8068
-325 
-token kmum
-docID 8169
-676 
-token regardeda
-docID 7944
-978 
-token sandee
-docID 7893
-2102 
-token irfanview
-docID 8198
-1106 1108 
-token 01:36:44
-docID 7930
-2788 
-token sixtyone
-docID 7743
-799 
-token tuantiet
-docID 7778
-3111 
-token postman
-docID 7998
-640 
-token quasichristian
-docID 7930
-3025 
-token fateful
-docID 7891
-2 
-token 7bcffminzdch
-docID 7590
-1601 
-token carlissimoe
-docID 7606
-206 
-token csba
-docID 7505
-156 
-token reappearance
-docID 8169
-276 
-token 14:17:12
-docID 7610
-5618 
-token factoryfarmed
-docID 7580
-4834 
-token 10:25:40
-docID 8204
-589 
-token 09:26:48
-docID 8165
-1314 
-token 10:25:38
-docID 7700
-1343 
-token waterrefill
-docID 8000
-6661 
-token postmen
-docID 7998
-173 
-token ursin
-docID 7794
-122 
-token 23:57:52
-docID 7629
-4374 
-token 10:25:29
-docID 7985
-2360 
-token 23:57:46
-docID 8198
-1612 
-token http://daviswiki.org/media?actioninfo
-docID 8172
-6989 
-token http://www.consrv.ca.gov/dor/index.htm
-docID 8073
-783 
-token alienlike
-docID 7629
-5195 
-token 10:25:23
-docID 8172
-9194 
-token lucassabalka
-docID 7592
-1730 
-token teresav
-docID 8247
-1841 
-token coplaining
-docID 7668
-549 
-token cavortings
-docID 7656
-116 
-token williamkinderman
-docID 7974
-2636 
-token ग
-docID 7930
-2573 
-token hengeli
-docID 7557
-182 
-token chromatographymass
-docID 8172
-14363 
-token sequera
-docID 8226
-3555 
-token 23:57:11
-docID 7676
-1722 
-token य
-docID 7930
-2572 
-token francises
-docID 7626
-639 
-token 20:19:02
-docID 8172
-21708 
-token theya
-docID 7994
-1552 
-token 20:19:01
-docID 7553
-227 
-token appriciate
-docID 8247
-2836 
-token http://registrar.ucdavis.edu/csrg/
-docID 7644
-58 
-token 60,501
-docID 7580
-10220 
-token innuendo
-docID 8172
-6999 
-token arabian
-docID 7614
-50 
-token 27huez
-docID 7590
-2131 
-token ashleychan
-docID 7909
-6977 
-token messaged
-docID 8172
-23854 
-token poach
-docID 8140
-2649 
-token panned
-docID 7739
-120 
-token divestitures
-docID 8068
+token ｊｗ
+docID 7459
+score 0.006756756756756757
+94 
+token http://en.wikipedia.org/wiki/washington_state_university
+docID 7460
+score 0.006369426751592357
+55 
+token http://www.acsa.org/
+docID 7460
+score 0.006369426751592357
+141 
+token http://en.wikipedia.org/wiki/university_of_idaho
+docID 7460
+score 0.006369426751592357
+44 
+token plagues
+docID 7461
+score 8.237232289950577E-4
+507 
+token privatize
+docID 7461
+score 8.237232289950577E-4
+439 
+token prieto
+docID 7461
+score 8.237232289950577E-4
+836 
+token knorrevans
+docID 7461
+score 8.237232289950577E-4
+1041 
+token mayrene
+docID 7461
+score 8.237232289950577E-4
+1014 
+token fridae
+docID 7461
+score 0.0016474464579901153
+874 918 
+token janith
+docID 7461
+score 8.237232289950577E-4
+986 
+token tonneson
+docID 7461
+score 8.237232289950577E-4
+841 
+token besneatte
+docID 7461
+score 8.237232289950577E-4
+943 
+token vick
+docID 7461
+score 8.237232289950577E-4
+884 
+token 2881
+docID 7461
+score 8.237232289950577E-4
+1106 
+token garamendis
+docID 7461
+score 8.237232289950577E-4
+290 
+token handily
+docID 7461
+score 8.237232289950577E-4
+134 
+token pelosi
+docID 7461
+score 8.237232289950577E-4
+1158 
+token vaccaro
+docID 7461
+score 8.237232289950577E-4
+937 
+token nottoli
+docID 7461
+score 8.237232289950577E-4
+809 
+token 53.7
+docID 7461
+score 8.237232289950577E-4
+135 
+token resolutely
+docID 7461
+score 8.237232289950577E-4
+433 
+token griego
+docID 7461
+score 8.237232289950577E-4
+818 
+token defund
+docID 7461
+score 8.237232289950577E-4
+445 
+token clyburn
+docID 7461
+score 8.237232289950577E-4
+1169 
+token billeci
+docID 7461
+score 8.237232289950577E-4
+949 
+token suzanna
+docID 7461
+score 8.237232289950577E-4
+899 
+token 9421
+docID 7461
+score 8.237232289950577E-4
+1112 
+token samayoa
+docID 7461
+score 8.237232289950577E-4
+954 
+token 46.3
+docID 7461
+score 8.237232289950577E-4
 137 
-token http://www.apple.com/trailers/paramount_classics/aninconvenienttruth/trailer/
-docID 8226
-2035 
-token reservior
-docID 8035
-42 
-token tadpoles
-docID 8172
-21903 
-token agconnections
-docID 7693
-280 
-token experiencebut
+token garmendis
+docID 7461
+score 8.237232289950577E-4
+86 
+token orland
+docID 7461
+score 8.237232289950577E-4
+962 
+token kondylis
+docID 7461
+score 8.237232289950577E-4
+748 
+token http://www.dateline.ucdavis.edu/dl_detail.lasso?id14203
+docID 7461
+score 8.237232289950577E-4
+109 
+token aguiarcurry
+docID 7461
+score 8.237232289950577E-4
+895 
+token wheatland
+docID 7461
+score 0.0016474464579901153
+910 996 
+token batchelor
+docID 7461
+score 8.237232289950577E-4
+856 
+token maite
+docID 7461
+score 8.237232289950577E-4
+1040 
+token seifert
+docID 7461
+score 8.237232289950577E-4
+757 
+token farrington
+docID 7461
+score 8.237232289950577E-4
+827 
+token supervisorselect
+docID 7461
+score 8.237232289950577E-4
+780 
+token seiu
+docID 7461
+score 8.237232289950577E-4
+1113 
+token assessorrecorder
+docID 7461
+score 8.237232289950577E-4
+844 
+token constance
+docID 7461
+score 8.237232289950577E-4
+980 
+token krebs
+docID 7461
+score 8.237232289950577E-4
+930 
+token luiz
+docID 7461
+score 8.237232289950577E-4
+879 
+token electrolysis
+docID 7568
+score 0.0121580547112462
+1 74 155 180 
+token vlam
 docID 7700
-4401 
-token sublettor
-docID 7616
-709 
-token complicating
-docID 7784
-1291 
-token csrg
-docID 7644
-71 
-token doreen
-docID 8491
-1049 
-token guidebooks
-docID 8901
-1641 
-token 10:25:29
+score 1.827151470856934E-4
+3264 
+token indescribable
+docID 7707
+score 4.948045522018803E-4
+34 
+token handily
+docID 7715
+score 0.001564945226917058
+207 
+token 53.7
+docID 7715
+score 0.001564945226917058
+277 
+token 46.3
+docID 7715
+score 0.001564945226917058
+285 
+token prieto
+docID 7893
+score 4.49034575662326E-4
+1634 
+token batchelor
+docID 7893
+score 4.49034575662326E-4
+1705 
+token seifert
+docID 7893
+score 4.49034575662326E-4
+1660 
+token assessorrecorder
+docID 7893
+score 4.49034575662326E-4
+1624 
+token luiz
+docID 7893
+score 4.49034575662326E-4
+1781 
+token 2401
+docID 7908
+score 0.006369426751592357
+9 
+token privatize
+docID 8191
+score 2.0080321285140563E-4
+1283 
+token 513
+docID 8550
+score 7.8125E-4
+549 
+token 1611
 docID 8573
-1241 
-token http://registrar.ucdavis.edu/csrg/
-docID 8858
-150 
-token nonbuffet
-docID 9405
-231 
-token 4u
-docID 9547
-373 
-token entomologists
-docID 9578
-10187 
-token 15:19:25
-docID 9651
-2166 
-token 9b
-docID 9382
-5854 
-token fateful
-docID 9173
-58 
-token http://townsend.ucdavis.edu/reportadeadbird/
-docID 9942
-56 
-token nonbuffet
-docID 10317
-7474 
-token dignitaries
-docID 10156
-399 
-token 6k
-docID 10392
-3993 
-token 9c
-docID 10493
-381 
-token bloomberg
-docID 11128
-1345 
-token fateful
+score 6.587615283267457E-4
+653 
+token 46.3
+docID 8650
+score 7.299270072992701E-5
+9172 
+token prieto
+docID 8825
+score 0.008130081300813009
+7 
+token nonpolice
+docID 8993
+score 3.581533612692955E-5
+10904 
+token suzanna
+docID 8993
+score 3.581533612692955E-5
+378 
+token doublesecret
+docID 9253
+score 3.746721618583739E-4
+105 
+token electrolysis
+docID 9529
+score 0.001156737998843262
+823 1082 
+token partnerrssuserland
+docID 9605
+score 0.0024630541871921183
+179 
+token ei5090
+docID 9605
+score 0.0024630541871921183
+178 
+token dispatchers
+docID 9662
+score 0.0012468827930174563
+1035 1208 
+token vlam
+docID 10086
+score 5.47645125958379E-4
+966 
+token prieto
+docID 10130
+score 0.02564102564102564
+1 
+token vick
+docID 10144
+score 0.016666666666666666
+46 
+token 1611
+docID 10400
+score 0.0011641443538998836
+283 
+token orland
+docID 10442
+score 4.314063848144953E-4
+878 
+token 46.3
+docID 10472
+score 0.0015723270440251573
+178 
+token zz
+docID 10555
+score 3.2948929159802305E-4
+2708 
+token prieto
+docID 10588
+score 0.00267379679144385
+117 
+token impounded
+docID 10595
+score 2.0678246484698098E-4
+2065 
+token impounded
+docID 10614
+score 3.980891719745223E-4
+349 
+token constance
 docID 10618
-4021 
-token 10:25:38
-docID 10749
-594 
-token poach
-docID 11158
-18053 
-token doreen
-docID 11778
-7602 
-docID 11755
-692 2694 2696 2701 2937 
-token http://townsend.ucdavis.edu/reportadeadbird/
-docID 11745
-473 
-token 1s
-docID 11992
-1943 
-token 6k
-docID 11287
-967 
-token irfanview
-docID 11987
-97 
-token 20:19:02
-docID 11755
-3102 
-token 20:19:01
-docID 11873
-9672 
-token innuendo
-docID 11873
-9918 
-token doreen
-docID 12457
-2440 
-token guidebooks
-docID 12382
-322 
-token juvie
-docID 12475
-931 
-token fateful
-docID 12631
-2996 
-docID 12470
-1830 
-token 10:25:38
-docID 12810
-779 
-token breeches
-docID 13376
-73 
-token 07:43:15
-docID 13337
-1393 
-token 20:19:02
-docID 13481
-1175 
-token appriciate
-docID 13250
-32545 
-token nonbuffet
-docID 14160
-3469 
-token guidebooks
-docID 13999
-58 
-token 15:19:25
-docID 14244
-446 
-token 22:19:16
-docID 13644
-541 
-token gautama
-docID 14000
-10 28 597 
-token fateful
-docID 13616
-87 
-token 23:57:46
-docID 14149
-251 
-token 20:19:02
-docID 13934
-3002 
-token http://townsend.ucdavis.edu/reportadeadbird/
-docID 14413
-716 
-token guidebooks
-docID 14975
-67 
-token whisk
-docID 14849
-2517 
-token irfanview
-docID 14785
-784 
-token fateful
-docID 14554
-311 
-token 1s
-docID 15455
-3414 
-token bloomberg
-docID 15776
-449 
-token 19:08:21
-docID 15450
-1934 
-token 9c
-docID 15623
-84 
-token hidetomatsumoto
-docID 15608
-468 
-token 23:57:52
-docID 15510
+score 2.740852405097985E-4
+932 934 
+token 10:20:19
+docID 10894
+score 0.00625
+48 
+token sandythai
+docID 10955
+score 9.099181073703367E-4
+659 
+token nonpolice
+docID 11017
+score 2.8208744710860365E-4
+3017 
+token verve
+docID 11233
+score 7.892659826361484E-4
 459 
-token nonbuffet
-docID 16089
-1754 
-token 17:40:58
-docID 16089
-959 
-token 9c
-docID 16383
-1270 1299 
-token 9b
-docID 16383
-1356 
-token complicating
-docID 16217
-190 
+token dispatchers
+docID 11314
+score 3.0147723846849563E-4
+5215 6410 
+token jessicarabbit
+docID 11321
+score 4.1736227045075126E-4
+467 
+token seifert
+docID 11403
+score 5.602240896358543E-4
+512 
+token dispatchers
+docID 11481
+score 0.003048780487804878
+245 
+token aguiarcurry
+docID 11485
+score 0.0014947683109118087
+366 
+token partnerrssuserland
+docID 11515
+score 4.962779156327543E-4
+939 
+token ei5090
+docID 11515
+score 4.962779156327543E-4
+938 
+token gatewood
+docID 11834
+score 0.002257336343115124
+16 
+token dispatchers
+docID 11863
+score 0.0023923444976076554
+131 
+token dispatchers
+docID 11946
+score 0.004629629629629629
+86 
+token 718
+docID 12111
+score 1.464343242055938E-4
+333 
+token indescribable
+docID 12157
+score 2.9086678301337986E-4
+3248 
+token willed
+docID 12229
+score 0.0025380710659898475
+205 
+token vlam
+docID 12263
+score 7.692307692307692E-4
+804 
+token seiu
+docID 12274
+score 0.01694915254237288
+39 
+token prieto
+docID 12295
+score 0.004405286343612335
+143 
+token jessicarabbit
+docID 12405
+score 6.142506142506142E-4
+1071 1075 1149 1154 
+token birdsalls
+docID 12767
+score 0.02564102564102564
+28 
+token prieto
+docID 12791
+score 0.004081632653061225
+164 
+token hendren
+docID 12881
+score 0.002079002079002079
+68 
+token impounded
+docID 12932
+score 0.0056179775280898875
+238 272 278 
+token plagues
+docID 13089
+score 0.001851851851851852
+236 
+token 10:20:19
+docID 13171
+score 2.464268112370626E-4
+454 
+token implosion
+docID 13250
+score 1.9877159156413366E-5
+19871 
+token dispatchers
+docID 13279
+score 0.0018656716417910447
+336 
+token 1611
+docID 13302
+score 1.419244961680386E-4
+6803 
+token thourough
+docID 13412
+score 0.0010030090270812437
+509 
+token privelege
+docID 14137
+score 3.7355248412401944E-4
+2465 
+token 14:39:14
+docID 14160
+score 2.1602937999567941E-4
+885 
+token 46.3
+docID 14341
+score 0.02857142857142857
+27 
+token 611
+docID 14406
+score 2.639218791237794E-4
+3549 
+token 718
+docID 14602
+score 1.1252391133115787E-4
+1460 
+token nonemployees
+docID 14758
+score 1.3997760358342665E-4
+366 
+token allometra
+docID 14817
+score 0.010638297872340425
+26 
+token jessicarabbit
+docID 14876
+score 1.8982536066818528E-4
+993 
+token prieto
+docID 14992
+score 0.005050505050505051
+107 
+token sobering
+docID 15097
+score 4.2951636457349025E-5
+16435 
+token dispatchers
+docID 15117
+score 1.321353065539112E-4
+2382 
+token 1197
+docID 15121
+score 4.816955684007707E-4
+365 
+token pymood
+docID 15404
+score 0.015384615384615385
+15 
+token allometra
+docID 15404
+score 0.015384615384615385
+0 
+token 611
+docID 15455
+score 8.368200836820084E-5
+2314 
+token dispatchers
+docID 15760
+score 0.002638522427440633
+246 
+token constance
+docID 15782
+score 0.0031645569620253164
+289 
+token zipskinny
+docID 15859
+score 0.022222222222222223
+44 
+token ｊｗ
+docID 16048
+score 0.0013297872340425532
+751 
+token thourough
+docID 16661
+score 2.0755500207555002E-4
+1429 
+token gatewood
+docID 16670
+score 0.008403361344537815
+97 
+token impounded
+docID 16852
+score 9.225092250922509E-4
+210 
+token 6.03.040
+docID 16992
+score 0.010526315789473684
+152 153 
+token impoundment
+docID 16992
+score 0.005263157894736842
+156 
+token 513
+docID 17193
+score 0.008097165991902834
+110 127 
+token 513
+docID 17303
+score 0.002271006813020439
+856 865 899 
