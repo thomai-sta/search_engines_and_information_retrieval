@@ -566,7 +566,6 @@ public class HashedIndex implements Index
 
     try
     {
-      String data = " This is new content";
       File file = new File(filename);
 
       // if file doesnt exists, then create it

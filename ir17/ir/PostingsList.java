@@ -27,8 +27,8 @@ public class PostingsList implements Serializable
 {
 
   /**
-  *  The postings list as a HashMap.
-  */
+   *  The postings list as a HashMap.
+   */
   private Map<Integer, PostingsEntry> list =
       new HashMap<Integer, PostingsEntry>();
 
@@ -83,7 +83,7 @@ public class PostingsList implements Serializable
     Collections.sort(mapKeys);
 
     LinkedHashMap<Integer, PostingsEntry> sortedMap =
-    new LinkedHashMap<>();
+     new LinkedHashMap<>();
 
     Iterator<PostingsEntry> valueIt = mapValues.iterator();
 
