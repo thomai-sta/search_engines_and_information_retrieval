@@ -35,8 +35,9 @@ public interface Index
   public static final int BIGRAM = 1;
   public static final int SUBPHRASE = 2;
 
-  public HashMap<String, String> docIDs = new HashMap<String,String>();
+  public HashMap<String, String> docIDs = new HashMap<String, String>();
   public HashMap<String, Integer> docLengths = new HashMap<String, Integer>();
+  public HashMap<String, Double> pageranks = new HashMap<String, Double>();
 
   public void insert(String token, int docID, int offset);
   public Iterator<String> getDictionary();
@@ -46,7 +47,6 @@ public interface Index
   public int getSize();
   public void cleanup();
   public void saveAndQuit();
-  public void calculateScores();
   public void updateFiles();
 }
 

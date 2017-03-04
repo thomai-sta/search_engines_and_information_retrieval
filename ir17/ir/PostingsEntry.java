@@ -1,10 +1,10 @@
 /*
-*   This file is part of the computer assignment for the
-*   Information Retrieval course at KTH.
-*
-*   First version:  Johan Boye, 2010
-*   Second version: Johan Boye, 2012
-*/
+ *   This file is part of the computer assignment for the
+ *   Information Retrieval course at KTH.
+ *
+ *   First version:  Johan Boye, 2010
+ *   Second version: Johan Boye, 2012
+ */
 
 package ir;
 
@@ -17,7 +17,7 @@ public class PostingsEntry implements Comparable<PostingsEntry>, Serializable
   /// Make offset a list, so that one document gets the same
   /// postingsEntry for several occurrences
   public LinkedList<Integer> offsets = new LinkedList<Integer>();
-  public double score;
+  public double score = 0.0;
   public int docID;
 
   /**
@@ -34,12 +34,12 @@ public class PostingsEntry implements Comparable<PostingsEntry>, Serializable
   }
 
   /**
-  *  PostingsEntries are compared by their score (only relevant
-  *  in ranked retrieval).
-  *
-  *  The comparison is defined so that entries will be put in
-  *  descending order.
-  */
+   *  PostingsEntries are compared by their score (only relevant
+   *  in ranked retrieval).
+   *
+   *  The comparison is defined so that entries will be put in
+   *  descending order.
+   */
   public int compareTo(PostingsEntry other)
   {
     return Double.compare(other.score, score);

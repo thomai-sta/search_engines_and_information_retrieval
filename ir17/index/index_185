@@ -1,4568 +1,3426 @@
 token classnostyle
 docID 646
-score 0.0012048192771084338
 260 
 token actioninfo
 docID 646
-score 0.0012048192771084338
 489 
 token doctype
 docID 646
-score 0.0012048192771084338
 0 
 token amp
 docID 646
-score 0.01566265060240964
 60 72 198 201 215 218 232 235 271 274 393 497 500 
 token nofollow
 docID 646
-score 0.0012048192771084338
 51 
 token 363292579.27
 docID 646
-score 0.0012048192771084338
 276 
 token namerobots
 docID 646
-score 0.0012048192771084338
 49 
 token var
 docID 646
-score 0.00963855421686747
 22 80 83 86 90 95 586 596 
 token transitional
 docID 646
-score 0.0012048192771084338
 7 
 token width50
 docID 646
-score 0.0012048192771084338
 322 
 token charsetutf8
 docID 646
-score 0.006024096385542169
 47 108 191 208 225 
 token getelementsbytagname
 docID 646
-score 0.0012048192771084338
 157 
 token mediaall
 docID 646
-score 0.0036144578313253013
 192 209 226 
 token alt
 docID 646
-score 0.0012048192771084338
 552 
 token classuser
 docID 646
-score 0.0012048192771084338
 289 
 token namepassword
 docID 646
-score 0.0012048192771084338
 352 
 token nowrap
 docID 646
-score 0.004819277108433735
 324 331 347 384 
 token contentnoindex
 docID 646
-score 0.0012048192771084338
 50 
 token insertbefore
 docID 646
-score 0.0012048192771084338
 166 
 token 184048305.14910
 docID 646
-score 0.0012048192771084338
 220 
 token nameinline
 docID 646
-score 0.0012048192771084338
 536 
 token nameaction
 docID 646
-score 0.0024096385542168677
 314 530 
 token 1408661697.68
 docID 646
-score 0.0012048192771084338
 85 
 token onsubmitif
 docID 646
-score 0.0012048192771084338
 300 
 token classwikiglobalfooter
 docID 646
-score 0.0012048192771084338
 798 
 token donatenew
 docID 646
-score 0.0012048192771084338
 597 
 token classlicense
 docID 646
-score 0.0012048192771084338
 622 
 token nameqs
 docID 646
-score 0.0012048192771084338
 374 
 token methodget
 docID 646
-score 0.0012048192771084338
 524 
 token stylebehavior
 docID 646
-score 0.0024096385542168677
 279 504 
 token wikidavis
 docID 646
-score 0.0024096385542168677
 32 395 
 token typeimage
 docID 646
-score 0.0036144578313253013
 63 75 543 
 token creativecommons
 docID 646
-score 0.004819277108433735
 639 694 703 761 
 token rellicense
 docID 646
-score 0.0012048192771084338
 637 
 token idinfoicon
 docID 646
-score 0.0012048192771084338
 482 
 token relshortcut
 docID 646
-score 0.0012048192771084338
 53 
 token googleanalytics
 docID 646
-score 0.0012048192771084338
 173 
 token idtitle
 docID 646
-score 0.004819277108433735
 451 453 459 464 
 token classlogo
 docID 646
-score 0.0024096385542168677
 254 257 
 token cellspacing0
 docID 646
-score 0.0012048192771084338
 612 
 token html4
 docID 646
-score 0.0012048192771084338
 14 
 token altdonate
 docID 646
-score 0.0012048192771084338
 791 
 token colspan2
 docID 646
-score 0.0024096385542168677
 329 345 
 token contenttext
 docID 646
-score 0.0012048192771084338
 45 
 token analytics
 docID 646
-score 0.0012048192771084338
 175 
 token paddingright
 docID 646
-score 0.0012048192771084338
 243 
 token rdfhttp
 docID 646
-score 0.0012048192771084338
 673 
 token backto
 docID 646
-score 0.0024096385542168677
 31 33 
 token height24
 docID 646
-score 0.0012048192771084338
 509 
 token valueuserform
 docID 646
-score 0.0012048192771084338
 315 
 token typetext
 docID 646
-score 0.012048192771084338
 20 78 106 189 206 223 239 336 535 584 
 token stylepaddingright
 docID 646
-score 0.0012048192771084338
 757 
 token createelement
 docID 646
-score 0.0012048192771084338
 154 
 token langen
 docID 646
-score 0.0024096385542168677
 248 564 
 token valigntop
 docID 646
-score 0.0012048192771084338
 292 
 token src
 docID 646
-score 0.008433734939759036
 101 266 492 590 600 771 784 
 token eggheadbeta
 docID 646
-score 0.006024096385542169
 548 592 602 773 786 
 token idiconrow
 docID 646
-score 0.0012048192771084338
 462 
 token qsaction
 docID 646
-score 0.0012048192771084338
 40 
 token valueaction
 docID 646
-score 0.0012048192771084338
 375 
 token valuedavis
 docID 646
-score 0.0012048192771084338
 361 
 token alignleft
 docID 646
-score 0.004819277108433735
 330 346 383 616 
 token valuelogin
 docID 646
-score 0.0024096385542168677
 356 405 
 token alignmiddle
 docID 646
-score 0.0012048192771084338
 265 
 token altwiki
 docID 646
-score 0.0012048192771084338
 277 
 token cellpadding0
 docID 646
-score 0.0012048192771084338
 613 
 token qir
 docID 646
-score 0.0012048192771084338
 146 
 token 284171358.36963
 docID 646
-score 0.0012048192771084338
 203 
 token pngbehavior
 docID 646
-score 0.0024096385542168677
 282 507 
 token altcreative
 docID 646
-score 0.0012048192771084338
 767 
 token img
 docID 646
-score 0.010843373493975903
 264 490 549 593 603 766 774 783 787 
 token reproduction
 docID 646
-score 0.0012048192771084338
 715 
 token valuehttp
 docID 646
-score 0.0012048192771084338
 366 
 token relstylesheet
 docID 646
-score 0.0036144578313253013
 188 205 222 
 token 4.01
 docID 646
-score 0.0012048192771084338
 6 
 token derivativeworks
 docID 646
-score 0.0012048192771084338
 747 
 token onloaddoonloadstuff
 docID 646
-score 0.0012048192771084338
 250 
 token classtab
 docID 646
-score 0.004819277108433735
 421 428 435 443 
 token idfooter
 docID 646
-score 0.0012048192771084338
 608 
 token async1
 docID 646
-score 0.0012048192771084338
 161 
 token size22
 docID 646
-score 0.0024096385542168677
 334 350 
 token dcmitype
 docID 646
-score 0.0012048192771084338
 689 
 token filestyle
 docID 646
-score 0.0012048192771084338
 233 
 token valignmiddle
 docID 646
-score 0.0024096385542168677
 620 755 
 token xmlns
 docID 646
-score 0.0024096385542168677
 665 672 
 token 501
 docID 646
-score 0.0012048192771084338
 817 
 token maxlength101
 docID 646
-score 0.0012048192771084338
 540 
 token pageview
 docID 646
-score 0.0012048192771084338
 185 
 token typehidden
 docID 646
-score 0.007228915662650603
 313 354 358 363 373 529 
 token filecommon
 docID 646
-score 0.0012048192771084338
 199 
 token actionuserform
 docID 646
-score 0.0012048192771084338
 28 
 token 387858310.518348
 docID 646
-score 0.0012048192771084338
 237 
 token styleclear
 docID 646
-score 0.0012048192771084338
 578 
 token namelogin
 docID 646
-score 0.0024096385542168677
 355 404 
 token typepassword
 docID 646
-score 0.0012048192771084338
 351 
 token dirltr
 docID 646
-score 0.0024096385542168677
 249 565 
 token filelogo
 docID 646
-score 0.0012048192771084338
 272 
 token relicon
 docID 646
-score 0.0012048192771084338
 66 
 token parentnode
 docID 646
-score 0.0012048192771084338
 165 
 token typesubmit
 docID 646
-score 0.0012048192771084338
 403 
 token idcontent
 docID 646
-score 0.0012048192771084338
 561 
 token altlogin
 docID 646
-score 0.0012048192771084338
 406 
 token classcurrentchild
 docID 646
-score 0.0012048192771084338
 470 
 token javascript
 docID 646
-score 0.004819277108433735
 21 79 107 585 
 token classlogin
 docID 646
-score 0.0012048192771084338
 317 
 token utils
 docID 646
-score 0.0012048192771084338
 103 
 token actionrss
 docID 646
-score 0.0012048192771084338
 118 
 token aligncenter
 docID 646
-score 0.0024096385542168677
 619 799 
 token 1999/02
 docID 646
-score 0.0012048192771084338
 677 
 token adsense
 docID 647
-score 0.007692307692307693
 80 
 token footsteps
 docID 647
-score 0.007692307692307693
 20 
 token vator
 docID 647
-score 0.007692307692307693
 58 
 token collegewikis
 docID 647
-score 0.03076923076923077
 4 7 62 63 
 token udavislife
 docID 647
-score 0.007692307692307693
 22 
 token subset
 docID 647
-score 0.007692307692307693
 2 
 token chole
 docID 648
-score 5.861664712778429E-4
 1641 
 token supermans
 docID 648
-score 0.0017584994138335288
 1049 1107 1166 
 token sunkists
 docID 648
-score 0.0017584994138335288
 1055 1113 1172 
 token guinness
 docID 648
-score 0.0011723329425556857
 198 261 
 token 10pmlast
 docID 648
-score 5.861664712778429E-4
 597 
 token counterparts
 docID 648
-score 5.861664712778429E-4
 1281 
 token oshio
 docID 648
-score 5.861664712778429E-4
 1301 
 token cocktails
 docID 648
-score 0.0029308323563892145
 290 316 400 477 1365 
 token threecourse
 docID 648
-score 5.861664712778429E-4
 1423 
 token cazadores
 docID 648
-score 5.861664712778429E-4
 775 
 token cuervo
 docID 648
-score 5.861664712778429E-4
 781 
 token 9pmclose
 docID 648
-score 0.0011723329425556857
 696 1226 
 token monsun
 docID 648
-score 0.0011723329425556857
 594 1581 
 token pbr
 docID 648
-score 5.861664712778429E-4
 370 
 token jager
 docID 648
-score 0.0017584994138335288
 1052 1110 1169 
 token leonardi
 docID 648
-score 5.861664712778429E-4
 821 
 token chololate
 docID 648
-score 0.0017584994138335288
 1064 1122 1181 
 token gran
 docID 648
-score 5.861664712778429E-4
 756 
 token ale
 docID 648
-score 5.861664712778429E-4
 209 
 token shooters
 docID 648
-score 5.861664712778429E-4
 291 
 token jäger
 docID 648
-score 5.861664712778429E-4
 278 
 token wolavers
 docID 648
-score 5.861664712778429E-4
 207 
 token paneer
 docID 648
-score 5.861664712778429E-4
 1629 
 token 3.00
 docID 648
-score 5.861664712778429E-4
 627 
 token drafts
 docID 648
-score 5.861664712778429E-4
 179 
 token verification
 docID 648
-score 5.861664712778429E-4
 940 
 token jennagallegos
 docID 648
-score 5.861664712778429E-4
 1705 
 token mf
 docID 648
-score 0.0023446658851113715
 417 436 1348 1455 
 token 47pm
 docID 648
-score 5.861664712778429E-4
 267 
 token 3.25
 docID 648
-score 5.861664712778429E-4
 844 
 token papri
 docID 648
-score 5.861664712778429E-4
 1639 
 token 9pm10pm
 docID 648
-score 0.005275498241500586
 307 688 808 875 1039 1083 1156 1208 1325 
 token 4pm
 docID 648
-score 0.0023446658851113715
 111 163 345 1336 
 token 4.00
 docID 648
-score 0.0017584994138335288
 631 1603 1606 
 token tokyo
 docID 648
-score 0.0017584994138335288
 1050 1108 1167 
 token 501
 docID 664
-score 0.007462686567164179
 92 
 token amp
 docID 697
-score 0.003424657534246575
 270 
 token wikidavis
 docID 730
-score 0.003401360544217687
 202 
 token 4pm
 docID 738
-score 0.0035211267605633804
 82 
 token 4pm
 docID 776
-score 4.528985507246377E-4
 2104 
 token 3.00
 docID 800
-score 0.006369426751592357
 106 
 token 1999/02
 docID 820
-score 5.627462014631402E-4
 817 
 token 4pm
 docID 852
-score 0.006578947368421052
 106 
 token alt
 docID 859
-score 0.006359300476947536
 480 486 492 498 
 token 3.00
 docID 876
-score 0.002544529262086514
 10 
 token subset
 docID 894
-score 1.4409221902017292E-4
 2166 
 token pbr
 docID 912
-score 0.0011273957158962795
 282 
 token 501
 docID 917
-score 0.0018214936247723133
 208 
 token mf
 docID 1009
-score 6.596306068601583E-4
 253 1694 
 token oshio
 docID 1015
-score 0.0010515247108307045
 926 
 token 47pm
 docID 1019
-score 9.380863039399625E-4
 140 
 token verification
 docID 1034
-score 3.3422459893048126E-4
 185 
 token paneer
 docID 1036
-score 2.3062730627306272E-4
 3180 
 token 3.25
 docID 1057
-score 3.2948929159802305E-4
 1714 
 token 3.00
 docID 1086
-score 5.743825387708214E-4
 1386 
 token 3.25
 docID 1086
-score 5.743825387708214E-4
 176 
 token 501
 docID 1102
-score 0.0021691973969631237
 409 
 token javascript
 docID 1132
-score 0.005952380952380952
 94 
 token verification
 docID 1147
-score 0.0045045045045045045
 289 411 437 495 
 token 3.00
 docID 1271
-score 0.0011695906432748538
 698 
 token 3.25
 docID 1334
-score 7.412898443291327E-4
 441 
 token footsteps
 docID 1350
-score 0.010752688172043012
 41 
 token img
 docID 1353
-score 0.002770083102493075
 81 
 token oshio
 docID 1371
-score 0.00510204081632653
 81 
 token tokyo
 docID 1396
-score 0.0011534025374855825
 221 
 token src
 docID 1398
-score 0.0010610079575596816
 1541 1552 
 token guinness
 docID 1413
-score 9.765625E-4
 589 826 3797 3995 3996 4091 
 token ale
 docID 1413
-score 1.6276041666666666E-4
 5074 
 token 501
 docID 1421
-score 0.0013550135501355014
 168 
 token 3.00
 docID 1432
-score 2.002002002002002E-4
 374 
 token 4pm
 docID 1471
-score 9.98302885095338E-5
 4358 
 token drafts
 docID 1474
-score 1.25E-4
 6774 
 token transitional
 docID 1476
-score 4.3047783039173483E-4
 448 
 token guinness
 docID 1507
-score 0.0125
 58 
 token ale
 docID 1507
-score 0.025
 48 51 
 token 3.25
 docID 1507
-score 0.0125
 66 
 token 501
 docID 1525
-score 0.0018083182640144665
 503 
 token 4.00
 docID 1624
-score 2.300966405890474E-4
 176 
 token guinness
 docID 1630
-score 0.00847457627118644
 95 
 token 501
 docID 1704
-score 3.7023324694557573E-4
 273 
 token tokyo
 docID 1781
-score 0.005952380952380952
 146 
 token 501
 docID 1783
-score 0.0017381228273464658
 7 166 236 
 token transitional
 docID 1798
-score 0.0035842293906810036
 2 
 token 4pm
 docID 1889
-score 2.403268445085316E-4
 33 
 token 4.00
 docID 1894
-score 0.001178318931657502
 2060 2097 2262 
 token counterparts
 docID 1912
-score 8.613264427217916E-4
 797 
 token mf
 docID 1957
-score 0.001336898395721925
 80 87 
 token ale
 docID 2018
-score 0.004424778761061947
 142 447 
 token guinness
 docID 2030
-score 0.0014154281670205238
 865 1112 
 token alt
 docID 2146
-score 0.0013080444735120995
 146 152 
 token drafts
 docID 2146
-score 6.540222367560497E-4
 361 
 token verification
 docID 2154
-score 1.5743073047858942E-4
 4610 
 token cocktails
 docID 2181
-score 2.4076080414108582E-4
 3910 3932 
 token 501
 docID 2191
-score 3.990422984836393E-4
 2488 
 token 3.00
 docID 2241
-score 1.1156978690170702E-4
 201 
 token 3.00
 docID 2280
-score 2.894356005788712E-4
 508 
 token 4.00
 docID 2280
-score 2.894356005788712E-4
 262 
 token 4pm
 docID 2311
-score 2.6518164942985947E-4
 1090 
 token 4.00
 docID 2392
-score 0.0010395010395010396
 331 
 token cocktails
 docID 2436
-score 9.174311926605505E-4
 284 
 token img
 docID 2468
-score 0.005649717514124294
 160 
 token mf
 docID 2530
-score 0.003875968992248062
 73 
 token 3.00
 docID 2560
-score 0.0037735849056603774
 248 
 token wikidavis
 docID 2566
-score 5.099439061703213E-4
 1050 
 token 4pm
 docID 2580
-score 6.135722174499939E-5
 13967 
 token cocktails
 docID 2594
-score 3.6443148688046647E-4
 2310 
 token paneer
 docID 2594
-score 7.288629737609329E-4
 1981 2519 
 token tokyo
 docID 2646
-score 0.010526315789473684
 78 
 token subset
 docID 2649
-score 3.8138825324180017E-4
 1013 
 token amp
 docID 2706
-score 0.005555555555555556
 82 
 token img
 docID 2743
-score 2.0665426741062202E-5
 45691 
 token subset
 docID 2743
-score 2.0665426741062202E-5
 10198 
 token img
 docID 2756
-score 0.007692307692307693
 58 
 token tokyo
 docID 2766
-score 3.045066991473812E-4
 770 
 token oshio
 docID 2856
-score 2.6001040041601667E-4
 1802 
 token 4pm
 docID 2878
-score 4.918839153959665E-4
 1482 
 token cocktails
 docID 2938
-score 0.006211180124223602
 13 
 token img
 docID 2979
-score 0.006896551724137931
 1 
 token counterparts
 docID 2998
-score 1.0565240359218173E-4
 692 
 token img
 docID 3008
-score 3.748125937031484E-4
 3497 3522 
 token footsteps
 docID 3008
-score 1.874062968515742E-4
 2571 
 token 501
 docID 3046
-score 9.891196834817012E-4
 891 
 token alt
 docID 3106
-score 0.002325581395348837
 257 
 token 4pm
 docID 3143
-score 0.0026954177897574125
 304 321 
 token drafts
 docID 3165
-score 7.25689404934688E-4
 548 
 token 501
 docID 3217
-score 2.0329335230737954E-4
 2366 
 token subset
 docID 3243
-score 0.009009009009009009
 20 
 token verification
 docID 3246
-score 0.01
 108 175 
 token 3.25
 docID 3266
-score 0.001145475372279496
 215 
 token src
 docID 3274
-score 0.0014485755673587638
 797 914 1540 
 token 3.25
 docID 3317
-score 1.6025641025641026E-4
 578 
 token var
 docID 3359
-score 8.326394671107411E-4
 419 
 token tokyo
 docID 3420
-score 0.0021216407355021216
 1122 1238 1255 
 token 3.00
 docID 3478
-score 0.0025252525252525255
 238 
 token 4.00
 docID 3478
-score 0.0025252525252525255
 243 
 token 47pm
 docID 3483
-score 0.05263157894736842
 15 
 token subset
 docID 3538
-score 2.9036004645760743E-4
 2169 
 token transitional
 docID 3554
-score 3.971405877680699E-4
 152 
 token 4pm
 docID 3555
-score 1.5453562046051616E-4
 818 
 token 3.00
 docID 3636
-score 0.009615384615384616
 147 198 
 token 501
 docID 3643
-score 2.0815986677768527E-4
 4206 
 token subset
 docID 3644
-score 0.00909090909090909
 57 
 token cocktails
 docID 3725
-score 2.7240533914464724E-4
 3395 
 token subset
 docID 3735
-score 3.766478342749529E-4
 141 
 token oshio
 docID 3755
-score 0.0011750881316098707
 814 
 token src
 docID 3775
-score 5.656108597285068E-4
 45 
 token 501
 docID 3807
-score 0.011363636363636364
 14 
 token alt
 docID 3861
-score 2.81083106905275E-4
 6272 6278 6327 
 token 501
 docID 3894
-score 0.004784688995215311
 20 
 token 501
 docID 3934
-score 0.002631578947368421
 24 
 token 4.00
 docID 3969
-score 5.970149253731343E-4
 926 
 token src
 docID 3991
-score 0.0020920502092050207
 343 
 token ale
 docID 3998
-score 0.00651890482398957
 581 597 604 611 617 
 token mf
 docID 4023
-score 0.0014684287812041115
 666 
 token 501
 docID 4127
-score 0.008771929824561403
 93 
 token oshio
 docID 4163
-score 5.026388539834129E-4
 2175 3445 
 token tokyo
 docID 4163
-score 2.5131942699170643E-4
 617 
 token subset
 docID 4188
-score 0.006329113924050633
 64 
 token alt
 docID 4191
-score 0.006535947712418301
 272 301 
 token img
 docID 4191
-score 0.006535947712418301
 261 290 
 token transitional
 docID 4203
-score 0.0038314176245210726
 242 
 token paneer
 docID 4250
-score 1.7930787161556393E-4
 388 
 token alt
 docID 4253
-score 1.0301844030081384E-4
 420 
 token verification
 docID 4275
-score 1.2091898428053205E-4
 4951 
 token oshio
 docID 4303
-score 5.614823133071309E-4
 1483 
 token ale
 docID 4315
-score 0.0011494252873563218
 706 
 token src
 docID 4333
-score 0.00819672131147541
 38 161 376 386 
 token cocktails
 docID 4339
-score 6.257822277847309E-4
 674 2767 
 token cocktails
 docID 4344
-score 1.5135462388375965E-4
 4972 
 token 3.00
 docID 4497
-score 4.5187528242205153E-4
 281 319 
 token 3.00
 docID 4522
-score 0.0014184397163120568
 540 
 token 4.00
 docID 4522
-score 0.0014184397163120568
 542 
 token 501
 docID 4550
-score 0.021739130434782608
 1 
 token 501
 docID 4562
-score 0.00145985401459854
 148 
 token mf
 docID 4563
-score 0.0010178117048346056
 730 1127 
 token 3.25
 docID 4566
-score 0.0011641443538998836
 558 
 token verification
 docID 4570
-score 9.267840593141798E-4
 420 
 token cocktails
 docID 4580
-score 4.8638132295719845E-4
 517 
 token guinness
 docID 4580
-score 9.727626459143969E-4
 625 959 
 token ale
 docID 4580
-score 4.8638132295719845E-4
 599 
 token ale
 docID 4593
-score 7.320644216691069E-4
 512 
 token verification
 docID 4601
-score 6.640106241699867E-4
 995 
 token 3.00
 docID 4629
-score 3.588087549336204E-4
 208 
 token verification
 docID 4640
-score 0.004140786749482402
 313 451 
 token 3.25
 docID 4640
-score 0.002070393374741201
 435 
 token 501
 docID 4668
-score 4.152823920265781E-4
 660 770 867 
 token 3.25
 docID 4698
-score 3.84172109104879E-4
 2248 
 token 4pm
 docID 4746
-score 6.153846153846154E-4
 919 
 token 501
 docID 4761
-score 7.312079555425563E-5
 1160 
 token 3.25
 docID 4763
-score 0.00101010101010101
 115 126 
 token 4.00
 docID 4763
-score 5.05050505050505E-4
 451 
 token img
 docID 4817
-score 0.008771929824561403
 15 
 token actioninfo
 docID 4825
-score 0.004081632653061225
 107 
 token reproduction
 docID 4845
-score 0.0024096385542168677
 117 
 token alt
 docID 4921
-score 1.6966406515100103E-4
 5126 
 token reproduction
 docID 4987
-score 0.0023584905660377358
 301 
 token 4pm
 docID 5007
-score 1.8341892883345562E-4
 155 
 token gran
 docID 5037
-score 0.0021344717182497333
 284 593 
 token drafts
 docID 5060
-score 9.033423667570009E-4
 621 
 token mf
 docID 5114
-score 4.0933278755628325E-4
 360 
 token oshio
 docID 5139
-score 5.053057099545225E-4
 197 
 token 501
 docID 5239
-score 0.006802721088435374
 9 
 token ale
 docID 5265
-score 1.9735543714229328E-4
 1402 
 token drafts
 docID 5281
-score 0.0037174721189591076
 65 
 token 501
 docID 5291
-score 0.002207505518763797
 299 
 token drafts
 docID 5312
-score 1.77430801987225E-4
 553 1513 
 token wikidavis
 docID 5409
-score 0.0037735849056603774
 171 
 token src
 docID 5428
-score 0.012345679012345678
 63 
 token 501
 docID 5429
-score 3.356267830172848E-4
 1949 2009 
 token verification
 docID 5441
-score 2.777469170092212E-4
 316 438 464 522 10997 
 token 9pm10pm
 docID 5441
-score 1.1109876680368848E-4
 299 783 
 token oshio
 docID 5441
-score 5.554938340184424E-5
 16462 
 token img
 docID 5527
-score 0.0022371364653243847
 331 
 token udavislife
 docID 5528
-score 0.0045662100456621
 166 
 token 501
 docID 5538
-score 5.963029218843172E-4
 609 
 token cocktails
 docID 5550
-score 3.549875754348598E-4
 425 1662 2556 
 token 4.00
 docID 5550
-score 1.1832919181161993E-4
 255 
 token ale
 docID 5550
-score 2.3665838362323986E-4
 666 671 
 token 4pm
 docID 5608
-score 1.5163002274450342E-4
 1122 
 token ale
 docID 5687
-score 8.73591333973967E-5
 271 
 token 3.25
 docID 5735
-score 3.7243947858472997E-4
 564 
 token 3.00
 docID 5811
-score 1.643925694558606E-4
 3858 
 token guinness
 docID 5811
-score 1.643925694558606E-4
 58 
 token guinness
 docID 5812
-score 0.009081196581196582
 16 199 243 313 617 670 728 769 807 844 872 910 929 1285 1636 1795 1822 
 token 47pm
 docID 5861
-score 2.1696680407897592E-4
 2155 
 token transitional
 docID 5879
-score 0.00641025641025641
 113 
 token oshio
 docID 5933
-score 1.4196479273140261E-4
 136 
 token paneer
 docID 5933
-score 1.4196479273140261E-4
 730 
 token 4pm
 docID 5933
-score 1.4196479273140261E-4
 457 
 token guinness
 docID 5964
-score 0.001445086705202312
 464 
 token tokyo
 docID 5968
-score 0.0018450184501845018
 241 
 token javascript
 docID 6023
-score 0.0030864197530864196
 56 
 token subset
 docID 6025
-score 1.661405549094534E-4
 5664 
 token cocktails
 docID 6086
-score 8.067769261799113E-5
 2075 
 token gran
 docID 6086
-score 8.067769261799113E-5
 5633 
 token 3.00
 docID 6086
-score 8.067769261799113E-5
 6656 
 token counterparts
 docID 6140
-score 7.142857142857143E-4
 1307 
 token verification
 docID 6160
-score 0.0044444444444444444
 125 
 token tokyo
 docID 6170
-score 1.1785503830288745E-4
 4898 
 token src
 docID 6171
-score 0.0011976047904191617
 207 
 token 4.00
 docID 6173
-score 0.001893939393939394
 456 
 token drafts
 docID 6208
-score 5.422993492407809E-4
 831 
 token collegewikis
 docID 6273
-score 3.15357931251971E-4
 318 
 token classnostyle
 docID 6308
-score 0.001176470588235294
 265 
 token actioninfo
 docID 6308
-score 0.001176470588235294
 508 
 token doctype
 docID 6308
-score 0.001176470588235294
 0 
 token amp
 docID 6308
-score 0.015294117647058824
 61 73 203 206 220 223 237 240 276 279 399 516 519 
 token nofollow
 docID 6308
-score 0.001176470588235294
 52 
 token 363292579.27
 docID 6308
-score 0.001176470588235294
 281 
 token namerobots
 docID 6308
-score 0.001176470588235294
 50 
 token var
 docID 6308
-score 0.009411764705882352
 22 81 84 87 92 97 606 616 
 token transitional
 docID 6308
-score 0.001176470588235294
 7 
 token width50
 docID 6308
-score 0.001176470588235294
 327 
 token charsetutf8
 docID 6308
-score 0.0058823529411764705
 48 110 196 213 230 
 token getelementsbytagname
 docID 6308
-score 0.001176470588235294
 162 
 token mediaall
 docID 6308
-score 0.0035294117647058825
 197 214 231 
 token alt
 docID 6308
-score 0.001176470588235294
 572 
 token classuser
 docID 6308
-score 0.001176470588235294
 294 
 token namepassword
 docID 6308
-score 0.001176470588235294
 357 
 token nowrap
 docID 6308
-score 0.004705882352941176
 329 336 352 390 
 token contentnoindex
 docID 6308
-score 0.001176470588235294
 51 
 token insertbefore
 docID 6308
-score 0.001176470588235294
 171 
 token 184048305.14910
 docID 6308
-score 0.001176470588235294
 225 
 token nameinline
 docID 6308
-score 0.001176470588235294
 556 
 token nameaction
 docID 6308
-score 0.002352941176470588
 319 550 
 token onsubmitif
 docID 6308
-score 0.001176470588235294
 305 
 token classwikiglobalfooter
 docID 6308
-score 0.001176470588235294
 818 
 token donatenew
 docID 6308
-score 0.001176470588235294
 617 
 token classlicense
 docID 6308
-score 0.001176470588235294
 642 
 token nameqs
 docID 6308
-score 0.001176470588235294
 380 
 token methodget
 docID 6308
-score 0.001176470588235294
 543 
 token stylebehavior
 docID 6308
-score 0.002352941176470588
 284 523 
 token wikidavis
 docID 6308
-score 0.002352941176470588
 32 401 
 token typeimage
 docID 6308
-score 0.0035294117647058825
 64 76 563 
 token creativecommons
 docID 6308
-score 0.004705882352941176
 659 714 723 781 
 token rellicense
 docID 6308
-score 0.001176470588235294
 657 
 token idinfoicon
 docID 6308
-score 0.001176470588235294
 500 
 token relshortcut
 docID 6308
-score 0.001176470588235294
 54 
 token googleanalytics
 docID 6308
-score 0.001176470588235294
 178 
 token idtitle
 docID 6308
-score 0.004705882352941176
 459 461 467 472 
 token classlogo
 docID 6308
-score 0.002352941176470588
 259 262 
 token cellspacing0
 docID 6308
-score 0.001176470588235294
 632 
 token html4
 docID 6308
-score 0.001176470588235294
 14 
 token altdonate
 docID 6308
-score 0.001176470588235294
 811 
 token colspan2
 docID 6308
-score 0.002352941176470588
 334 350 
 token contenttext
 docID 6308
-score 0.001176470588235294
 46 
 token analytics
 docID 6308
-score 0.001176470588235294
 180 
 token paddingright
 docID 6308
-score 0.001176470588235294
 248 
 token rdfhttp
 docID 6308
-score 0.001176470588235294
 693 
 token backto
 docID 6308
-score 0.002352941176470588
 31 33 
 token height24
 docID 6308
-score 0.001176470588235294
 528 
 token valueuserform
 docID 6308
-score 0.001176470588235294
 320 
 token typetext
 docID 6308
-score 0.011764705882352941
 20 79 108 194 211 228 244 341 555 604 
 token stylepaddingright
 docID 6308
-score 0.001176470588235294
 777 
 token createelement
 docID 6308
-score 0.001176470588235294
 159 
 token langen
 docID 6308
-score 0.002352941176470588
 253 584 
 token valigntop
 docID 6308
-score 0.001176470588235294
 297 
 token src
 docID 6308
-score 0.00823529411764706
 103 271 511 610 620 791 804 
 token eggheadbeta
 docID 6308
-score 0.0058823529411764705
 568 612 622 793 806 
 token idiconrow
 docID 6308
-score 0.001176470588235294
 470 
 token qsaction
 docID 6308
-score 0.001176470588235294
 41 
 token valueaction
 docID 6308
-score 0.001176470588235294
 381 
 token valuedavis
 docID 6308
-score 0.001176470588235294
 366 
 token alignleft
 docID 6308
-score 0.004705882352941176
 335 351 389 636 
 token valuelogin
 docID 6308
-score 0.002352941176470588
 361 411 
 token alignmiddle
 docID 6308
-score 0.001176470588235294
 270 
 token altwiki
 docID 6308
-score 0.001176470588235294
 282 
 token cellpadding0
 docID 6308
-score 0.001176470588235294
 633 
 token qir
 docID 6308
-score 0.001176470588235294
 151 
 token 284171358.36963
 docID 6308
-score 0.001176470588235294
 208 
 token pngbehavior
 docID 6308
-score 0.002352941176470588
 287 526 
 token altcreative
 docID 6308
-score 0.001176470588235294
 787 
 token img
 docID 6308
-score 0.010588235294117647
 269 509 569 613 623 786 794 803 807 
 token reproduction
 docID 6308
-score 0.001176470588235294
 735 
 token valuehttp
 docID 6308
-score 0.001176470588235294
 371 
 token relstylesheet
 docID 6308
-score 0.0035294117647058825
 193 210 227 
 token 4.01
 docID 6308
-score 0.001176470588235294
 6 
 token derivativeworks
 docID 6308
-score 0.001176470588235294
 767 
 token onloaddoonloadstuff
 docID 6308
-score 0.001176470588235294
 255 
 token classtab
 docID 6308
-score 0.004705882352941176
 427 434 441 450 
 token idfooter
 docID 6308
-score 0.001176470588235294
 628 
 token async1
 docID 6308
-score 0.001176470588235294
 166 
 token size22
 docID 6308
-score 0.002352941176470588
 339 355 
 token dcmitype
 docID 6308
-score 0.001176470588235294
 709 
 token filestyle
 docID 6308
-score 0.001176470588235294
 238 
 token valignmiddle
 docID 6308
-score 0.002352941176470588
 640 775 
 token xmlns
 docID 6308
-score 0.002352941176470588
 685 692 
 token 501
 docID 6308
-score 0.001176470588235294
 837 
 token maxlength101
 docID 6308
-score 0.001176470588235294
 560 
 token pageview
 docID 6308
-score 0.001176470588235294
 190 
 token typehidden
 docID 6308
-score 0.007058823529411765
 318 359 363 368 379 549 
 token filecommon
 docID 6308
-score 0.001176470588235294
 204 
 token actionuserform
 docID 6308
-score 0.001176470588235294
 28 
 token 387858310.518348
 docID 6308
-score 0.001176470588235294
 242 
 token styleclear
 docID 6308
-score 0.001176470588235294
 598 
 token namelogin
 docID 6308
-score 0.002352941176470588
 360 410 
 token typepassword
 docID 6308
-score 0.001176470588235294
 356 
 token dirltr
 docID 6308
-score 0.002352941176470588
 254 585 
 token filelogo
 docID 6308
-score 0.001176470588235294
 277 
 token relicon
 docID 6308
-score 0.001176470588235294
 67 
 token parentnode
 docID 6308
-score 0.001176470588235294
 170 
 token typesubmit
 docID 6308
-score 0.001176470588235294
 409 
 token idcontent
 docID 6308
-score 0.001176470588235294
 581 
 token altlogin
 docID 6308
-score 0.001176470588235294
 412 
 token classcurrentchild
 docID 6308
-score 0.001176470588235294
 488 
 token javascript
 docID 6308
-score 0.004705882352941176
 21 80 109 605 
 token classlogin
 docID 6308
-score 0.001176470588235294
 322 
 token utils
 docID 6308
-score 0.001176470588235294
 105 
 token actionrss
 docID 6308
-score 0.001176470588235294
 121 
 token aligncenter
 docID 6308
-score 0.002352941176470588
 639 819 
 token 1999/02
 docID 6308
-score 0.001176470588235294
 697 
 token classnostyle
 docID 6336
-score 0.001176470588235294
 265 
 token actioninfo
 docID 6336
-score 0.001176470588235294
 508 
 token doctype
 docID 6336
-score 0.001176470588235294
 0 
 token amp
 docID 6336
-score 0.015294117647058824
 61 73 203 206 220 223 237 240 276 279 399 516 519 
 token nofollow
 docID 6336
-score 0.001176470588235294
 52 
 token 363292579.27
 docID 6336
-score 0.001176470588235294
 281 
 token namerobots
 docID 6336
-score 0.001176470588235294
 50 
 token var
 docID 6336
-score 0.009411764705882352
 22 81 84 87 92 97 606 616 
 token transitional
 docID 6336
-score 0.001176470588235294
 7 
 token width50
 docID 6336
-score 0.001176470588235294
 327 
 token charsetutf8
 docID 6336
-score 0.0058823529411764705
 48 110 196 213 230 
 token getelementsbytagname
 docID 6336
-score 0.001176470588235294
 162 
 token mediaall
 docID 6336
-score 0.0035294117647058825
 197 214 231 
 token alt
 docID 6336
-score 0.001176470588235294
 572 
 token classuser
 docID 6336
-score 0.001176470588235294
 294 
 token namepassword
 docID 6336
-score 0.001176470588235294
 357 
 token nowrap
 docID 6336
-score 0.004705882352941176
 329 336 352 390 
 token contentnoindex
 docID 6336
-score 0.001176470588235294
 51 
 token insertbefore
 docID 6336
-score 0.001176470588235294
 171 
 token 184048305.14910
 docID 6336
-score 0.001176470588235294
 225 
 token nameinline
 docID 6336
-score 0.001176470588235294
 556 
 token nameaction
 docID 6336
-score 0.002352941176470588
 319 550 
 token onsubmitif
 docID 6336
-score 0.001176470588235294
 305 
 token classwikiglobalfooter
 docID 6336
-score 0.001176470588235294
 818 
 token donatenew
 docID 6336
-score 0.001176470588235294
 617 
 token classlicense
 docID 6336
-score 0.001176470588235294
 642 
 token nameqs
 docID 6336
-score 0.001176470588235294
 380 
 token methodget
 docID 6336
-score 0.001176470588235294
 543 
 token stylebehavior
 docID 6336
-score 0.002352941176470588
 284 523 
 token wikidavis
 docID 6336
-score 0.002352941176470588
 32 401 
 token typeimage
 docID 6336
-score 0.0035294117647058825
 64 76 563 
 token creativecommons
 docID 6336
-score 0.004705882352941176
 659 714 723 781 
 token rellicense
 docID 6336
-score 0.001176470588235294
 657 
 token idinfoicon
 docID 6336
-score 0.001176470588235294
 500 
 token relshortcut
 docID 6336
-score 0.001176470588235294
 54 
 token googleanalytics
 docID 6336
-score 0.001176470588235294
 178 
 token idtitle
 docID 6336
-score 0.004705882352941176
 459 461 467 472 
 token classlogo
 docID 6336
-score 0.002352941176470588
 259 262 
 token cellspacing0
 docID 6336
-score 0.001176470588235294
 632 
 token html4
 docID 6336
-score 0.001176470588235294
 14 
 token altdonate
 docID 6336
-score 0.001176470588235294
 811 
 token colspan2
 docID 6336
-score 0.002352941176470588
 334 350 
 token contenttext
 docID 6336
-score 0.001176470588235294
 46 
 token analytics
 docID 6336
-score 0.001176470588235294
 180 
 token paddingright
 docID 6336
-score 0.001176470588235294
 248 
 token rdfhttp
 docID 6336
-score 0.001176470588235294
 693 
 token backto
 docID 6336
-score 0.002352941176470588
 31 33 
 token height24
 docID 6336
-score 0.001176470588235294
 528 
 token valueuserform
 docID 6336
-score 0.001176470588235294
 320 
 token typetext
 docID 6336
-score 0.011764705882352941
 20 79 108 194 211 228 244 341 555 604 
 token stylepaddingright
 docID 6336
-score 0.001176470588235294
 777 
 token createelement
 docID 6336
-score 0.001176470588235294
 159 
 token langen
 docID 6336
-score 0.002352941176470588
 253 584 
 token valigntop
 docID 6336
-score 0.001176470588235294
 297 
 token src
 docID 6336
-score 0.00823529411764706
 103 271 511 610 620 791 804 
 token eggheadbeta
 docID 6336
-score 0.0058823529411764705
 568 612 622 793 806 
 token idiconrow
 docID 6336
-score 0.001176470588235294
 470 
 token qsaction
 docID 6336
-score 0.001176470588235294
 41 
 token valueaction
 docID 6336
-score 0.001176470588235294
 381 
 token valuedavis
 docID 6336
-score 0.001176470588235294
 366 
 token alignleft
 docID 6336
-score 0.004705882352941176
 335 351 389 636 
 token valuelogin
 docID 6336
-score 0.002352941176470588
 361 411 
 token alignmiddle
 docID 6336
-score 0.001176470588235294
 270 
 token altwiki
 docID 6336
-score 0.001176470588235294
 282 
 token cellpadding0
 docID 6336
-score 0.001176470588235294
 633 
 token qir
 docID 6336
-score 0.001176470588235294
 151 
 token 284171358.36963
 docID 6336
-score 0.001176470588235294
 208 
 token pngbehavior
 docID 6336
-score 0.002352941176470588
 287 526 
 token altcreative
 docID 6336
-score 0.001176470588235294
 787 
 token img
 docID 6336
-score 0.010588235294117647
 269 509 569 613 623 786 794 803 807 
 token reproduction
 docID 6336
-score 0.001176470588235294
 735 
 token valuehttp
 docID 6336
-score 0.001176470588235294
 371 
 token relstylesheet
 docID 6336
-score 0.0035294117647058825
 193 210 227 
 token 4.01
 docID 6336
-score 0.001176470588235294
 6 
 token derivativeworks
 docID 6336
-score 0.001176470588235294
 767 
 token onloaddoonloadstuff
 docID 6336
-score 0.001176470588235294
 255 
 token classtab
 docID 6336
-score 0.004705882352941176
 427 434 441 450 
 token idfooter
 docID 6336
-score 0.001176470588235294
 628 
 token async1
 docID 6336
-score 0.001176470588235294
 166 
 token size22
 docID 6336
-score 0.002352941176470588
 339 355 
 token dcmitype
 docID 6336
-score 0.001176470588235294
 709 
 token filestyle
 docID 6336
-score 0.001176470588235294
 238 
 token valignmiddle
 docID 6336
-score 0.002352941176470588
 640 775 
 token xmlns
 docID 6336
-score 0.002352941176470588
 685 692 
 token 501
 docID 6336
-score 0.001176470588235294
 837 
 token maxlength101
 docID 6336
-score 0.001176470588235294
 560 
 token pageview
 docID 6336
-score 0.001176470588235294
 190 
 token typehidden
 docID 6336
-score 0.007058823529411765
 318 359 363 368 379 549 
 token filecommon
 docID 6336
-score 0.001176470588235294
 204 
 token actionuserform
 docID 6336
-score 0.001176470588235294
 28 
 token 387858310.518348
 docID 6336
-score 0.001176470588235294
 242 
 token styleclear
 docID 6336
-score 0.001176470588235294
 598 
 token namelogin
 docID 6336
-score 0.002352941176470588
 360 410 
 token typepassword
 docID 6336
-score 0.001176470588235294
 356 
 token dirltr
 docID 6336
-score 0.002352941176470588
 254 585 
 token filelogo
 docID 6336
-score 0.001176470588235294
 277 
 token relicon
 docID 6336
-score 0.001176470588235294
 67 
 token parentnode
 docID 6336
-score 0.001176470588235294
 170 
 token typesubmit
 docID 6336
-score 0.001176470588235294
 409 
 token idcontent
 docID 6336
-score 0.001176470588235294
 581 
 token altlogin
 docID 6336
-score 0.001176470588235294
 412 
 token classcurrentchild
 docID 6336
-score 0.001176470588235294
 488 
 token javascript
 docID 6336
-score 0.004705882352941176
 21 80 109 605 
 token classlogin
 docID 6336
-score 0.001176470588235294
 322 
 token utils
 docID 6336
-score 0.001176470588235294
 105 
 token actionrss
 docID 6336
-score 0.001176470588235294
 121 
 token aligncenter
 docID 6336
-score 0.002352941176470588
 639 819 
 token 1999/02
 docID 6336
-score 0.001176470588235294
 697 
 token ale
 docID 6372
-score 0.0012422360248447205
 12 
 token transitional
 docID 6395
-score 0.006958942240779402
 107 326 333 361 385 422 592 597 640 1091 
 token 4.00
 docID 6489
-score 4.616805170821791E-4
 528 
 token javascript
 docID 6507
-score 0.0012360939431396785
 600 
 token 3.00
 docID 6535
-score 3.418803418803419E-4
 940 
 token cocktails
 docID 6564
-score 1.644195988161789E-4
 5510 
 token tokyo
 docID 6612
-score 1.4273479874393378E-4
 278 
 token javascript
 docID 6614
-score 0.002442002442002442
 677 692 
 token 4pm
 docID 6646
-score 7.358351729212656E-4
 755 
 token footsteps
 docID 6703
-score 2.501876407305479E-4
 1616 
 token subset
 docID 6718
-score 0.0025575447570332483
 95 
 token 501
 docID 6737
-score 0.006024096385542169
 106 
 token 4pm
 docID 6817
-score 7.987220447284345E-4
 759 
 token img
 docID 6822
-score 0.16666666666666666
 1 
 token 3.00
 docID 6890
-score 0.008830022075055188
 227 235 272 288 
 token tokyo
 docID 6941
-score 1.1946004061641381E-4
 719 
 token 4pm
 docID 6941
-score 1.1946004061641381E-4
 4419 
 token ale
 docID 7001
-score 0.004477611940298508
 2 9 558 
 token 501
 docID 7029
-score 0.001557632398753894
 103 415 1017 
 token analytics
 docID 7029
-score 5.192107995846313E-4
 7 
 token 3.00
 docID 7042
-score 0.002544529262086514
 327 
 token 4.00
 docID 7042
-score 0.002544529262086514
 340 
 token footsteps
 docID 7061
-score 1.0481081647626035E-4
 316 
 token 4.00
 docID 7074
-score 0.004132231404958678
 27 
 token oshio
 docID 7093
-score 0.09523809523809523
 16 18 
 token 3.00
 docID 7123
-score 2.11954217888936E-4
 270 
 token verification
 docID 7123
-score 2.11954217888936E-4
 553 
 token footsteps
 docID 7126
-score 1.6680567139282736E-4
 4720 
 token ale
 docID 7133
-score 1.0279605263157894E-4
 8620 
 token 3.25
 docID 7191
-score 0.002004008016032064
 100 114 132 149 163 
 token chole
 docID 7191
-score 8.016032064128256E-4
 1457 1466 
 token ale
 docID 7191
-score 4.008016032064128E-4
 343 
 token paneer
 docID 7191
-score 8.016032064128256E-4
 468 474 
 token 4pm
 docID 7191
-score 4.008016032064128E-4
 323 
 token pbr
 docID 7200
-score 8.81057268722467E-4
 397 
 token amp
 docID 7201
-score 0.019736842105263157
 135 140 142 
 token 3.25
 docID 7213
-score 0.00597609561752988
 185 253 349 
 token 4pm
 docID 7237
-score 0.001065340909090909
 804 1054 1068 
 token mf
 docID 7243
-score 0.0035087719298245615
 271 
 token tokyo
 docID 7248
-score 9.233610341643582E-4
 1043 
 token monsun
 docID 7286
-score 4.757373929590866E-4
 114 
 token amp
 docID 7312
-score 1.3419216317767042E-4
 1918 
 token 47pm
 docID 7345
-score 0.004310344827586207
 96 
 token counterparts
 docID 7347
-score 0.008771929824561403
 30 
 token cocktails
 docID 7406
-score 9.823182711198428E-4
 64 
 token img
 docID 7412
-score 4.967709885742673E-4
 245 
 token 3.00
 docID 7428
-score 6.934812760055479E-4
 538 
 token img
 docID 7475
-score 0.0136986301369863
 1 7 
 token var
 docID 7557
-score 0.003952569169960474
 196 
 token tokyo
 docID 7580
-score 0.0010510335162910195
 6290 15500 15625 15727 15797 15818 15905 15959 15971 16196 16211 16340 16538 16552 16746 16751 16884 16887 
 token mf
 docID 7616
-score 2.5839793281653745E-4
 1651 
 token oshio
 docID 7629
-score 8.122157244964262E-5
 4555 
 token oshio
 docID 7666
-score 0.0011173184357541898
 122 
 token analytics
 docID 7681
-score 9.066183136899365E-4
 987 
 token verification
 docID 7694
-score 3.933910306845004E-4
 2166 
 token alt
 docID 7699
-score 9.250693802035153E-4
 525 
 token oshio
 docID 7804
-score 9.569377990430622E-4
 7 3047 3099 
 token subset
 docID 7822
-score 0.001530221882172915
 386 397 
 token 4pm
 docID 7941
-score 0.007246376811594203
 49 
 token actioninfo
 docID 7973
-score 1.381406271584473E-4
 6414 
 token shooters
 docID 7973
-score 1.381406271584473E-4
 5870 
 token footsteps
 docID 7985
-score 3.0175015087507544E-4
 1416 
 token ale
 docID 7992
-score 0.001182033096926714
 740 
 token img
 docID 8017
-score 0.018867924528301886
 1 
 token guinness
 docID 8030
-score 0.0021598272138228943
 72 
 token ale
 docID 8046
-score 0.0014124293785310734
 655 
 token pbr
 docID 8066
-score 4.780114722753346E-4
 291 
 token tokyo
 docID 8088
-score 0.0012224938875305623
 201 
 token img
 docID 8110
-score 0.006369426751592357
 1 
 token mf
 docID 8140
-score 0.001252740369558409
 182 193 201 254 
 token javascript
 docID 8165
-score 6.729475100942127E-4
 638 
 token guinness
 docID 8170
-score 7.974481658692185E-4
 655 
 token 501
 docID 8172
-score 4.07797080172906E-5
 22667 
 token 3.00
 docID 8180
-score 0.0010615711252653928
 82 
 token 4pm
 docID 8180
-score 0.0010615711252653928
 229 
 token footsteps
 docID 8207
-score 0.0015337423312883436
 57 
 token footsteps
 docID 8226
-score 2.9533372711163615E-4
 1034 1076 
 token alt
 docID 8234
-score 4.3308791684711995E-4
 1774 
 token drafts
 docID 8307
-score 5.555555555555556E-4
 1744 
 token 4pm
 docID 8320
-score 1.1920371915603766E-4
 5181 
 token img
 docID 8321
-score 0.014925373134328358
 36 
 token 4pm
 docID 8334
-score 0.0030211480362537764
 32 
 token 501
 docID 8348
-score 0.0022026431718061676
 279 
 token alt
 docID 8359
-score 0.06666666666666667
 4 
 token cocktails
 docID 8373
-score 8.770391159445711E-4
 63 190 661 1997 2844 
 token threecourse
 docID 8373
-score 8.770391159445711E-4
 299 303 307 363 442 
 token verification
 docID 8446
-score 1.9630938358853554E-4
 4039 
 token amp
 docID 8462
-score 4.8355899419729207E-4
 703 715 
 token img
 docID 8504
-score 0.002785515320334262
 182 
 token mf
 docID 8520
-score 2.0358306188925082E-4
 1574 
 token 4pm
 docID 8573
-score 6.587615283267457E-4
 473 
 token verification
 docID 8597
-score 0.0055248618784530384
 145 
 token 501
 docID 8599
-score 0.001890359168241966
 150 
 token reproduction
 docID 8647
-score 1.3480722566729578E-4
 3215 
 token mf
 docID 8647
-score 4.044216770018873E-4
 4437 4602 4613 
 token footsteps
 docID 8650
-score 7.299270072992701E-5
 8589 
 token pbr
 docID 8724
-score 5.196154845414394E-4
 214 221 
 token mf
 docID 8724
-score 2.598077422707197E-4
 204 
 token transitional
 docID 8787
-score 1.1770244821092278E-4
 4590 
 token verification
 docID 8808
-score 1.5549681231534753E-4
 4768 4830 
 token 4.01
 docID 8808
-score 7.774840615767377E-5
 5263 
 token transitional
 docID 8808
-score 7.774840615767377E-5
 5264 
 token img
 docID 8808
-score 7.774840615767377E-5
 7004 
 token javascript
 docID 8808
-score 2.332452184730213E-4
 8102 8107 8122 
 token verification
 docID 8809
-score 6.5359477124183E-4
 153 155 
 token ale
 docID 8840
-score 0.015306122448979591
 51 78 84 102 179 192 
 token transitional
 docID 8884
-score 4.999750012499375E-5
 6055 
 token 4.00
 docID 8888
-score 6.747638326585695E-5
 14477 
 token pbr
 docID 8888
-score 6.747638326585695E-5
 7200 
 token cocktails
 docID 8888
-score 2.699055330634278E-4
 7072 7091 7113 7136 
 token tokyo
 docID 8888
-score 1.349527665317139E-4
 5495 5555 
 token transitional
 docID 8889
-score 0.0014084507042253522
 708 
 token contentnoindex
 docID 8908
-score 7.40905386382159E-5
 12846 
 token nofollow
 docID 8908
-score 7.40905386382159E-5
 12847 
 token namerobots
 docID 8908
-score 7.40905386382159E-5
 12845 
 token creativecommons
 docID 8917
-score 0.001053740779768177
 570 617 
 token pbr
 docID 8921
-score 0.003003003003003003
 175 
 token cuervo
 docID 8956
-score 0.009433962264150943
 93 
 token subset
 docID 8975
-score 4.0966816878328555E-4
 1075 
 token tokyo
 docID 8993
-score 3.581533612692955E-5
 18058 
 token shooters
 docID 8993
-score 2.5070735288850685E-4
 646 3393 4091 4169 4309 6965 9966 
 token 3.25
 docID 9008
-score 2.892681515765114E-4
 3040 
 token transitional
 docID 9039
-score 3.3211557622052476E-4
 2183 
 token 501
 docID 9039
-score 3.3211557622052476E-4
 238 
 token 4pm
 docID 9224
-score 0.002572898799313894
 347 362 396 
 token img
 docID 9236
-score 0.005847953216374269
 1 
 token tokyo
 docID 9280
-score 0.004273504273504274
 195 
 token img
 docID 9287
-score 0.0015015015015015015
 650 
 token guinness
 docID 9294
-score 0.011764705882352941
 16 19 36 52 312 453 
 token actioninfo
 docID 9305
-score 6.455777921239509E-4
 97 
 token guinness
 docID 9332
-score 0.0035087719298245615
 203 
 token reproduction
 docID 9346
-score 8.305647840531562E-4
 626 
 token drafts
 docID 9376
-score 4.1356492969396195E-4
 481 1690 
 token alt
 docID 9396
-score 0.0011716461628588166
 103 109 
 token ale
 docID 9407
-score 0.25
 3 
 token tokyo
 docID 9485
-score 0.0014184397163120568
 392 1118 1216 
 token reproduction
 docID 9488
-score 3.2530904359141186E-4
 1743 
 token verification
 docID 9547
-score 3.3003300330033004E-4
 717 
 token amp
 docID 9547
-score 3.3003300330033004E-4
 813 
 token drafts
 docID 9577
-score 0.002012072434607646
 255 
 token img
 docID 9593
-score 0.0014641288433382138
 693 708 
 token 4pm
 docID 9593
-score 7.320644216691069E-4
 464 
 token footsteps
 docID 9608
-score 3.0883261272390367E-4
 1856 
 token mf
 docID 9651
-score 1.0711225364181663E-4
 1615 
 token 4pm
 docID 9651
-score 5.355612682090831E-4
 782 3977 6763 6804 6823 
 token footsteps
 docID 9654
-score 0.0010964912280701754
 216 
 token 3.00
 docID 9662
-score 0.0012468827930174563
 39 518 
 token drafts
 docID 9676
-score 0.009345794392523364
 60 
 token oshio
 docID 9739
-score 0.0011074197120708748
 442 
 token tokyo
 docID 9739
-score 0.0022148394241417496
 367 642 
 token wikidavis
 docID 9746
-score 4.396957305544563E-5
 19910 
 token mf
 docID 9746
-score 4.396957305544563E-5
 11959 
 token footsteps
 docID 9746
-score 4.396957305544563E-5
 20838 
 token 4pm
 docID 9746
-score 4.396957305544563E-5
 11990 
 token paneer
 docID 9757
-score 4.8567265662943174E-4
 1203 
 token pbr
 docID 9774
-score 0.010309278350515464
 14 
 token 3.00
 docID 9799
-score 2.2904260192395785E-4
 15 
 token verification
 docID 9851
-score 0.0024271844660194173
 314 
 token 501
 docID 9862
-score 7.183908045977011E-4
 114 
 token gran
 docID 9881
-score 0.0026666666666666666
 293 
 token 4pm
 docID 9908
-score 3.2829940906106366E-4
 2753 
 token 501
 docID 9923
-score 0.006622516556291391
 12 
 token 4pm
 docID 9973
-score 0.0019455252918287938
 462 
 token cocktails
 docID 10009
-score 4.711425206124853E-4
 232 275 317 7691 
 token ale
 docID 10009
-score 1.1778563015312132E-4
 162 
 token gran
 docID 10062
-score 0.0016835016835016834
 498 
 token tokyo
 docID 10091
-score 5.810575246949448E-4
 1337 
 token reproduction
 docID 10095
-score 0.002066115702479339
 340 
 token img
 docID 10115
-score 9.49667616334283E-4
 994 
 token 4pm
 docID 10138
-score 0.0125
 12 42 69 
 token papri
 docID 10183
-score 0.001568627450980392
 108 1347 2014 2482 
 token paneer
 docID 10183
-score 7.84313725490196E-4
 880 937 
 token mf
 docID 10220
-score 0.010101010101010102
 12 19 68 
 token eggheadbeta
 docID 10235
-score 0.005235602094240838
 176 
 token verification
 docID 10253
-score 0.0021691973969631237
 364 
 token alt
 docID 10269
-score 0.002277904328018223
 437 
 token gran
 docID 10342
-score 7.84313725490196E-4
 254 
 token shooters
 docID 10373
-score 6.079027355623101E-4
 1468 
 token var
 docID 10400
-score 0.0011641443538998836
 570 
 token oshio
 docID 10419
-score 0.0037735849056603774
 146 
 token amp
 docID 10442
-score 4.314063848144953E-4
 1808 
 token 3.00
 docID 10475
-score 0.006342494714587738
 45 50 77 
 token cocktails
 docID 10475
-score 0.004228329809725159
 207 232 
 token 4.00
 docID 10475
-score 0.004228329809725159
 55 183 
 token verification
 docID 10492
-score 6.226650062266501E-4
 960 
 token 4pm
 docID 10500
-score 4.6685340802987864E-4
 1426 
 token pbr
 docID 10538
-score 0.004
 240 
 token 4pm
 docID 10555
-score 3.2948929159802305E-4
 1109 
 token reproduction
 docID 10561
-score 0.0019267822736030828
 365 
 token 3.25
 docID 10565
-score 3.0873726458783575E-4
 109 
 token 501
 docID 10571
-score 0.011235955056179775
 7 
 token mf
 docID 10595
-score 2.0678246484698098E-4
 287 
 token 4pm
 docID 10595
-score 4.1356492969396195E-4
 2715 2742 
 token guinness
 docID 10619
-score 8.532423208191126E-4
 251 
 token 501
 docID 10673
-score 5.162622612287042E-4
 743 
 token 4pm
 docID 10714
-score 7.880220646178094E-4
 722 
 token 3.00
 docID 10725
-score 0.0022522522522522522
 365 515 576 
 token udavislife
 docID 10770
-score 2.3479690068091102E-4
 4090 
 token mf
 docID 10812
-score 0.0014947683109118087
 542 
 token actioninfo
 docID 10879
-score 0.012987012987012988
 61 
 token guinness
 docID 10946
-score 0.0035087719298245615
 87 127 192 359 697 725 1059 1079 2313 
 token 501
 docID 10960
-score 9.727626459143969E-4
 14 
 token alt
 docID 10965
-score 0.014705882352941176
 16 
 token 3.00
 docID 11007
-score 4.723665564478035E-4
 1412 
 token mf
 docID 11007
-score 9.44733112895607E-4
 380 390 
 token 4pm
 docID 11066
-score 0.0024096385542168677
 122 
 token langen
 docID 11084
-score 2.834467120181406E-4
 3377 
 token amp
 docID 11103
-score 0.0013917884481558804
 1178 1183 
 token footsteps
 docID 11103
-score 6.958942240779402E-4
 1287 
 token guinness
 docID 11112
-score 2.0451988955925963E-4
 527 1231 
 token 4pm
 docID 11112
-score 1.0225994477962981E-4
 4996 
 token mf
 docID 11132
-score 0.0010526315789473684
 524 
 token 4.00
 docID 11158
-score 3.1054936182106146E-5
 15649 
 token pbr
 docID 11158
-score 1.5527468091053074E-4
 8451 8624 8630 8650 10996 
 token ale
 docID 11158
-score 3.1054936182106146E-5
 4186 
 token leonardi
 docID 11158
-score 9.316480854631843E-5
 355 9938 22854 
 token cocktails
 docID 11171
-score 4.610419548178884E-4
 461 
 token transitional
 docID 11191
-score 2.5157232704402514E-4
 1392 
 token 501
 docID 11191
-score 2.5157232704402514E-4
 3219 
 token counterparts
 docID 11197
-score 1.726817475392851E-4
 63 
 token actioninfo
 docID 11242
-score 0.002770083102493075
 358 
 token verification
 docID 11341
-score 0.005917159763313609
 53 
 token shooters
 docID 11364
-score 0.0022156573116691287
 321 338 386 
 token 3.00
 docID 11364
-score 0.0014771048744460858
 39 42 
 token oshio
 docID 11370
-score 0.0014144271570014145
 20 
 token tokyo
 docID 11414
-score 0.0019047619047619048
 388 
 token 3.00
 docID 11421
-score 1.3192612137203166E-4
 781 
 token 4.00
 docID 11421
-score 2.638522427440633E-4
 787 937 
 token reproduction
 docID 11436
-score 0.005434782608695652
 125 
 token img
 docID 11458
-score 1.7053206002728513E-4
 3478 
 token amp
 docID 11476
-score 8.087343307723412E-4
 2593 2868 3867 4000 4009 4021 4040 7225 10408 13731 13770 13969 
 token oshio
 docID 11489
-score 4.3084877208099956E-4
 238 
 token 501
 docID 11500
-score 0.002004008016032064
 184 
 token 4pm
 docID 11519
-score 1.2518778167250875E-4
 6069 
 token alt
 docID 11534
-score 0.0018214936247723133
 174 
 token 3.00
 docID 11576
-score 2.1565667457407807E-4
 636 
 token 4pm
 docID 11595
-score 0.0016181229773462784
 71 
 token ale
 docID 11644
-score 0.0011098779134295228
 363 
 token 4pm
 docID 11703
-score 0.0011402508551881414
 343 
 token 47pm
 docID 11754
-score 0.01
 27 
 token guinness
 docID 11794
-score 2.2737608003638017E-4
 265 
 token 4pm
 docID 11794
-score 9.095043201455207E-4
 676 787 801 840 
 token verification
 docID 11843
-score 0.005555555555555556
 72 
 token img
 docID 11943
-score 0.004694835680751174
 207 
 token 501
 docID 12002
-score 0.0055248618784530384
 22 
 token alt
 docID 12040
-score 0.003787878787878788
 68 
 token ale
 docID 12052
-score 3.4217279726261765E-4
 44 89 
 token udavislife
 docID 12079
-score 2.9877502240812666E-4
 2584 
 token mf
 docID 12103
-score 9.59048623765225E-5
 7205 
 token 4pm
 docID 12103
-score 9.59048623765225E-5
 8023 
 token alt
 docID 12119
-score 5.977286312014345E-4
 1110 
 token mf
 docID 12119
-score 5.977286312014345E-4
 145 
 token 3.00
 docID 12123
-score 0.0011160714285714285
 81 
 token shooters
 docID 12138
-score 0.007751937984496124
 100 
 token 501
 docID 12144
-score 0.010101010101010102
 33 
 token tokyo
 docID 12219
-score 2.4319066147859923E-4
 3544 
 token drafts
 docID 12225
-score 7.668711656441718E-4
 320 
 token reproduction
 docID 12258
-score 2.2143489813994686E-4
 4296 
 token udavislife
 docID 12303
-score 0.01020408163265306
 145 158 179 199 
 token amp
 docID 12369
-score 0.0012594458438287153
 601 
 token 501
 docID 12396
-score 6.993006993006993E-4
 915 
 token 3.00
 docID 12419
-score 2.1226915729144556E-4
 4534 
 token mf
 docID 12427
-score 0.0027063599458728013
 130 720 
 token img
 docID 12461
-score 0.013043478260869565
 121 174 219 
 token 4.00
 docID 12492
-score 0.005025125628140704
 53 
 token alt
 docID 12518
-score 0.006993006993006993
 112 
 token amp
 docID 12560
-score 0.0011560693641618498
 666 
 token cocktails
 docID 12635
-score 0.002881844380403458
 217 
 token amp
 docID 12721
-score 0.0010638297872340426
 60 
 token creativecommons
 docID 12907
-score 2.82326369282891E-4
 2942 
 token 501
 docID 12907
-score 2.82326369282891E-4
 1227 
 token ale
 docID 12933
-score 3.9952057530962844E-4
 167 
 token 501
 docID 12949
-score 0.007936507936507936
 68 
 token shooters
 docID 12993
-score 6.261740763932373E-4
 85 
 token 4pm
 docID 13000
-score 0.0011904761904761906
 797 
 token 4pm
 docID 13020
-score 0.001443001443001443
 447 
 token ale
 docID 13069
-score 5.906674542232723E-4
 626 
 token img
 docID 13082
-score 0.012345679012345678
 61 
 token src
 docID 13088
-score 1.342642320085929E-4
 1273 
 token 4pm
 docID 13096
-score 2.4721878862793575E-4
 684 
 token 501
 docID 13119
-score 3.0731407498463427E-4
 280 
 token img
 docID 13119
-score 6.146281499692685E-4
 2437 2455 
 token reproduction
 docID 13131
-score 0.0010718113612004287
 916 
 token paneer
 docID 13171
-score 7.392804337111878E-4
 404 2104 2128 
 token amp
 docID 13182
-score 0.002857142857142857
 258 
 token footsteps
 docID 13232
-score 0.002544529262086514
 170 
 token verification
 docID 13250
-score 3.975431831282673E-5
 3032 27308 
 token img
 docID 13250
-score 1.9877159156413366E-5
 30656 
 token subset
 docID 13250
-score 3.975431831282673E-5
 9469 26356 
 token wikidavis
 docID 13250
-score 9.938579578206683E-5
 19098 19240 19346 19485 19788 
 token reproduction
 docID 13288
-score 3.428767358134751E-4
 959 4247 
 token 501
 docID 13288
-score 3.428767358134751E-4
 371 3106 
 token mf
 docID 13302
-score 1.419244961680386E-4
 4694 
 token 4pm
 docID 13302
-score 2.838489923360772E-4
 4385 4933 
 token 4.00
 docID 13316
-score 4.928536224741252E-4
 1484 
 token pbr
 docID 13409
-score 0.0024271844660194173
 202 
 token mf
 docID 13418
-score 0.0018248175182481751
 464 
 token counterparts
 docID 13419
-score 7.922047056959519E-5
 11856 
 token transitional
 docID 13419
-score 4.753228234175711E-4
 9115 9418 9579 9589 9602 10025 
 token mf
 docID 13419
-score 1.5844094113919038E-4
 9618 9673 
 token ale
 docID 13425
-score 0.25
 3 
 token transitional
 docID 13456
-score 0.0018018018018018018
 99 
 token mf
 docID 13500
-score 2.9994001199760045E-4
 514 
 token 501
 docID 13561
-score 0.003968253968253968
 62 
 token 501
 docID 13576
-score 0.004366812227074236
 202 
 token verification
 docID 13582
-score 0.0017921146953405018
 220 
 token 3.25
 docID 13702
-score 1.5610365282547612E-4
 4188 
 token amp
 docID 13711
-score 0.0017937219730941704
 116 409 
 token 501
 docID 13714
-score 0.00202020202020202
 169 
 token 4pm
 docID 13782
-score 0.017241379310344827
 55 
 token wolavers
 docID 13799
-score 1.3635124079629124E-4
 1362 
 token guinness
 docID 13799
-score 1.3635124079629124E-4
 1785 
 token monsun
 docID 13817
-score 2.3142791020597085E-4
 1084 
 token mf
 docID 13848
-score 2.4172105390379503E-4
 4119 
 token counterparts
 docID 13853
-score 5.844535359438924E-4
 798 
 token subset
 docID 13861
-score 0.0014245014245014246
 82 
 token oshio
 docID 13863
-score 0.006329113924050633
 70 
 token transitional
 docID 13904
-score 0.0019373587342589602
 1010 1032 1150 1182 1488 2117 
 token cocktails
 docID 13942
-score 0.009966777408637873
 55 74 250 
 token 4pm
 docID 14027
-score 7.189072609633358E-4
 392 
 token oshio
 docID 14090
-score 0.001682085786375105
 758 764 
 token paneer
 docID 14101
-score 6.025911419102139E-4
 1376 1377 
 token javascript
 docID 14105
-score 0.004201680672268907
 771 773 785 827 
 token cocktails
 docID 14160
-score 2.1602937999567941E-4
 1181 
 token tokyo
 docID 14160
-score 2.1602937999567941E-4
 100 
 token counterparts
 docID 14185
-score 0.0022522522522522522
 314 
 token 4pm
 docID 14221
-score 0.0013003901170351106
 75 
 token 4pm
 docID 14251
-score 1.249375312343828E-4
 5232 
 token mf
 docID 14278
-score 3.4048348655090226E-4
 1731 
 token verification
 docID 14291
-score 0.00816326530612245
 141 226 
 token reproduction
 docID 14333
-score 8.230452674897119E-4
 1208 
 token 4pm
 docID 14334
-score 3.176620076238882E-4
 2497 
 token mf
 docID 14347
-score 8.460236886632825E-4
 142 
 token 4pm
 docID 14386
-score 1.4330753797649757E-4
 2404 
 token counterparts
 docID 14389
-score 1.6866250632484398E-4
 1883 
 token 4pm
 docID 14405
-score 2.349900129244507E-4
 2654 2697 
 token oshio
 docID 14407
-score 0.0012033694344163659
 1 158 1392 2650 3775 4865 5207 5600 6761 
 token counterparts
 docID 14410
-score 7.855459544383347E-4
 138 
 token cocktails
 docID 14434
-score 3.675119441381845E-4
 1315 
 token subset
 docID 14443
-score 4.5045045045045046E-4
 1967 
 token classnostyle
 docID 14461
-score 0.0012048192771084338
 260 
 token actioninfo
 docID 14461
-score 0.0012048192771084338
 489 
 token doctype
 docID 14461
-score 0.0012048192771084338
 0 
 token amp
 docID 14461
-score 0.01566265060240964
 60 72 198 201 215 218 232 235 271 274 393 497 500 
 token nofollow
 docID 14461
-score 0.0012048192771084338
 51 
 token 363292579.27
 docID 14461
-score 0.0012048192771084338
 276 
 token namerobots
 docID 14461
-score 0.0012048192771084338
 49 
 token var
 docID 14461
-score 0.00963855421686747
 22 80 83 86 90 95 586 596 
 token transitional
 docID 14461
-score 0.0012048192771084338
 7 
 token width50
 docID 14461
-score 0.0012048192771084338
 322 
 token charsetutf8
 docID 14461
-score 0.006024096385542169
 47 108 191 208 225 
 token getelementsbytagname
 docID 14461
-score 0.0012048192771084338
 157 
 token mediaall
 docID 14461
-score 0.0036144578313253013
 192 209 226 
 token alt
 docID 14461
-score 0.0012048192771084338
 552 
 token classuser
 docID 14461
-score 0.0012048192771084338
 289 
 token namepassword
 docID 14461
-score 0.0012048192771084338
 352 
 token nowrap
 docID 14461
-score 0.004819277108433735
 324 331 347 384 
 token contentnoindex
 docID 14461
-score 0.0012048192771084338
 50 
 token insertbefore
 docID 14461
-score 0.0012048192771084338
 166 
 token 184048305.14910
 docID 14461
-score 0.0012048192771084338
 220 
 token nameinline
 docID 14461
-score 0.0012048192771084338
 536 
 token nameaction
 docID 14461
-score 0.0024096385542168677
 314 530 
 token onsubmitif
 docID 14461
-score 0.0012048192771084338
 300 
 token classwikiglobalfooter
 docID 14461
-score 0.0012048192771084338
 798 
 token donatenew
 docID 14461
-score 0.0012048192771084338
 597 
 token classlicense
 docID 14461
-score 0.0012048192771084338
 622 
 token nameqs
 docID 14461
-score 0.0012048192771084338
 374 
 token methodget
 docID 14461
-score 0.0012048192771084338
 524 
 token stylebehavior
 docID 14461
-score 0.0024096385542168677
 279 504 
 token wikidavis
 docID 14461
-score 0.0024096385542168677
 32 395 
 token typeimage
 docID 14461
-score 0.0036144578313253013
 63 75 543 
 token creativecommons
 docID 14461
-score 0.004819277108433735
 639 694 703 761 
 token rellicense
 docID 14461
-score 0.0012048192771084338
 637 
 token idinfoicon
 docID 14461
-score 0.0012048192771084338
 482 
 token relshortcut
 docID 14461
-score 0.0012048192771084338
 53 
 token googleanalytics
 docID 14461
-score 0.0012048192771084338
 173 
 token idtitle
 docID 14461
-score 0.004819277108433735
 451 453 459 464 
 token classlogo
 docID 14461
-score 0.0024096385542168677
 254 257 
 token cellspacing0
 docID 14461
-score 0.0012048192771084338
 612 
 token html4
 docID 14461
-score 0.0012048192771084338
 14 
 token altdonate
 docID 14461
-score 0.0012048192771084338
 791 
 token colspan2
 docID 14461
-score 0.0024096385542168677
 329 345 
 token contenttext
 docID 14461
-score 0.0012048192771084338
 45 
 token analytics
 docID 14461
-score 0.0012048192771084338
 175 
 token paddingright
 docID 14461
-score 0.0012048192771084338
 243 
 token rdfhttp
 docID 14461
-score 0.0012048192771084338
 673 
 token backto
 docID 14461
-score 0.0024096385542168677
 31 33 
 token height24
 docID 14461
-score 0.0012048192771084338
 509 
 token valueuserform
 docID 14461
-score 0.0012048192771084338
 315 
 token typetext
 docID 14461
-score 0.012048192771084338
 20 78 106 189 206 223 239 336 535 584 
 token stylepaddingright
 docID 14461
-score 0.0012048192771084338
 757 
 token createelement
 docID 14461
-score 0.0012048192771084338
 154 
 token langen
 docID 14461
-score 0.0024096385542168677
 248 564 
 token valigntop
 docID 14461
-score 0.0012048192771084338
 292 
 token src
 docID 14461
-score 0.008433734939759036
 101 266 492 590 600 771 784 
 token eggheadbeta
 docID 14461
-score 0.006024096385542169
 548 592 602 773 786 
 token idiconrow
 docID 14461
-score 0.0012048192771084338
 462 
 token qsaction
 docID 14461
-score 0.0012048192771084338
 40 
 token valueaction
 docID 14461
-score 0.0012048192771084338
 375 
 token valuedavis
 docID 14461
-score 0.0012048192771084338
 361 
 token alignleft
 docID 14461
-score 0.004819277108433735
 330 346 383 616 
 token valuelogin
 docID 14461
-score 0.0024096385542168677
 356 405 
 token alignmiddle
 docID 14461
-score 0.0012048192771084338
 265 
 token altwiki
 docID 14461
-score 0.0012048192771084338
 277 
 token cellpadding0
 docID 14461
-score 0.0012048192771084338
 613 
 token qir
 docID 14461
-score 0.0012048192771084338
 146 
 token 284171358.36963
 docID 14461
-score 0.0012048192771084338
 203 
 token pngbehavior
 docID 14461
-score 0.0024096385542168677
 282 507 
 token altcreative
 docID 14461
-score 0.0012048192771084338
 767 
 token img
 docID 14461
-score 0.010843373493975903
 264 490 549 593 603 766 774 783 787 
 token reproduction
 docID 14461
-score 0.0012048192771084338
 715 
 token valuehttp
 docID 14461
-score 0.0012048192771084338
 366 
 token relstylesheet
 docID 14461
-score 0.0036144578313253013
 188 205 222 
 token 4.01
 docID 14461
-score 0.0012048192771084338
 6 
 token derivativeworks
 docID 14461
-score 0.0012048192771084338
 747 
 token onloaddoonloadstuff
 docID 14461
-score 0.0012048192771084338
 250 
 token classtab
 docID 14461
-score 0.004819277108433735
 421 428 435 443 
 token idfooter
 docID 14461
-score 0.0012048192771084338
 608 
 token async1
 docID 14461
-score 0.0012048192771084338
 161 
 token size22
 docID 14461
-score 0.0024096385542168677
 334 350 
 token dcmitype
 docID 14461
-score 0.0012048192771084338
 689 
 token filestyle
 docID 14461
-score 0.0012048192771084338
 233 
 token valignmiddle
 docID 14461
-score 0.0024096385542168677
 620 755 
 token xmlns
 docID 14461
-score 0.0024096385542168677
 665 672 
 token 501
 docID 14461
-score 0.0012048192771084338
 817 
 token maxlength101
 docID 14461
-score 0.0012048192771084338
 540 
 token pageview
 docID 14461
-score 0.0012048192771084338
 185 
 token typehidden
 docID 14461
-score 0.007228915662650603
 313 354 358 363 373 529 
 token filecommon
 docID 14461
-score 0.0012048192771084338
 199 
 token actionuserform
 docID 14461
-score 0.0012048192771084338
 28 
 token 387858310.518348
 docID 14461
-score 0.0012048192771084338
 237 
 token styleclear
 docID 14461
-score 0.0012048192771084338
 578 
 token namelogin
 docID 14461
-score 0.0024096385542168677
 355 404 
 token typepassword
 docID 14461
-score 0.0012048192771084338
 351 
 token dirltr
 docID 14461
-score 0.0024096385542168677
 249 565 
 token filelogo
 docID 14461
-score 0.0012048192771084338
 272 
 token relicon
 docID 14461
-score 0.0012048192771084338
 66 
 token parentnode
 docID 14461
-score 0.0012048192771084338
 165 
 token typesubmit
 docID 14461
-score 0.0012048192771084338
 403 
 token idcontent
 docID 14461
-score 0.0012048192771084338
 561 
 token altlogin
 docID 14461
-score 0.0012048192771084338
 406 
 token classcurrentchild
 docID 14461
-score 0.0012048192771084338
 470 
 token javascript
 docID 14461
-score 0.004819277108433735
 21 79 107 585 
 token classlogin
 docID 14461
-score 0.0012048192771084338
 317 
 token utils
 docID 14461
-score 0.0012048192771084338
 103 
 token actionrss
 docID 14461
-score 0.0012048192771084338
 118 
 token aligncenter
 docID 14461
-score 0.0024096385542168677
 619 799 
 token 1999/02
 docID 14461
-score 0.0012048192771084338
 677 
 token mf
 docID 14474
-score 0.0011135857461024498
 891 
 token counterparts
 docID 14497
-score 6.711409395973154E-5
 9768 
 token reproduction
 docID 14534
-score 0.0011261261261261261
 67 
 token udavislife
 docID 14547
-score 0.011494252873563218
 42 
 token tokyo
 docID 14558
-score 6.544502617801048E-4
 531 
 token ale
 docID 14602
-score 2.2504782266231574E-4
 4373 4397 
 token mf
 docID 14608
-score 0.0011135857461024498
 756 
 token 4pm
 docID 14623
-score 0.004016064257028112
 186 
 token 47pm
 docID 14659
-score 6.079027355623101E-4
 254 
 token mf
 docID 14673
-score 6.357279084551812E-4
 602 
 token 501
 docID 14693
-score 0.002365930599369085
 7 166 246 
 token 3.25
 docID 14699
-score 1.332090049287332E-4
 3268 
 token jager
 docID 14699
-score 5.328360197149328E-4
 2011 2026 2086 2103 
 token tokyo
 docID 14699
-score 1.332090049287332E-4
 2427 
 token ale
 docID 14699
-score 5.328360197149328E-4
 1009 2968 5102 5111 
 token 4pm
 docID 14700
-score 0.002380952380952381
 160 
 token 501
 docID 14743
-score 8.778860503906593E-5
 10708 
 token 3.25
 docID 14758
-score 1.3997760358342665E-4
 6901 
 token 3.00
 docID 14766
-score 1.6874789065136686E-4
 922 
 token 9pmclose
 docID 14766
-score 3.374957813027337E-4
 215 218 
 token 501
 docID 14826
-score 0.0011173184357541898
 223 
 token 501
 docID 14835
-score 0.0010362694300518134
 157 
 token 501
 docID 14852
-score 0.0019267822736030828
 257 
 token mf
 docID 14904
-score 0.002881844380403458
 256 
 token 4pm
 docID 14970
-score 1.1798017932987259E-4
 5072 
 token 3.00
 docID 14976
-score 0.0014204545454545455
 294 
 token mf
 docID 14981
-score 5.665722379603399E-4
 628 
 token 4pm
 docID 15003
-score 6.30715862503942E-4
 2503 2902 
 token mf
 docID 15034
-score 1.6017940092904052E-4
 3178 
 token pbr
 docID 15107
-score 2.380952380952381E-4
 1713 
 token ale
 docID 15107
-score 2.380952380952381E-4
 2734 
 token 4pm
 docID 15107
-score 2.380952380952381E-4
 466 
 token src
 docID 15116
-score 8.650519031141869E-4
 249 
 token mf
 docID 15147
-score 0.0015552099533437014
 580 
 token guinness
 docID 15173
-score 2.1872265966754156E-4
 1719 
 token subset
 docID 15246
-score 0.058823529411764705
 15 23 
 token src
 docID 15273
-score 5.089058524173028E-4
 1660 
 token 501
 docID 15327
-score 0.003278688524590164
 29 
 token transitional
 docID 15349
-score 0.006172839506172839
 104 
 token 501
 docID 15358
-score 0.003484320557491289
 248 
 token paneer
 docID 15380
-score 0.0019445794846864365
 126 243 1695 1987 
 token img
 docID 15388
-score 0.017241379310344827
 54 
 token oshio
 docID 15399
-score 6.172839506172839E-4
 713 
 token papri
 docID 15407
-score 3.0646644192460924E-4
 2186 
 token paneer
 docID 15407
-score 6.129328838492185E-4
 393 1566 
 token 4pm
 docID 15417
-score 1.6276041666666666E-4
 5816 
 token 501
 docID 15455
-score 8.368200836820084E-5
 8942 
 token reproduction
 docID 15455
-score 1.6736401673640169E-4
 6220 6243 
 token verification
 docID 15482
-score 0.0012195121951219512
 615 
 token drafts
 docID 15500
-score 1.0539629005059021E-4
 1113 
 token verification
 docID 15507
-score 1.1079104808331487E-4
 414 
 token 3.00
 docID 15588
-score 0.0012437810945273632
 33 
 token counterparts
 docID 15602
-score 1.511258878645912E-4
 5840 
 token reproduction
 docID 15603
-score 7.530120481927711E-4
 1039 
 token 3.25
 docID 15628
-score 0.01098901098901099
 61 
 token cocktails
 docID 15688
-score 3.2289312237649337E-4
 1768 
 token 501
 docID 15702
-score 0.001256281407035176
 707 
 token amp
 docID 15712
-score 2.5119316754584274E-4
 3595 
 token 501
 docID 15723
-score 0.003236245954692557
 11 
 token mf
 docID 15756
-score 0.01694915254237288
 22 
 token 501
 docID 15767
-score 0.0030581039755351682
 6 
 token ale
 docID 15786
-score 0.00170261066969353
 1118 1188 1332 
 token 501
 docID 15787
-score 6.939625260235947E-4
 492 
 token subset
 docID 15787
-score 6.939625260235947E-4
 937 
 token cocktails
 docID 15796
-score 0.0023148148148148147
 236 
 token verification
 docID 15813
-score 2.4962556165751375E-4
 1678 
 token amp
 docID 15999
-score 0.007194244604316547
 112 
 token img
 docID 16077
-score 0.005025125628140704
 193 332 531 
 token 3.00
 docID 16089
-score 1.413427561837456E-4
 2423 
 token guinness
 docID 16132
-score 5.473453749315818E-4
 178 
 token 501
 docID 16225
-score 0.0015698587127158557
 154 
 token verification
 docID 16298
-score 0.0037593984962406013
 97 195 
 token counterparts
 docID 16329
-score 3.5236081747709656E-4
 2653 
 token guinness
 docID 16341
-score 4.548900682335102E-4
 355 556 722 
 token mf
 docID 16350
-score 0.011410788381742738
 109 125 142 158 178 223 431 571 585 647 680 
 token 4pm
 docID 16350
-score 0.001037344398340249
 587 
 token 4pm
 docID 16359
-score 7.44047619047619E-4
 170 
 token verification
 docID 16383
-score 2.701242571582928E-4
 3120 
 token counterparts
 docID 16403
-score 1.3073604392731077E-4
 1225 
 token oshio
 docID 16408
-score 0.0018018018018018018
 470 
 token 501
 docID 16435
-score 4.1999160016799666E-4
 1422 
 token drafts
 docID 16453
-score 6.749915626054674E-4
 435 439 
 token tokyo
 docID 16453
-score 0.0010124873439082012
 19 1453 2878 
 token counterparts
 docID 16454
-score 9.225092250922509E-4
 367 
 token 4pm
 docID 16526
-score 2.105706464518846E-4
 679 
 token 3.00
 docID 16531
-score 2.654632333421821E-4
 1342 
 token 4pm
 docID 16531
-score 2.654632333421821E-4
 3730 
 token 3.00
 docID 16532
-score 6.313131313131314E-4
 405 
 token ale
 docID 16554
-score 1.0046212577858148E-4
 3003 
 token 4pm
 docID 16554
-score 2.0092425155716296E-4
 6725 6976 
 token img
 docID 16572
-score 0.0014144271570014145
 44 
 token oshio
 docID 16588
-score 0.003787878787878788
 92 
 token counterparts
 docID 16626
-score 0.007751937984496124
 128 
 token 4pm
 docID 16662
-score 2.0195900232252852E-4
 3700 6462 
 token pbr
 docID 16773
-score 5.28169014084507E-4
 222 3726 3959 
 token chole
 docID 16775
-score 2.5759917568263783E-4
 389 
 token paneer
 docID 16775
-score 0.00231839258114374
 108 127 226 841 1593 1799 2535 2920 3015 
 token drafts
 docID 16805
-score 5.733944954128441E-4
 321 
 token oshio
 docID 16806
-score 0.003484320557491289
 94 
 token alt
 docID 16867
-score 4.088307440719542E-4
 2313 
 token 3.00
 docID 16872
-score 4.422821760283061E-4
 94 
 token guinness
 docID 16872
-score 8.845643520566122E-4
 1284 2186 
 token ale
 docID 16872
-score 4.422821760283061E-4
 48 
 token jäger
 docID 16985
-score 4.496402877697842E-4
 525 
 token jennagallegos
 docID 16991
-score 3.0395136778115504E-4
 3289 
 token 3.00
 docID 17008
-score 5.002501250625312E-4
 608 
 token paneer
 docID 17009
-score 1.1859582542694497E-4
 6788 
 token guinness
 docID 17045
-score 0.0010660980810234541
 842 
 token 501
 docID 17091
-score 8.077544426494346E-4
 77 
 token oshio
 docID 17094
-score 1.3475272874275703E-4
 3953 
 token 4pm
 docID 17097
-score 0.0013986013986013986
 222 558 
 token 3.00
 docID 17164
-score 1.380452788514633E-4
 1566 
 token mf
 docID 17169
-score 9.560229445506692E-4
 387 
 token ale
 docID 17181
-score 0.0015873015873015873
 179 
 token oshio
 docID 17245
-score 3.7979491074819596E-4
 2052 4685 
 token cocktails
 docID 17285
-score 2.803476310625175E-4
 2404 
 token subset
 docID 17316
-score 0.00125
 694 
 token amp
 docID 17442
-score 1.0826025765941322E-4
 519 
 token javascript
 docID 17468
-score 0.004608294930875576
 284 318 319 
 token mf
 docID 17469
-score 5.980861244019139E-4
 1296 

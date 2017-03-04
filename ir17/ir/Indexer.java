@@ -77,7 +77,6 @@ public class Indexer
       }
       else
       {
-        // System.err.println("Indexing " + f.getPath());
         // First register the document and get a docID
         int docID = generateDocID();
         if (docID % 1000 == 0)
@@ -125,11 +124,11 @@ public class Indexer
           }
           index.docLengths.put("" + docID, offset);
           reader.close();
-          index.calculateScores();
           index.updateFiles();
         }
-        catch (IOException e) {
-        System.err.println("Warning: IOException during indexing.");
+        catch (IOException e)
+        {
+          System.err.println("Warning: IOException during indexing.");
         }
       }
     }

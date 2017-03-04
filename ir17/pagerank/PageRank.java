@@ -178,6 +178,7 @@ public class PageRank
    */
   void computePagerank(int numberOfDocs)
   {
+    // numberOfDocs = 1000;
     double[] x = new double[numberOfDocs];
     double[] x_new = new double[numberOfDocs];
     int[] indices = new int[numberOfDocs];
@@ -198,12 +199,6 @@ public class PageRank
       System.out.println("t = " + t);
       for (int doc_j = 0; doc_j < numberOfDocs; doc_j++)
       {
-        // if (doc_j % 1000 == 0)
-        // {
-        //   System.out.println("doc_j: " + doc_j);
-        // }
-        /// doc_j indicates P's column.
-        /// Calculate P's column
         for (int row = 0; row  < numberOfDocs; row++)
         {
           if (link.get(row) == null)
@@ -249,16 +244,18 @@ public class PageRank
     BubbleSort(x, indices);
     for (int i = 0; i < 30; i++)
     {
-      System.out.println(indices[i] + ": " + x[i]);
+      System.out.println(docName[indices[i]] + ": " + x[i]);
     }
 
     /// write txt with indices, rank
     BufferedWriter bw = null;
     FileWriter fw = null;
 
+    HashMap<String, Double> pageranks = new HashMap<String, Double>();
+
     try
     {
-      File file = new File("pageranks_incorrect_IDs");
+      File file = new File("pageranks_names.txt");
 
       // if file doesnt exists, then create it
       if (!file.exists()) {
@@ -271,7 +268,8 @@ public class PageRank
 
       for (int i = 0; i < indices.length; i++)
       {
-        bw.write(indices[i] + " " + x[i] + "\n");
+        pageranks.put(docName[indices[i]], x[i]);
+        bw.write(docName[indices[i]] + " " + x[i] + "\n");
       }
     }
     catch (IOException e)
@@ -297,6 +295,25 @@ public class PageRank
       {
         ex.printStackTrace();
       }
+    }
+
+    /// SAVE HASHMAP
+    String filename = "pageranks_hashmap";
+    try
+    {
+      FileOutputStream fout = new FileOutputStream(filename);
+      ObjectOutputStream oos = new ObjectOutputStream(fout);
+      oos.writeObject(pageranks);
+      oos.close();
+      fout.close();
+    }
+    catch (FileNotFoundException e)
+    {
+      System.err.println("File " + filename + " not found");
+    }
+    catch (IOException e)
+    {
+      System.err.println("Error initializing stream");
     }
 
   }

@@ -1,696 +1,522 @@
 token 01:30:16
 docID 10405
-score 4.32152117545376E-4
 1237 
 token beaker
 docID 10405
-score 0.001728608470181504
 297 303 364 382 
 token 10:10:15
 docID 10405
-score 4.32152117545376E-4
 1617 
 token 16:44:22
 docID 10405
-score 4.32152117545376E-4
 1249 
 token 10:55:37
 docID 10405
-score 4.32152117545376E-4
 2162 
 token rebrew
 docID 10405
-score 4.32152117545376E-4
 692 
 token stepless
 docID 10405
-score 4.32152117545376E-4
 1851 
 token crib
 docID 10405
-score 4.32152117545376E-4
 1865 
 token 21:16:14
 docID 10405
-score 4.32152117545376E-4
 2280 
 token bezzera
 docID 10405
-score 4.32152117545376E-4
 1841 
 token 08:19:21
 docID 10405
-score 4.32152117545376E-4
 1946 
 token taked
 docID 10405
-score 4.32152117545376E-4
 1759 
 token 09:54:33
 docID 10405
-score 4.32152117545376E-4
 1387 
 token adenosine
 docID 10405
-score 4.32152117545376E-4
 2265 
 token mpr
 docID 10406
-score 0.002066115702479339
 68 
 token brownbagged
 docID 10406
-score 0.002066115702479339
 464 
 token cappachino
 docID 10406
-score 0.002066115702479339
 409 
 token 19:49:28
 docID 10406
-score 0.002066115702479339
 282 
 token narcs
 docID 10406
-score 0.002066115702479339
 109 
 token 01:34:20
 docID 10406
-score 0.002066115702479339
 343 
 token 11:34:07
 docID 10406
-score 0.002066115702479339
 232 
 token 20:48:27
 docID 10407
-score 0.007142857142857143
 5 
 token semitrucks
 docID 10408
-score 8.605851979345956E-4
 243 
 token doublebooking
 docID 10408
-score 8.605851979345956E-4
 871 
 token fivebedroom
 docID 10408
-score 8.605851979345956E-4
 18 
 token nonobstruction
 docID 10408
-score 8.605851979345956E-4
 157 
 token perperson
 docID 10408
-score 8.605851979345956E-4
 46 
 token 41unit
 docID 10408
-score 8.605851979345956E-4
 366 
 token abheetbrar
 docID 10408
-score 8.605851979345956E-4
 788 
 token 07:59:00
 docID 10408
-score 8.605851979345956E-4
 790 
 token preservations
 docID 10409
-score 0.0055248618784530384
 76 
 token http://www.communitytotheclassroom.com/
 docID 10409
-score 0.0055248618784530384
 138 
 token dingemans
 docID 10409
-score 0.0055248618784530384
 176 
 token lovedones
 docID 10411
-score 0.017857142857142856
 20 
 token http://paleomag.ucdavis.edu/
 docID 10412
-score 0.005952380952380952
 17 
 token http://eac.ucdavis.edu/
 docID 10412
-score 0.005952380952380952
 26 
 token paleomagnetism
 docID 10412
-score 0.005952380952380952
 18 
 token fauxmosexual
 docID 10412
-score 0.005952380952380952
 83 
 token http://dodgers.mlb.com/
 docID 10412
-score 0.005952380952380952
 129 
 token ichthyosaurs
 docID 10412
-score 0.005952380952380952
 152 
 token linder
 docID 10412
-score 0.005952380952380952
 87 
 token http://www.bowsplusarrows.com/
 docID 10412
-score 0.005952380952380952
 73 
 token http://athletics.mlb.com/
 docID 10412
-score 0.005952380952380952
 136 
 token 12:21:00
 docID 10412
-score 0.005952380952380952
 146 
 token http://www.ed.ac.uk/
 docID 10412
-score 0.005952380952380952
 35 
 token 28.03.070
 docID 10413
-score 0.004830917874396135
 182 
 token 28.03.130
 docID 10413
-score 0.004830917874396135
 205 
 token permitterm
 docID 10413
-score 0.004830917874396135
 97 
 token 28.01.010
 docID 10413
-score 0.004830917874396135
 54 
 token permitnontransferable
 docID 10413
-score 0.004830917874396135
 99 
 token 28.02.010
 docID 10413
-score 0.004830917874396135
 73 
 token 28.02.140
 docID 10413
-score 0.004830917874396135
 113 
 token 28.03.080
 docID 10413
-score 0.004830917874396135
 187 
 token 28.02.090
 docID 10413
-score 0.004830917874396135
 96 
 token 28.03.0
 docID 10413
-score 0.004830917874396135
 154 
 token 28.01.020
 docID 10413
-score 0.004830917874396135
 61 
 token 28.02.020
 docID 10413
-score 0.004830917874396135
 75 
 token 28.02.130
 docID 10413
-score 0.004830917874396135
 108 
 token 28.02.0
 docID 10413
-score 0.004830917874396135
 70 
 token permitissuance
 docID 10413
-score 0.004830917874396135
 83 
 token 28.03.050
 docID 10413
-score 0.004830917874396135
 175 
 token 28.01.030
 docID 10413
-score 0.004830917874396135
 65 
 token permitissuancefiling
 docID 10413
-score 0.004830917874396135
 85 
 token 28.02.160
 docID 10413
-score 0.004830917874396135
 132 
 token 28.02.030
 docID 10413
-score 0.004830917874396135
 78 
 token permitapplicationcontents
 docID 10413
-score 0.004830917874396135
 81 
 token 28.03.060
 docID 10413
-score 0.004830917874396135
 177 
 token 28.01.040
 docID 10413
-score 0.004830917874396135
 68 
 token 28.02.150
 docID 10413
-score 0.004830917874396135
 126 
 token 28.02.040
 docID 10413
-score 0.004830917874396135
 80 
 token 28.02.100
 docID 10413
-score 0.004830917874396135
 98 
 token permitrevocation
 docID 10413
-score 0.004830917874396135
 101 
 token 28.03.030
 docID 10413
-score 0.004830917874396135
 168 
 token 28.02.180
 docID 10413
-score 0.004830917874396135
 144 
 token 28.02.050
 docID 10413
-score 0.004830917874396135
 82 
 token permitfee
 docID 10413
-score 0.004830917874396135
 93 
 token permitapplication
 docID 10413
-score 0.004830917874396135
 79 
 token 28.03.100
 docID 10413
-score 0.004830917874396135
 193 
 token 28.03.040
 docID 10413
-score 0.004830917874396135
 172 
 token samevehicles
 docID 10413
-score 0.004830917874396135
 176 
 token 28.02.170
 docID 10413
-score 0.004830917874396135
 137 
 token permitsamenotification
 docID 10413
-score 0.004830917874396135
 103 
 token distributionpublic
 docID 10413
-score 0.004830917874396135
 169 
 token sameshopping
 docID 10413
-score 0.004830917874396135
 173 
 token 28.02.060
 docID 10413
-score 0.004830917874396135
 84 
 token 28.02.120
 docID 10413
-score 0.004830917874396135
 102 
 token 28.03.110
 docID 10413
-score 0.004830917874396135
 196 
 token 28.03.090
 docID 10413
-score 0.004830917874396135
 190 
 token sameclosed
 docID 10413
-score 0.004830917874396135
 178 
 token 28.03.010
 docID 10413
-score 0.004830917874396135
 158 
 token http://www.city.davis.ca.us/cmo/citycode/chapter.cfm?chapter28
 docID 10413
-score 0.004830917874396135
 10 
 token 28.02.070
 docID 10413
-score 0.004830917874396135
 92 
 token 28.03.120
 docID 10413
-score 0.004830917874396135
 198 
 token 28.02.110
 docID 10413
-score 0.004830917874396135
 100 
 token samewhere
 docID 10413
-score 0.004830917874396135
 183 
 token 28.03.020
 docID 10413
-score 0.00966183574879227
 165 166 
 token permitform
 docID 10413
-score 0.004830917874396135
 95 
 token 28.02.080
 docID 10413
-score 0.004830917874396135
 94 
 token 28.01.0
 docID 10413
-score 0.004830917874396135
 51 
 token 28.02.190
 docID 10413
-score 0.004830917874396135
 149 
 token 10:42:33
 docID 10414
-score 0.012345679012345678
 19 
 token kikuyugrass
 docID 10417
-score 0.0012121212121212121
 565 1649 
 token punicea
 docID 10417
-score 6.060606060606061E-4
 709 
 token solenopsis
 docID 10417
-score 6.060606060606061E-4
 1039 
 token pocked
 docID 10417
-score 6.060606060606061E-4
 642 
 token fountaingrass
 docID 10417
-score 0.0012121212121212121
 872 1402 
 token sesbania
 docID 10417
-score 6.060606060606061E-4
 708 
 token rubus
 docID 10417
-score 6.060606060606061E-4
 787 
 token greenlee
 docID 10417
-score 6.060606060606061E-4
 658 
 token lepidium
 docID 10417
-score 6.060606060606061E-4
 934 
 token phytophthora
 docID 10417
-score 6.060606060606061E-4
 1153 
 token barberry
 docID 10417
-score 6.060606060606061E-4
 429 
 token foeniculum
 docID 10417
-score 6.060606060606061E-4
 843 
 token whitetop
 docID 10417
-score 6.060606060606061E-4
 938 
 token edulis
 docID 10417
-score 6.060606060606061E-4
 899 
 token invades
 docID 10417
-score 6.060606060606061E-4
 317 
 token calipc
 docID 10417
-score 6.060606060606061E-4
 325 
 token http://www.calipc.org
 docID 10417
-score 6.060606060606061E-4
 1409 
 token domesticus
 docID 10417
-score 6.060606060606061E-4
 1022 
 token tanoaks
 docID 10417
-score 6.060606060606061E-4
 1171 
 token invasionthey
 docID 10417
-score 6.060606060606061E-4
 139 
 token armeniacus
 docID 10417
-score 0.0012121212121212121
 788 797 
 token donax
 docID 10417
-score 6.060606060606061E-4
 889 
 token berberis
 docID 10417
-score 6.060606060606061E-4
 430 
 token globulus
 docID 10417
-score 6.060606060606061E-4
 819 
 token thunbergii
 docID 10417
-score 6.060606060606061E-4
 431 
 token cortaderia
 docID 10417
-score 0.0012121212121212121
 552 677 
 token pseudacorus
 docID 10417
-score 6.060606060606061E-4
 984 
 token carica
 docID 10417
-score 6.060606060606061E-4
 859 
 token chokes
 docID 10417
-score 0.0018181818181818182
 468 510 710 
 token nonnatives
 docID 10417
-score 6.060606060606061E-4
 43 
 token jubatagrass
 docID 10417
-score 6.060606060606061E-4
 551 
 token http://www.calipc.org/ip/inventory/index.php
 docID 10417
-score 6.060606060606061E-4
 328 
 token sanctuaries
 docID 10417
-score 6.060606060606061E-4
 1429 
 token gorse
 docID 10417
-score 6.060606060606061E-4
 283 
 token ramorum
 docID 10417
-score 6.060606060606061E-4
 1154 
 token invicta
 docID 10417
-score 6.060606060606061E-4
 1040 
 token latifolium
 docID 10417
-score 6.060606060606061E-4
 935 
 token naturallyit
 docID 10417
-score 6.060606060606061E-4
 27 
 token cylindrica
 docID 10417
-score 6.060606060606061E-4
 520 
 token nativeexcluding
 docID 10417
-score 6.060606060606061E-4
 947 
 token biocontrols
 docID 10417
-score 6.060606060606061E-4
 129 
 token setaceum
 docID 10417
-score 6.060606060606061E-4
 874 
 token passer
 docID 10417
-score 6.060606060606061E-4
 1021 
 token wildfowl
 docID 10417
-score 6.060606060606061E-4
 992 
 token impoundments
 docID 10417
-score 6.060606060606061E-4
 419 
 token domestica
 docID 10417
-score 6.060606060606061E-4
 235 
 token hyacinth
 docID 10417
-score 6.060606060606061E-4
 968 
 token pathogenic
 docID 10417
-score 6.060606060606061E-4
 15 
 token nonspecialist
 docID 10417
-score 6.060606060606061E-4
 1241 
 token solenopsis
 docID 10947
-score 0.002652519893899204
 161 
 token http://eac.ucdavis.edu/
 docID 11191
-score 2.5157232704402514E-4
 3864 
 token http://www.bowsplusarrows.com/
 docID 12192
-score 0.0051813471502590676
 123 
 token preservations
 docID 12371
-score 8.598452278589854E-4
 820 
 token 01:34:20
 docID 12405
-score 1.5356265356265356E-4
 3354 
 token chokes
 docID 12470
-score 3.3898305084745765E-4
 49 
 token 16:44:22
 docID 12647
-score 9.583133684714902E-5
 8116 
 token greenlee
 docID 12702
-score 0.001976284584980237
 264 
 token passer
 docID 12745
-score 9.633911368015414E-4
 115 
 token crib
 docID 12959
-score 0.0010660980810234541
 213 
 token domesticus
 docID 13611
-score 0.0010330578512396695
 429 
 token pseudacorus
 docID 13766
-score 0.003105590062111801
 95 
 token chokes
 docID 13833
-score 0.0013486176668914363
 361 812 
 token dingemans
 docID 14216
-score 0.003076923076923077
 206 
 token mpr
 docID 14235
-score 0.0011210762331838565
 273 
 token 12:21:00
 docID 14244
-score 0.0019305019305019305
 179 
 token semitrucks
 docID 14315
-score 0.0016339869281045752
 367 
 token 28.03.020
 docID 14534
-score 0.0011261261261261261
 14 
 token fivebedroom
 docID 14640
-score 0.00510204081632653
 97 
 token perperson
 docID 15602
-score 1.511258878645912E-4
 3445 
 token perperson
 docID 15936
-score 1.579778830963665E-4
 425 
 token sanctuaries
 docID 16296
-score 8.244023083264633E-4
 501 
 token mpr
 docID 16973
-score 0.0012531328320802004
 194 
 token mpr
 docID 17455
-score 0.0011580775911986102
 818 1206 

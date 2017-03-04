@@ -45,9 +45,13 @@ public class HashedIndex implements Index
   private int file_counter = -1; /// No. of the last not-full file
   private int file_token_counter = file_limit; /// No. of tokens in the last not-full file
 
+  private double TF_IDF_WEIGHT = 0.5;
+  private double PAGERANK_WEIGHT = 1.0 - TF_IDF_WEIGHT;
+
 
   public HashedIndex()
   {
+    /// Read mappings
     File f = new File(FOLDER + "/mappings");
     if(f.exists() && !f.isDirectory())
     {
@@ -61,6 +65,85 @@ public class HashedIndex implements Index
         ois.close();
         fin.close();
         System.out.println(mappings.size() + " tokens indexed");
+      }
+      catch (Exception ex)
+      {
+        ex.printStackTrace();
+      }
+    }
+    /// Read docIDs
+    f = new File(FOLDER + "/docIDs");
+    if(f.exists() && !f.isDirectory())
+    {
+      String filename = FOLDER + "/docIDs";
+      /// READ IN docIDs OF FILES
+      try
+      {
+        FileInputStream fin = new FileInputStream(filename);
+        ObjectInputStream ois = new ObjectInputStream(fin);
+
+        HashMap<String, String> temp =
+         (HashMap<String, String>) ois.readObject();
+
+        for (String docID : temp.keySet())
+        {
+          docIDs.put(docID, temp.get(docID));
+        }
+        ois.close();
+        fin.close();
+      }
+      catch (Exception ex)
+      {
+        ex.printStackTrace();
+      }
+    }
+    /// Read docLengths
+    f = new File(FOLDER + "/docLengths");
+    if(f.exists() && !f.isDirectory())
+    {
+      String filename = FOLDER + "/docLengths";
+      /// READ IN docLengths OF FILES
+      try
+      {
+        FileInputStream fin = new FileInputStream(filename);
+        ObjectInputStream ois = new ObjectInputStream(fin);
+
+        HashMap<String, Integer> temp =
+         (HashMap<String, Integer>) ois.readObject();
+
+        for (String docID : temp.keySet())
+        {
+          docLengths.put(docID, temp.get(docID));
+        }
+        ois.close();
+        fin.close();
+      }
+      catch (Exception ex)
+      {
+        ex.printStackTrace();
+      }
+    }
+
+    /// Read pageranks
+    f = new File("pagerank/pageranks_names_hashmap");
+    if(f.exists() && !f.isDirectory())
+    {
+      String filename = "pagerank/pageranks_names_hashmap";
+      /// READ IN pageranks OF documents
+      try
+      {
+        FileInputStream fin = new FileInputStream(filename);
+        ObjectInputStream ois = new ObjectInputStream(fin);
+
+        HashMap<String, Double> temp =
+         (HashMap<String, Double>) ois.readObject();
+
+        for (String name : temp.keySet())
+        {
+          pageranks.put(name, temp.get(name));
+        }
+        ois.close();
+        fin.close();
       }
       catch (Exception ex)
       {
@@ -83,10 +166,12 @@ public class HashedIndex implements Index
     /// First check that the tokens are contained in the dataset
     Iterator<String> queryIteratorCheck = query.terms.listIterator(0);
 
-    if (index.size() >= index_limit)
-    {
-      index = new HashMap<String, PostingsList>();
-    }
+    index = new HashMap<String, PostingsList>();
+
+    // if (index.size() >= index_limit)
+    // {
+      // index = new HashMap<String, PostingsList>();
+    // }
 
     while (queryIteratorCheck.hasNext())
     {
@@ -98,7 +183,10 @@ public class HashedIndex implements Index
       }
       else
       {
-        readFromFile(mappings.get(tok));
+        if (!index.containsKey(tok))
+        {
+          readFromFile(mappings.get(tok));
+        }
       }
     }
 
@@ -138,76 +226,188 @@ public class HashedIndex implements Index
     }
     else if (queryType == Index.RANKED_QUERY)
     {
+      HashMap<Integer, Double> scores = new HashMap<Integer, Double>();
       /// ======================= RANKED QUERY =================================
-      /// Return all documents in which at least one token exists
-      Iterator<String> queryIterator = query.terms.listIterator(0);
-      String token = queryIterator.next();
-      resDocIDPostings = getPostings(token);
-
-      while(queryIterator.hasNext())
+      if (rankingType == COMBINATION)
       {
-        token = queryIterator.next();
-        PostingsList new_list = getPostings(token);
+        /// Return all documents in which at least one token exists
+        Iterator<String> queryIterator = query.terms.listIterator(0);
+        String token = queryIterator.next();
 
-        resDocIDPostings = mergeLists(resDocIDPostings, new_list);
+        HashMap<Integer, Double> scores_TF_IDF = new HashMap<Integer, Double>();
+        HashMap<Integer, Double> scores_PR = new HashMap<Integer, Double>();
+
+        PostingsList postings_TF_IDF = getPostings(token);
+        scores_TF_IDF = calculateTF_IDF(postings_TF_IDF);
+
+        PostingsList postings_PR = getPostings(token);
+        scores_PR = calculatePagerank(postings_PR);
+
+        while(queryIterator.hasNext())
+        {
+          token = queryIterator.next();
+          PostingsList new_list_TF_IDF = getPostings(token);
+          HashMap<Integer, Double> new_scores_TF_IDF =
+                                   calculateTF_IDF(new_list_TF_IDF);
+
+          scores_TF_IDF = mergeLists(scores_TF_IDF, new_scores_TF_IDF);
+
+          PostingsList new_list_PR = getPostings(token);
+          HashMap<Integer, Double> new_scores_PR =
+                                   calculatePagerank(new_list_PR);
+
+          scores_PR = mergeLists(scores_PR, new_scores_PR);
+
+        }
+        scores = mergeCombination(scores_TF_IDF, scores_PR);
+
       }
+      else
+      {
+        /// Return all documents in which at least one token exists
+        Iterator<String> queryIterator = query.terms.listIterator(0);
+        String token = queryIterator.next();
+        PostingsList postings = getPostings(token);
+        scores = getScores(postings, rankingType);
 
-      resDocIDPostings.sort();
+        while(queryIterator.hasNext())
+        {
+          token = queryIterator.next();
+          PostingsList new_list = getPostings(token);
+          HashMap<Integer, Double> new_scores = getScores(new_list, rankingType);
 
+          scores = mergeLists(scores, new_scores);
+        }
+
+      }
       /// ======================================================================
+      /// Make postingsList for scores
+      for (int doc : scores.keySet())
+      {
+        PostingsEntry entry = new PostingsEntry(doc, 0);
+        entry.score = scores.get(doc);
+        resDocIDPostings.put(doc, entry);
+      }
+      resDocIDPostings.sort();
     }
     return resDocIDPostings;
   }
 
 
-  public PostingsList mergeLists(PostingsList list_a, PostingsList list_b)
+  public HashMap<Integer, Double> mergeLists(HashMap<Integer, Double> list_a,
+                                             HashMap<Integer, Double> list_b)
   {
-    PostingsList new_list = new PostingsList();
-    Set<Integer> docs_a = list_a.keySet();
+    HashMap<Integer, Double> new_list = new HashMap<Integer, Double>();
 
-    for (int doc : docs_a)
+    for (int doc : list_a.keySet())
     {
       if (list_b.containsKey(doc))
       {
         /// Merge, add to new list and remove.
-        PostingsEntry new_entry = list_b.get(doc);
-        new_entry.score = new_entry.score + list_a.get(doc).score;
-        new_list.put(doc, new_entry);
+        new_list.put(doc, list_b.get(doc) + list_a.get(doc));
         list_b.remove(doc);
       }
       else
       {
         /// Add list_a to new list
-        PostingsEntry new_entry = list_a.get(doc);
-        new_list.put(doc, new_entry);
+        new_list.put(doc, list_a.get(doc));
       }
     }
     /// The remaining entries of list_b (if any), are added to the new list
-    Set<Integer> docs_b = list_b.keySet();
-    for (int doc : docs_b)
+    for (int doc : list_b.keySet())
     {
       /// Add list_b to new list
-      PostingsEntry new_entry = list_b.get(doc);
-      new_list.put(doc, new_entry);
+      new_list.put(doc, list_b.get(doc));
     }
 
     return new_list;
   }
 
-
-  public PostingsList calculateTF_IDF(PostingsList list)
+  public HashMap<Integer, Double> mergeCombination(HashMap<Integer, Double> list_TF_IDF,
+                                                   HashMap<Integer, Double> list_PR)
   {
-    Double n = (double) docIDs.size(); // Number of docs in corpus
-    Set<Integer> docs = list.keySet();
-    Double df = (double) list.size();
-    double idf = Math.log(n / df);
-    for (Integer doc : docs)
+    Double tf_sum = 0.0;
+    for (int doc : list_TF_IDF.keySet())
     {
-      PostingsEntry entry = list.get(doc);
-      entry.score = entry.score * idf;
+      tf_sum = tf_sum + list_TF_IDF.get(doc);
     }
 
-    return list;
+    Double pr_sum = 0.0;
+    for (int doc : list_PR.keySet())
+    {
+      pr_sum = pr_sum + list_PR.get(doc);
+    }
+
+
+    HashMap<Integer, Double> new_list = new HashMap<Integer, Double>();
+    for (int doc : list_TF_IDF.keySet())
+    {
+      // System.out.println(entry_tf.score + " " + entry_pr.score);
+
+
+      Double score = (double) TF_IDF_WEIGHT * list_TF_IDF.get(doc) / tf_sum +
+                     (double) PAGERANK_WEIGHT * list_PR.get(doc) / pr_sum;
+      new_list.put(doc, score);
+    }
+
+    return new_list;
+  }
+
+  public HashMap<Integer, Double> getScores(PostingsList list, int rankingType)
+  {
+    if (rankingType == TF_IDF)
+    {
+      return calculateTF_IDF(list);
+    }
+    else if (rankingType == PAGERANK)
+    {
+      return calculatePagerank(list);
+    }
+    HashMap<Integer, Double> new_list = new HashMap<Integer, Double>();
+    return new_list;
+  }
+
+  public HashMap<Integer, Double> calculateTF_IDF(PostingsList list)
+  {
+    Double n = (double) docIDs.size(); // Number of docs in corpus
+    Double df = (double) list.size();
+    double idf = Math.log(n / df);
+
+    HashMap<Integer, Double> scores = new HashMap<Integer, Double>();
+
+    for (Integer doc : list.keySet())
+    {
+      PostingsEntry entry = list.get(doc);
+      Double tf =
+       (double) entry.offsets.size() / (double) docLengths.get("" + doc);
+      scores.put(doc, tf * idf);
+    }
+    return scores;
+  }
+
+  public HashMap<Integer, Double> calculatePagerank(PostingsList list)
+  {
+    HashMap<Integer, Double> scores = new HashMap<Integer, Double>();
+
+    for (Integer doc : list.keySet())
+    {
+      PostingsEntry entry = list.get(doc);
+      String name = docIDs.get("" + doc);
+      if (name.endsWith(".f"))
+      {
+        name = name.substring(0, name.length() - 2);
+      }
+
+      if (pageranks.containsKey(name))
+      {
+        scores.put(doc, pageranks.get(name));
+      }
+      else
+      {
+        scores.put(doc, 0.0);
+      }
+    }
+    return scores;
   }
 
 
@@ -387,11 +587,11 @@ public class HashedIndex implements Index
 
 
   /**
-   * Save mappings file (in case of "SAVE AND QUIT")
+   * Save mappings, docIDs and docLengths file (in case of "SAVE AND QUIT")
    */
   public void saveAndQuit()
   {
-    // String filename = "index/mappings";
+    /// Save mappings
     String filename = FOLDER + "/mappings";
     try
     {
@@ -409,29 +609,43 @@ public class HashedIndex implements Index
     {
       System.err.println("Error initializing stream");
     }
-  }
-
-  /**
-   * Calculates scores of the indexed terms = tf / len_doc
-   * NO IDF!!!!!
-   */
-  public void calculateScores()
-  {
-    Set<String> tokens = index.keySet();
-    for (String token : tokens)
+    /// Save docIDs
+    filename = FOLDER + "/docIDs";
+    try
     {
-      PostingsList list = getPostings(token);
-      Set<Integer> docIds = list.keySet();
-      for (Integer doc : docIds)
-      {
-        PostingsEntry entry = list.get(doc);
-        entry.score = (double) entry.offsets.size() / (double) docLengths.get("" + doc);
-        list.put(doc, entry);
-        index.put(token, list);
-      }
+      FileOutputStream fout = new FileOutputStream(filename);
+      ObjectOutputStream oos = new ObjectOutputStream(fout);
+      oos.writeObject(docIDs);
+      oos.close();
+      fout.close();
+    }
+    catch (FileNotFoundException er)
+    {
+      System.err.println("File " + filename + " not found");
+    }
+    catch (IOException er)
+    {
+      System.err.println("Error initializing stream");
+    }
+    /// Save docLengths
+    filename = FOLDER + "/docLengths";
+    try
+    {
+      FileOutputStream fout = new FileOutputStream(filename);
+      ObjectOutputStream oos = new ObjectOutputStream(fout);
+      oos.writeObject(docLengths);
+      oos.close();
+      fout.close();
+    }
+    catch (FileNotFoundException er)
+    {
+      System.err.println("File " + filename + " not found");
+    }
+    catch (IOException er)
+    {
+      System.err.println("Error initializing stream");
     }
   }
-
 
   /**
    *  When a whole document has been indexed, the index is distributed into
@@ -511,10 +725,6 @@ public class HashedIndex implements Index
       {
         docID = Integer.parseInt(words[1]);
       }
-      else if (words[0].equals("score"))
-      {
-        score = Double.parseDouble(words[1]);
-      }
       else
       {
         for (int i = 0; i < words.length; i++)
@@ -582,7 +792,6 @@ public class HashedIndex implements Index
       for (int docID : list.keySet())
       {
         bw.write("docID " + docID + "\n");
-        bw.write("score " + list.get(docID).score + "\n");
         LinkedList<Integer> offsets = list.get(docID).offsets;
         for (int i = 0; i < offsets.size(); i++)
         {
